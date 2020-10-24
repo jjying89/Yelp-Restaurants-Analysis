@@ -383,9 +383,9 @@
                 "longitude": -82.48275
             },
             "transactions": [
-                "pickup",
                 "restaurant_reservation",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -687,7 +687,7 @@
             "id": "RUYTbsN4Vw93o9w3Ziw4ow",
             "alias": "mickey-s-subs-tampa-2",
             "name": "Mickey’s Subs",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/o4vqSbAsZhgjF6n3PUPCmg/o.jpg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8y4OUSRScx1EgkTSBVKrCg/o.jpg",
             "is_closed": false,
             "url": "https://www.yelp.com/biz/mickey-s-subs-tampa-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
             "review_count": 34,
