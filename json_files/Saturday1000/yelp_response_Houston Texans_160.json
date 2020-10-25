@@ -1,6 +1,819 @@
 {
-    "error": {
-        "code": "INTERNAL_ERROR",
-        "description": "Something went wrong internally, please try again later."
+    "businesses": [
+        {
+            "id": "Kp3EluVITwH7an-mlMBYpQ",
+            "alias": "chick-fil-a-houston-16",
+            "name": "Chick-fil-A",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wJy51fHQIk-rvQZh7v4lMA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chick-fil-a-houston-16?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 29.707939,
+                "longitude": -95.397616
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1515 Holcombe Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77030",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1515 Holcombe Blvd",
+                    "Houston, TX 77030"
+                ]
+            },
+            "phone": "+17137922646",
+            "display_phone": "(713) 792-2646",
+            "distance": 2880.0210731136704
+        },
+        {
+            "id": "cKjGqD7OSHy_vLPfT2LNRg",
+            "alias": "cypress-circle-cafe-houston",
+            "name": "Cypress Circle Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PShFXKaDlxcCeuqtqkECpQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cypress-circle-cafe-houston?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 29.7136669152043,
+                "longitude": -95.391583442688
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6200 Hermann Park Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77030",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "6200 Hermann Park Dr",
+                    "Houston, TX 77030"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3716.962711099257
+        },
+        {
+            "id": "_71hmahXFB_eJWGYYWIojQ",
+            "alias": "subway-houston-417",
+            "name": "Subway",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0dAl7Syq-PaSSA6TXFKbsg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-houston-417?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 29.6888100132259,
+                "longitude": -95.4131736323778
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "8236 Kirby Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77054",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "8236 Kirby Dr",
+                    "Houston, TX 77054"
+                ]
+            },
+            "phone": "+17136663263",
+            "display_phone": "(713) 666-3263",
+            "distance": 507.6944319030828
+        },
+        {
+            "id": "3OtifIu-Lh7m5zqnUTa4iQ",
+            "alias": "general-joe-chopstix-houston",
+            "name": "General Joe Chopstix",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/general-joe-chopstix-houston?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 29.6910376,
+                "longitude": -95.4128214
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "8130 Kirby Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77054",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "8130 Kirby Dr",
+                    "Houston, TX 77054"
+                ]
+            },
+            "phone": "+17136662619",
+            "display_phone": "(713) 666-2619",
+            "distance": 758.3516112145361
+        },
+        {
+            "id": "poh3J89BQJAG2Fsi-PcPFA",
+            "alias": "the-french-corner-houston-3",
+            "name": "The French Corner",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-french-corner-houston-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 29.6920112321443,
+                "longitude": -95.4139758634656
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1919 S Braeswood Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77030",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1919 S Braeswood Blvd",
+                    "Houston, TX 77030"
+                ]
+            },
+            "phone": "+18328242865",
+            "display_phone": "(832) 824-2865",
+            "distance": 865.5176502609281
+        },
+        {
+            "id": "z0OYEDil0IhyJn2BOJXmDg",
+            "alias": "jack-in-the-box-houston-19",
+            "name": "Jack in the Box",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WrcJS7ol4eUpNVmfV9r4Ww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-in-the-box-houston-19?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 29.6582296747891,
+                "longitude": -95.3853489
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2709 Reed Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77051",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2709 Reed Rd",
+                    "Houston, TX 77051"
+                ]
+            },
+            "phone": "+17132640832",
+            "display_phone": "(713) 264-0832",
+            "distance": 3839.2603284845986
+        },
+        {
+            "id": "doz_K0tK4ZbDn-opK_-UEg",
+            "alias": "pizza-hut-delphi-5",
+            "name": "Pizza Hut",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W4PEJMqc05B2ikIq9P5Unw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-hut-delphi-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.5836,
+                "longitude": -86.682359
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "806 Bicycle Bridge Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Delphi",
+                "zip_code": "46923",
+                "country": "US",
+                "state": "IN",
+                "display_address": [
+                    "806 Bicycle Bridge Rd",
+                    "Delphi, IN 46923"
+                ]
+            },
+            "phone": "+17655644545",
+            "display_phone": "(765) 564-4545",
+            "distance": 803.1010013932713
+        },
+        {
+            "id": "ZHZpGCnmVoLJuATXKys2Sw",
+            "alias": "lubys-etc-houston-2",
+            "name": "Luby's, etc.",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CAyXHZqkSlu1iyV9i1XPXg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lubys-etc-houston-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 29.7052438,
+                "longitude": -95.4212532
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2727 W Holcombe Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77025",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2727 W Holcombe Blvd",
+                    "Houston, TX 77025"
+                ]
+            },
+            "phone": "+17134420335",
+            "display_phone": "(713) 442-0335",
+            "distance": 2494.0346042554656
+        },
+        {
+            "id": "YANRkMFKHo6NiOTLGpDAdg",
+            "alias": "cattlemens-houston",
+            "name": "Cattlemens",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_wiEUcLh69tEi2xMjET9jw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cattlemens-houston?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 29.679899,
+                "longitude": -95.413299
+            },
+            "transactions": [],
+            "location": {
+                "address1": "8686 Kirby Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77054",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "8686 Kirby Dr",
+                    "Houston, TX 77054"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 542.28457003481
+        },
+        {
+            "id": "KMExbc1i8xoaqwDKGz3gQg",
+            "alias": "subway-houston-304",
+            "name": "Subway",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-houston-304?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 29.709431,
+                "longitude": -95.397966
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6550 Bertner Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77030",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "6550 Bertner Ave",
+                    "Houston, TX 77030"
+                ]
+            },
+            "phone": "+17137490451",
+            "display_phone": "(713) 749-0451",
+            "distance": 3015.532875093962
+        },
+        {
+            "id": "ogp6kzaJ2lzhBarLhidoFg",
+            "alias": "schlotskys-deli-houston",
+            "name": "Schlotsky's Deli",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LHgfvqVgdDx5M19erl5mvw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/schlotskys-deli-houston?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 29.692533,
+                "longitude": -95.416451
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8200 S Main St",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77025",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "8200 S Main St",
+                    "Houston, TX 77025"
+                ]
+            },
+            "phone": "+17136650011",
+            "display_phone": "(713) 665-0011",
+            "distance": 1040.4408618505113
+        },
+        {
+            "id": "4ZyNW7DFQFBsuvyNLKtPBg",
+            "alias": "subway-houston-550",
+            "name": "Subway",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xMvLVzfaF_nBF-mWmHtx0A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-houston-550?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 29.6815821669144,
+                "longitude": -95.3924501680469
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "8549 Almeda Rd",
+                "address2": "Bldg A",
+                "address3": null,
+                "city": "Houston",
+                "zip_code": "77054",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "8549 Almeda Rd",
+                    "Bldg A",
+                    "Houston, TX 77054"
+                ]
+            },
+            "phone": "+12818889086",
+            "display_phone": "(281) 888-9086",
+            "distance": 1809.8406064303756
+        },
+        {
+            "id": "5JIx8r3rCNgdbYRVVhotrg",
+            "alias": "kathrinas-cafe-roma-iii-houston",
+            "name": "Kathrina's Cafe Roma III",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kathrinas-cafe-roma-iii-houston?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 29.705711,
+                "longitude": -95.403541
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6900 Fannin St",
+                "address2": "Ste 10",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77030",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "6900 Fannin St",
+                    "Ste 10",
+                    "Houston, TX 77030"
+                ]
+            },
+            "phone": "+17137992233",
+            "display_phone": "(713) 799-2233",
+            "distance": 2450.6778156055652
+        },
+        {
+            "id": "YZl6swchSIwltxosdaPY2Q",
+            "alias": "murphys-deli-houston-86",
+            "name": "Murphy's Deli",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XqVGFXvFSak9HJKQjvh4-g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/murphys-deli-houston-86?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 29.70654,
+                "longitude": -95.40755
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "2130 W. Holcombe Blvd. #110",
+                "address2": null,
+                "address3": null,
+                "city": "Houston",
+                "zip_code": "77030",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2130 W. Holcombe Blvd. #110",
+                    "Houston, TX 77030"
+                ]
+            },
+            "phone": "+17136643354",
+            "display_phone": "(713) 664-3354",
+            "distance": 2435.9984096359076
+        },
+        {
+            "id": "yfOABig9LCSVwcCMBjUjgQ",
+            "alias": "chick-fil-a-houston-76",
+            "name": "Chick-fil-A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KiWHTO6hgUBTWRq2A9XrTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chick-fil-a-houston-76?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 29.7067672640517,
+                "longitude": -95.4023539514171
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6621 Fannin St",
+                "address2": "Foodcourt",
+                "address3": "MC2-3521",
+                "city": "Houston",
+                "zip_code": "77030",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "6621 Fannin St",
+                    "Foodcourt",
+                    "MC2-3521",
+                    "Houston, TX 77030"
+                ]
+            },
+            "phone": "+18328220305",
+            "display_phone": "(832) 822-0305",
+            "distance": 2584.5173762071254
+        },
+        {
+            "id": "RQVvBCyRe6Vt3ctRR6VRxg",
+            "alias": "crave-cafe-houston",
+            "name": "Crave Cafe",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/crave-cafe-houston?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 29.69336,
+                "longitude": -95.40296
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "7900 Fannin St",
+                "address2": "Ste 1100",
+                "address3": null,
+                "city": "Houston",
+                "zip_code": "77054",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "7900 Fannin St",
+                    "Ste 1100",
+                    "Houston, TX 77054"
+                ]
+            },
+            "phone": "+17137910707",
+            "display_phone": "(713) 791-0707",
+            "distance": 1061.0613220779037
+        },
+        {
+            "id": "HbNHlOaAmohZcACQY0Wd2w",
+            "alias": "the-marketplace-houston",
+            "name": "The Marketplace",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-marketplace-houston?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "cafeteria",
+                    "title": "Cafeteria"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 29.7083705794626,
+                "longitude": -95.3991543129086
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6565 Fannin St",
+                "address2": "",
+                "address3": "Methodists Hospital",
+                "city": "Houston",
+                "zip_code": "77030",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "6565 Fannin St",
+                    "Methodists Hospital",
+                    "Houston, TX 77030"
+                ]
+            },
+            "phone": "+17137903311",
+            "display_phone": "(713) 790-3311",
+            "distance": 2861.3445052117313
+        },
+        {
+            "id": "Xpeq0rN06xqrI58yqqg_7w",
+            "alias": "fox-grill-houston",
+            "name": "Fox Grill",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fox-grill-houston?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 29.6785793,
+                "longitude": -95.4250641
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9882 Buffalo Speedway",
+                "address2": "",
+                "address3": "",
+                "city": "Houston",
+                "zip_code": "77025",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "9882 Buffalo Speedway",
+                    "Houston, TX 77025"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1558.3111500900359
+        },
+        {
+            "id": "tjGpIlqL-69NJaNrCO5SwQ",
+            "alias": "subway-houston-392",
+            "name": "Subway",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Jyp09NLv_jg1LeugU5RYjQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-houston-392?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 29.6798535366164,
+                "longitude": -95.4244074539785
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "9569 S Main St",
+                "address2": "Unit 110",
+                "address3": null,
+                "city": "Houston",
+                "zip_code": "77025",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "9569 S Main St",
+                    "Unit 110",
+                    "Houston, TX 77025"
+                ]
+            },
+            "phone": "+18327671216",
+            "display_phone": "(832) 767-1216",
+            "distance": 1418.6963173017803
+        },
+        {
+            "id": "_vq_58tSBPVhVNCl3FhK2g",
+            "alias": "quiznos-houston-68",
+            "name": "Quiznos",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/A2LLgmcod8kUcSOD5FAmWQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/quiznos-houston-68?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 29.6774216741323,
+                "longitude": -95.4121110588312
+            },
+            "transactions": [],
+            "location": {
+                "address1": "8701 Kirby Dr",
+                "address2": null,
+                "address3": null,
+                "city": "Houston",
+                "zip_code": "77054",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "8701 Kirby Dr",
+                    "Houston, TX 77054"
+                ]
+            },
+            "phone": "+18326672515",
+            "display_phone": "(832) 667-2515",
+            "distance": 173.11420416714705
+        }
+    ],
+    "total": 180,
+    "region": {
+        "center": {
+            "longitude": -95.410833,
+            "latitude": 29.684721999999997
+        }
     }
 }
