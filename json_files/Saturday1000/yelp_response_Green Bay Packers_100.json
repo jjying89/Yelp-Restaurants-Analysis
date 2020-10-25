@@ -1,0 +1,881 @@
+{
+    "businesses": [
+        {
+            "id": "0-aYd_-VYEZrd3LlFGvCHg",
+            "alias": "taco-bell-green-bay-9",
+            "name": "Taco Bell",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_Js9VYE8Wk4L9PgC3necXw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-green-bay-9?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.523227,
+                "longitude": -88.062559
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1529 W Mason St",
+                "address2": "",
+                "address3": "",
+                "city": "Green Bay",
+                "zip_code": "54303",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "1529 W Mason St",
+                    "Green Bay, WI 54303"
+                ]
+            },
+            "phone": "+19204941143",
+            "display_phone": "(920) 494-1143",
+            "distance": 2428.4191391146387
+        },
+        {
+            "id": "AZIE9rydp_HTT4_7KaBc5g",
+            "alias": "taco-bell-ashwaubenon",
+            "name": "Taco Bell",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZE4HP-uCr5ovl-sfHrNxng/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-ashwaubenon?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 44.484512,
+                "longitude": -88.067998
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2404 S Oneida Street",
+                "address2": "",
+                "address3": "",
+                "city": "Ashwaubenon",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "2404 S Oneida Street",
+                    "Ashwaubenon, WI 54304"
+                ]
+            },
+            "phone": "+19204999992",
+            "display_phone": "(920) 499-9992",
+            "distance": 1931.749928855945
+        },
+        {
+            "id": "rQ12hb5xEOCCkIBAc2Q4FQ",
+            "alias": "mcdonalds-green-bay-7",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TiCjQ_P3xu0KjJG9fJlaMg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-green-bay-7?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.5296172679539,
+                "longitude": -88.0605871975422
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1587 Shawano Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Green Bay",
+                "zip_code": "54303",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "1587 Shawano Ave",
+                    "Green Bay, WI 54303"
+                ]
+            },
+            "phone": "+19204944472",
+            "display_phone": "(920) 494-4472",
+            "distance": 3141.5119806885527
+        },
+        {
+            "id": "UcG3MF6FJqiRykyPYXAyuw",
+            "alias": "sbarro-green-bay",
+            "name": "Sbarro",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sbarro-green-bay?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 44.4847975648094,
+                "longitude": -88.0660183020885
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "303 Bay Park Sq",
+                "address2": "",
+                "address3": "",
+                "city": "Green Bay",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "303 Bay Park Sq",
+                    "Green Bay, WI 54304"
+                ]
+            },
+            "phone": "+19204979925",
+            "display_phone": "(920) 497-9925",
+            "distance": 1869.2940312700985
+        },
+        {
+            "id": "J-CzbIgRrKxiSsOiHez5kw",
+            "alias": "arbys-green-bay-3",
+            "name": "Arby's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VwpcgviZdVUDa3zMc45acw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/arbys-green-bay-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 44.52381,
+                "longitude": -88.06518
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1593 W Mason St",
+                "address2": null,
+                "address3": null,
+                "city": "Green Bay",
+                "zip_code": "54303",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "1593 W Mason St",
+                    "Green Bay, WI 54303"
+                ]
+            },
+            "phone": "+19204993451",
+            "display_phone": "(920) 499-3451",
+            "distance": 2497.973940939583
+        },
+        {
+            "id": "c7xXVGG32HxMnXmQT7jZ5w",
+            "alias": "subway-green-bay-46",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7RAgTF_CJQpjH3F1h9KnHg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-green-bay-46?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 44.4700345889609,
+                "longitude": -88.0765710802086
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2863 S Oneida St",
+                "address2": null,
+                "address3": null,
+                "city": "Green Bay",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "2863 S Oneida St",
+                    "Green Bay, WI 54304"
+                ]
+            },
+            "phone": "+19209640227",
+            "display_phone": "(920) 964-0227",
+            "distance": 3667.566638419238
+        },
+        {
+            "id": "O-__1PQMrm1eAhDv_Rf4ow",
+            "alias": "mr-golf-green-bay",
+            "name": "Mr Golf",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mr-golf-green-bay?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 44.5168725,
+                "longitude": -88.0453222
+            },
+            "transactions": [],
+            "location": {
+                "address1": "712 Redwood Dr",
+                "address2": null,
+                "address3": null,
+                "city": "Green Bay",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "712 Redwood Dr",
+                    "Green Bay, WI 54304"
+                ]
+            },
+            "phone": "+19204991590",
+            "display_phone": "(920) 499-1590",
+            "distance": 2171.702337312115
+        },
+        {
+            "id": "cMXkHAjpS4789Ae_wV7bIg",
+            "alias": "charleys-steakery-green-bay",
+            "name": "Charley's Steakery",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/charleys-steakery-green-bay?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 44.4839897,
+                "longitude": -88.0654907
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2401 S Oneida St",
+                "address2": "",
+                "address3": "",
+                "city": "Green Bay",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "2401 S Oneida St",
+                    "Green Bay, WI 54304"
+                ]
+            },
+            "phone": "+19204983069",
+            "display_phone": "(920) 498-3069",
+            "distance": 2144.490622332086
+        },
+        {
+            "id": "iR3oj6EGfXhLxOVWjW56lg",
+            "alias": "charleys-philly-steaks-green-bay",
+            "name": "Charleys Philly Steaks",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dMbqkylys613ySoylkayLA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/charleys-philly-steaks-green-bay?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "cheesesteaks",
+                    "title": "Cheesesteaks"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 44.4853545,
+                "longitude": -88.0649851
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "205 Bay Park Sq",
+                "address2": null,
+                "address3": null,
+                "city": "Green Bay",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "205 Bay Park Sq",
+                    "Green Bay, WI 54304"
+                ]
+            },
+            "phone": "+19204983069",
+            "display_phone": "(920) 498-3069",
+            "distance": 1903.2095333278446
+        },
+        {
+            "id": "nqg5jWf80Qff8abC8ER7Ow",
+            "alias": "burger-king-ashwaubenon",
+            "name": "Burger King",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1pzSWCu0pq-tUT73f7ocKg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-ashwaubenon?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.485345,
+                "longitude": -88.068738
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2430 South Oneida Street",
+                "address2": null,
+                "address3": null,
+                "city": "Ashwaubenon",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "2430 South Oneida Street",
+                    "Ashwaubenon, WI 54304"
+                ]
+            },
+            "phone": "+19204978090",
+            "display_phone": "(920) 497-8090",
+            "distance": 1863.3481001992207
+        },
+        {
+            "id": "OnrYaGJ5vl8EoEI2ewJikw",
+            "alias": "kfc-ashwaubenon-2",
+            "name": "KFC",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tKH6Pt-Wu3Tn9SeXA5fu9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kfc-ashwaubenon-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 44.4887293810671,
+                "longitude": -88.0660591551733
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2314 South Oneida",
+                "address2": "",
+                "address3": "",
+                "city": "Ashwaubenon",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "2314 South Oneida",
+                    "Ashwaubenon, WI 54304"
+                ]
+            },
+            "phone": "+19204969400",
+            "display_phone": "(920) 496-9400",
+            "distance": 1440.2091692404335
+        },
+        {
+            "id": "5PZhksSkK2l3FKjWaZhe1g",
+            "alias": "kfc-green-bay",
+            "name": "KFC",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IpTlG7gUjx4HJj7cITXhYQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kfc-green-bay?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 44.5300600770555,
+                "longitude": -88.0617148104334
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1609 W Shawano",
+                "address2": "",
+                "address3": "",
+                "city": "Green Bay",
+                "zip_code": "54303",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "1609 W Shawano",
+                    "Green Bay, WI 54303"
+                ]
+            },
+            "phone": "+19204993152",
+            "display_phone": "(920) 499-3152",
+            "distance": 3188.3283941602594
+        },
+        {
+            "id": "SCYxBOEfkwgnFvLfTWHJ8A",
+            "alias": "little-caesars-pizza-green-bay-2",
+            "name": "Little Caesar's Pizza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jvFlo7zXg_J32feG_mCKHg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-caesars-pizza-green-bay-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 44.52512,
+                "longitude": -88.0873
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2262 W Mason St",
+                "address2": null,
+                "address3": null,
+                "city": "Green Bay",
+                "zip_code": "54303",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "2262 W Mason St",
+                    "Green Bay, WI 54303"
+                ]
+            },
+            "phone": "+19209651056",
+            "display_phone": "(920) 965-1056",
+            "distance": 3315.2985115937745
+        },
+        {
+            "id": "ZvmgZ80sqPb8m9I7kowC_w",
+            "alias": "pizza-hut-green-bay-4",
+            "name": "Pizza Hut",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RXiod-XbiQV4WuWZKvygdw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-hut-green-bay-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.5248692935739,
+                "longitude": -88.0794230103492
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1012 S Taylor St",
+                "address2": "Pizza Hut  256",
+                "address3": null,
+                "city": "Green Bay",
+                "zip_code": "54303",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "1012 S Taylor St",
+                    "Pizza Hut  256",
+                    "Green Bay, WI 54303"
+                ]
+            },
+            "phone": "+19204971745",
+            "display_phone": "(920) 497-1745",
+            "distance": 2945.666885646539
+        },
+        {
+            "id": "795MZJET4fBQIRm78g2cNw",
+            "alias": "stir-fry-88-green-bay",
+            "name": "Stir Fry 88",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dPx_ono0hALZRFvwN12pyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/stir-fry-88-green-bay?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 44.535604030473,
+                "longitude": -88.0409973487258
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "210 Bay Park Sq",
+                "address2": "",
+                "address3": null,
+                "city": "Green Bay",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "210 Bay Park Sq",
+                    "Green Bay, WI 54304"
+                ]
+            },
+            "phone": "+18133259805",
+            "display_phone": "(813) 325-9805",
+            "distance": 4160.078047613483
+        },
+        {
+            "id": "L58JdOkDBnveURN_U2R_fg",
+            "alias": "siam-palace-green-bay",
+            "name": "Siam Palace",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sm1Wko_mtTldDPRTizl81w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/siam-palace-green-bay?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.5251986812526,
+                "longitude": -88.0633310973644
+            },
+            "transactions": [],
+            "location": {
+                "address1": "418 S Military Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Green Bay",
+                "zip_code": "54303",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "418 S Military Ave",
+                    "Green Bay, WI 54303"
+                ]
+            },
+            "phone": "+19204991819",
+            "display_phone": "(920) 499-1819",
+            "distance": 2648.9730043267186
+        },
+        {
+            "id": "b2KDfCQrIPYB28EwbTlO-g",
+            "alias": "a-and-w-restaurant-green-bay-2",
+            "name": "A&W Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eohJFC9xYTAahzB-dqw00g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/a-and-w-restaurant-green-bay-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.5020006793279,
+                "longitude": -88.065745
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "217 Bay Park Sq",
+                "address2": "",
+                "address3": "",
+                "city": "Green Bay",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "217 Bay Park Sq",
+                    "Green Bay, WI 54304"
+                ]
+            },
+            "phone": "+19204908563",
+            "display_phone": "(920) 490-8563",
+            "distance": 287.55961952386826
+        },
+        {
+            "id": "Kg_hps-KkS1ywX6GRUat_g",
+            "alias": "long-john-silvers-ashwaubenon",
+            "name": "Long John Silver's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S9c1Z217C1nOBJMelWBfdg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/long-john-silvers-ashwaubenon?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 44.48888,
+                "longitude": -88.06632
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2314 South Oneida",
+                "address2": null,
+                "address3": null,
+                "city": "Ashwaubenon",
+                "zip_code": "54304",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "2314 South Oneida",
+                    "Ashwaubenon, WI 54304"
+                ]
+            },
+            "phone": "+19204969400",
+            "display_phone": "(920) 496-9400",
+            "distance": 1435.0966368925622
+        },
+        {
+            "id": "qNsKN17CHhkut63-VEL4hA",
+            "alias": "subway-green-bay-54",
+            "name": "Subway",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KVsEVUNr9tdEkCfcNwPX5Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-green-bay-54?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 44.515098656794,
+                "longitude": -88.0402158404465
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1007 W Mason St",
+                "address2": null,
+                "address3": null,
+                "city": "Green Bay",
+                "zip_code": "54303",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "1007 W Mason St",
+                    "Green Bay, WI 54303"
+                ]
+            },
+            "phone": "+19205440752",
+            "display_phone": "(920) 544-0752",
+            "distance": 2317.1417413355884
+        },
+        {
+            "id": "M6nAOcHTFMzjWCoNlNr3Bw",
+            "alias": "erbert-and-gerberts-sandwich-shop-green-bay-3",
+            "name": "Erbert and Gerbert's Sandwich Shop",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a_WVtcybXEQ6aArkCNM1nQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/erbert-and-gerberts-sandwich-shop-green-bay-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 44.5247,
+                "longitude": -88.08836
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "2370 West Mason St",
+                "address2": null,
+                "address3": null,
+                "city": "Green Bay",
+                "zip_code": "54303",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "2370 West Mason St",
+                    "Green Bay, WI 54303"
+                ]
+            },
+            "phone": "+19208579196",
+            "display_phone": "(920) 857-9196",
+            "distance": 3314.240906920197
+        }
+    ],
+    "total": 120,
+    "region": {
+        "center": {
+            "longitude": -88.06222199999999,
+            "latitude": 44.501389
+        }
+    }
+}

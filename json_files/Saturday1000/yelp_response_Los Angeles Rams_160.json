@@ -1,0 +1,882 @@
+{
+    "businesses": [
+        {
+            "id": "S2j8kjw0TRVlj4-6eq1sWQ",
+            "alias": "tacos-el-gordo-inglewood",
+            "name": "Tacos El Gordo",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vpUiaRgx3AgCJ2Sh1iR7RQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tacos-el-gordo-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.9415968616112,
+                "longitude": -118.35251056165
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "104TH And Hawthorne Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Inglewood",
+                "zip_code": "90301",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "104TH And Hawthorne Blvd",
+                    "Inglewood, CA 90301"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1801.2787089478024
+        },
+        {
+            "id": "u_lXXcFdbJdQF4Gb5nKAdA",
+            "alias": "papa-johns-pizza-los-angeles-28",
+            "name": "Papa John's Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kiWyvZC8ox_nqDGMJ0bzXw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/papa-johns-pizza-los-angeles-28?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 33.979996,
+                "longitude": -118.330351
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "6520 Crenshaw Blvd.",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90043",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6520 Crenshaw Blvd.",
+                    "Los Angeles, CA 90043"
+                ]
+            },
+            "phone": "+13237527272",
+            "display_phone": "(323) 752-7272",
+            "distance": 3062.506390004338
+        },
+        {
+            "id": "nWnjFAYF0jr2f0cG2DfMuw",
+            "alias": "moshi-moshi-mambo-hawthorne",
+            "name": "Moshi Moshi Mambo",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OsgYWlwGVzH6OFhBE4Ah5g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/moshi-moshi-mambo-hawthorne?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "cuban",
+                    "title": "Cuban"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 33.9302609677638,
+                "longitude": -118.353006206453
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "11433 Hawthorne Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Hawthorne",
+                "zip_code": "90250",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "11433 Hawthorne Blvd",
+                    "Hawthorne, CA 90250"
+                ]
+            },
+            "phone": "+14244564765",
+            "display_phone": "(424) 456-4765",
+            "distance": 2875.88175576099
+        },
+        {
+            "id": "RbzIzcCzqkrAU5-vK2f0nA",
+            "alias": "huli-huli-hawaiian-grill-hawthorne",
+            "name": "Huli Huli Hawaiian Grill",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GHwjX7CS6oS_HI3O8g4RaA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/huli-huli-hawaiian-grill-hawthorne?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 62,
+            "categories": [
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.9296496659517,
+                "longitude": -118.352431878448
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "11540 Hawthorne Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Hawthorne",
+                "zip_code": "90250",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "11540 Hawthorne Blvd",
+                    "Hawthorne, CA 90250"
+                ]
+            },
+            "phone": "+13106757735",
+            "display_phone": "(310) 675-7735",
+            "distance": 2904.407135218612
+        },
+        {
+            "id": "YZPnfGY0eGY0zZmL4fBA5w",
+            "alias": "brunos-burgers-inglewood",
+            "name": "Bruno's Burgers",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wDVMPNLbJm1xAGrI85rvSw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brunos-burgers-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 45,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.9616,
+                "longitude": -118.34936
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "450 E Manchester Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Inglewood",
+                "zip_code": "90301",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "450 E Manchester Blvd",
+                    "Inglewood, CA 90301"
+                ]
+            },
+            "phone": "+13106734949",
+            "display_phone": "(310) 673-4949",
+            "distance": 1300.2495454647833
+        },
+        {
+            "id": "WHjq8_HYh0h6wEeiI6TbHA",
+            "alias": "q-hawaiian-bbq-inglewood",
+            "name": "Q Hawaiian BBQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oPdPbL7me-bBLHW-p3db1Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/q-hawaiian-bbq-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 69,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.9448205,
+                "longitude": -118.3346786
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3550 W Century Blvd",
+                "address2": "Ste 105",
+                "address3": "",
+                "city": "Inglewood",
+                "zip_code": "90303",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3550 W Century Blvd",
+                    "Ste 105",
+                    "Inglewood, CA 90303"
+                ]
+            },
+            "phone": "+13106715168",
+            "display_phone": "(310) 671-5168",
+            "distance": 1046.2696693461517
+        },
+        {
+            "id": "T7_DJOtzOJc9otwVqqgDdA",
+            "alias": "donut-star-inglewood-2",
+            "name": "Donut Star",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/r6uVZqhJSLV47cdJlG0vcg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/donut-star-inglewood-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 33.953059,
+                "longitude": -118.359601
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "305 W Arbor Vitae St",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Inglewood",
+                "zip_code": "90301",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "305 W Arbor Vitae St",
+                    "Ste A",
+                    "Inglewood, CA 90301"
+                ]
+            },
+            "phone": "+13106719738",
+            "display_phone": "(310) 671-9738",
+            "distance": 1882.1959692744156
+        },
+        {
+            "id": "HwTv2sTZDYjHxT9AS-MUSA",
+            "alias": "the-wood-urban-kitchen-and-sports-lounge-inglewood",
+            "name": "The Wood Urban Kitchen & Sports Lounge",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zw5DV_YgfA_aav-jamedLA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-wood-urban-kitchen-and-sports-lounge-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.96362,
+                "longitude": -118.352275
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "129 N Market St",
+                "address2": "",
+                "address3": null,
+                "city": "Inglewood",
+                "zip_code": "90301",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "129 N Market St",
+                    "Inglewood, CA 90301"
+                ]
+            },
+            "phone": "+13104669741",
+            "display_phone": "(310) 466-9741",
+            "distance": 1650.3608794581746
+        },
+        {
+            "id": "W7R1wdwpN4lv7XG1oGl0Lw",
+            "alias": "acajutla-restaurant-y-pupuseria-inglewood",
+            "name": "Acajutla Restaurant Y Pupuseria",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/55mCLCdmI_hq7Dx6dockiA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/acajutla-restaurant-y-pupuseria-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "salvadoran",
+                    "title": "Salvadoran"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.9519244187427,
+                "longitude": -118.352700835451
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "933 S La Brea Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Inglewood",
+                "zip_code": "90301",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "933 S La Brea Ave",
+                    "Inglewood, CA 90301"
+                ]
+            },
+            "phone": "+13106721377",
+            "display_phone": "(310) 672-1377",
+            "distance": 1256.7641594441054
+        },
+        {
+            "id": "4jWNaLV2sr_kM3AO9hyVKw",
+            "alias": "fatburger-inglewood",
+            "name": "Fatburger",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2o9_OtgOenOVjJy-U96v8w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fatburger-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 90,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 33.959638,
+                "longitude": -118.326307
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3020 Manchester Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Inglewood",
+                "zip_code": "90305",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3020 Manchester Blvd",
+                    "Inglewood, CA 90305"
+                ]
+            },
+            "phone": "+13239718592",
+            "display_phone": "(323) 971-8592",
+            "distance": 1373.8668169924476
+        },
+        {
+            "id": "I8TsThqoj_dg3dbDymsX6A",
+            "alias": "five-guys-inglewood",
+            "name": "Five Guys",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aNq_syO_R9OiuAawpqJA9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/five-guys-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.9307651,
+                "longitude": -118.3261172
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2942 W Imperial Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "Inglewood",
+                "zip_code": "90303",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2942 W Imperial Hwy",
+                    "Inglewood, CA 90303"
+                ]
+            },
+            "phone": "+13233648759",
+            "display_phone": "(323) 364-8759",
+            "distance": 2832.5908361322668
+        },
+        {
+            "id": "bSzxPyXAUXBWE54LIMN9Sw",
+            "alias": "panda-express-inglewood",
+            "name": "Panda Express",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zIMzVOcYEcA1moa6MQugnQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/panda-express-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 72,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.94593,
+                "longitude": -118.3311
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3351 W Century Blvd",
+                "address2": "Space 101",
+                "address3": "",
+                "city": "Inglewood",
+                "zip_code": "90303",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3351 W Century Blvd",
+                    "Space 101",
+                    "Inglewood, CA 90303"
+                ]
+            },
+            "phone": "+13106732117",
+            "display_phone": "(310) 673-2117",
+            "distance": 1114.846269970046
+        },
+        {
+            "id": "-LzG9eWCiFRvJEQ8fHhL4Q",
+            "alias": "ms-bs-m-and-ms-soul-food-inglewood",
+            "name": "Ms. B's M & M's Soul Food",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_5DfIvnpQ2XUGlJ7yTLJsw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ms-bs-m-and-ms-soul-food-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 36,
+            "categories": [
+                {
+                    "alias": "soulfood",
+                    "title": "Soul Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.9311431,
+                "longitude": -118.356536
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4549 W Imperial Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "Inglewood",
+                "zip_code": "90304",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4549 W Imperial Hwy",
+                    "Inglewood, CA 90304"
+                ]
+            },
+            "phone": "+13103302697",
+            "display_phone": "(310) 330-2697",
+            "distance": 2951.249806820892
+        },
+        {
+            "id": "cDmHab2ns8qPmb1qzPAbVQ",
+            "alias": "ihop-inglewood-2",
+            "name": "IHOP",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M4XDDg7oFVmpvCvzMknHPQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ihop-inglewood-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 126,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 33.945519,
+                "longitude": -118.353381
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4410 Century Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Inglewood",
+                "zip_code": "90304",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4410 Century Blvd",
+                    "Inglewood, CA 90304"
+                ]
+            },
+            "phone": "+13108447196",
+            "display_phone": "(310) 844-7196",
+            "distance": 1577.5651181414971
+        },
+        {
+            "id": "tlBwuY49ALFcIPA21Im20Q",
+            "alias": "yoshinoya-inglewood-inglewood",
+            "name": "Yoshinoya Inglewood",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Yys7on8T3w7wbBXvXDvGNQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yoshinoya-inglewood-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.9447368,
+                "longitude": -118.3528661
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "10025 Hawthorne Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Inglewood",
+                "zip_code": "90304",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "10025 Hawthorne Blvd",
+                    "Inglewood, CA 90304"
+                ]
+            },
+            "phone": "+13106779543",
+            "display_phone": "(310) 677-9543",
+            "distance": 1589.8756803346619
+        },
+        {
+            "id": "Tjo30gcdTNd1nVunbphYIQ",
+            "alias": "the-flame-broiler-inglewood",
+            "name": "The Flame Broiler",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/e3PXcokvEY6vVygSKTPmtw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-flame-broiler-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.9454568,
+                "longitude": -118.3305239
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3384 W Century Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Inglewood",
+                "zip_code": "90303",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3384 W Century Blvd",
+                    "Inglewood, CA 90303"
+                ]
+            },
+            "phone": "+13104120786",
+            "display_phone": "(310) 412-0786",
+            "distance": 1196.0000223909183
+        },
+        {
+            "id": "rLCCRYMvrgwbAQ04kwOMuw",
+            "alias": "hong-kong-express-los-angeles-3",
+            "name": "Hong Kong Express",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q-NsNRw70HIIopYdeUmIuQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hong-kong-express-los-angeles-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 46,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.974182382359,
+                "longitude": -118.330426846627
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3330 W Florence Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90043",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3330 W Florence Ave",
+                    "Los Angeles, CA 90043"
+                ]
+            },
+            "phone": "+13237782828",
+            "display_phone": "(323) 778-2828",
+            "distance": 2443.1936275685316
+        },
+        {
+            "id": "7tC1S3HzQ70J7Z8keB8l3A",
+            "alias": "pepes-tacos-inglewood",
+            "name": "Pepe's Tacos",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pLaCL_wIyfdHrXufc0gJaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pepes-tacos-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 33.944758489851,
+                "longitude": -118.3616823295
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "10023 S Inglewood Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Inglewood",
+                "zip_code": "90304",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "10023 S Inglewood Ave",
+                    "Inglewood, CA 90304"
+                ]
+            },
+            "phone": "+13106720390",
+            "display_phone": "(310) 672-0390",
+            "distance": 2287.911050892925
+        },
+        {
+            "id": "7NUNpIO1ES_9myGc3-_TQg",
+            "alias": "golden-phoenix-hawthorne",
+            "name": "Golden Phoenix",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9a8QQJSAsJtvcOGCgMW7Nw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/golden-phoenix-hawthorne?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 130,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 33.9231917,
+                "longitude": -118.3528764
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "12033 Hawthorne Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Hawthorne",
+                "zip_code": "90250",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "12033 Hawthorne Blvd",
+                    "Hawthorne, CA 90250"
+                ]
+            },
+            "phone": "+13106751668",
+            "display_phone": "(310) 675-1668",
+            "distance": 3619.8400179208006
+        },
+        {
+            "id": "eanK1vwNYQ_dZqHJ-uwKgg",
+            "alias": "ilobasco-restaurant-inglewood",
+            "name": "Ilobasco Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kEOGWUZ-kMEPXD3RnECULg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ilobasco-restaurant-inglewood?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "salvadoran",
+                    "title": "Salvadoran"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.9447315388174,
+                "longitude": -118.361011988266
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "10022 S Inglewood Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Inglewood",
+                "zip_code": "90304",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "10022 S Inglewood Ave",
+                    "Inglewood, CA 90304"
+                ]
+            },
+            "phone": "+13106716295",
+            "display_phone": "(310) 671-6295",
+            "distance": 2233.3185852641454
+        }
+    ],
+    "total": 293,
+    "region": {
+        "center": {
+            "longitude": -118.3392,
+            "latitude": 33.95345
+        }
+    }
+}

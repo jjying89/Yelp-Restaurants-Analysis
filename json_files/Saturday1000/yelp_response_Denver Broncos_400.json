@@ -1,0 +1,874 @@
+{
+    "businesses": [
+        {
+            "id": "AipuVcC1Igdmt5klNE65cA",
+            "alias": "china-dragon-denver",
+            "name": "China Dragon",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lIEHh_3OEvkSDbp5olqgQg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/china-dragon-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 64,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.76969,
+                "longitude": -105.00265
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1329 W 38th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1329 W 38th Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13034771668",
+            "display_phone": "(303) 477-1668",
+            "distance": 3519.606946994477
+        },
+        {
+            "id": "Wq2H5shSjoDvc5fckjcDcA",
+            "alias": "taqueria-mexico-denver-2",
+            "name": "Taqueria Mexico",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oVHR8jQCcX1BZckzteB4Kg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taqueria-mexico-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.74019,
+                "longitude": -105.03729
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3800 W Colfax Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3800 W Colfax Ave",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+13035950085",
+            "display_phone": "(303) 595-0085",
+            "distance": 1495.7486224198217
+        },
+        {
+            "id": "o3a6lBPlW7Wh_bjPQDGk9w",
+            "alias": "kale-me-crazy-denver",
+            "name": "Kale Me Crazy",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EPLKmev_txQYB8IiCGv7dA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kale-me-crazy-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 48,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "wraps",
+                    "title": "Wraps"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.76271,
+                "longitude": -105.03471
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3231 Lowell Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3231 Lowell Blvd",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13037289599",
+            "display_phone": "(303) 728-9599",
+            "distance": 2730.5530545342176
+        },
+        {
+            "id": "r9w3hm2LTodzYSIlWAl86Q",
+            "alias": "boar-and-castle-mobile-eatery-denver-2",
+            "name": "Boar & Castle Mobile Eatery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zaXJ5lvFUJKmKorhM56YHQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/boar-and-castle-mobile-eatery-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.74868,
+                "longitude": -104.99454
+            },
+            "transactions": [],
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+16207571942",
+            "display_phone": "(620) 757-1942",
+            "distance": 2212.538432255322
+        },
+        {
+            "id": "QllMTki7YCip2IWvFeDM3g",
+            "alias": "breckenridge-brewery-mountain-house-restaurant-denver",
+            "name": "Breckenridge Brewery Mountain House Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vgsbPngspmzYcHbMwWvH8g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/breckenridge-brewery-mountain-house-restaurant-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 129,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7473921,
+                "longitude": -105.0081147
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1000 Chopper Cir",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1000 Chopper Cir",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+13034056090",
+            "display_phone": "(303) 405-6090",
+            "distance": 1324.9597471920893
+        },
+        {
+            "id": "OlhaoBqom_jV4DFEq0tM0A",
+            "alias": "three-dogs-tavern-denver",
+            "name": "Three Dogs Tavern",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yz5MT7YjLxBmb-dQAvsQTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/three-dogs-tavern-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 148,
+            "categories": [
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.76187,
+                "longitude": -105.03205
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3390 W 32nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3390 W 32nd Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17208541277",
+            "display_phone": "(720) 854-1277",
+            "distance": 2545.9340943369657
+        },
+        {
+            "id": "wdlBOc7A3Qz_iYgIaH2EWQ",
+            "alias": "papa-murphys-denver-11",
+            "name": "Papa Murphy's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/istKOabw2GGpAqqd-CdFGQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/papa-murphys-denver-11?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.7761001586914,
+                "longitude": -105.035652160645
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "3698 W 44th Ave",
+                "address2": "Unit A",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3698 W 44th Ave",
+                    "Unit A",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17208553800",
+            "display_phone": "(720) 855-3800",
+            "distance": 4134.303488143939
+        },
+        {
+            "id": "vup0y2zJQqYHMmANW-i5WQ",
+            "alias": "new-china-kitchen-denver",
+            "name": "New China Kitchen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_Z6rc5L5zVXIPcnEKi0eKQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/new-china-kitchen-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.72089,
+                "longitude": -105.02468
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "250 Federal Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80219",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "250 Federal Blvd",
+                    "Denver, CO 80219"
+                ]
+            },
+            "phone": "+13039355356",
+            "display_phone": "(303) 935-5356",
+            "distance": 2293.9079235368713
+        },
+        {
+            "id": "upHT2ZgyDXqMY_kG6q_vWQ",
+            "alias": "anthonys-pizza-and-pasta-denver-10",
+            "name": "Anthony's Pizza and Pasta",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oOslG7-0QyKQ4r6tq8x0tA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/anthonys-pizza-and-pasta-denver-10?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 123,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7521789371967,
+                "longitude": -105.001389831305
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1780 16th St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1780 16th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13036230805",
+            "display_phone": "(303) 623-0805",
+            "distance": 1988.3285296944032
+        },
+        {
+            "id": "sf1Z7G1utf1cu_PCmJqSwQ",
+            "alias": "chilis-denver-8",
+            "name": "Chili's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aTk15FIBvHviAzVussfK0A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chilis-denver-8?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 134,
+            "categories": [
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7467566027508,
+                "longitude": -104.994003495865
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "951 16th St",
+                "address2": "Ste 105",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "951 16th St",
+                    "Ste 105",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17209048822",
+            "display_phone": "(720) 904-8822",
+            "distance": 2288.369062956152
+        },
+        {
+            "id": "BZpxKF_xoUtw5Gp4zcCF2w",
+            "alias": "snarf-s-sandwiches-denver",
+            "name": "Snarf’s Sandwiches",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jMwCBXQBFs9o_qcHHRxpVA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/snarf-s-sandwiches-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.754122,
+                "longitude": -105.025631
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "2527 Federal Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2527 Federal Blvd",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13037024444",
+            "display_phone": "(303) 702-4444",
+            "distance": 1544.695396723878
+        },
+        {
+            "id": "5z50MLG1tdsRM7gaNvGZyg",
+            "alias": "adobo-food-truck-denver-9",
+            "name": "Adobo Food Truck",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i2Zi2EumF6fULS9ruR2u5Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/adobo-food-truck-denver-9?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "filipino",
+                    "title": "Filipino"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.7644233703613,
+                "longitude": -105.016609191895
+            },
+            "transactions": [],
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17204805898",
+            "display_phone": "(720) 480-5898",
+            "distance": 3230.6778708883676
+        },
+        {
+            "id": "2NfKspVcjMhMyR3O7B0zBg",
+            "alias": "saucy-s-southern-bbq-and-cuisine-denver",
+            "name": "Saucy’s Southern BBQ & Cuisine",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-cLW3RtbcUFLCWPWiCAv9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/saucy-s-southern-bbq-and-cuisine-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.711473,
+                "longitude": -105.024565
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2949 West Alameda Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80219",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2949 West Alameda Ave",
+                    "Denver, CO 80219"
+                ]
+            },
+            "phone": "+16019403809",
+            "display_phone": "(601) 940-3809",
+            "distance": 3309.1475103009893
+        },
+        {
+            "id": "dR5nMXfJV9XY8RooItIdrQ",
+            "alias": "kevin-taylors-at-the-opera-house-denver-2",
+            "name": "Kevin Taylor's at the Opera House",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kfHgmzc8u3etl5sEhhS9ug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kevin-taylors-at-the-opera-house-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 52,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7442023,
+                "longitude": -104.997187
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "1345 Champa St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1345 Champa St",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+13036401012",
+            "display_phone": "(303) 640-1012",
+            "distance": 1943.4300564139637
+        },
+        {
+            "id": "khGook-ivF2pwlv32N4wCQ",
+            "alias": "smashburger-denver-13",
+            "name": "Smashburger",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4RMwLgzBxHm2TgshNOizmQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/smashburger-denver-13?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 154,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.74874,
+                "longitude": -104.99659
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1201 16th St",
+                "address2": "Ste 106",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1201 16th St",
+                    "Ste 106",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17202925121",
+            "display_phone": "(720) 292-5121",
+            "distance": 2141.048529981041
+        },
+        {
+            "id": "Ff655eRrpZIn1J4jjYSbJw",
+            "alias": "mazevo-mediterranean-eatery-denver",
+            "name": "Mazevo Mediterranean Eatery",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PKU6kd0yKNqAc23YX0D5BA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mazevo-mediterranean-eatery-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.77221,
+                "longitude": -105.04432
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3961 Tennyson St",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80212",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3961 Tennyson St",
+                    "Denver, CO 80212"
+                ]
+            },
+            "phone": "+13039558256",
+            "display_phone": "(303) 955-8256",
+            "distance": 4062.0232631685562
+        },
+        {
+            "id": "SeYUNIIf5D-Nz715rAJjig",
+            "alias": "heidis-brooklyn-deli-denver-2",
+            "name": "Heidi's Brooklyn Deli",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/My5dvANvkiPHVXMfttJouQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/heidis-brooklyn-deli-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 57,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7502593994141,
+                "longitude": -104.995162963867
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1225 17th St",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1225 17th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17202144728",
+            "display_phone": "(720) 214-4728",
+            "distance": 2334.7949574138593
+        },
+        {
+            "id": "fV0o-H-TbwOEk5J6Rd0dNA",
+            "alias": "potbelly-sandwich-shop-denver-7",
+            "name": "Potbelly Sandwich Shop",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I5yE28NBWC63Dli7YyZxng/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/potbelly-sandwich-shop-denver-7?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.7532497,
+                "longitude": -105.0029313
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1900 16th St",
+                "address2": "Ste 125",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1900 16th St",
+                    "Ste 125",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17202145480",
+            "display_phone": "(720) 214-5480",
+            "distance": 1977.5332601125176
+        },
+        {
+            "id": "0v_hvVw5GRwu785zfv2_rw",
+            "alias": "brothers-bar-and-grill-denver-4",
+            "name": "Brothers Bar & Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UMRNl13QAABJel1FtkVnsw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brothers-bar-and-grill-denver-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 249,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.75284,
+                "longitude": -104.99393
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1920 Market St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1920 Market St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13032972767",
+            "display_phone": "(303) 297-2767",
+            "distance": 2561.2531722509484
+        },
+        {
+            "id": "Tuod0d4fA28t2Bn41FnqqA",
+            "alias": "santiagos-xiv-mexican-restaurant-denver",
+            "name": "Santiago's Xiv Mexican Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LYF6hitgO9h1V6GkMBBSfA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/santiagos-xiv-mexican-restaurant-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 123,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.7538681030273,
+                "longitude": -105.025588989258
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2505 Federal Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2505 Federal Blvd",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17208558109",
+            "display_phone": "(720) 855-8109",
+            "distance": 1506.1383848121095
+        }
+    ],
+    "total": 575,
+    "region": {
+        "center": {
+            "longitude": -105.0197,
+            "latitude": 39.741
+        }
+    }
+}

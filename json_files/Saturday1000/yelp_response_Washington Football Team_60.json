@@ -1,0 +1,890 @@
+{
+    "businesses": [
+        {
+            "id": "23Z6Ka4M2mVQf2uwPk7rrw",
+            "alias": "ruby-tuesday-upper-marlboro",
+            "name": "Ruby Tuesday",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dmCr-5v7MYIIdwTKFSrCDQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ruby-tuesday-upper-marlboro?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 96,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 38.9129,
+                "longitude": -76.84035
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "9680 Lottsford Ct",
+                "address2": null,
+                "address3": null,
+                "city": "Upper Marlboro",
+                "zip_code": "20774",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "9680 Lottsford Ct",
+                    "Upper Marlboro, MD 20774"
+                ]
+            },
+            "phone": "+13013228029",
+            "display_phone": "(301) 322-8029",
+            "distance": 1853.3367060116248
+        },
+        {
+            "id": "AZqwCAjLEJVUnhUvPaI9AA",
+            "alias": "mcdonalds-capitol-heights-5",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/92j5afjzYdQV3dZwrDvTQw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-capitol-heights-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.8892877180411,
+                "longitude": -76.8620956689119
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "20 Ritchie Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "20 Ritchie Rd",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13013502151",
+            "display_phone": "(301) 350-2151",
+            "distance": 1735.270114958806
+        },
+        {
+            "id": "Pbh3uPQmJvvU2z5VI4ptAg",
+            "alias": "caribbean-cafe-hyattsville",
+            "name": "Caribbean Cafe",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/caribbean-cafe-hyattsville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.9275932,
+                "longitude": -76.8798523
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "7756 Landover Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Hyattsville",
+                "zip_code": "20785",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "7756 Landover Rd",
+                    "Hyattsville, MD 20785"
+                ]
+            },
+            "phone": "+13015295311",
+            "display_phone": "(301) 529-5311",
+            "distance": 3218.7222839899396
+        },
+        {
+            "id": "vv7DwZm8JjLNv1-OYBguEA",
+            "alias": "mezeh-mediterranean-grill-capitol-heights-capitol-heights",
+            "name": "Mezeh Mediterranean Grill - Capitol Heights",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3UJYOqIIlvov2YuM5-rpOA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mezeh-mediterranean-grill-capitol-heights-capitol-heights?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.870446,
+                "longitude": -76.849419
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "9100 Alaking Ct",
+                "address2": "Ste 140",
+                "address3": null,
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "9100 Alaking Ct",
+                    "Ste 140",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13018342124",
+            "display_phone": "(301) 834-2124",
+            "distance": 3874.673435237285
+        },
+        {
+            "id": "t8z3y1bDXoX7HbWdCONj5A",
+            "alias": "ritchie-highway-deli-capitol-heights",
+            "name": "Ritchie Highway Deli",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/m4HpgvjwAf8AW34PL2Oa1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ritchie-highway-deli-capitol-heights?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.87978067534,
+                "longitude": -76.8581122532487
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "700 Ritchie Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "700 Ritchie Rd",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13013507677",
+            "display_phone": "(301) 350-7677",
+            "distance": 2767.2016436880026
+        },
+        {
+            "id": "v9foCPesW_3rjYaLinVWCA",
+            "alias": "checkers-capitol-heights",
+            "name": "Checkers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cuT6HE2AQx11IWoD6_bkHw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/checkers-capitol-heights?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 38.8905813529806,
+                "longitude": -76.8503082294859
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "9005 Central Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "9005 Central Ave",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13018086226",
+            "display_phone": "(301) 808-6226",
+            "distance": 1724.688076811296
+        },
+        {
+            "id": "JkFXg3pujPRaLj-qfsdJ2w",
+            "alias": "asian-express-carry-out-capitol-heights",
+            "name": "Asian Express Carry Out",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1lcIURRj1U-daJUJWMuj_g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/asian-express-carry-out-capitol-heights?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.888669,
+                "longitude": -76.86919
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "7913 Central Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "7913 Central Ave",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13013330078",
+            "display_phone": "(301) 333-0078",
+            "distance": 1998.2022817149482
+        },
+        {
+            "id": "czWKbnmx47l3ZEz-VKUaUg",
+            "alias": "mcdonalds-landover-2",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G8NN-3J-00WAZ9nPM-dByw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-landover-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.8908574616248,
+                "longitude": -76.8545365333558
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "8710 Central Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Landover",
+                "zip_code": "20785",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "8710 Central Ave",
+                    "Landover, MD 20785"
+                ]
+            },
+            "phone": "+13013362787",
+            "display_phone": "(301) 336-2787",
+            "distance": 1576.1020053297975
+        },
+        {
+            "id": "JmljfNhUfN-DX9yScWTDtA",
+            "alias": "taco-bell-largo-3",
+            "name": "Taco Bell",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GWYoXwvHkEHmLSVQiOmnhA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-largo-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 38.902854,
+                "longitude": -76.834816
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1006 Largo Center Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Largo",
+                "zip_code": "20774",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1006 Largo Center Dr",
+                    "Largo, MD 20774"
+                ]
+            },
+            "phone": "+13013501327",
+            "display_phone": "(301) 350-1327",
+            "distance": 2073.3301301105153
+        },
+        {
+            "id": "f4TYf4ZP2i8IuYQ-ey_4Ig",
+            "alias": "wendys-capital-hts",
+            "name": "Wendy's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0SRZ9YKfArUmcDkFLqpHLg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wendys-capital-hts?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 38.890135,
+                "longitude": -76.854046
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "8715 Central Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Capital Hts.",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "8715 Central Avenue",
+                    "Capital Hts., MD 20743"
+                ]
+            },
+            "phone": "+13014992986",
+            "display_phone": "(301) 499-2986",
+            "distance": 1658.5012525339932
+        },
+        {
+            "id": "Pg7hJJZP52o2-ucvcZjYTg",
+            "alias": "taco-bell-capitol-heights-2",
+            "name": "Taco Bell",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UObhl52qbFTndaIPZpr3UQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-capitol-heights-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 38.8893391190915,
+                "longitude": -76.8636640815879
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "8251 Central Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "8251 Central Ave",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13014995241",
+            "display_phone": "(301) 499-5241",
+            "distance": 1758.0417297380632
+        },
+        {
+            "id": "npE6xHqbBnTwTDQ5oAuVCw",
+            "alias": "chiks-chikn-hyattsville",
+            "name": "Chiks Chikn",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uy20zpdTcDuOuaO1Pk4rJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chiks-chikn-hyattsville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.8958129,
+                "longitude": -76.864193
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "8306 Gibbs Way",
+                "address2": "",
+                "address3": "",
+                "city": "Hyattsville",
+                "zip_code": "20785",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "8306 Gibbs Way",
+                    "Hyattsville, MD 20785"
+                ]
+            },
+            "phone": "+12029036190",
+            "display_phone": "(202) 903-6190",
+            "distance": 1094.267552986816
+        },
+        {
+            "id": "_7TQaKnmtAB7IX8tKB_lyw",
+            "alias": "mcdonalds-largo-3",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/G4qnED6b-tfFL19f2_GTwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-largo-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.9023158872559,
+                "longitude": -76.8364553394645
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1030 Largo Center Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Largo",
+                "zip_code": "20774",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1030 Largo Center Dr",
+                    "Largo, MD 20774"
+                ]
+            },
+            "phone": "+13014997241",
+            "display_phone": "(301) 499-7241",
+            "distance": 1939.3428693126932
+        },
+        {
+            "id": "4sHO73FnQg7z3WANLJSTeA",
+            "alias": "wendys-hyattsville",
+            "name": "Wendy's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zyYA3B0rQTrp0TTkyvTC5A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wendys-hyattsville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.923136,
+                "longitude": -76.869058
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "8211 Landover Rd.",
+                "address2": "",
+                "address3": "",
+                "city": "Hyattsville",
+                "zip_code": "20785",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "8211 Landover Rd.",
+                    "Hyattsville, MD 20785"
+                ]
+            },
+            "phone": "+13013221920",
+            "display_phone": "(301) 322-1920",
+            "distance": 2240.450990989225
+        },
+        {
+            "id": "QjrwN3nHJBxCrBP8ZJKD9w",
+            "alias": "kfc-capitol-heights-2",
+            "name": "KFC",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SC7mtof8jwAwCzGR3nCamw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kfc-capitol-heights-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 38.8892642170314,
+                "longitude": -76.8636451227857
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "8251 Central Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "8251 Central Ave",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13014995241",
+            "display_phone": "(301) 499-5241",
+            "distance": 1765.7140692319033
+        },
+        {
+            "id": "m_C4U6GKpVUflMvglpxwfA",
+            "alias": "china-restaurant-hyattsville-2",
+            "name": "China Restaurant",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x6GLGfEGR9g_0q9Irhb3lw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/china-restaurant-hyattsville-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 38.91633,
+                "longitude": -76.85754
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "8567 Landover Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Hyattsville",
+                "zip_code": "20785",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "8567 Landover Rd",
+                    "Hyattsville, MD 20785"
+                ]
+            },
+            "phone": "+13013225923",
+            "display_phone": "(301) 322-5923",
+            "distance": 1290.0843945540496
+        },
+        {
+            "id": "sWp1_Wap0fGGoYy7t5IzXg",
+            "alias": "subway-upper-marlboro-11",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BDlyGOBRhwRNXWa8b-FHMw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-upper-marlboro-11?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.901535,
+                "longitude": -76.8340937533729
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "978 Largo Ctr Dr",
+                "address2": "Unit  29",
+                "address3": null,
+                "city": "Upper Marlboro",
+                "zip_code": "20774",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "978 Largo Ctr Dr",
+                    "Unit  29",
+                    "Upper Marlboro, MD 20774"
+                ]
+            },
+            "phone": "+13013501134",
+            "display_phone": "(301) 350-1134",
+            "distance": 2154.3299368768585
+        },
+        {
+            "id": "s6fZK8jROrRKcRXiuATFNw",
+            "alias": "manna-corporate-deli-upper-marlboro",
+            "name": "Manna Corporate Deli",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0aU_UKHCgj-ENCTNSQegfQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/manna-corporate-deli-upper-marlboro?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.9088948095429,
+                "longitude": -76.8380915746093
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1400 Mercantile Ln",
+                "address2": "",
+                "address3": null,
+                "city": "Upper Marlboro",
+                "zip_code": "20774",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1400 Mercantile Ln",
+                    "Upper Marlboro, MD 20774"
+                ]
+            },
+            "phone": "+13019258000",
+            "display_phone": "(301) 925-8000",
+            "distance": 1841.17555262675
+        },
+        {
+            "id": "1e9tlCjLcTSu0QYD0bojpA",
+            "alias": "subway-landover-6",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C4YZsojyRjZN8DbdvCBt8Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-landover-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 38.9262693,
+                "longitude": -76.8853802999591
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "7539 Landover Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Landover",
+                "zip_code": "20785",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "7539 Landover Rd",
+                    "Landover, MD 20785"
+                ]
+            },
+            "phone": "+13013222173",
+            "display_phone": "(301) 322-2173",
+            "distance": 3333.924709256873
+        },
+        {
+            "id": "9pl37jFGHaxBqtNfwYZBCA",
+            "alias": "mcdonalds-landover",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WOe9BGkB2GXJZFYbrQ0cRw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-landover?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.927810108206,
+                "longitude": -76.8812332954712
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "7708 Landover Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Landover",
+                "zip_code": "20785",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "7708 Landover Rd",
+                    "Landover, MD 20785"
+                ]
+            },
+            "phone": "+12407145476",
+            "display_phone": "(240) 714-5476",
+            "distance": 3230.729308896082
+        }
+    ],
+    "total": 94,
+    "region": {
+        "center": {
+            "longitude": -76.85866323,
+            "latitude": 38.90466305
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "businesses": [
+        {
+            "id": "FIq03QDXcl4gPs-cdirjbA",
+            "alias": "subway-charlotte-93",
+            "name": "Subway",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-charlotte-93?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 35.215512,
+                "longitude": -80.82948
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1125 Charlotte Towne Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28204",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "1125 Charlotte Towne Ave",
+                    "Charlotte, NC 28204"
+                ]
+            },
+            "phone": "+17043343199",
+            "display_phone": "(704) 334-3199",
+            "distance": 2402.840262022518
+        }
+    ],
+    "total": 441,
+    "region": {
+        "center": {
+            "longitude": -80.852778,
+            "latitude": 35.225833
+        }
+    }
+}
