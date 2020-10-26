@@ -1,50 +1,45 @@
 {
     "businesses": [
         {
-            "id": "NwFiM3dHbT4ryjwf3SLM8g",
-            "alias": "daddys-dogs-midtown-nashville",
-            "name": "Daddy's Dogs - Midtown",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VXHPg4MlVkAd11WJmkXFkw/o.jpg",
+            "id": "ny4I5fE9rGSC5toJkQqgEQ",
+            "alias": "city-tap-house-nashville",
+            "name": "City Tap House",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7XC6Xx-jygvLIKdlrs93lw/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/daddys-dogs-midtown-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 37,
+            "url": "https://www.yelp.com/biz/city-tap-house-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 234,
             "categories": [
                 {
-                    "alias": "hotdog",
-                    "title": "Hot Dogs"
-                },
-                {
-                    "alias": "foodstands",
-                    "title": "Food Stands"
-                },
-                {
-                    "alias": "catering",
-                    "title": "Caterers"
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
                 }
             ],
-            "rating": 4.5,
+            "rating": 4.0,
             "coordinates": {
-                "latitude": 36.1497414,
-                "longitude": -86.7970181
+                "latitude": 36.1594875,
+                "longitude": -86.774416
             },
-            "transactions": [],
-            "price": "$",
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
             "location": {
-                "address1": "1932 Division St",
+                "address1": "204 3rd Ave S",
                 "address2": "",
-                "address3": "",
+                "address3": null,
                 "city": "Nashville",
-                "zip_code": "37203",
+                "zip_code": "37201",
                 "country": "US",
                 "state": "TN",
                 "display_address": [
-                    "1932 Division St",
-                    "Nashville, TN 37203"
+                    "204 3rd Ave S",
+                    "Nashville, TN 37201"
                 ]
             },
-            "phone": "+16158028481",
-            "display_phone": "(615) 802-8481",
-            "distance": 2953.1213865525083
+            "phone": "+16159224015",
+            "display_phone": "(615) 922-4015",
+            "distance": 820.5671513961664
         },
         {
             "id": "e_MDOxwYA6b8XThonDDI_g",

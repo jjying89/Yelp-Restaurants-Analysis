@@ -7,7 +7,7 @@
             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5XslhP5lqCIQd7KUFV4HSg/o.jpg",
             "is_closed": false,
             "url": "https://www.yelp.com/biz/momiji-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 1427,
+            "review_count": 1428,
             "categories": [
                 {
                     "alias": "japanese",
@@ -258,8 +258,8 @@
             },
             "transactions": [
                 "pickup",
-                "restaurant_reservation",
-                "delivery"
+                "delivery",
+                "restaurant_reservation"
             ],
             "price": "$$",
             "location": {
@@ -779,6 +779,54 @@
             "distance": 3245.514463107568
         },
         {
+            "id": "Lwg4Mzmxl9a6yDwWnMpghQ",
+            "alias": "saigon-deli-seattle",
+            "name": "Saigon Deli",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jD3IPnAmEO5d2osDA4dgcA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/saigon-deli-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 623,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 47.5990153,
+                "longitude": -122.31535
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1237 S Jackson St",
+                "address2": "",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98144",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "1237 S Jackson St",
+                    "Seattle, WA 98144"
+                ]
+            },
+            "phone": "+12063223700",
+            "display_phone": "(206) 322-3700",
+            "distance": 1290.217725368893
+        },
+        {
             "id": "I3SWFOJ-g3oFyMGqZw50bQ",
             "alias": "mr-west-cafe-bar-seattle",
             "name": "Mr. West Cafe Bar",
@@ -826,54 +874,6 @@
             "phone": "+12069009378",
             "display_phone": "(206) 900-9378",
             "distance": 2115.6741714072064
-        },
-        {
-            "id": "Lwg4Mzmxl9a6yDwWnMpghQ",
-            "alias": "saigon-deli-seattle",
-            "name": "Saigon Deli",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jD3IPnAmEO5d2osDA4dgcA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/saigon-deli-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 623,
-            "categories": [
-                {
-                    "alias": "delis",
-                    "title": "Delis"
-                },
-                {
-                    "alias": "sandwiches",
-                    "title": "Sandwiches"
-                },
-                {
-                    "alias": "bubbletea",
-                    "title": "Bubble Tea"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 47.5990153,
-                "longitude": -122.31535
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$",
-            "location": {
-                "address1": "1237 S Jackson St",
-                "address2": "",
-                "address3": "",
-                "city": "Seattle",
-                "zip_code": "98144",
-                "country": "US",
-                "state": "WA",
-                "display_address": [
-                    "1237 S Jackson St",
-                    "Seattle, WA 98144"
-                ]
-            },
-            "phone": "+12063223700",
-            "display_phone": "(206) 322-3700",
-            "distance": 1290.217725368893
         },
         {
             "id": "FJcS8oR8YIdICZ0F-Oh1PQ",

@@ -558,6 +558,54 @@
             "distance": 2256.1781065565597
         },
         {
+            "id": "_4-gfHYNYsktSUXFjprIwA",
+            "alias": "the-cafeteria-chicago-3",
+            "name": "The Cafeteria",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6ZPo1iJFWVBgZuNk7pWpdQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-cafeteria-chicago-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.897979,
+                "longitude": -87.637515
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "840 N Orleans St",
+                "address2": null,
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60610",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "840 N Orleans St",
+                    "Chicago, IL 60610"
+                ]
+            },
+            "phone": "+13128357787",
+            "display_phone": "(312) 835-7787",
+            "distance": 4325.418611315757
+        },
+        {
             "id": "8gqj__-CngfB8sWAF6JC9g",
             "alias": "good-measure-chicago",
             "name": "Good Measure",
@@ -881,51 +929,6 @@
             "phone": "+13129434373",
             "display_phone": "(312) 943-4373",
             "distance": 4130.411478775597
-        },
-        {
-            "id": "syFfym4JRuHrT_3cUhuF1g",
-            "alias": "bernies-chicago",
-            "name": "Bernie's",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UeBGsgE_c5Se5MbHNGaV-g/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/bernies-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 404,
-            "categories": [
-                {
-                    "alias": "cocktailbars",
-                    "title": "Cocktail Bars"
-                },
-                {
-                    "alias": "newamerican",
-                    "title": "American (New)"
-                }
-            ],
-            "rating": 3.5,
-            "coordinates": {
-                "latitude": 41.8941497802734,
-                "longitude": -87.6373977661133
-            },
-            "transactions": [
-                "delivery",
-                "pickup"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "660 N Orleans St",
-                "address2": null,
-                "address3": "",
-                "city": "Chicago",
-                "zip_code": "60654",
-                "country": "US",
-                "state": "IL",
-                "display_address": [
-                    "660 N Orleans St",
-                    "Chicago, IL 60654"
-                ]
-            },
-            "phone": "+13126249892",
-            "display_phone": "(312) 624-9892",
-            "distance": 3930.630523385498
         }
     ],
     "total": 1400,

@@ -635,7 +635,10 @@
                 "latitude": 39.92161,
                 "longitude": -75.17675
             },
-            "transactions": [],
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
             "location": {
                 "address1": "1739 W Ritner St",
                 "address2": null,

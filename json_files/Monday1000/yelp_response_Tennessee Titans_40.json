@@ -72,8 +72,8 @@
                 "longitude": -86.783603
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -161,8 +161,8 @@
                 "longitude": -86.7772081877316
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -210,8 +210,8 @@
                 "longitude": -86.77323
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "location": {
                 "address1": "201 1st Ave S",
@@ -258,8 +258,8 @@
                 "longitude": -86.795
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "location": {
                 "address1": "614 Garfield St",
@@ -302,8 +302,8 @@
                 "longitude": -86.7813568115234
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$",
             "location": {
@@ -399,8 +399,8 @@
                 "longitude": -86.7885437011719
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -580,8 +580,8 @@
                 "longitude": -86.7487481
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -600,54 +600,6 @@
             "phone": "+16152488639",
             "display_phone": "(615) 248-8639",
             "distance": 2350.6590389622747
-        },
-        {
-            "id": "ap5bxhjMs3f4alh7Zu51nQ",
-            "alias": "superica-nashville",
-            "name": "Superica",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-WTJGX2SSi5yI4uVLoL2lg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/superica-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 146,
-            "categories": [
-                {
-                    "alias": "tex-mex",
-                    "title": "Tex-Mex"
-                },
-                {
-                    "alias": "bars",
-                    "title": "Bars"
-                },
-                {
-                    "alias": "mexican",
-                    "title": "Mexican"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 36.151818,
-                "longitude": -86.782679
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "605 Overton St",
-                "address2": "",
-                "address3": null,
-                "city": "Nashville",
-                "zip_code": "37203",
-                "country": "US",
-                "state": "TN",
-                "display_address": [
-                    "605 Overton St",
-                    "Nashville, TN 37203"
-                ]
-            },
-            "phone": "+16157093148",
-            "display_phone": "(615) 709-3148",
-            "distance": 1911.1389740920883
         },
         {
             "id": "ykrD-GI7pQpU_rHlHnEeag",
@@ -875,6 +827,54 @@
             "phone": "+16152274668",
             "display_phone": "(615) 227-4668",
             "distance": 2256.989519516474
+        },
+        {
+            "id": "ap5bxhjMs3f4alh7Zu51nQ",
+            "alias": "superica-nashville",
+            "name": "Superica",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-WTJGX2SSi5yI4uVLoL2lg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/superica-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 146,
+            "categories": [
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 36.151818,
+                "longitude": -86.782679
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "605 Overton St",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "zip_code": "37203",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "605 Overton St",
+                    "Nashville, TN 37203"
+                ]
+            },
+            "phone": "+16157093148",
+            "display_phone": "(615) 709-3148",
+            "distance": 1911.1389740920883
         },
         {
             "id": "IE-5GIHlAINr0zO4lrJ_Lg",

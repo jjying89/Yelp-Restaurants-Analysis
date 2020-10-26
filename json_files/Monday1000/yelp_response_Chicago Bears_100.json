@@ -68,8 +68,8 @@
                 "longitude": -87.6321868896484
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -113,8 +113,8 @@
                 "longitude": -87.627275
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -162,8 +162,8 @@
                 "longitude": -87.63726
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -280,54 +280,6 @@
             "distance": 3271.0999527107642
         },
         {
-            "id": "w_1P_TRPe73VZ__5cgnBOg",
-            "alias": "l-aventino-forno-romano-chicago",
-            "name": "L'Aventino Forno Romano",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Vg79bsrIZ1sI7mki184rwA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/l-aventino-forno-romano-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 50,
-            "categories": [
-                {
-                    "alias": "pizza",
-                    "title": "Pizza"
-                },
-                {
-                    "alias": "italian",
-                    "title": "Italian"
-                },
-                {
-                    "alias": "wine_bars",
-                    "title": "Wine Bars"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 41.8922,
-                "longitude": -87.61808
-            },
-            "transactions": [
-                "delivery",
-                "pickup"
-            ],
-            "location": {
-                "address1": "355 E Ohio St",
-                "address2": null,
-                "address3": "",
-                "city": "Chicago",
-                "zip_code": "60611",
-                "country": "US",
-                "state": "IL",
-                "display_address": [
-                    "355 E Ohio St",
-                    "Chicago, IL 60611"
-                ]
-            },
-            "phone": "+13129645112",
-            "display_phone": "(312) 964-5112",
-            "distance": 3322.505073104718
-        },
-        {
             "id": "l6sShHJj-N6uCjImDm4hDQ",
             "alias": "carsons-chicago-10",
             "name": "Carson's",
@@ -355,8 +307,8 @@
                 "longitude": -87.6149193
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$$",
             "location": {
@@ -400,8 +352,8 @@
                 "longitude": -87.64312
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -445,8 +397,8 @@
                 "longitude": -87.63228
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -486,8 +438,8 @@
                 "longitude": -87.6423
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$$$",
             "location": {
@@ -527,8 +479,8 @@
                 "longitude": -87.63117
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -616,8 +568,8 @@
                 "longitude": -87.632959
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -657,8 +609,8 @@
                 "longitude": -87.6299571990967
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$$$",
             "location": {
@@ -723,6 +675,54 @@
             "distance": 3923.706926674927
         },
         {
+            "id": "w_1P_TRPe73VZ__5cgnBOg",
+            "alias": "l-aventino-forno-romano-chicago",
+            "name": "L'Aventino Forno Romano",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Vg79bsrIZ1sI7mki184rwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/l-aventino-forno-romano-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 50,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.8922,
+                "longitude": -87.61808
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "355 E Ohio St",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60611",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "355 E Ohio St",
+                    "Chicago, IL 60611"
+                ]
+            },
+            "phone": "+13129645112",
+            "display_phone": "(312) 964-5112",
+            "distance": 3322.505073104718
+        },
+        {
             "id": "5n86ysWVnN9SUA-VUVctrQ",
             "alias": "mannys-cafeteria-and-delicatessen-chicago-3",
             "name": "Manny's Cafeteria and Delicatessen",
@@ -750,8 +750,8 @@
                 "longitude": -87.642088208016
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -799,8 +799,8 @@
                 "longitude": -87.619152
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {

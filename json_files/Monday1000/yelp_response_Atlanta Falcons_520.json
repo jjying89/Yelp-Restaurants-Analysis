@@ -20,8 +20,8 @@
                 "longitude": -84.40773
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -107,8 +107,8 @@
                 "longitude": -84.387178
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$",
             "location": {
@@ -308,6 +308,45 @@
             "distance": 2528.880646939512
         },
         {
+            "id": "6vjSfouvB1gxZumlzsnQSA",
+            "alias": "summit-cafeteria-atlanta",
+            "name": "Summit Cafeteria",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AsHUsesxKEVavKOdihuPzQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/summit-cafeteria-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 33.75469,
+                "longitude": -84.39133
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "30 Marietta St NW",
+                "address2": "Ste E",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "30 Marietta St NW",
+                    "Ste E",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14046811277",
+            "display_phone": "(404) 681-1277",
+            "distance": 799.6317015841109
+        },
+        {
             "id": "5ECGqLfG6FH0Uch4IVVJcw",
             "alias": "qúe-spicy-ribs-and-fish-atlanta-3",
             "name": "Qúe Spicy Ribs & Fish",
@@ -350,45 +389,6 @@
             "phone": "+16783741899",
             "display_phone": "(678) 374-1899",
             "distance": 1111.9415165599496
-        },
-        {
-            "id": "6vjSfouvB1gxZumlzsnQSA",
-            "alias": "summit-cafeteria-atlanta",
-            "name": "Summit Cafeteria",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AsHUsesxKEVavKOdihuPzQ/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/summit-cafeteria-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 9,
-            "categories": [
-                {
-                    "alias": "tradamerican",
-                    "title": "American (Traditional)"
-                }
-            ],
-            "rating": 2.5,
-            "coordinates": {
-                "latitude": 33.75469,
-                "longitude": -84.39133
-            },
-            "transactions": [],
-            "price": "$",
-            "location": {
-                "address1": "30 Marietta St NW",
-                "address2": "Ste E",
-                "address3": "",
-                "city": "Atlanta",
-                "zip_code": "30303",
-                "country": "US",
-                "state": "GA",
-                "display_address": [
-                    "30 Marietta St NW",
-                    "Ste E",
-                    "Atlanta, GA 30303"
-                ]
-            },
-            "phone": "+14046811277",
-            "display_phone": "(404) 681-1277",
-            "distance": 799.6317015841109
         },
         {
             "id": "TS_xXAsb0fQQ3HiixIpzyw",
@@ -507,8 +507,8 @@
                 "longitude": -84.385129
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "location": {
                 "address1": "620 Peachtree St NE",
@@ -599,8 +599,8 @@
                 "longitude": -84.417801
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$",
             "location": {
@@ -640,8 +640,8 @@
                 "longitude": -84.4001919504448
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$",
             "location": {
@@ -728,8 +728,8 @@
                 "longitude": -84.382637
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "location": {
                 "address1": "1175 peachtree St",
@@ -816,8 +816,8 @@
                 "longitude": -84.3890735621011
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$",
             "location": {
@@ -857,8 +857,8 @@
                 "longitude": -84.3898085
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$",
             "location": {

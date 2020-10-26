@@ -195,8 +195,8 @@
                 "longitude": -83.039389
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "location": {
                 "address1": "546 E Larned",
@@ -747,44 +747,6 @@
             "distance": 3374.625183418033
         },
         {
-            "id": "k8JQqKUDehvBXpal9B9g2g",
-            "alias": "the-do-good-deli-windsor",
-            "name": "The Do Good Deli",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cXX_wS0aXkpvtM0SO5n4cw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/the-do-good-deli-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 1,
-            "categories": [
-                {
-                    "alias": "delis",
-                    "title": "Delis"
-                }
-            ],
-            "rating": 5.0,
-            "coordinates": {
-                "latitude": 42.3108955194013,
-                "longitude": -83.0351471241498
-            },
-            "transactions": [],
-            "location": {
-                "address1": "875 Ouellette Avenue",
-                "address2": "",
-                "address3": null,
-                "city": "Windsor",
-                "zip_code": "N9A 4M9",
-                "country": "CA",
-                "state": "ON",
-                "display_address": [
-                    "875 Ouellette Avenue",
-                    "Windsor, ON N9A 4M9",
-                    "Canada"
-                ]
-            },
-            "phone": "",
-            "display_phone": "",
-            "distance": 3347.486807543977
-        },
-        {
             "id": "Qmw_B6PHsf_Y17bb9Co3mA",
             "alias": "moejoe-pizza-windsor",
             "name": "MoeJoe Pizza",
@@ -825,6 +787,44 @@
             "phone": "+15192548558",
             "display_phone": "+1 519-254-8558",
             "distance": 2972.5067786705895
+        },
+        {
+            "id": "k8JQqKUDehvBXpal9B9g2g",
+            "alias": "the-do-good-deli-windsor",
+            "name": "The Do Good Deli",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cXX_wS0aXkpvtM0SO5n4cw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-do-good-deli-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.3108955194013,
+                "longitude": -83.0351471241498
+            },
+            "transactions": [],
+            "location": {
+                "address1": "875 Ouellette Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Windsor",
+                "zip_code": "N9A 4M9",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "875 Ouellette Avenue",
+                    "Windsor, ON N9A 4M9",
+                    "Canada"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3347.486807543977
         }
     ],
     "total": 531,
