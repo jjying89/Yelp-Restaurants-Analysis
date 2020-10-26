@@ -112,8 +112,8 @@
                 "longitude": -122.338088989258
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -478,8 +478,8 @@
                 "longitude": -122.331657931209
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -499,46 +499,6 @@
             "phone": "+12066826960",
             "display_phone": "(206) 682-6960",
             "distance": 1765.663948181997
-        },
-        {
-            "id": "M9xzvwgK58T0w7wvXedvuQ",
-            "alias": "hot-mamas-pizza-seattle",
-            "name": "Hot Mama's Pizza",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q4MGe61zmIh58qlZGz7_nw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/hot-mamas-pizza-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 850,
-            "categories": [
-                {
-                    "alias": "pizza",
-                    "title": "Pizza"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 47.615379179632,
-                "longitude": -122.32323073437
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$",
-            "location": {
-                "address1": "700 E Pine St",
-                "address2": "",
-                "address3": "",
-                "city": "Seattle",
-                "zip_code": "98122",
-                "country": "US",
-                "state": "WA",
-                "display_address": [
-                    "700 E Pine St",
-                    "Seattle, WA 98122"
-                ]
-            },
-            "phone": "+12063226444",
-            "display_phone": "(206) 322-6444",
-            "distance": 2329.8986299424514
         },
         {
             "id": "937YYexfSIXPBmNSNn7ERg",
@@ -625,6 +585,46 @@
             "phone": "+12063295133",
             "display_phone": "(206) 329-5133",
             "distance": 1398.5315069199264
+        },
+        {
+            "id": "M9xzvwgK58T0w7wvXedvuQ",
+            "alias": "hot-mamas-pizza-seattle",
+            "name": "Hot Mama's Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q4MGe61zmIh58qlZGz7_nw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hot-mamas-pizza-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 850,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 47.615379179632,
+                "longitude": -122.32323073437
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "700 E Pine St",
+                "address2": "",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98122",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "700 E Pine St",
+                    "Seattle, WA 98122"
+                ]
+            },
+            "phone": "+12063226444",
+            "display_phone": "(206) 322-6444",
+            "distance": 2329.8986299424514
         },
         {
             "id": "QZ4r-lrkNuFs0CHYfdpDUA",
@@ -798,8 +798,8 @@
                 "longitude": -122.3276
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {

@@ -1,45 +1,6 @@
 {
     "businesses": [
         {
-            "id": "nkiDNK3MjF3o4l5pTPGK7g",
-            "alias": "market-district-buffet-cincinnati",
-            "name": "Market District Buffet",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F0v7k-Bg_k6e4w8h91HEpg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/market-district-buffet-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 60,
-            "categories": [
-                {
-                    "alias": "buffets",
-                    "title": "Buffets"
-                }
-            ],
-            "rating": 3.0,
-            "coordinates": {
-                "latitude": 39.1077615243655,
-                "longitude": -84.5069306508621
-            },
-            "transactions": [],
-            "price": "$$",
-            "location": {
-                "address1": "Jack Cincinnati Casino",
-                "address2": "1000 Broadway St",
-                "address3": "",
-                "city": "Cincinnati",
-                "zip_code": "45202",
-                "country": "US",
-                "state": "OH",
-                "display_address": [
-                    "Jack Cincinnati Casino",
-                    "1000 Broadway St",
-                    "Cincinnati, OH 45202"
-                ]
-            },
-            "phone": "+15132503295",
-            "display_phone": "(513) 250-3295",
-            "distance": 1620.5143444794282
-        },
-        {
             "id": "Ly-oqc-VKZKXTE_KW4jgHw",
             "alias": "hooters-newport",
             "name": "Hooters",
@@ -259,6 +220,54 @@
             "phone": "+15132299080",
             "display_phone": "(513) 229-9080",
             "distance": 3701.505697687166
+        },
+        {
+            "id": "fReSyohL-2qLrJqd3rBAcQ",
+            "alias": "mike-s-fish-and-chicken-covington",
+            "name": "Mike’s Fish & Chicken",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/n_aCVYqq6gK8TB-mb_hPsg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mike-s-fish-and-chicken-covington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.0714298633744,
+                "longitude": -84.5072594635082
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "1605 Madison Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "1605 Madison Ave",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18593605378",
+            "display_phone": "(859) 360-5378",
+            "distance": 2727.296351608077
         },
         {
             "id": "SPY1P1MRxJdZVyt9AaY6KA",

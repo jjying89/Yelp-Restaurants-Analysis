@@ -1,51 +1,6 @@
 {
     "businesses": [
         {
-            "id": "3xw3zU8CEB947ayOeM2Xdw",
-            "alias": "downtown-deli-atlanta-3",
-            "name": "Downtown Deli",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vCythCCwpj2b73sN0jBsnw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/downtown-deli-atlanta-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 4,
-            "categories": [
-                {
-                    "alias": "convenience",
-                    "title": "Convenience Stores"
-                },
-                {
-                    "alias": "delis",
-                    "title": "Delis"
-                },
-                {
-                    "alias": "sandwiches",
-                    "title": "Sandwiches"
-                }
-            ],
-            "rating": 3.0,
-            "coordinates": {
-                "latitude": 33.757858,
-                "longitude": -84.389945
-            },
-            "transactions": [],
-            "location": {
-                "address1": "115 Luckie St Nw",
-                "address2": "",
-                "address3": "",
-                "city": "Atlanta",
-                "zip_code": "30303",
-                "country": "US",
-                "state": "GA",
-                "display_address": [
-                    "115 Luckie St Nw",
-                    "Atlanta, GA 30303"
-                ]
-            },
-            "phone": "+14046888290",
-            "display_phone": "(404) 688-8290",
-            "distance": 964.1622340354199
-        },
-        {
             "id": "lxo-8HEYnU3TZ1WuOgj9tQ",
             "alias": "georgia-cafe-atlanta",
             "name": "Georgia Cafe",
@@ -237,8 +192,8 @@
                 "longitude": -84.38493117
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "55 Gilmer Street SE",
@@ -608,8 +563,8 @@
                 "longitude": -84.3891379
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -736,8 +691,8 @@
                 "longitude": -84.38454
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -840,9 +795,50 @@
             "phone": "+14048723000",
             "display_phone": "(404) 872-3000",
             "distance": 2702.2321236006956
+        },
+        {
+            "id": "GEYAh2YQ6QxbXjuNcsbj9Q",
+            "alias": "subway-atlanta-184",
+            "name": "Subway",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/06cocjcX8XOCAh2fTsAqkQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-atlanta-184?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 33.7229883,
+                "longitude": -84.3928444
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1162 C Pryor St",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30315",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1162 C Pryor St",
+                    "Atlanta, GA 30315"
+                ]
+            },
+            "phone": "+14047489025",
+            "display_phone": "(404) 748-9025",
+            "distance": 3681.3078636953383
         }
     ],
-    "total": 705,
+    "total": 704,
     "region": {
         "center": {
             "longitude": -84.4,

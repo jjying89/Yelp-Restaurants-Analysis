@@ -99,7 +99,7 @@
             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LBAQhp7sEIf0hfVnEPvDvw/o.jpg",
             "is_closed": false,
             "url": "https://www.yelp.com/biz/the-bqe-restaurant-and-lounge-atlanta-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 1031,
+            "review_count": 1032,
             "categories": [
                 {
                     "alias": "soulfood",
@@ -120,8 +120,8 @@
                 "longitude": -84.37913
             },
             "transactions": [
-                "delivery",
                 "restaurant_reservation",
+                "delivery",
                 "pickup"
             ],
             "price": "$$",
@@ -928,7 +928,7 @@
             "distance": 1382.1437054559274
         }
     ],
-    "total": 705,
+    "total": 704,
     "region": {
         "center": {
             "longitude": -84.4,

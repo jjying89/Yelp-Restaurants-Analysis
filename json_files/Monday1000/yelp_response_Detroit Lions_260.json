@@ -741,49 +741,6 @@
             "distance": 2847.8120332481453
         },
         {
-            "id": "j0SI71nYTG4CHWu-a7sVYA",
-            "alias": "saigon-house-windsor",
-            "name": "Saigon House",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x7hKETBoorOtX-huZRR0Mw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/saigon-house-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 17,
-            "categories": [
-                {
-                    "alias": "vietnamese",
-                    "title": "Vietnamese"
-                },
-                {
-                    "alias": "thai",
-                    "title": "Thai"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 42.3055801,
-                "longitude": -83.0605774
-            },
-            "transactions": [],
-            "price": "$$",
-            "location": {
-                "address1": "2169 Wyandotte Street W",
-                "address2": "",
-                "address3": "",
-                "city": "Windsor",
-                "zip_code": "N9B 1K1",
-                "country": "CA",
-                "state": "ON",
-                "display_address": [
-                    "2169 Wyandotte Street W",
-                    "Windsor, ON N9B 1K1",
-                    "Canada"
-                ]
-            },
-            "phone": "+15199778988",
-            "display_phone": "+1 519-977-8988",
-            "distance": 4011.7002974533293
-        },
-        {
             "id": "i7lmiRZMmhXCXKwrbWsA5g",
             "alias": "windsor-seoul-restaurant-windsor",
             "name": "Windsor Seoul Restaurant",
@@ -868,6 +825,48 @@
             "phone": "+15192532274",
             "display_phone": "+1 519-253-2274",
             "distance": 2910.263667155488
+        },
+        {
+            "id": "XNEVnxvq0UbEYG8u28WCzg",
+            "alias": "the-alley-deck-detroit-2",
+            "name": "The Alley Deck",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JzMDZuOzujB5dtgNDaXYJQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-alley-deck-detroit-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 42.351143,
+                "longitude": -83.060108
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4120 Woodward Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Detroit",
+                "zip_code": "48201",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "4120 Woodward Ave",
+                    "Detroit, MI 48201"
+                ]
+            },
+            "phone": "+13138339700",
+            "display_phone": "(313) 833-9700",
+            "distance": 1709.9195834676946
         }
     ],
     "total": 531,

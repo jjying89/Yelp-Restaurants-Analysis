@@ -48,47 +48,6 @@
             "distance": 1515.380936276742
         },
         {
-            "id": "0f0oRQdl5qg3GqnXaifqww",
-            "alias": "misa-new-orleans-2",
-            "name": "Misa",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Hs9bqrygaBd_wh6W_SRUEg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/misa-new-orleans-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 7,
-            "categories": [
-                {
-                    "alias": "mediterranean",
-                    "title": "Mediterranean"
-                },
-                {
-                    "alias": "bars",
-                    "title": "Bars"
-                }
-            ],
-            "rating": 3.5,
-            "coordinates": {
-                "latitude": 29.92028,
-                "longitude": -90.10594
-            },
-            "transactions": [],
-            "location": {
-                "address1": "4734 Magazine St",
-                "address2": null,
-                "address3": "",
-                "city": "New Orleans",
-                "zip_code": "70115",
-                "country": "US",
-                "state": "LA",
-                "display_address": [
-                    "4734 Magazine St",
-                    "New Orleans, LA 70115"
-                ]
-            },
-            "phone": "+15045102791",
-            "display_phone": "(504) 510-2791",
-            "distance": 4151.760507776125
-        },
-        {
             "id": "GDUtnmy4SzM_QLH8yDtomw",
             "alias": "vieux-carre-wing-new-orleans",
             "name": "Vieux Carre Wing",
@@ -108,8 +67,8 @@
                 "longitude": -90.0666322
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "729 Saint Louis St",
@@ -865,6 +824,44 @@
             "phone": "+15046368544",
             "display_phone": "(504) 636-8544",
             "distance": 2741.8483553585966
+        },
+        {
+            "id": "9_DJMSzn5PtMit78KFrwaw",
+            "alias": "subway-new-orleans-99",
+            "name": "Subway",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GF4TyZd44LECoPySrc4z3w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-new-orleans-99?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 29.9531713541931,
+                "longitude": -90.0653524
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "237 N Peters",
+                "address2": "",
+                "address3": "",
+                "city": "New Orleans",
+                "zip_code": "70130",
+                "country": "US",
+                "state": "LA",
+                "display_address": [
+                    "237 N Peters",
+                    "New Orleans, LA 70130"
+                ]
+            },
+            "phone": "+15045690601",
+            "display_phone": "(504) 569-0601",
+            "distance": 1540.3513969292246
         }
     ],
     "total": 945,

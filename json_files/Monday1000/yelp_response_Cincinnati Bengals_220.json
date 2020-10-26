@@ -73,8 +73,8 @@
                 "longitude": -84.509344
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -197,8 +197,8 @@
                 "longitude": -84.5193729177117
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -217,51 +217,6 @@
             "phone": "+15137219111",
             "display_phone": "(513) 721-9111",
             "distance": 3676.8701995987954
-        },
-        {
-            "id": "bKTDwy7oo2dnW2KY9M6qVg",
-            "alias": "cedar-covington-2",
-            "name": "Cedar",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mlbYsgOIF6kMz5SSiIAiUw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/cedar-covington-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 33,
-            "categories": [
-                {
-                    "alias": "newamerican",
-                    "title": "American (New)"
-                },
-                {
-                    "alias": "breakfast_brunch",
-                    "title": "Breakfast & Brunch"
-                },
-                {
-                    "alias": "waffles",
-                    "title": "Waffles"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 39.082538,
-                "longitude": -84.517687
-            },
-            "transactions": [],
-            "location": {
-                "address1": "701 Main St",
-                "address2": "",
-                "address3": null,
-                "city": "Covington",
-                "zip_code": "41011",
-                "country": "US",
-                "state": "KY",
-                "display_address": [
-                    "701 Main St",
-                    "Covington, KY 41011"
-                ]
-            },
-            "phone": "+18593601187",
-            "display_phone": "(859) 360-1187",
-            "distance": 1393.3377483510824
         },
         {
             "id": "cGHlq4wCFaKrJhnDZiJBXQ",
@@ -428,8 +383,8 @@
                 "longitude": -84.510771173717
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -707,6 +662,51 @@
             "distance": 1901.4715106171398
         },
         {
+            "id": "bKTDwy7oo2dnW2KY9M6qVg",
+            "alias": "cedar-covington-2",
+            "name": "Cedar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mlbYsgOIF6kMz5SSiIAiUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cedar-covington-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.082538,
+                "longitude": -84.517687
+            },
+            "transactions": [],
+            "location": {
+                "address1": "701 Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "701 Main St",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18593601187",
+            "display_phone": "(859) 360-1187",
+            "distance": 1393.3377483510824
+        },
+        {
             "id": "yOOFgcPjzqh2qB3DIC_DSg",
             "alias": "red-roost-tavern-cincinnati",
             "name": "Red Roost Tavern",
@@ -822,8 +822,8 @@
                 "longitude": -84.51258
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "1010 Walnut St",

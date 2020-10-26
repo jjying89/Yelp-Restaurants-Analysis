@@ -68,8 +68,8 @@
                 "longitude": -76.61587
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "1309 N Charles St",
@@ -147,8 +147,8 @@
                 "longitude": -76.61914
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "5 N Howard St",
@@ -246,47 +246,6 @@
             "distance": 752.5604882603798
         },
         {
-            "id": "q-7eMe4WO-4r28cb4NFxMQ",
-            "alias": "subway-baltimore-149",
-            "name": "Subway",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vEdOpREgPFxxfEahvshkyg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/subway-baltimore-149?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 7,
-            "categories": [
-                {
-                    "alias": "sandwiches",
-                    "title": "Sandwiches"
-                }
-            ],
-            "rating": 2.5,
-            "coordinates": {
-                "latitude": 39.29266,
-                "longitude": -76.6156
-            },
-            "transactions": [
-                "delivery",
-                "pickup"
-            ],
-            "price": "$",
-            "location": {
-                "address1": "300 N Charles St",
-                "address2": null,
-                "address3": null,
-                "city": "Baltimore",
-                "zip_code": "21201",
-                "country": "US",
-                "state": "MD",
-                "display_address": [
-                    "300 N Charles St",
-                    "Baltimore, MD 21201"
-                ]
-            },
-            "phone": "+14105450688",
-            "display_phone": "(410) 545-0688",
-            "distance": 1734.779014470607
-        },
-        {
             "id": "emYyPzJLRyafRmv9iJcNbg",
             "alias": "subway-baltimore-119",
             "name": "Subway",
@@ -306,8 +265,8 @@
                 "longitude": -76.619699
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -327,6 +286,47 @@
             "phone": "+14106852025",
             "display_phone": "(410) 685-2025",
             "distance": 996.6118817222363
+        },
+        {
+            "id": "q-7eMe4WO-4r28cb4NFxMQ",
+            "alias": "subway-baltimore-149",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vEdOpREgPFxxfEahvshkyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-baltimore-149?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.29266,
+                "longitude": -76.6156
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "300 N Charles St",
+                "address2": null,
+                "address3": null,
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "300 N Charles St",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "+14105450688",
+            "display_phone": "(410) 545-0688",
+            "distance": 1734.779014470607
         },
         {
             "id": "rwrwc47pXL6d-2phHDihWw",
@@ -386,8 +386,8 @@
                 "longitude": -76.5987055
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "711 S Central Ave",
@@ -781,8 +781,8 @@
                 "longitude": -76.640608
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "607 Baker St",

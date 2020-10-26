@@ -76,8 +76,8 @@
                 "longitude": -104.995542
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$",
             "location": {
@@ -146,6 +146,47 @@
             "phone": "+13038930898",
             "display_phone": "(303) 893-0898",
             "distance": 2019.9054046167328
+        },
+        {
+            "id": "l4p-Rdp5wDVQmNUpS3BoSw",
+            "alias": "chuey-fus-denver",
+            "name": "Chuey Fu's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o320bmkUAH541-itCvpDhQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chuey-fus-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 149,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7342984909538,
+                "longitude": -104.998938627541
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1131 Santa Fe Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1131 Santa Fe Dr",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+13034841681",
+            "display_phone": "(303) 484-1681",
+            "distance": 1925.2884153002517
         },
         {
             "id": "mfvbpPfl6dWi-kGJuLFKgw",
@@ -234,47 +275,6 @@
             "distance": 3167.2765457471437
         },
         {
-            "id": "l4p-Rdp5wDVQmNUpS3BoSw",
-            "alias": "chuey-fus-denver",
-            "name": "Chuey Fu's",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o320bmkUAH541-itCvpDhQ/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/chuey-fus-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 149,
-            "categories": [
-                {
-                    "alias": "asianfusion",
-                    "title": "Asian Fusion"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 39.7342984909538,
-                "longitude": -104.998938627541
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "1131 Santa Fe Dr",
-                "address2": "",
-                "address3": null,
-                "city": "Denver",
-                "zip_code": "80204",
-                "country": "US",
-                "state": "CO",
-                "display_address": [
-                    "1131 Santa Fe Dr",
-                    "Denver, CO 80204"
-                ]
-            },
-            "phone": "+13034841681",
-            "display_phone": "(303) 484-1681",
-            "distance": 1925.2884153002517
-        },
-        {
             "id": "c2tnmYneQp1D6tIdNMpT-A",
             "alias": "javiers-diner-denver",
             "name": "Javier's Diner",
@@ -342,8 +342,8 @@
                 "longitude": -104.998298
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -477,8 +477,8 @@
                 "longitude": -105.00515
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {

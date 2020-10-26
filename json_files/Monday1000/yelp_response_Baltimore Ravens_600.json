@@ -114,8 +114,8 @@
                 "longitude": -76.6008072
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -781,41 +781,47 @@
             "distance": 1659.4404744006529
         },
         {
-            "id": "HVa0ybMEEgjnhVzbDsJP8Q",
-            "alias": "bigfoot-subs-cafe-baltimore",
-            "name": "Bigfoot Subs Cafe",
+            "id": "fxeGEW1USlNRn2azcngCTA",
+            "alias": "roman-delight-pizza-baltimore",
+            "name": "Roman Delight Pizza",
             "image_url": "",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/bigfoot-subs-cafe-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "url": "https://www.yelp.com/biz/roman-delight-pizza-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
             "review_count": 1,
             "categories": [
                 {
-                    "alias": "sandwiches",
-                    "title": "Sandwiches"
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
                 }
             ],
             "rating": 3.0,
             "coordinates": {
-                "latitude": 39.3001327514648,
-                "longitude": -76.6217956542969
+                "latitude": 39.285629,
+                "longitude": -76.61238
             },
             "transactions": [],
+            "price": "$",
             "location": {
-                "address1": "840 N Eutaw St",
-                "address2": null,
+                "address1": "301 Light St",
+                "address2": "Ste 2671",
                 "address3": null,
                 "city": "Baltimore",
-                "zip_code": "21201",
+                "zip_code": "21202",
                 "country": "US",
                 "state": "MD",
                 "display_address": [
-                    "840 N Eutaw St",
-                    "Baltimore, MD 21201"
+                    "301 Light St",
+                    "Ste 2671",
+                    "Baltimore, MD 21202"
                 ]
             },
-            "phone": "+14102259885",
-            "display_phone": "(410) 225-9885",
-            "distance": 2453.6160455213458
+            "phone": "+14106373080",
+            "display_phone": "(410) 637-3080",
+            "distance": 1228.8324524293616
         }
     ],
     "total": 666,

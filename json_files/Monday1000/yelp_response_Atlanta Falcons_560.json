@@ -229,8 +229,8 @@
                 "longitude": -84.39085
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": null,
@@ -268,8 +268,8 @@
                 "longitude": -84.3851739
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -551,8 +551,8 @@
                 "longitude": -84.382076
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -703,38 +703,6 @@
             "distance": 641.0000311424387
         },
         {
-            "id": "r-3ESxdAtbzVazzX0JRKEA",
-            "alias": "c-and-c-social-house-atlanta-3",
-            "name": "C & C Social House",
-            "image_url": "",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/c-and-c-social-house-atlanta-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 0,
-            "categories": [],
-            "rating": 0.0,
-            "coordinates": {
-                "latitude": 33.75568,
-                "longitude": -84.37733
-            },
-            "transactions": [],
-            "location": {
-                "address1": "314 Auburn Ave",
-                "address2": "",
-                "address3": null,
-                "city": "Atlanta",
-                "zip_code": "30303",
-                "country": "US",
-                "state": "GA",
-                "display_address": [
-                    "314 Auburn Ave",
-                    "Atlanta, GA 30303"
-                ]
-            },
-            "phone": "+14043903285",
-            "display_phone": "(404) 390-3285",
-            "distance": 2094.219965400762
-        },
-        {
             "id": "6J-Y8rmSTtaGbjJ7n9t4Tg",
             "alias": "philly-g-steak-atlanta",
             "name": "Philly G Steak",
@@ -777,6 +745,43 @@
             "distance": 1861.3316727242411
         },
         {
+            "id": "W3NQXdVKxFm7pGUVpwxgug",
+            "alias": "dramatech-concessions-atlanta",
+            "name": "DramaTech Concessions",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IpPxjABHjGJDB2-HTm-UHg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dramatech-concessions-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 33.772649243474,
+                "longitude": -84.3990848958492
+            },
+            "transactions": [],
+            "location": {
+                "address1": "770 State St NW",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30318",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "770 State St NW",
+                    "Atlanta, GA 30318"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2215.713033340553
+        },
+        {
             "id": "1LeUJQPubhUvH56D9MvClg",
             "alias": "papa-johns-pizza-atlanta-35",
             "name": "Papa John's Pizza",
@@ -815,7 +820,7 @@
             "distance": 1700.9799559192809
         }
     ],
-    "total": 705,
+    "total": 704,
     "region": {
         "center": {
             "longitude": -84.4,

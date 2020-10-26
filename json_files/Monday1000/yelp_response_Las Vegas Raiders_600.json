@@ -1,6 +1,47 @@
 {
     "businesses": [
         {
+            "id": "lDthbXmKfRk2gGh40zNbOw",
+            "alias": "my-flavor-hookah-bar-and-lounge-las-vegas",
+            "name": "My Flavor Hookah Bar & Lounge",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cpurfg8T8MLnworUpe8vVQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/my-flavor-hookah-bar-and-lounge-las-vegas?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "hookah_bars",
+                    "title": "Hookah Bars"
+                },
+                {
+                    "alias": "ethiopian",
+                    "title": "Ethiopian"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 36.107763,
+                "longitude": -115.198897
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4510 Arville St",
+                "address2": null,
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89103",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "4510 Arville St",
+                    "Las Vegas, NV 89103"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2329.7750355568323
+        },
+        {
             "id": "Pd52CjgyEU3Rb8co6QfTPw",
             "alias": "flight-deck-bar-and-grill-las-vegas",
             "name": "Flight Deck Bar & Grill",
@@ -72,8 +113,8 @@
                 "longitude": -115.172149
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -318,8 +359,8 @@
                 "longitude": -115.17222
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "location": {
                 "address1": "3755 S Las Vegas Blvd",
@@ -362,8 +403,8 @@
                 "longitude": -115.209966
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -632,8 +673,8 @@
                 "longitude": -115.174466
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -682,8 +723,8 @@
                 "longitude": -115.172368660569
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "3743 S Las Vegas Blvd",
@@ -723,8 +764,8 @@
                 "longitude": -115.19628
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$",
             "location": {
@@ -772,8 +813,8 @@
                 "longitude": -115.175952
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "6671 Las Vegas Blvd",
@@ -832,48 +873,6 @@
             "phone": "+17024141000",
             "display_phone": "(702) 414-1000",
             "distance": 3941.4654680750928
-        },
-        {
-            "id": "pkRCzURm4Y05ismtx08VAg",
-            "alias": "frankly-good-coffee-boulder-city-2",
-            "name": "Frankly Good Coffee",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b-PbjsLMKRyUlew1JIENGQ/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/frankly-good-coffee-boulder-city-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 3,
-            "categories": [
-                {
-                    "alias": "cafes",
-                    "title": "Cafes"
-                },
-                {
-                    "alias": "breakfast_brunch",
-                    "title": "Breakfast & Brunch"
-                }
-            ],
-            "rating": 5.0,
-            "coordinates": {
-                "latitude": 36.0679150146343,
-                "longitude": -115.173556208611
-            },
-            "transactions": [],
-            "location": {
-                "address1": "Fresh 52 Farmers Market",
-                "address2": "",
-                "address3": "Town Square Blvd",
-                "city": "Boulder City",
-                "zip_code": "89005",
-                "country": "US",
-                "state": "NV",
-                "display_address": [
-                    "Fresh 52 Farmers Market",
-                    "Town Square Blvd",
-                    "Boulder City, NV 89005"
-                ]
-            },
-            "phone": "+17026084257",
-            "display_phone": "(702) 608-4257",
-            "distance": 2703.8196444943483
         }
     ],
     "total": 758,

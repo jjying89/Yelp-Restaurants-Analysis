@@ -28,8 +28,8 @@
                 "longitude": -84.40089
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -213,8 +213,8 @@
                 "longitude": -84.3835566220902
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -262,8 +262,8 @@
                 "longitude": -84.38643
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -311,8 +311,8 @@
                 "longitude": -84.4008184024468
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -380,6 +380,54 @@
             "phone": "+14042533840",
             "display_phone": "(404) 253-3840",
             "distance": 3683.2370633612454
+        },
+        {
+            "id": "6gmEsan5nMc0_DPP7usxvA",
+            "alias": "fin-and-feathers-atlanta",
+            "name": "Fin & Feathers",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rBXPwXkp_ttOfVKyr6rkJg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fin-and-feathers-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 145,
+            "categories": [
+                {
+                    "alias": "soulfood",
+                    "title": "Soul Food"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.75457,
+                "longitude": -84.37596
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "360 Edgewood Ave SE",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30312",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "360 Edgewood Ave SE",
+                    "Atlanta, GA 30312"
+                ]
+            },
+            "phone": "+16787055757",
+            "display_phone": "(678) 705-5757",
+            "distance": 2220.697423847771
         },
         {
             "id": "wKT-LDY3Faca4qPO6pVCBg",
@@ -453,8 +501,8 @@
                 "longitude": -84.418626
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -523,54 +571,6 @@
             "distance": 2902.561268234433
         },
         {
-            "id": "6gmEsan5nMc0_DPP7usxvA",
-            "alias": "fin-and-feathers-atlanta",
-            "name": "Fin & Feathers",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rBXPwXkp_ttOfVKyr6rkJg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/fin-and-feathers-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 145,
-            "categories": [
-                {
-                    "alias": "soulfood",
-                    "title": "Soul Food"
-                },
-                {
-                    "alias": "breakfast_brunch",
-                    "title": "Breakfast & Brunch"
-                },
-                {
-                    "alias": "tradamerican",
-                    "title": "American (Traditional)"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 33.75457,
-                "longitude": -84.37596
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "360 Edgewood Ave SE",
-                "address2": null,
-                "address3": "",
-                "city": "Atlanta",
-                "zip_code": "30312",
-                "country": "US",
-                "state": "GA",
-                "display_address": [
-                    "360 Edgewood Ave SE",
-                    "Atlanta, GA 30312"
-                ]
-            },
-            "phone": "+16787055757",
-            "display_phone": "(678) 705-5757",
-            "distance": 2220.697423847771
-        },
-        {
             "id": "NEH9IVvl1e1vcSU0sK9YQg",
             "alias": "naanstop-atlanta",
             "name": "NaanStop",
@@ -590,8 +590,8 @@
                 "longitude": -84.3894655
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$",
             "location": {
@@ -778,8 +778,8 @@
                 "longitude": -84.411958
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -828,8 +828,8 @@
                 "longitude": -84.38708
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -941,7 +941,7 @@
             "distance": 939.4200384100328
         }
     ],
-    "total": 705,
+    "total": 704,
     "region": {
         "center": {
             "longitude": -84.4,

@@ -1,6 +1,50 @@
 {
     "businesses": [
         {
+            "id": "GFACw5ZUjQWA7Uw1xRz-QA",
+            "alias": "jonathans-grille-nashville-3",
+            "name": "Jonathans Grille",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/j8SZkCqf-ZBjhlgQW5vjrg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jonathans-grille-nashville-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 36.1708923447,
+                "longitude": -86.782289304
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "717 3rd Ave N",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "717 3rd Ave N",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+16156781140",
+            "display_phone": "(615) 678-1140",
+            "distance": 1099.1632380023473
+        },
+        {
             "id": "3yFcFud_1b6l8w1CNQfcew",
             "alias": "the-ribbon-room-nashville-3",
             "name": "The Ribbon Room",
@@ -158,8 +202,8 @@
                 "longitude": -86.7794759975185
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -459,8 +503,8 @@
                 "longitude": -86.7488632
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -577,8 +621,8 @@
                 "longitude": -86.7798910397727
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "9 Arcade Alley",
@@ -625,8 +669,8 @@
                 "longitude": -86.793607
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "117 17th Ave S",
@@ -673,8 +717,8 @@
                 "longitude": -86.7796030640602
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -693,51 +737,6 @@
             "phone": "+16158444249",
             "display_phone": "(615) 844-4249",
             "distance": 766.5521359553954
-        },
-        {
-            "id": "M8vKFvhRr_O31F5R9UGQWA",
-            "alias": "shabu-shabu-nashville",
-            "name": "Shabu Shabu",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UN7yTax3u_ymXx8KXNVwRg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/shabu-shabu-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 7,
-            "categories": [
-                {
-                    "alias": "japanese",
-                    "title": "Japanese"
-                },
-                {
-                    "alias": "hotpot",
-                    "title": "Hot Pot"
-                },
-                {
-                    "alias": "bbq",
-                    "title": "Barbeque"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 36.153297,
-                "longitude": -86.796022
-            },
-            "transactions": [],
-            "location": {
-                "address1": "1722 West End Ave",
-                "address2": "",
-                "address3": null,
-                "city": "Nashville",
-                "zip_code": "37203",
-                "country": "US",
-                "state": "TN",
-                "display_address": [
-                    "1722 West End Ave",
-                    "Nashville, TN 37203"
-                ]
-            },
-            "phone": "+16156558888",
-            "display_phone": "(615) 655-8888",
-            "distance": 2648.7196543511527
         },
         {
             "id": "HNHPqR1mi2QEwJNNU8IL_g",
@@ -759,8 +758,8 @@
                 "longitude": -86.77233
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "1201 Dickerson Pike",

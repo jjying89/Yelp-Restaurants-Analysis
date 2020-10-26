@@ -1,44 +1,6 @@
 {
     "businesses": [
         {
-            "id": "1LeUJQPubhUvH56D9MvClg",
-            "alias": "papa-johns-pizza-atlanta-35",
-            "name": "Papa John's Pizza",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wyw5ybkqFQSR2FFyAYCelg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/papa-johns-pizza-atlanta-35?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 1,
-            "categories": [
-                {
-                    "alias": "pizza",
-                    "title": "Pizza"
-                }
-            ],
-            "rating": 5.0,
-            "coordinates": {
-                "latitude": 33.747425,
-                "longitude": -84.415584
-            },
-            "transactions": [],
-            "price": "$",
-            "location": {
-                "address1": "Morehouse College",
-                "address2": null,
-                "address3": null,
-                "city": "Atlanta",
-                "zip_code": "30314",
-                "country": "US",
-                "state": "GA",
-                "display_address": [
-                    "Morehouse College",
-                    "Atlanta, GA 30314"
-                ]
-            },
-            "phone": "+14043546505",
-            "display_phone": "(404) 354-6505",
-            "distance": 1700.9799559192809
-        },
-        {
             "id": "2wmfFRb00ELYzejKEROYjA",
             "alias": "michaels-cafe-atlanta",
             "name": "Michael's Cafe",
@@ -299,8 +261,8 @@
                 "longitude": -84.409675
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "location": {
                 "address1": "134 John Hope Dr",
@@ -676,8 +638,8 @@
                 "longitude": -84.4168930053711
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "location": {
                 "address1": "902 Donald Lee Hollowell Pkwy NW",
@@ -815,9 +777,54 @@
             "phone": "+14046811152",
             "display_phone": "(404) 681-1152",
             "distance": 1061.4361060053564
+        },
+        {
+            "id": "3xw3zU8CEB947ayOeM2Xdw",
+            "alias": "downtown-deli-atlanta-3",
+            "name": "Downtown Deli",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vCythCCwpj2b73sN0jBsnw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/downtown-deli-atlanta-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "convenience",
+                    "title": "Convenience Stores"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.757858,
+                "longitude": -84.389945
+            },
+            "transactions": [],
+            "location": {
+                "address1": "115 Luckie St Nw",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "115 Luckie St Nw",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14046888290",
+            "display_phone": "(404) 688-8290",
+            "distance": 964.1622340354199
         }
     ],
-    "total": 705,
+    "total": 704,
     "region": {
         "center": {
             "longitude": -84.4,

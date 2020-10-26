@@ -378,6 +378,47 @@
             "distance": 2013.1637256559054
         },
         {
+            "id": "5E_C3EJfJsmVyJyT014__Q",
+            "alias": "cabu-latte-denver-3",
+            "name": "Cabu Latte",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/25uAErxMPM0HKnRc-qzVtQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cabu-latte-denver-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.75399,
+                "longitude": -105.005346
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2101 15th St",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2101 15th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13378524172",
+            "display_phone": "(337) 852-4172",
+            "distance": 2213.2310919623137
+        },
+        {
             "id": "WYz7P3yCSbQldycue2w0fA",
             "alias": "nest-at-nature-denver",
             "name": "Nest At Nature",
@@ -827,51 +868,6 @@
             "phone": "",
             "display_phone": "",
             "distance": 2375.6102924591933
-        },
-        {
-            "id": "WjEVpSzkpbF-x-lPJ9MbtQ",
-            "alias": "saffron-grill-denver-2",
-            "name": "Saffron Grill",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b4dmtdv5Wjl95bpM_ND2Xw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/saffron-grill-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 6,
-            "categories": [
-                {
-                    "alias": "foodtrucks",
-                    "title": "Food Trucks"
-                },
-                {
-                    "alias": "falafel",
-                    "title": "Falafel"
-                },
-                {
-                    "alias": "greek",
-                    "title": "Greek"
-                }
-            ],
-            "rating": 3.0,
-            "coordinates": {
-                "latitude": 39.7455898802002,
-                "longitude": -105.005350112915
-            },
-            "transactions": [],
-            "location": {
-                "address1": "1199 10th St",
-                "address2": null,
-                "address3": null,
-                "city": "Denver",
-                "zip_code": "80204",
-                "country": "US",
-                "state": "CO",
-                "display_address": [
-                    "1199 10th St",
-                    "Denver, CO 80204"
-                ]
-            },
-            "phone": "+13032021600",
-            "display_phone": "(303) 202-1600",
-            "distance": 1328.827798806484
         }
     ],
     "total": 575,

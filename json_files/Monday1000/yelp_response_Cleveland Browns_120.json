@@ -50,55 +50,6 @@
             "distance": 1586.7430480969447
         },
         {
-            "id": "QKhAME4uxgrOn-Aq3OURUQ",
-            "alias": "harry-buffalo-cleveland",
-            "name": "Harry Buffalo",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P6I9VR8Hk__YsvhXsk1uLg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/harry-buffalo-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 260,
-            "categories": [
-                {
-                    "alias": "burgers",
-                    "title": "Burgers"
-                },
-                {
-                    "alias": "tradamerican",
-                    "title": "American (Traditional)"
-                },
-                {
-                    "alias": "bars",
-                    "title": "Bars"
-                }
-            ],
-            "rating": 3.5,
-            "coordinates": {
-                "latitude": 41.4978078016809,
-                "longitude": -81.6899074709688
-            },
-            "transactions": [
-                "delivery",
-                "pickup"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "2120 East 4th St",
-                "address2": "",
-                "address3": "",
-                "city": "Cleveland",
-                "zip_code": "44115",
-                "country": "US",
-                "state": "OH",
-                "display_address": [
-                    "2120 East 4th St",
-                    "Cleveland, OH 44115"
-                ]
-            },
-            "phone": "+12166218887",
-            "display_phone": "(216) 621-8887",
-            "distance": 1217.8467630271396
-        },
-        {
             "id": "W1hXfgnugKfVV1wDhko5lw",
             "alias": "flat-iron-café-cleveland-2",
             "name": "Flat Iron Café",
@@ -220,6 +171,55 @@
             "phone": "+12166514007",
             "display_phone": "(216) 651-4007",
             "distance": 3150.222306609822
+        },
+        {
+            "id": "QKhAME4uxgrOn-Aq3OURUQ",
+            "alias": "harry-buffalo-cleveland",
+            "name": "Harry Buffalo",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P6I9VR8Hk__YsvhXsk1uLg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/harry-buffalo-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 260,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.4978078016809,
+                "longitude": -81.6899074709688
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2120 East 4th St",
+                "address2": "",
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44115",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "2120 East 4th St",
+                    "Cleveland, OH 44115"
+                ]
+            },
+            "phone": "+12166218887",
+            "display_phone": "(216) 621-8887",
+            "distance": 1217.8467630271396
         },
         {
             "id": "qZZ8VU1Bk-xCruEAZNwm6A",
@@ -747,8 +747,8 @@
                 "longitude": -81.693574
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {

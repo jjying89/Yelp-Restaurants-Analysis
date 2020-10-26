@@ -1,47 +1,6 @@
 {
     "businesses": [
         {
-            "id": "GEYAh2YQ6QxbXjuNcsbj9Q",
-            "alias": "subway-atlanta-184",
-            "name": "Subway",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/06cocjcX8XOCAh2fTsAqkQ/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/subway-atlanta-184?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 3,
-            "categories": [
-                {
-                    "alias": "sandwiches",
-                    "title": "Sandwiches"
-                }
-            ],
-            "rating": 2.5,
-            "coordinates": {
-                "latitude": 33.7229883,
-                "longitude": -84.3928444
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$",
-            "location": {
-                "address1": "1162 C Pryor St",
-                "address2": "",
-                "address3": null,
-                "city": "Atlanta",
-                "zip_code": "30315",
-                "country": "US",
-                "state": "GA",
-                "display_address": [
-                    "1162 C Pryor St",
-                    "Atlanta, GA 30315"
-                ]
-            },
-            "phone": "+14047489025",
-            "display_phone": "(404) 748-9025",
-            "distance": 3681.3078636953383
-        },
-        {
             "id": "UOT7hwofFxiInumwC5FM3w",
             "alias": "pizza-hut-liberty-18",
             "name": "Pizza Hut",
@@ -501,47 +460,6 @@
             "distance": 1202.9985183585507
         },
         {
-            "id": "kRqa3T8hzHcG42qrE0w-0g",
-            "alias": "sugar-lounge-atlanta",
-            "name": "Sugar Lounge",
-            "image_url": "",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/sugar-lounge-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 1,
-            "categories": [
-                {
-                    "alias": "lounges",
-                    "title": "Lounges"
-                },
-                {
-                    "alias": "restaurants",
-                    "title": "Restaurants"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 33.75081,
-                "longitude": -84.3963
-            },
-            "transactions": [],
-            "location": {
-                "address1": "257 Trinity Ave",
-                "address2": "",
-                "address3": "",
-                "city": "Atlanta",
-                "zip_code": "30303",
-                "country": "US",
-                "state": "GA",
-                "display_address": [
-                    "257 Trinity Ave",
-                    "Atlanta, GA 30303"
-                ]
-            },
-            "phone": "+14046881225",
-            "display_phone": "(404) 688-1225",
-            "distance": 630.7790231270506
-        },
-        {
             "id": "UxhT2vrwD-LtDupHuBdiPg",
             "alias": "southern-bonz-atlanta",
             "name": "Southern Bonz",
@@ -585,6 +503,47 @@
             "phone": "+19126045516",
             "display_phone": "(912) 604-5516",
             "distance": 1048.5913730680659
+        },
+        {
+            "id": "kRqa3T8hzHcG42qrE0w-0g",
+            "alias": "sugar-lounge-atlanta",
+            "name": "Sugar Lounge",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sugar-lounge-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.75081,
+                "longitude": -84.3963
+            },
+            "transactions": [],
+            "location": {
+                "address1": "257 Trinity Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "257 Trinity Ave",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14046881225",
+            "display_phone": "(404) 688-1225",
+            "distance": 630.7790231270506
         },
         {
             "id": "6HNeFIXESlYRuhccwHlUQA",
@@ -832,9 +791,46 @@
             "phone": "+14044131990",
             "display_phone": "(404) 413-1990",
             "distance": 1623.0040701977327
+        },
+        {
+            "id": "cc294DGStj5edNNEJ8lUBg",
+            "alias": "cafe-jas-atlanta",
+            "name": "Cafe Jas",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-jas-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7367137,
+                "longitude": -84.3952324
+            },
+            "transactions": [],
+            "location": {
+                "address1": "226 Ralph David Abernathy Blvd SW",
+                "address2": null,
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30312",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "226 Ralph David Abernathy Blvd SW",
+                    "Atlanta, GA 30312"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2148.097769490317
         }
     ],
-    "total": 705,
+    "total": 704,
     "region": {
         "center": {
             "longitude": -84.4,

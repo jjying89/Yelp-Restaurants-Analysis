@@ -85,55 +85,6 @@
             "distance": 3872.8726557638565
         },
         {
-            "id": "fKAxmycMFwO9qWVUAOQzOw",
-            "alias": "gs-pizza-new-orleans-5",
-            "name": "G's Pizza",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/siDrsCEoR-kCdf6GmnqF7A/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/gs-pizza-new-orleans-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 243,
-            "categories": [
-                {
-                    "alias": "gluten_free",
-                    "title": "Gluten-Free"
-                },
-                {
-                    "alias": "vegan",
-                    "title": "Vegan"
-                },
-                {
-                    "alias": "wine_bars",
-                    "title": "Wine Bars"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 29.98145,
-                "longitude": -90.10724
-            },
-            "transactions": [
-                "delivery",
-                "pickup"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "4840 Bienville St",
-                "address2": null,
-                "address3": "",
-                "city": "New Orleans",
-                "zip_code": "70119",
-                "country": "US",
-                "state": "LA",
-                "display_address": [
-                    "4840 Bienville St",
-                    "New Orleans, LA 70119"
-                ]
-            },
-            "phone": "+15044836464",
-            "display_phone": "(504) 483-6464",
-            "distance": 4232.814690538232
-        },
-        {
             "id": "3DKGhJXrqhVOQGFNiSp9Vg",
             "alias": "avenue-cafe-new-orleans",
             "name": "Avenue Cafe",
@@ -161,8 +112,8 @@
                 "longitude": -90.0784839
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -181,6 +132,55 @@
             "phone": "+15043012097",
             "display_phone": "(504) 301-2097",
             "distance": 1688.2264765950233
+        },
+        {
+            "id": "fKAxmycMFwO9qWVUAOQzOw",
+            "alias": "gs-pizza-new-orleans-5",
+            "name": "G's Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/siDrsCEoR-kCdf6GmnqF7A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gs-pizza-new-orleans-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 243,
+            "categories": [
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 29.98145,
+                "longitude": -90.10724
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4840 Bienville St",
+                "address2": null,
+                "address3": "",
+                "city": "New Orleans",
+                "zip_code": "70119",
+                "country": "US",
+                "state": "LA",
+                "display_address": [
+                    "4840 Bienville St",
+                    "New Orleans, LA 70119"
+                ]
+            },
+            "phone": "+15044836464",
+            "display_phone": "(504) 483-6464",
+            "distance": 4232.814690538232
         },
         {
             "id": "rAMlyZQe5eFrdLRVQfY4ZQ",
@@ -254,8 +254,8 @@
                 "longitude": -90.0878542
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -303,8 +303,8 @@
                 "longitude": -90.0919992851998
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -577,8 +577,8 @@
                 "longitude": -90.07411
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -699,8 +699,8 @@
                 "longitude": -90.0754632800817
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {

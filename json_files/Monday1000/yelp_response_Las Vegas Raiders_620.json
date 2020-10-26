@@ -1,6 +1,48 @@
 {
     "businesses": [
         {
+            "id": "pkRCzURm4Y05ismtx08VAg",
+            "alias": "frankly-good-coffee-boulder-city-2",
+            "name": "Frankly Good Coffee",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b-PbjsLMKRyUlew1JIENGQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/frankly-good-coffee-boulder-city-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 36.0679150146343,
+                "longitude": -115.173556208611
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Fresh 52 Farmers Market",
+                "address2": "",
+                "address3": "Town Square Blvd",
+                "city": "Boulder City",
+                "zip_code": "89005",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "Fresh 52 Farmers Market",
+                    "Town Square Blvd",
+                    "Boulder City, NV 89005"
+                ]
+            },
+            "phone": "+17026084257",
+            "display_phone": "(702) 608-4257",
+            "distance": 2703.8196444943483
+        },
+        {
             "id": "3-dR6RJvTHdkZEHMmB8OeQ",
             "alias": "nathans-famous-las-vegas-4",
             "name": "Nathan's Famous",
@@ -288,8 +330,8 @@
                 "longitude": -115.182005167007
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -334,8 +376,8 @@
                 "longitude": -115.178267
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -379,8 +421,8 @@
                 "longitude": -115.20159
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -752,8 +794,8 @@
                 "longitude": -115.175777
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$",
             "location": {
@@ -818,47 +860,6 @@
             "phone": "",
             "display_phone": "",
             "distance": 2751.0033893313985
-        },
-        {
-            "id": "lDthbXmKfRk2gGh40zNbOw",
-            "alias": "my-flavor-hookah-bar-and-lounge-las-vegas",
-            "name": "My Flavor Hookah Bar & Lounge",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cpurfg8T8MLnworUpe8vVQ/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/my-flavor-hookah-bar-and-lounge-las-vegas?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 4,
-            "categories": [
-                {
-                    "alias": "hookah_bars",
-                    "title": "Hookah Bars"
-                },
-                {
-                    "alias": "ethiopian",
-                    "title": "Ethiopian"
-                }
-            ],
-            "rating": 5.0,
-            "coordinates": {
-                "latitude": 36.107763,
-                "longitude": -115.198897
-            },
-            "transactions": [],
-            "location": {
-                "address1": "4510 Arville St",
-                "address2": null,
-                "address3": "",
-                "city": "Las Vegas",
-                "zip_code": "89103",
-                "country": "US",
-                "state": "NV",
-                "display_address": [
-                    "4510 Arville St",
-                    "Las Vegas, NV 89103"
-                ]
-            },
-            "phone": "",
-            "display_phone": "",
-            "distance": 2329.7750355568323
         }
     ],
     "total": 758,

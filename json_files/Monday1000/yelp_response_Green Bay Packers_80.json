@@ -49,6 +49,45 @@
             "distance": 2335.455682020988
         },
         {
+            "id": "iN1YH7tNCGZMsFKNeFUE3Q",
+            "alias": "aldos-pizza-green-bay",
+            "name": "Aldo's Pizza",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gWVPuhnnD7JxVJPjJiZN4g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/aldos-pizza-green-bay?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 44.53937,
+                "longitude": -88.03619
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1247 Velp Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Green Bay",
+                "zip_code": "54303",
+                "country": "US",
+                "state": "WI",
+                "display_address": [
+                    "1247 Velp Ave",
+                    "Green Bay, WI 54303"
+                ]
+            },
+            "phone": "+19204995449",
+            "display_phone": "(920) 499-5449",
+            "distance": 4696.084273340869
+        },
+        {
             "id": "SkwpVojDVQ_L3xbrygTMpQ",
             "alias": "applebees-grill-bar-green-bay-2",
             "name": "Applebee's Grill + Bar",
@@ -76,8 +115,8 @@
                 "longitude": -88.074908
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -159,8 +198,8 @@
                 "longitude": -88.066404
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "location": {
                 "address1": "1065 Lombardi Ave",
@@ -178,45 +217,6 @@
             "phone": "+19205697500",
             "display_phone": "(920) 569-7500",
             "distance": 416.3139286395535
-        },
-        {
-            "id": "iN1YH7tNCGZMsFKNeFUE3Q",
-            "alias": "aldos-pizza-green-bay",
-            "name": "Aldo's Pizza",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gWVPuhnnD7JxVJPjJiZN4g/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/aldos-pizza-green-bay?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 4,
-            "categories": [
-                {
-                    "alias": "pizza",
-                    "title": "Pizza"
-                }
-            ],
-            "rating": 3.5,
-            "coordinates": {
-                "latitude": 44.53937,
-                "longitude": -88.03619
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "location": {
-                "address1": "1247 Velp Ave",
-                "address2": "",
-                "address3": "",
-                "city": "Green Bay",
-                "zip_code": "54303",
-                "country": "US",
-                "state": "WI",
-                "display_address": [
-                    "1247 Velp Ave",
-                    "Green Bay, WI 54303"
-                ]
-            },
-            "phone": "+19204995449",
-            "display_phone": "(920) 499-5449",
-            "distance": 4696.084273340869
         },
         {
             "id": "9ckRfwuJHhu3B1d7IJE-AA",
@@ -242,8 +242,8 @@
                 "longitude": -88.0690384
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$",
             "location": {
@@ -291,8 +291,8 @@
                 "longitude": -88.07431
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -388,8 +388,8 @@
                 "longitude": -88.0592675507069
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -733,8 +733,8 @@
                 "longitude": -88.08715
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "location": {
                 "address1": "2260 W Mason St",

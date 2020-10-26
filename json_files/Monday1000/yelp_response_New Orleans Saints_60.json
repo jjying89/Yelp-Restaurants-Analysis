@@ -811,6 +811,54 @@
             "distance": 2061.6231658022734
         },
         {
+            "id": "pym7c6ZFEtmoH16xN2ApBg",
+            "alias": "katies-restaurant-and-bar-new-orleans",
+            "name": "Katie's Restaurant & Bar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/et28nBBFyVdqZh-OhtLk6A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/katies-restaurant-and-bar-new-orleans?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1165,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 29.9730854034424,
+                "longitude": -90.0959091186523
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3701 Iberville St",
+                "address2": "",
+                "address3": "",
+                "city": "New Orleans",
+                "zip_code": "70119",
+                "country": "US",
+                "state": "LA",
+                "display_address": [
+                    "3701 Iberville St",
+                    "New Orleans, LA 70119"
+                ]
+            },
+            "phone": "+15044886582",
+            "display_phone": "(504) 488-6582",
+            "distance": 2856.7477200273697
+        },
+        {
             "id": "SJIQFKTW6uUsOo29w9IHxw",
             "alias": "mambos-new-orleans",
             "name": "Mambo's",
@@ -858,54 +906,6 @@
             "phone": "+15044073717",
             "display_phone": "(504) 407-3717",
             "distance": 1451.1919877915418
-        },
-        {
-            "id": "pym7c6ZFEtmoH16xN2ApBg",
-            "alias": "katies-restaurant-and-bar-new-orleans",
-            "name": "Katie's Restaurant & Bar",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/et28nBBFyVdqZh-OhtLk6A/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/katies-restaurant-and-bar-new-orleans?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 1165,
-            "categories": [
-                {
-                    "alias": "tradamerican",
-                    "title": "American (Traditional)"
-                },
-                {
-                    "alias": "bars",
-                    "title": "Bars"
-                },
-                {
-                    "alias": "cajun",
-                    "title": "Cajun/Creole"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 29.9730854034424,
-                "longitude": -90.0959091186523
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "3701 Iberville St",
-                "address2": "",
-                "address3": "",
-                "city": "New Orleans",
-                "zip_code": "70119",
-                "country": "US",
-                "state": "LA",
-                "display_address": [
-                    "3701 Iberville St",
-                    "New Orleans, LA 70119"
-                ]
-            },
-            "phone": "+15044886582",
-            "display_phone": "(504) 488-6582",
-            "distance": 2856.7477200273697
         }
     ],
     "total": 945,

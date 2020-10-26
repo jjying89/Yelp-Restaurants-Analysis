@@ -244,7 +244,7 @@
             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uwNe5QyPj0OlTHC1RNgu5A/o.jpg",
             "is_closed": false,
             "url": "https://www.yelp.com/biz/whole-sol-blend-bar-denver-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 1,
+            "review_count": 2,
             "categories": [
                 {
                     "alias": "juicebars",
@@ -259,7 +259,7 @@
                     "title": "Acai Bowls"
                 }
             ],
-            "rating": 4.0,
+            "rating": 4.5,
             "coordinates": {
                 "latitude": 39.742778,
                 "longitude": -105.041673
@@ -453,6 +453,47 @@
             "distance": 2212.538432255322
         },
         {
+            "id": "yJPxzYQOji6H5NPUwaM9IQ",
+            "alias": "the-sandwich-board-denver-14",
+            "name": "The Sandwich Board",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-sandwich-board-denver-14?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7144203,
+                "longitude": -105.0047684
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1340 W Bayaud Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80223",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1340 W Bayaud Ave",
+                    "Denver, CO 80223"
+                ]
+            },
+            "phone": "+13037222149",
+            "display_phone": "(303) 722-2149",
+            "distance": 3187.7880854839
+        },
+        {
             "id": "IlFGGCWA2zOrUl5s8BZg_w",
             "alias": "the-tamale-stand-in-coors-field-by-1st-base-denver",
             "name": "The Tamale Stand in Coors Field by 1st Base",
@@ -493,47 +534,6 @@
             "phone": "+13032920200",
             "display_phone": "(303) 292-0200",
             "distance": 2681.2399147351503
-        },
-        {
-            "id": "yJPxzYQOji6H5NPUwaM9IQ",
-            "alias": "the-sandwich-board-denver-14",
-            "name": "The Sandwich Board",
-            "image_url": "",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/the-sandwich-board-denver-14?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 1,
-            "categories": [
-                {
-                    "alias": "sandwiches",
-                    "title": "Sandwiches"
-                },
-                {
-                    "alias": "hotdogs",
-                    "title": "Fast Food"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 39.7144203,
-                "longitude": -105.0047684
-            },
-            "transactions": [],
-            "location": {
-                "address1": "1340 W Bayaud Ave",
-                "address2": "",
-                "address3": "",
-                "city": "Denver",
-                "zip_code": "80223",
-                "country": "US",
-                "state": "CO",
-                "display_address": [
-                    "1340 W Bayaud Ave",
-                    "Denver, CO 80223"
-                ]
-            },
-            "phone": "+13037222149",
-            "display_phone": "(303) 722-2149",
-            "distance": 3187.7880854839
         },
         {
             "id": "WNmKYUfXqRr_cR6yINRGiQ",

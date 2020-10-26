@@ -28,8 +28,8 @@
                 "longitude": -84.3759841918945
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -167,8 +167,8 @@
                 "longitude": -84.38033323735
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -413,6 +413,43 @@
             "distance": 727.6154166127282
         },
         {
+            "id": "IOLwhRIF2wyhbTJl_J2khw",
+            "alias": "breakfast-at-barneys-atlanta-2",
+            "name": "Breakfast at Barneys",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Emhp7nDXxZ1s1Sbc11T-9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/breakfast-at-barneys-atlanta-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 77,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.74955,
+                "longitude": -84.37822
+            },
+            "transactions": [],
+            "location": {
+                "address1": "349 Decatur St",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30312",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "349 Decatur St",
+                    "Atlanta, GA 30312"
+                ]
+            },
+            "phone": "+14045496042",
+            "display_phone": "(404) 549-6042",
+            "distance": 2048.1135797068055
+        },
+        {
             "id": "qTXYie0Phy8JbuOau4rTmg",
             "alias": "aziza-atlanta-2",
             "name": "Aziza",
@@ -640,43 +677,6 @@
             "distance": 3488.8651071239656
         },
         {
-            "id": "IOLwhRIF2wyhbTJl_J2khw",
-            "alias": "breakfast-at-barneys-atlanta-2",
-            "name": "Breakfast at Barneys",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Emhp7nDXxZ1s1Sbc11T-9g/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/breakfast-at-barneys-atlanta-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 75,
-            "categories": [
-                {
-                    "alias": "breakfast_brunch",
-                    "title": "Breakfast & Brunch"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 33.74955,
-                "longitude": -84.37822
-            },
-            "transactions": [],
-            "location": {
-                "address1": "349 Decatur St",
-                "address2": "",
-                "address3": "",
-                "city": "Atlanta",
-                "zip_code": "30312",
-                "country": "US",
-                "state": "GA",
-                "display_address": [
-                    "349 Decatur St",
-                    "Atlanta, GA 30312"
-                ]
-            },
-            "phone": "+14045496042",
-            "display_phone": "(404) 549-6042",
-            "distance": 2048.1135797068055
-        },
-        {
             "id": "wuOlcGt0jzkSnXA-kkPJHA",
             "alias": "the-consulate-atlanta-5",
             "name": "The Consulate",
@@ -742,9 +742,9 @@
                 "longitude": -84.3835182227681
             },
             "transactions": [
-                "restaurant_reservation",
+                "delivery",
                 "pickup",
-                "delivery"
+                "restaurant_reservation"
             ],
             "price": "$$",
             "location": {
@@ -829,8 +829,8 @@
                 "longitude": -84.4140216889549
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -900,7 +900,7 @@
             "distance": 2920.9884139605497
         }
     ],
-    "total": 705,
+    "total": 704,
     "region": {
         "center": {
             "longitude": -84.4,

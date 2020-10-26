@@ -195,8 +195,8 @@
                 "longitude": -83.039389
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "546 E Larned",
@@ -584,6 +584,48 @@
             "distance": 1388.3595155519033
         },
         {
+            "id": "ur3vIVpzyYynvvQ_qruSbQ",
+            "alias": "lahori-grill-windsor",
+            "name": "Lahori Grill",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nshWG_NGnHiRplS3SgsF9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lahori-grill-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "pakistani",
+                    "title": "Pakistani"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.31355,
+                "longitude": -83.05216
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1139 University Ave W",
+                "address2": "",
+                "address3": null,
+                "city": "Windsor",
+                "zip_code": "N9A 5T1",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "1139 University Ave W",
+                    "Windsor, ON N9A 5T1",
+                    "Canada"
+                ]
+            },
+            "phone": "+12263477000",
+            "display_phone": "+1 226-347-7000",
+            "distance": 2972.8832429276054
+        },
+        {
             "id": "ZRBNZKWbc01MbDXn7cN33g",
             "alias": "campbell-pizza-windsor",
             "name": "Campbell Pizza",
@@ -628,48 +670,6 @@
             "phone": "+12262219696",
             "display_phone": "+1 226-221-9696",
             "distance": 4140.205518877746
-        },
-        {
-            "id": "ur3vIVpzyYynvvQ_qruSbQ",
-            "alias": "lahori-grill-windsor",
-            "name": "Lahori Grill",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nshWG_NGnHiRplS3SgsF9g/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/lahori-grill-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 1,
-            "categories": [
-                {
-                    "alias": "indpak",
-                    "title": "Indian"
-                },
-                {
-                    "alias": "pakistani",
-                    "title": "Pakistani"
-                }
-            ],
-            "rating": 5.0,
-            "coordinates": {
-                "latitude": 42.31355,
-                "longitude": -83.05216
-            },
-            "transactions": [],
-            "location": {
-                "address1": "1139 University Ave W",
-                "address2": "",
-                "address3": null,
-                "city": "Windsor",
-                "zip_code": "N9A 5T1",
-                "country": "CA",
-                "state": "ON",
-                "display_address": [
-                    "1139 University Ave W",
-                    "Windsor, ON N9A 5T1",
-                    "Canada"
-                ]
-            },
-            "phone": "+12263477000",
-            "display_phone": "+1 226-347-7000",
-            "distance": 2972.8832429276054
         },
         {
             "id": "fsmqE1ofTP5Co2GXSQym2A",

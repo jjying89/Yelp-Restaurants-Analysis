@@ -278,55 +278,6 @@
             "distance": 3027.3115386885415
         },
         {
-            "id": "m5WOv_Y8oIuuD4EFPkKheQ",
-            "alias": "ny-pizza-pub-denver",
-            "name": "NY Pizza Pub",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wSBB_-TYp001gxc_YWtTlA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/ny-pizza-pub-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 136,
-            "categories": [
-                {
-                    "alias": "italian",
-                    "title": "Italian"
-                },
-                {
-                    "alias": "pizza",
-                    "title": "Pizza"
-                },
-                {
-                    "alias": "bars",
-                    "title": "Bars"
-                }
-            ],
-            "rating": 3.5,
-            "coordinates": {
-                "latitude": 39.765574,
-                "longitude": -105.043818
-            },
-            "transactions": [
-                "delivery",
-                "pickup"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "4340 W 35th Ave",
-                "address2": "",
-                "address3": "",
-                "city": "Denver",
-                "zip_code": "80212",
-                "country": "US",
-                "state": "CO",
-                "display_address": [
-                    "4340 W 35th Ave",
-                    "Denver, CO 80212"
-                ]
-            },
-            "phone": "+13036399675",
-            "display_phone": "(303) 639-9675",
-            "distance": 3427.8667435894117
-        },
-        {
             "id": "DFLpKoj2lwDcZScnPW0arg",
             "alias": "viewhouse-ballpark-denver",
             "name": "ViewHouse Ballpark",
@@ -374,6 +325,55 @@
             "phone": "+17208782015",
             "display_phone": "(720) 878-2015",
             "distance": 2697.722588000427
+        },
+        {
+            "id": "m5WOv_Y8oIuuD4EFPkKheQ",
+            "alias": "ny-pizza-pub-denver",
+            "name": "NY Pizza Pub",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wSBB_-TYp001gxc_YWtTlA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ny-pizza-pub-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 136,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.765574,
+                "longitude": -105.043818
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4340 W 35th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80212",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "4340 W 35th Ave",
+                    "Denver, CO 80212"
+                ]
+            },
+            "phone": "+13036399675",
+            "display_phone": "(303) 639-9675",
+            "distance": 3427.8667435894117
         },
         {
             "id": "lWm9Ralu7uaHJr1TFuYbmA",
