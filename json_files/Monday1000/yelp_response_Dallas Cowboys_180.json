@@ -1,0 +1,861 @@
+{
+    "businesses": [
+        {
+            "id": "W4VT9gNIPulOVCKPJoRtug",
+            "alias": "jack-in-the-box-arlington-13",
+            "name": "Jack in the Box",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yUmh_HVe8DDP7zaqV6oQlQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-in-the-box-arlington-13?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.7481919468767,
+                "longitude": -97.0977025
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "900 N Collins St",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "900 N Collins St",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18172740896",
+            "display_phone": "(817) 274-0896",
+            "distance": 462.8399902659348
+        },
+        {
+            "id": "fFCsVqCMXD2TfTLvMExz_w",
+            "alias": "burger-king-arlington-7",
+            "name": "Burger King",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xw553TMoRg6kZ6hF_amvrQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-arlington-7?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 46,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 32.75835,
+                "longitude": -97.1150399
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1520 N Cooper St",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1520 N Cooper St",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2383.949973415845
+        },
+        {
+            "id": "RvcfA_oxzqPg3HTFe-l3yw",
+            "alias": "sonic-drive-in-arlington-12",
+            "name": "Sonic Drive-In",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sclKuwPCAtDqTZuNEVs_XQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sonic-drive-in-arlington-12?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 32.75054,
+                "longitude": -97.11029
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "409 W Randol Mill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "409 W Randol Mill Rd",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18172778771",
+            "display_phone": "(817) 277-8771",
+            "distance": 1661.3019741117866
+        },
+        {
+            "id": "FW6yeyMAFM6nBsDf-szqQg",
+            "alias": "pudges-pizza-arlington-4",
+            "name": "Pudge's Pizza",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c2s6lNCUyaM0youlUckG1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pudges-pizza-arlington-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 32.7498414,
+                "longitude": -97.0854923
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1650 E Randol Mill Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1650 E Randol Mill Rd",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18177691752",
+            "display_phone": "(817) 769-1752",
+            "distance": 754.1783463814704
+        },
+        {
+            "id": "3TULSQkvjVc_wdcW78VXJg",
+            "alias": "jack-in-the-box-arlington-21",
+            "name": "Jack in the Box",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/l5mP-rtbmMmJbU0jwz2cig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-in-the-box-arlington-21?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 32.7211126626412,
+                "longitude": -97.0823661983013
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1807 E Park Row Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76010",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1807 E Park Row Dr",
+                    "Arlington, TX 76010"
+                ]
+            },
+            "phone": "+18172770782",
+            "display_phone": "(817) 277-0782",
+            "distance": 3120.886412382931
+        },
+        {
+            "id": "yurOCCBVv8cEXjICgdr8Qg",
+            "alias": "jack-in-the-box-arlington-8",
+            "name": "Jack in the Box",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Oxwndypl1v-h44L6HbLXBQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-in-the-box-arlington-8?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 32.7388583,
+                "longitude": -97.1148581
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "700 W Division St",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76012",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "700 W Division St",
+                    "Arlington, TX 76012"
+                ]
+            },
+            "phone": "+18175836430",
+            "display_phone": "(817) 583-6430",
+            "distance": 2290.89916200967
+        },
+        {
+            "id": "v9jrDtA4plr5yjU5nNGrMw",
+            "alias": "el-jacalito-no-3-arlington",
+            "name": "El Jacalito No 3",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iFlqsh2yeftWZ9lBX48TXw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-jacalito-no-3-arlington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 32.719354,
+                "longitude": -97.079884
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1621 New York Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76010",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1621 New York Ave",
+                    "Arlington, TX 76010"
+                ]
+            },
+            "phone": "+18178605313",
+            "display_phone": "(817) 860-5313",
+            "distance": 3382.894684308084
+        },
+        {
+            "id": "_bwnj9TXhmMkOrlOEKsTaQ",
+            "alias": "wings-world-arlington",
+            "name": "Wings World",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pWd2DAJphNPp1FRXhHUCIw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wings-world-arlington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 32.73495,
+                "longitude": -97.06658
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2500 E Abram St",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76010",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2500 E Abram St",
+                    "Arlington, TX 76010"
+                ]
+            },
+            "phone": "+18178611818",
+            "display_phone": "(817) 861-1818",
+            "distance": 2839.5551812728854
+        },
+        {
+            "id": "PDCog4TtyYEAoaFlhiy5-Q",
+            "alias": "subway-arlington-101",
+            "name": "Subway",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0H-18xqEC85g7p1KM4EEng/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-arlington-101?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.762482616579,
+                "longitude": -97.114919
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1818 N Cooper St",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1818 N Cooper St",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18172756336",
+            "display_phone": "(817) 275-6336",
+            "distance": 2638.2569455849693
+        },
+        {
+            "id": "4cLZHvmuB9mFAPrMi88-6w",
+            "alias": "long-john-silvers-arlington-3",
+            "name": "Long John Silver's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XiinLCU_h7Igwh9FkZYSuQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/long-john-silvers-arlington-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 32.7353499,
+                "longitude": -97.11501
+            },
+            "transactions": [],
+            "location": {
+                "address1": "700 W Abram St",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76013",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "700 W Abram St",
+                    "Arlington, TX 76013"
+                ]
+            },
+            "phone": "+18172743443",
+            "display_phone": "(817) 274-3443",
+            "distance": 2496.7894969641484
+        },
+        {
+            "id": "LAQpd8uwRr5nN_UdV-dn0Q",
+            "alias": "kfc-arlington-17",
+            "name": "KFC",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RrPrwSdyzEDEr7GUsOpV-g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kfc-arlington-17?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 32.7351603367024,
+                "longitude": -97.1149161222268
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "700 W Abram St",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76013",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "700 W Abram St",
+                    "Arlington, TX 76013"
+                ]
+            },
+            "phone": "+18172743443",
+            "display_phone": "(817) 274-3443",
+            "distance": 2501.116679423027
+        },
+        {
+            "id": "MvTU0OeS9ozXNj3297B9kA",
+            "alias": "diamond-club-at-the-ballpark-arlington",
+            "name": "Diamond Club At the Ballpark",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fWvTsWGZ9PFwq8CC7n4DZg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/diamond-club-at-the-ballpark-arlington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 32.7513099,
+                "longitude": -97.08253
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1000 Ballpark Way",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1000 Ballpark Way",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18177959006",
+            "display_phone": "(817) 795-9006",
+            "distance": 973.0899071181748
+        },
+        {
+            "id": "DTK25MjVNikAscD2YMhFjw",
+            "alias": "mariscos-acapulco-arlington",
+            "name": "Mariscos Acapulco",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mariscos-acapulco-arlington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 32.7392921447754,
+                "longitude": -97.094612121582
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1004 E Division St",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1004 E Division St",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18174590305",
+            "display_phone": "(817) 459-0305",
+            "distance": 964.7065739930779
+        },
+        {
+            "id": "gkd3iIWWqLKyteZfJLYVCQ",
+            "alias": "shady-oaks-barbeque-arlington",
+            "name": "Shady Oaks Barbeque",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shady-oaks-barbeque-arlington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.7265425,
+                "longitude": -97.1109451
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1075 S West St",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76010",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1075 S West St",
+                    "Arlington, TX 76010"
+                ]
+            },
+            "phone": "+18175575261",
+            "display_phone": "(817) 557-5261",
+            "distance": 2911.306052931619
+        },
+        {
+            "id": "MySDWA4B-Ph9K6UT8Kv8wQ",
+            "alias": "tropical-smoothie-cafe-arlington-10",
+            "name": "Tropical Smoothie Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/j1pZupr0X-JXNhbWKokrMQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tropical-smoothie-cafe-arlington-10?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.752581,
+                "longitude": -97.097751
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1108 N Collins St",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1108 N Collins St",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+16822766008",
+            "display_phone": "(682) 276-6008",
+            "distance": 702.6914458067034
+        },
+        {
+            "id": "7oIpsXvuaAxZsmxySaFTQQ",
+            "alias": "la-cierrita-arlington",
+            "name": "La Cierrita",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-cierrita-arlington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.7185149490833,
+                "longitude": -97.0803652703762
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1634 New York Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76010",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1634 New York Ave",
+                    "Arlington, TX 76010"
+                ]
+            },
+            "phone": "+18177956824",
+            "display_phone": "(817) 795-6824",
+            "distance": 3396.0908599111626
+        },
+        {
+            "id": "-Zsp7TKKpwd-7YzB6B3NXw",
+            "alias": "los-sapitos-arlington",
+            "name": "Los Sapitos",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hYmlnhlm8Do1nC_94j5GeQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/los-sapitos-arlington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.73464,
+                "longitude": -97.07319
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "2100 E Abram St",
+                "address2": "Ste 114",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76010",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2100 E Abram St",
+                    "Ste 114",
+                    "Arlington, TX 76010"
+                ]
+            },
+            "phone": "+18172760444",
+            "display_phone": "(817) 276-0444",
+            "distance": 2351.6435925575283
+        },
+        {
+            "id": "cIvgpioLHLdy4tPzpxazbQ",
+            "alias": "erbil-kabob-house-arlington",
+            "name": "Erbil Kabob House",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gRU4CQ_5nDuF3X-eKwPSQw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/erbil-kabob-house-arlington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 32.750443,
+                "longitude": -97.111018
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "419 W Randol Mill Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "419 W Randol Mill Rd",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1731.5925872275875
+        },
+        {
+            "id": "-7U2R_i_N2K83_aCXttThQ",
+            "alias": "subway-arlington-87",
+            "name": "Subway",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U_h40NTcEgvzMpZ40ynTNA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-arlington-87?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.7206259875698,
+                "longitude": -97.1144201982719
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1515B S Cooper St",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76010",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1515B S Cooper St",
+                    "Arlington, TX 76010"
+                ]
+            },
+            "phone": "+18175489590",
+            "display_phone": "(817) 548-9590",
+            "distance": 3634.9981473742287
+        },
+        {
+            "id": "1YdujQOFftvMEzX4igcHiQ",
+            "alias": "jack-in-the-box-arlington-5",
+            "name": "Jack in the Box",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2avK6Y2mvr83CSPMVAMefA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-in-the-box-arlington-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 32.7411863,
+                "longitude": -97.0839884
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1734 E Division St",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1734 E Division St",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18178605842",
+            "display_phone": "(817) 860-5842",
+            "distance": 1101.3608387548652
+        }
+    ],
+    "total": 210,
+    "region": {
+        "center": {
+            "longitude": -97.09277800000001,
+            "latitude": 32.747778000000004
+        }
+    }
+}

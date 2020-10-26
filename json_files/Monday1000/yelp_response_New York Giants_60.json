@@ -1,0 +1,863 @@
+{
+    "businesses": [
+        {
+            "id": "dGVulDCW3sWSci7ESrkF-A",
+            "alias": "prova-an-italian-eatery-moonachie",
+            "name": "Prova An Italian Eatery",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xyzGcQ9Qhf4XIbIeLRo9WA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/prova-an-italian-eatery-moonachie?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.840665,
+                "longitude": -74.072188
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "94 Moonachie Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Moonachie",
+                "zip_code": "07608",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "94 Moonachie Ave",
+                    "Moonachie, NJ 07608"
+                ]
+            },
+            "phone": "+12019398500",
+            "display_phone": "(201) 939-8500",
+            "distance": 3023.027456789924
+        },
+        {
+            "id": "MxQmGAh22Lmg36wFcX-pfw",
+            "alias": "five-guys-east-rutherford",
+            "name": "Five Guys",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TSzu_8D_kph2beKksBJO3Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/five-guys-east-rutherford?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 77,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.8309206,
+                "longitude": -74.0902942
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "54 Route 17 N",
+                "address2": "",
+                "address3": "",
+                "city": "East Rutherford",
+                "zip_code": "07073",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "54 Route 17 N",
+                    "East Rutherford, NJ 07073"
+                ]
+            },
+            "phone": "+12015075550",
+            "display_phone": "(201) 507-5550",
+            "distance": 2316.7755680677874
+        },
+        {
+            "id": "QowiwYLgaeNyOxPe_SoYKA",
+            "alias": "mob-burger-wood-ridge",
+            "name": "Mob Burger",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zQThOXadu2FuIQ6_ebwLZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mob-burger-wood-ridge?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 99,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.8469143,
+                "longitude": -74.0824938
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "200 Hackensack St",
+                "address2": null,
+                "address3": "",
+                "city": "Wood-Ridge",
+                "zip_code": "07075",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "200 Hackensack St",
+                    "Wood-Ridge, NJ 07075"
+                ]
+            },
+            "phone": "+12017288600",
+            "display_phone": "(201) 728-8600",
+            "distance": 3774.9167893297035
+        },
+        {
+            "id": "PU5T8Yvmb7dEMKBa1i5k1w",
+            "alias": "jersey-mikes-east-rutherford",
+            "name": "Jersey Mike's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GVG4i7RpyS3xxFYHYcHhsQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jersey-mikes-east-rutherford?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.8311534,
+                "longitude": -74.089251
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "50 Route 17 N",
+                "address2": "",
+                "address3": null,
+                "city": "East Rutherford",
+                "zip_code": "07073",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "50 Route 17 N",
+                    "East Rutherford, NJ 07073"
+                ]
+            },
+            "phone": "+12019352088",
+            "display_phone": "(201) 935-2088",
+            "distance": 2326.123613384279
+        },
+        {
+            "id": "kvIpUfbFh8jadKzVmR6yAw",
+            "alias": "master-pizza-carlstadt-carlstadt",
+            "name": "Master Pizza - Carlstadt",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Z2oirAgqpMf8-W5AUIrVqw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/master-pizza-carlstadt-carlstadt?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 71,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.83718,
+                "longitude": -74.09161
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "401 Hackensack St",
+                "address2": "",
+                "address3": null,
+                "city": "Carlstadt",
+                "zip_code": "07072",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "401 Hackensack St",
+                    "Carlstadt, NJ 07072"
+                ]
+            },
+            "phone": "+12019030050",
+            "display_phone": "(201) 903-0050",
+            "distance": 3007.615840788292
+        },
+        {
+            "id": "EgEcgkyhnvtVZZEh0zye_g",
+            "alias": "candlewyck-diner-east-rutherford",
+            "name": "Candlewyck Diner",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rY3gRiMDLH9aZVeFoUF9Uw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/candlewyck-diner-east-rutherford?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 410,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.8326598,
+                "longitude": -74.0953233
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "179 Paterson Ave",
+                "address2": "",
+                "address3": "",
+                "city": "East Rutherford",
+                "zip_code": "07073",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "179 Paterson Ave",
+                    "East Rutherford, NJ 07073"
+                ]
+            },
+            "phone": "+12019334446",
+            "display_phone": "(201) 933-4446",
+            "distance": 2764.1242519751027
+        },
+        {
+            "id": "ShZamNKgSkv8XKDnjE0kPw",
+            "alias": "eros-cafe-east-rutherford",
+            "name": "Eros Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CtDosJcHPB__HlpgeRhKGQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/eros-cafe-east-rutherford?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 111,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.8284782,
+                "longitude": -74.1001848
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "168 Union Ave",
+                "address2": "",
+                "address3": "",
+                "city": "East Rutherford",
+                "zip_code": "07073",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "168 Union Ave",
+                    "East Rutherford, NJ 07073"
+                ]
+            },
+            "phone": "+12017290005",
+            "display_phone": "(201) 729-0005",
+            "distance": 2760.319759333371
+        },
+        {
+            "id": "NwyhMWu6zsN4tBZQ2Fz-9A",
+            "alias": "la-havana-59-moonachie",
+            "name": "La Havana 59",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/c0HXpflQrGNK4gbrtiYXWg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-havana-59-moonachie?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 288,
+            "categories": [
+                {
+                    "alias": "cuban",
+                    "title": "Cuban"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.8383708013101,
+                "longitude": -74.063100494674
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "110 Moonachie Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Moonachie",
+                "zip_code": "07074",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "110 Moonachie Ave",
+                    "Moonachie, NJ 07074"
+                ]
+            },
+            "phone": "+12019649515",
+            "display_phone": "(201) 964-9515",
+            "distance": 2920.3596474145165
+        },
+        {
+            "id": "izf6mlLY6EYPgf5ubzsFjA",
+            "alias": "meadowlands-diner-carlstadt",
+            "name": "Meadowlands Diner",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/C3TXFZHRhqTvxf_kFEBbYQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/meadowlands-diner-carlstadt?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 155,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.833898,
+                "longitude": -74.088163
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "320 NJ-17",
+                "address2": "",
+                "address3": "",
+                "city": "Carlstadt",
+                "zip_code": "07072",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "320 NJ-17",
+                    "Carlstadt, NJ 07072"
+                ]
+            },
+            "phone": "+12019355444",
+            "display_phone": "(201) 935-5444",
+            "distance": 2545.415317359293
+        },
+        {
+            "id": "U8cwzchWvTB4tfs-K62bTQ",
+            "alias": "bagel-buffet-secaucus",
+            "name": "Bagel Buffet",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x32J47A6vUWYFmerNbQXuQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bagel-buffet-secaucus?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 194,
+            "categories": [
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.7911015,
+                "longitude": -74.0568152
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "127 Plaza Ctr",
+                "address2": "",
+                "address3": "",
+                "city": "Secaucus",
+                "zip_code": "07094",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "127 Plaza Ctr",
+                    "Secaucus, NJ 07094"
+                ]
+            },
+            "phone": "+12018631710",
+            "display_phone": "(201) 863-1710",
+            "distance": 2858.335777193853
+        },
+        {
+            "id": "ibS4MPCwdVEDSt5pXN5r9w",
+            "alias": "olive-garden-italian-restaurant-secaucus-3",
+            "name": "Olive Garden Italian Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OmfJ1G3_ikeV6woeHcKQvg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/olive-garden-italian-restaurant-secaucus-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 252,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.7907619,
+                "longitude": -74.052032
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "500 State Rt 3",
+                "address2": "",
+                "address3": "",
+                "city": "Secaucus",
+                "zip_code": "07094",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "500 State Rt 3",
+                    "Secaucus, NJ 07094"
+                ]
+            },
+            "phone": "+12018673543",
+            "display_phone": "(201) 867-3543",
+            "distance": 3152.8899696233343
+        },
+        {
+            "id": "7gHO5f3sK_tl_nCb6FwXoA",
+            "alias": "plaza-pizza-secaucus",
+            "name": "Plaza Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IqYURlmUjDxZkFkSCfgqGA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/plaza-pizza-secaucus?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 110,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.7903651,
+                "longitude": -74.0574669
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "89 Plaza Ctr",
+                "address2": "",
+                "address3": "",
+                "city": "Secaucus",
+                "zip_code": "07094",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "89 Plaza Ctr",
+                    "Secaucus, NJ 07094"
+                ]
+            },
+            "phone": "+12018640858",
+            "display_phone": "(201) 864-0858",
+            "distance": 2942.0692311140056
+        },
+        {
+            "id": "ZIC_zceKH8IRSDFc5Xe-2Q",
+            "alias": "the-taco-shop-wood-ridge",
+            "name": "The Taco Shop",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/a16qgAOLFsAL0MEPTmmhRQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-taco-shop-wood-ridge?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.8469145230626,
+                "longitude": -74.0824936330318
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "200 Hackensack St",
+                "address2": null,
+                "address3": "",
+                "city": "Wood-Ridge",
+                "zip_code": "07075",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "200 Hackensack St",
+                    "Wood-Ridge, NJ 07075"
+                ]
+            },
+            "phone": "+12017288600",
+            "display_phone": "(201) 728-8600",
+            "distance": 3774.9386352889505
+        },
+        {
+            "id": "ulcKS4QsH1jwC1KFUBVvVw",
+            "alias": "lolas-tequila-haus-carlstadt-2",
+            "name": "Lola's Tequila Haus",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JKn7nMTHdikKd-beSmFTMw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lolas-tequila-haus-carlstadt-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 61,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.8305807174303,
+                "longitude": -74.0837472304702
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "335 Paterson Plank Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Carlstadt",
+                "zip_code": "07072",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "335 Paterson Plank Rd",
+                    "Carlstadt, NJ 07072"
+                ]
+            },
+            "phone": "+12014600100",
+            "display_phone": "(201) 460-0100",
+            "distance": 2054.088378885536
+        },
+        {
+            "id": "BQD2hBBOftUxLj-S1ENDzA",
+            "alias": "la-mia-cucina-secaucus-5",
+            "name": "La Mia Cucina",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q4vFVDOFbE8EFkcKGpoiTQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-mia-cucina-secaucus-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 61,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.79093,
+                "longitude": -74.05946
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "161 Front St",
+                "address2": null,
+                "address3": null,
+                "city": "Secaucus",
+                "zip_code": "07094",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "161 Front St",
+                    "Secaucus, NJ 07094"
+                ]
+            },
+            "phone": "+12015539711",
+            "display_phone": "(201) 553-9711",
+            "distance": 2805.3862101513278
+        },
+        {
+            "id": "o7fIFh6OgHy8jryyYM3VNA",
+            "alias": "flaming-grill-and-supreme-buffet-east-rutherford",
+            "name": "Flaming Grill & Supreme Buffet",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hg_rJVUe9efQ7MXFPCeYHg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/flaming-grill-and-supreme-buffet-east-rutherford?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 340,
+            "categories": [
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.8297868,
+                "longitude": -74.0920766
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "53 Rt 17 S",
+                "address2": "",
+                "address3": "",
+                "city": "East Rutherford",
+                "zip_code": "07073",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "53 Rt 17 S",
+                    "East Rutherford, NJ 07073"
+                ]
+            },
+            "phone": "+12014381115",
+            "display_phone": "(201) 438-1115",
+            "distance": 2495.2856489566893
+        },
+        {
+            "id": "5yHuB6cT4Y82u22kOziobw",
+            "alias": "china-chef-restaurant-secaucus",
+            "name": "China Chef Restaurant",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uLS-rDwAtXN5-fFeBM-vTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/china-chef-restaurant-secaucus?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 117,
+            "categories": [
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.791615379318,
+                "longitude": -74.0578033479041
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1322 Paterson Plank Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Secaucus",
+                "zip_code": "07094",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "1322 Paterson Plank Rd",
+                    "Secaucus, NJ 07094"
+                ]
+            },
+            "phone": "+12013486386",
+            "display_phone": "(201) 348-6386",
+            "distance": 2806.988198931676
+        },
+        {
+            "id": "XK55lRGQaIzo7GkM8eS4IA",
+            "alias": "uncle-tonys-deli-east-rutherford",
+            "name": "Uncle Tony's Deli",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/miYeJbS8AD8nb-9P0hhUTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/uncle-tonys-deli-east-rutherford?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.837444,
+                "longitude": -74.099889
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "366 Paterson Ave",
+                "address2": null,
+                "address3": "",
+                "city": "East Rutherford",
+                "zip_code": "07073",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "366 Paterson Ave",
+                    "East Rutherford, NJ 07073"
+                ]
+            },
+            "phone": "+12019332025",
+            "display_phone": "(201) 933-2025",
+            "distance": 3418.3450211887603
+        },
+        {
+            "id": "v4y5LHllg-8_YJoInaORHw",
+            "alias": "noches-de-colombia-secaucus",
+            "name": "Noches de Colombia",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VvWvd-uCmFrWaa1DNkZBoA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/noches-de-colombia-secaucus?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 136,
+            "categories": [
+                {
+                    "alias": "colombian",
+                    "title": "Colombian"
+                },
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.7907591853292,
+                "longitude": -74.0581170469522
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1309 Paterson Plank Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Secaucus",
+                "zip_code": "07094",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "1309 Paterson Plank Rd",
+                    "Secaucus, NJ 07094"
+                ]
+            },
+            "phone": "+15512577188",
+            "display_phone": "(551) 257-7188",
+            "distance": 2877.379756397346
+        },
+        {
+            "id": "jbD90y_6Mc91tpacf-dOsg",
+            "alias": "ilforno-pizza-and-ristorante-secaucus-2",
+            "name": "Ilforno Pizza & Ristorante",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/g9VZPJv1R-A6feQdV6l3_Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ilforno-pizza-and-ristorante-secaucus-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.79882,
+                "longitude": -74.05815
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1536 Paterson Plank Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Secaucus",
+                "zip_code": "07094",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "1536 Paterson Plank Rd",
+                    "Secaucus, NJ 07094"
+                ]
+            },
+            "phone": "+12018646576",
+            "display_phone": "(201) 864-6576",
+            "distance": 2118.6481364380584
+        }
+    ],
+    "total": 133,
+    "region": {
+        "center": {
+            "longitude": -74.074361,
+            "latitude": 40.813528000000005
+        }
+    }
+}

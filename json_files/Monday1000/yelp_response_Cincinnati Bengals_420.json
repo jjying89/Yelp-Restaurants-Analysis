@@ -1,0 +1,827 @@
+{
+    "businesses": [
+        {
+            "id": "v_NnpTjJfQ1pldSYifx1Ig",
+            "alias": "white-castle-cincinnati-23",
+            "name": "White Castle",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7VHRDmmi7jRvNYNw56KWLw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/white-castle-cincinnati-23?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.102846,
+                "longitude": -84.528935
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "811 W 8th St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45203",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "811 W 8th St",
+                    "Cincinnati, OH 45203"
+                ]
+            },
+            "phone": "+15133812300",
+            "display_phone": "(513) 381-2300",
+            "distance": 1416.7084416943853
+        },
+        {
+            "id": "OmMWm6SV_6jJx4mzrW-6zg",
+            "alias": "fryed-window-cincinnati",
+            "name": "Fryed Window",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fryed-window-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.11688,
+                "longitude": -84.51984
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1910 Elm St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1910 Elm St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2494.1974473161154
+        },
+        {
+            "id": "VUh7PBvKVgicxIoIGxajLg",
+            "alias": "newport-on-the-levee-newport-2",
+            "name": "Newport on the Levee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2EGv00HxxiTJ6NnwuZe15g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/newport-on-the-levee-newport-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "food_court",
+                    "title": "Food Court"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.094764,
+                "longitude": -84.4968423187185
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1 Levee Way",
+                "address2": "",
+                "address3": null,
+                "city": "Newport",
+                "zip_code": "41071",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "1 Levee Way",
+                    "Newport, KY 41071"
+                ]
+            },
+            "phone": "+18592910550",
+            "display_phone": "(859) 291-0550",
+            "distance": 1653.4891597320013
+        },
+        {
+            "id": "xVilqL_3QFkWSsCSWzp0IA",
+            "alias": "3rd-and-walnut-hot-dogs-cincinnati",
+            "name": "3rd and Walnut Hot Dogs",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rPdxJ8gv83JPz7olfMQ7Ug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/3rd-and-walnut-hot-dogs-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.0989083923475,
+                "longitude": -84.5106366276741
+            },
+            "transactions": [],
+            "location": {
+                "address1": "312 Walnut St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "312 Walnut St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 634.8936158096764
+        },
+        {
+            "id": "9_vxnSZAOfYoo08IbM6wig",
+            "alias": "cincy-soul-cincinnati",
+            "name": "Cincy Soul",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q2QLzJvf_1laBlYSbu5qKw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cincy-soul-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "festivals",
+                    "title": "Festivals"
+                },
+                {
+                    "alias": "soulfood",
+                    "title": "Soul Food"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.1011827277514,
+                "longitude": -84.5120859369496
+            },
+            "transactions": [],
+            "location": {
+                "address1": "W 5th St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "W 5th St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 765.978017308415
+        },
+        {
+            "id": "CbRJQOjwohyh0mn2US0VSQ",
+            "alias": "pura-vida-popup-taqueria-cincinnati",
+            "name": "Pura Vida popUP Taqueria",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pura-vida-popup-taqueria-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.120083,
+                "longitude": -84.493538
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2149 Sinton Ave",
+                "address2": "Ste 4",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45206",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "2149 Sinton Ave",
+                    "Ste 4",
+                    "Cincinnati, OH 45206"
+                ]
+            },
+            "phone": "+15138230000",
+            "display_phone": "(513) 823-0000",
+            "distance": 3396.1295608415066
+        },
+        {
+            "id": "fjBCidBRmTrwrjIvL_oUig",
+            "alias": "kaldis-at-the-art-academy-cincinnati",
+            "name": "Kaldi's at The Art Academy",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cdhHedOdPfv-tgQEnZ93Xg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kaldis-at-the-art-academy-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                },
+                {
+                    "alias": "food",
+                    "title": "Food"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.108929,
+                "longitude": -84.51387
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1212 Jackson St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1212 Jackson St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15135626264",
+            "display_phone": "(513) 562-6264",
+            "distance": 1559.7232434056616
+        },
+        {
+            "id": "FGIDVZSwoaypxBVt441PnQ",
+            "alias": "the-little-spoon-bakery-and-cafe-newport",
+            "name": "The Little Spoon Bakery & Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xcpU0onLhpEVS4M_9rNamw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-little-spoon-bakery-and-cafe-newport?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.09452,
+                "longitude": -84.49654
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1 Levee Way",
+                "address2": "Ste 2133",
+                "address3": null,
+                "city": "Newport",
+                "zip_code": "41071",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "1 Levee Way",
+                    "Ste 2133",
+                    "Newport, KY 41071"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1676.4533068078695
+        },
+        {
+            "id": "0ZDyJXRjYUZJ8V4NTKw1hA",
+            "alias": "jean-bobs-cincinnati",
+            "name": "Jean Bob's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wxfe1v-RXnw4pEo3kq-Jzg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jean-bobs-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "brasseries",
+                    "title": "Brasseries"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.095462,
+                "longitude": -84.516058
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1 Paul Brown Stadium",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1 Paul Brown Stadium",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 51.61526187363944
+        },
+        {
+            "id": "dP9_50ee9IJe_xFhiUld4w",
+            "alias": "yee-mama-cincinnati",
+            "name": "Yee Mama",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0ZwnvYOB9k6WWzYJyqtiHQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yee-mama-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "popuprestaurants",
+                    "title": "Pop-Up Restaurants"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.1143934,
+                "longitude": -84.5198321626726
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1719 Elm St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1719 Elm St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2181.649637374375
+        },
+        {
+            "id": "AY9ASElBnOJhRlu_CslSLw",
+            "alias": "our-daily-bread-cincinnati",
+            "name": "Our Daily Bread",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hrDqKyl3sGHbta3xP2nUVw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/our-daily-bread-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.1152000427246,
+                "longitude": -84.5178527832031
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1730 Race St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1730 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15136216364",
+            "display_phone": "(513) 621-6364",
+            "distance": 2261.475861726318
+        },
+        {
+            "id": "ajyfiSfBgqlFe613L1KOQQ",
+            "alias": "elm-street-social-club-cincinnati",
+            "name": "Elm Street Social Club",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YWu2ZsT9JmtwF7uk1Lrc-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/elm-street-social-club-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.11578,
+                "longitude": -84.5202
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1819 Elm St",
+                "address2": null,
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1819 Elm St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15132636893",
+            "display_phone": "(513) 263-6893",
+            "distance": 2339.1871061896545
+        },
+        {
+            "id": "Og3Tr3JLCWEBkjpVPfc11A",
+            "alias": "papa-johns-pizza-covington-5",
+            "name": "Papa John's Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4pF6ra9OMb2NchdP9oVbDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/papa-johns-pizza-covington-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 39.071646,
+                "longitude": -84.506704
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1602 Madison Avenue",
+                "address2": null,
+                "address3": null,
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "1602 Madison Avenue",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18596552200",
+            "display_phone": "(859) 655-2200",
+            "distance": 2717.9194767450713
+        },
+        {
+            "id": "kVomM5aR-YaN8Df9pCd_bA",
+            "alias": "taco-bell-cincinnati-5",
+            "name": "Taco Bell",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rnegOZnV5TgHEueGL8D83w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-cincinnati-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 39.106401,
+                "longitude": -84.534788
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1003 Gest Street",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45203",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1003 Gest Street",
+                    "Cincinnati, OH 45203"
+                ]
+            },
+            "phone": "+15132418226",
+            "display_phone": "(513) 241-8226",
+            "distance": 2058.0517090938292
+        },
+        {
+            "id": "glE_QJD7o-hXlxmsRC9dzw",
+            "alias": "e-o-new-asian-eatery-cincinnati",
+            "name": "E+O New Asian Eatery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XPXTNk9FroEr1h2eZpk81Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/e-o-new-asian-eatery-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.103772,
+                "longitude": -84.512253
+            },
+            "transactions": [],
+            "location": {
+                "address1": "645 Walnut St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "645 Walnut St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15136329181",
+            "display_phone": "(513) 632-9181",
+            "distance": 1024.7872545283988
+        },
+        {
+            "id": "WmAJyaOYVo6lR7l4QFwxTA",
+            "alias": "kidd-coffee-and-wine-bar-cincinnati-2",
+            "name": "Kidd Coffee & Wine Bar",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kidd-coffee-and-wine-bar-cincinnati-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.0995960813714,
+                "longitude": -84.507763646543
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "305 Sycamore St",
+                "address2": "",
+                "address3": "Queen City Square Lobby",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "305 Sycamore St",
+                    "Queen City Square Lobby",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133980718",
+            "display_phone": "(513) 398-0718",
+            "distance": 875.4224060163382
+        },
+        {
+            "id": "DSVT2Tuno0tz87BWVBmgjQ",
+            "alias": "wendys-covington-15",
+            "name": "Wendy's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZxR8gmu9ACXiL1MrSczhCg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wendys-covington-15?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 39.08617,
+                "longitude": -84.51961
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "410 Philadelphia Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "410 Philadelphia Avenue",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1030.710044336975
+        },
+        {
+            "id": "MjFy1KpEL7VQmU03KLNUaQ",
+            "alias": "burger-king-covington-8",
+            "name": "Burger King",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bfovYZC5IEm19RtrRpYGwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-covington-8?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 39.086865,
+                "longitude": -84.519582
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "316 Philadelphia Street",
+                "address2": "",
+                "address3": "",
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "316 Philadelphia Street",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 954.4045369119171
+        },
+        {
+            "id": "LgORu7_6Rp-UlcCSFyiAWQ",
+            "alias": "e-and-o-new-asian-cincinnati",
+            "name": "E & O New Asian",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-Iu3nrEgYgABzYEsy541XQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/e-and-o-new-asian-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "panasian",
+                    "title": "Pan Asian"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.1035921,
+                "longitude": -84.5117493
+            },
+            "transactions": [],
+            "location": {
+                "address1": "646 Walnut St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "646 Walnut St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1036.2619246123509
+        },
+        {
+            "id": "FdmpgBCts3C_Fk5nigREjg",
+            "alias": "sharkys-cafe-newport",
+            "name": "Sharky's Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HHxb_MDSotjKo0W2Krviuw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sharkys-cafe-newport?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.09441,
+                "longitude": -84.49765
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1 Aquarium Way",
+                "address2": "",
+                "address3": "Newport Aquarium",
+                "city": "Newport",
+                "zip_code": "41071",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "1 Aquarium Way",
+                    "Newport Aquarium",
+                    "Newport, KY 41071"
+                ]
+            },
+            "phone": "+18004063474",
+            "display_phone": "(800) 406-3474",
+            "distance": 1650.072089157095
+        }
+    ],
+    "total": 459,
+    "region": {
+        "center": {
+            "longitude": -84.516,
+            "latitude": 39.095
+        }
+    }
+}

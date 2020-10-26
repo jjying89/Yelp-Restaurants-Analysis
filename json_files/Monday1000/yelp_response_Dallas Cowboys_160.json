@@ -1,0 +1,884 @@
+{
+    "businesses": [
+        {
+            "id": "cBkEJh9MgQ5PtFatsA6yhw",
+            "alias": "mcdonalds-arlington-17",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xxfizvsNUh1jDJVdfkApIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-arlington-17?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 39,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.7743812135366,
+                "longitude": -97.0966127514839
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2391 N Collins",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2391 N Collins",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18172659291",
+            "display_phone": "(817) 265-9291",
+            "distance": 2979.792812116365
+        },
+        {
+            "id": "jeZCo90KZ1UjvtKBmRGhaQ",
+            "alias": "guy-fieris-taco-joint-arlington-6",
+            "name": "Guy Fieri's Taco Joint",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NWsPlmvY2OEgp1k_vsNdBw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/guy-fieris-taco-joint-arlington-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.7498414,
+                "longitude": -97.0854923
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1650 E Randol Mill Rd",
+                "address2": "Ste 120",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1650 E Randol Mill Rd",
+                    "Ste 120",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18177691753",
+            "display_phone": "(817) 769-1753",
+            "distance": 754.1783463814704
+        },
+        {
+            "id": "nKHRVINhwbfBREliLR5J3Q",
+            "alias": "chick-fil-a-arlington-9",
+            "name": "Chick-fil-A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JS38o1UVnqaRx4mlZh1bsw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chick-fil-a-arlington-9?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 32.7316625,
+                "longitude": -97.1112409
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "300 W 1st St",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76019",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "300 W 1st St",
+                    "Arlington, TX 76019"
+                ]
+            },
+            "phone": "+18172722919",
+            "display_phone": "(817) 272-2919",
+            "distance": 2488.5892927595787
+        },
+        {
+            "id": "qZtQbbcDKXRAF1UUBe59Nw",
+            "alias": "pastamasta-arlington-3",
+            "name": "PastaMasta",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PHFlVTFvrDORpDkKiSW2yA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pastamasta-arlington-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "tuscan",
+                    "title": "Tuscan"
+                },
+                {
+                    "alias": "pastashops",
+                    "title": "Pasta Shops"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 32.769022,
+                "longitude": -97.096706
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "2151 N Collins St",
+                "address2": "Ste 105",
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2151 N Collins St",
+                    "Ste 105",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2390.6087744948577
+        },
+        {
+            "id": "jv2Df4v_yhShWs8DcwgTlg",
+            "alias": "little-caesars-arlington-5",
+            "name": "Little Caesars",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FdIX7prqeur-ja0ij7pzsQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-caesars-arlington-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 32.763313,
+                "longitude": -97.086075
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1630 E Lamar Blvd",
+                "address2": "Ste 120",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1630 E Lamar Blvd",
+                    "Ste 120",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18175420300",
+            "display_phone": "(817) 542-0300",
+            "distance": 1837.7987036202915
+        },
+        {
+            "id": "MTvnM8AAF0N2JG9y8lBHtA",
+            "alias": "subway-arlington-95",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ylNifgOKDWFkWGdWTbmIhw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-arlington-95?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 32.7690097,
+                "longitude": -97.0965696165503
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2151 N Collins St",
+                "address2": "Ste 300",
+                "address3": "Seville Commons",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2151 N Collins St",
+                    "Ste 300",
+                    "Seville Commons",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18175836571",
+            "display_phone": "(817) 583-6571",
+            "distance": 2387.3299884777994
+        },
+        {
+            "id": "JOXdeEd0rdgvaG0F9EXKkg",
+            "alias": "taco-bell-arlington-6",
+            "name": "Taco Bell",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8cVc3up_Bv28oDXBtnLoGg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-arlington-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 32.751541,
+                "longitude": -97.097157
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1101 N. Collins",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1101 N. Collins",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18172617593",
+            "display_phone": "(817) 261-7593",
+            "distance": 585.4815315119545
+        },
+        {
+            "id": "cPrf4hMq4T3Tr8O8xXY-hw",
+            "alias": "taco-bell-arlington-7",
+            "name": "Taco Bell",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a07fXVozmvajGAD-v7jiyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-arlington-7?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.72309,
+                "longitude": -97.11472
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1316 South Cooper Street",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76013",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1316 South Cooper Street",
+                    "Arlington, TX 76013"
+                ]
+            },
+            "phone": "+18172778042",
+            "display_phone": "(817) 277-8042",
+            "distance": 3427.5456602190393
+        },
+        {
+            "id": "cKFgI_IF_8N8sK0QRHajpg",
+            "alias": "fred-s-downtown-philly-arlington",
+            "name": "Fred’s Downtown Philly",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3qihEScCNQnCYtSy9KBDSw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fred-s-downtown-philly-arlington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "cheesesteaks",
+                    "title": "Cheesesteaks"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 32.75385,
+                "longitude": -97.096103
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1301 N Collins St",
+                "address2": "Ste 202",
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1301 N Collins St",
+                    "Ste 202",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18179872093",
+            "display_phone": "(817) 987-2093",
+            "distance": 742.2315126761163
+        },
+        {
+            "id": "m8Vcx-anXd8GQDJsI2S3VA",
+            "alias": "subway-arlington-103",
+            "name": "Subway",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/luDjRRehD_SLOX0cO2w_Sg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-arlington-103?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.7359747115795,
+                "longitude": -97.1114814
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "407A W Abram",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76010",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "407A W Abram",
+                    "Arlington, TX 76010"
+                ]
+            },
+            "phone": "+18177955800",
+            "display_phone": "(817) 795-5800",
+            "distance": 2186.907350185975
+        },
+        {
+            "id": "ifwGDQXvoxlDVwnIn4Ze5g",
+            "alias": "sonic-drive-in-arlington-18",
+            "name": "Sonic Drive-In",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z-XTQUaxci3A8mdJFmFiyA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sonic-drive-in-arlington-18?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.762801,
+                "longitude": -97.0740363
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2121 E Lamar Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76006",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2121 E Lamar Blvd",
+                    "Arlington, TX 76006"
+                ]
+            },
+            "phone": "+18174602960",
+            "display_phone": "(817) 460-2960",
+            "distance": 2421.1821362316
+        },
+        {
+            "id": "qYqDIztFnRzSFWF8s8-NXw",
+            "alias": "wendys-arlington-5",
+            "name": "Wendy's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_1g1kUKnxPMQ0rFjoYNpZg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wendys-arlington-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.7358735765442,
+                "longitude": -97.1118738808858
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "409 West Abram",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76010",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "409 West Abram",
+                    "Arlington, TX 76010"
+                ]
+            },
+            "phone": "+18174608492",
+            "display_phone": "(817) 460-8492",
+            "distance": 2223.057675998285
+        },
+        {
+            "id": "7Dz3bOfA6pP8iqzymhW0lg",
+            "alias": "pizza-hut-arlington-30",
+            "name": "Pizza Hut",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0Ggbt7t06VQmbLBN5OsHbw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-hut-arlington-30?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.7213726932143,
+                "longitude": -97.099351
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "781 E Park Row Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76010",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "781 E Park Row Dr",
+                    "Arlington, TX 76010"
+                ]
+            },
+            "phone": "+18172761199",
+            "display_phone": "(817) 276-1199",
+            "distance": 2999.810848274584
+        },
+        {
+            "id": "82Q2of8JuoUmtNqtZM7Vaw",
+            "alias": "popeyes-louisiana-kitchen-arlington-7",
+            "name": "Popeyes Louisiana Kitchen",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Z9TFXp8kEn99CHxtyYy7zA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/popeyes-louisiana-kitchen-arlington-7?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 46,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 32.753103,
+                "longitude": -97.097565
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1204 N Collins St",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1204 N Collins St",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18178011541",
+            "display_phone": "(817) 801-1541",
+            "distance": 742.2998421968648
+        },
+        {
+            "id": "g6IyHmd11CTgqG2awkhKrQ",
+            "alias": "pizza-hut-arlington-12",
+            "name": "Pizza Hut",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-7JzFg49zOiUlTTyY0GIew/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-hut-arlington-12?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 32.770804,
+                "longitude": -97.097716
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2226 N Collins St",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2226 N Collins St",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18174607000",
+            "display_phone": "(817) 460-7000",
+            "distance": 2601.675422010524
+        },
+        {
+            "id": "O2po1A6DAxYBpYhKMWxSlA",
+            "alias": "johnny-rockets-arlington-6",
+            "name": "Johnny Rockets",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v4zc80q1Qof786w6yGk5Ag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/johnny-rockets-arlington-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 32.757256,
+                "longitude": -97.066801
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2201 Road To Six Flags St E",
+                "address2": "",
+                "address3": "Six Flags Over Texas",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2201 Road To Six Flags St E",
+                    "Six Flags Over Texas",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18176408900",
+            "display_phone": "(817) 640-8900",
+            "distance": 2648.0388313162366
+        },
+        {
+            "id": "FGUYgkeh0mzciqKxfZR0JA",
+            "alias": "dry-hole-charlies-arlington-2",
+            "name": "Dry Hole Charlie's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gLhOcfiIvpVcIeqLN_wzTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dry-hole-charlies-arlington-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 32.7573028,
+                "longitude": -97.0646874
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2598 E Copeland Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "2598 E Copeland Rd",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2588.072023119297
+        },
+        {
+            "id": "pmyKeeJvGnlCNUY_X2VY8w",
+            "alias": "wendys-arlington-12",
+            "name": "Wendy's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B1paG9i0KcTDm3vSfggNlQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wendys-arlington-12?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.754816,
+                "longitude": -97.096857
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1311 North Collins",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1311 North Collins",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "+18172755633",
+            "display_phone": "(817) 275-5633",
+            "distance": 870.6070588437975
+        },
+        {
+            "id": "-xCtqGdW_I_oaJoydjm3iQ",
+            "alias": "jack-in-the-box-arlington-4",
+            "name": "Jack in the Box",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vZ3YTpyXQxfekuc3ST6DRQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-in-the-box-arlington-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 32.7606390682481,
+                "longitude": -97.1147823
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "753 W Lamar Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Arlington",
+                "zip_code": "76012",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "753 W Lamar Blvd",
+                    "Arlington, TX 76012"
+                ]
+            },
+            "phone": "+18178612888",
+            "display_phone": "(817) 861-2888",
+            "distance": 2505.86886731153
+        },
+        {
+            "id": "Ka1HswgqRJ_AcEH3mN-fHw",
+            "alias": "little-caesars-arlington-4",
+            "name": "Little Caesars",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sN8sD58mRUaucRgcm24csQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-caesars-arlington-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 32.7641144,
+                "longitude": -97.0870132
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1644-1698 E Lamar Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Arlington",
+                "zip_code": "76011",
+                "country": "US",
+                "state": "TX",
+                "display_address": [
+                    "1644-1698 E Lamar Blvd",
+                    "Arlington, TX 76011"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1909.240794688174
+        }
+    ],
+    "total": 210,
+    "region": {
+        "center": {
+            "longitude": -97.09277800000001,
+            "latitude": 32.747778000000004
+        }
+    }
+}

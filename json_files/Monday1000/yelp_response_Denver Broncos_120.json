@@ -1,0 +1,950 @@
+{
+    "businesses": [
+        {
+            "id": "DoFXDpYMQm0zhd35UptjHg",
+            "alias": "fng-restaurant-denver",
+            "name": "FNG Restaurant",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yqsSBSEm9xY1BgJ8suJ9zg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fng-restaurant-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 215,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.76196,
+                "longitude": -105.03896
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3940 W 32nd Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80212",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3940 W 32nd Ave",
+                    "Denver, CO 80212"
+                ]
+            },
+            "phone": "+17206673727",
+            "display_phone": "(720) 667-3727",
+            "distance": 2853.584257559682
+        },
+        {
+            "id": "5X9iWU9aYCXnq4nnzpg8HA",
+            "alias": "urban-putt-denver",
+            "name": "Urban Putt",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HjKPGr6PybpQ7oYqv0X_vQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/urban-putt-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 92,
+            "categories": [
+                {
+                    "alias": "mini_golf",
+                    "title": "Mini Golf"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.75066,
+                "longitude": -104.99422
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1201 18th St",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1201 18th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17203603020",
+            "display_phone": "(720) 360-3020",
+            "distance": 2431.4732722479334
+        },
+        {
+            "id": "pLdVI5IwvwBMGkyoCtPz4g",
+            "alias": "the-pasty-republic-denver-2",
+            "name": "The Pasty Republic",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MewEVdoNxV0xK_a_pOEXSg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-pasty-republic-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 98,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.773796,
+                "longitude": -105.04372
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "4166 Tennyson St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80212",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "4166 Tennyson St",
+                    "Denver, CO 80212"
+                ]
+            },
+            "phone": "+13034553558",
+            "display_phone": "(303) 455-3558",
+            "distance": 4185.0566955130125
+        },
+        {
+            "id": "evLLjnB4yuXtWhWYWb9LpQ",
+            "alias": "sushi-ronin-denver",
+            "name": "Sushi Ronin",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Zd7Evn7iF97oVFmCEheKkg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sushi-ronin-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 202,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7587194617971,
+                "longitude": -105.011621452868
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "2930 Umatilla",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2930 Umatilla",
+                    "Ste 100",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13039558741",
+            "display_phone": "(303) 955-8741",
+            "distance": 2087.8510121876275
+        },
+        {
+            "id": "dbggmmYRYmIRuTU6R8B_RQ",
+            "alias": "bar-dough-denver-2",
+            "name": "Bar Dough",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aOfTvqF5-lAGHjFdcWKf_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bar-dough-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 449,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.76227,
+                "longitude": -105.01347
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2227 W 32nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2227 W 32nd Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17206688506",
+            "display_phone": "(720) 668-8506",
+            "distance": 2418.168685554179
+        },
+        {
+            "id": "eaVcCJO5OmBhAv-kJRpWRg",
+            "alias": "the-delectable-egg-denver-denver",
+            "name": "The Delectable Egg-Denver",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ftIQr9MZOZoyPvIjeoapUA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-delectable-egg-denver-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 362,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7503656,
+                "longitude": -104.997457
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1642 Market St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1642 Market St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13035728146",
+            "display_phone": "(303) 572-8146",
+            "distance": 2168.1767674657526
+        },
+        {
+            "id": "l4NeSqgO-8FOsgJjTNlHbg",
+            "alias": "illegal-petes-denver-8",
+            "name": "Illegal Pete's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/J9KHemWJSuiB_wQQGpTjYA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/illegal-petes-denver-8?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 758,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.75086461,
+                "longitude": -105.0000132
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1530 16th St",
+                "address2": "Ste 101",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1530 16th St",
+                    "Ste 101",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13036232169",
+            "display_phone": "(303) 623-2169",
+            "distance": 2009.0200877037842
+        },
+        {
+            "id": "2fUWXnl1EuOHPvF4eqAnyw",
+            "alias": "modern-market-eatery-denver",
+            "name": "Modern Market Eatery",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UUuiXm8IMnYegAZOx_7nvA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/modern-market-eatery-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 560,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.746542,
+                "longitude": -104.994232
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "900 16th St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "900 16th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17205751550",
+            "display_phone": "(720) 575-1550",
+            "distance": 2263.0077244454124
+        },
+        {
+            "id": "k1mGLPBSaUhZKem1KrXLJQ",
+            "alias": "stout-street-social-denver-2",
+            "name": "Stout Street Social",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GipaTd4ADS98v5K4rlg3JA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/stout-street-social-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1053,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7441431,
+                "longitude": -104.9947764
+            },
+            "transactions": [
+                "pickup",
+                "delivery",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1400 Stout St",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1400 Stout St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17202149100",
+            "display_phone": "(720) 214-9100",
+            "distance": 2159.4484395245763
+        },
+        {
+            "id": "uwZYLfdWxni43MqfY6y7sw",
+            "alias": "tokio-denver-3",
+            "name": "Tokio",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0a37STOQWLGNnrBHzbKnNw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tokio-denver-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 438,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japacurry",
+                    "title": "Japanese Curry"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7586101000912,
+                "longitude": -104.997435813492
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2907 Huron St",
+                "address2": "Unit 103",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2907 Huron St",
+                    "Unit 103",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17206392911",
+            "display_phone": "(720) 639-2911",
+            "distance": 2730.802211621198
+        },
+        {
+            "id": "u5HvR26VlVlakU3WIB3PVA",
+            "alias": "citizen-rail-denver",
+            "name": "Citizen Rail",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Iii_7DOYn7LH6v0StyPw3w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/citizen-rail-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 305,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.75321,
+                "longitude": -105.00221
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1899 16th St",
+                "address2": null,
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1899 16th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13033230017",
+            "display_phone": "(303) 323-0017",
+            "distance": 2018.5194285670364
+        },
+        {
+            "id": "x0rVT3E__00xg99uGr0tjg",
+            "alias": "happy-camper-denver-denver-2",
+            "name": "Happy Camper - Denver",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eQxZ_VzUcFnM6-nNV1-JdA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/happy-camper-denver-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 161,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.762267,
+                "longitude": -105.006878
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "3211 N Pecos St",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3211 N Pecos St",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17202591044",
+            "display_phone": "(720) 259-1044",
+            "distance": 2610.4034861769005
+        },
+        {
+            "id": "K_LyxTyTfafUytd75mMmMg",
+            "alias": "ultreia-denver",
+            "name": "Ultreia",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tC3i5xYmEmkcmErD6pfEhQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ultreia-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 247,
+            "categories": [
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                },
+                {
+                    "alias": "portuguese",
+                    "title": "Portuguese"
+                },
+                {
+                    "alias": "basque",
+                    "title": "Basque"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.75305,
+                "longitude": -104.99995
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1701 Wynkoop St",
+                "address2": "Ste 125",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1701 Wynkoop St",
+                    "Ste 125",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13035341970",
+            "display_phone": "(303) 534-1970",
+            "distance": 2129.321228334177
+        },
+        {
+            "id": "US3Sa3FhlASsY8kmZ4Wv0w",
+            "alias": "menya-noodle-bar-denver-4",
+            "name": "Menya Noodle Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_D-LgV_S5eKPvpwm-uWVaA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/menya-noodle-bar-denver-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 599,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.74716,
+                "longitude": -104.99429
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "951 16th St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "951 16th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13036078888",
+            "display_phone": "(303) 607-8888",
+            "distance": 2283.5661015928927
+        },
+        {
+            "id": "zhsiD46GZOGjgW9OuRaF6g",
+            "alias": "freshcraft-denver",
+            "name": "Freshcraft",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x_JUL97BYoCNq_eq_y5pAg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/freshcraft-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 959,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.74992,
+                "longitude": -104.99954
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1530 Blake St",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1530 Blake St",
+                    "Ste A",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13037589608",
+            "display_phone": "(303) 758-9608",
+            "distance": 1987.6717847058267
+        },
+        {
+            "id": "CnhzXbDpx2-nqureyYXUyQ",
+            "alias": "tamales-by-la-casita-denver-2",
+            "name": "Tamales By La Casita",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uhKOBIZDrwsxb504qyefKA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tamales-by-la-casita-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 197,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7665405273438,
+                "longitude": -105.011528015137
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3561 Tejon St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3561 Tejon St",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13034772899",
+            "display_phone": "(303) 477-2899",
+            "distance": 2910.531471649745
+        },
+        {
+            "id": "iIDuGeoHrwUdtpX-xt-7Lw",
+            "alias": "hapa-sushi-grill-and-sake-bar-lodo-denver",
+            "name": "Hapa Sushi Grill & Sake Bar - Lodo",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/K9eT1G-yorWlL9aHE-eFXA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hapa-sushi-grill-and-sake-bar-lodo-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 480,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7497562049975,
+                "longitude": -104.999986149821
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1514 Blake St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1514 Blake St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17203545058",
+            "display_phone": "(720) 354-5058",
+            "distance": 1946.4856784796953
+        },
+        {
+            "id": "xGs9n8z375ylo5CnOT67Jw",
+            "alias": "savory-vietnam-denver",
+            "name": "Savory Vietnam",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Orh46apqa6Ewmfn3t2xR1g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/savory-vietnam-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 78,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.7101545475754,
+                "longitude": -105.015144093833
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2200 W Alameda Ave",
+                "address2": "Ste 44",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80223",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2200 W Alameda Ave",
+                    "Ste 44",
+                    "Denver, CO 80223"
+                ]
+            },
+            "phone": "+13039752399",
+            "display_phone": "(303) 975-2399",
+            "distance": 3451.913750161339
+        },
+        {
+            "id": "JWbnx_g6AYSrPMQJDHLBMw",
+            "alias": "lola-coastal-mexican-denver",
+            "name": "Lola Coastal Mexican",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vQLDnoehY9ATKT2ciDa6gQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lola-coastal-mexican-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1185,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.759249956713,
+                "longitude": -105.010725947174
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1575 Boulder St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1575 Boulder St",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17205708686",
+            "display_phone": "(720) 570-8686",
+            "distance": 2169.4832835141074
+        },
+        {
+            "id": "eiBf-hHa5ii1B7oK1dOlxw",
+            "alias": "teatulia-tea-and-coffee-bar-denver-2",
+            "name": "Teatulia Tea & Coffee Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GI2WymVhq78sQuldOCsAcg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/teatulia-tea-and-coffee-bar-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 135,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.758726,
+                "longitude": -105.0154419
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2900 Zuni St",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2900 Zuni St",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13035730710",
+            "display_phone": "(303) 573-0710",
+            "distance": 2004.3736033210043
+        }
+    ],
+    "total": 575,
+    "region": {
+        "center": {
+            "longitude": -105.0197,
+            "latitude": 39.741
+        }
+    }
+}

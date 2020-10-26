@@ -1,0 +1,922 @@
+{
+    "businesses": [
+        {
+            "id": "BdKk0_ShGBzITk2_gn2o4g",
+            "alias": "café-crèmerie-chicago-2",
+            "name": "CAFÉ CRÈMERIE",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cRBGhYgEkSIfsEff6sfG9w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/caf%C3%A9-cr%C3%A8merie-chicago-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "gelato",
+                    "title": "Gelato"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 41.8979,
+                "longitude": -87.62842
+            },
+            "transactions": [],
+            "location": {
+                "address1": "838 North State St",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60610",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "838 North State St",
+                    "Chicago, IL 60610"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 4073.8018928245356
+        },
+        {
+            "id": "3LiTYAtSY7sWsvTHxYLavA",
+            "alias": "firelake-grill-house-and-cocktail-bar-chicago",
+            "name": "FireLake Grill House and Cocktail Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jU_kpJnoU8pAA1pSM8pF8Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/firelake-grill-house-and-cocktail-bar-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 41.886535,
+                "longitude": -87.61992
+            },
+            "transactions": [],
+            "location": {
+                "address1": "221 N Columbus Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60601",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "221 N Columbus Dr",
+                    "Chicago, IL 60601"
+                ]
+            },
+            "phone": "+13124770234",
+            "display_phone": "(312) 477-0234",
+            "distance": 2675.250057768877
+        },
+        {
+            "id": "BNaElIaBfIZjyxc4Eo7WLw",
+            "alias": "lh-rooftop-chicago",
+            "name": "LH Rooftop",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_0MoHvwf3G76v0UXwzsLYw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lh-rooftop-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 225,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 41.887788,
+                "longitude": -87.625329
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "85 E Wacker Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60601",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "85 E Wacker Dr",
+                    "Chicago, IL 60601"
+                ]
+            },
+            "phone": "+13123571200",
+            "display_phone": "(312) 357-1200",
+            "distance": 2922.7972314929666
+        },
+        {
+            "id": "ct7aBShG3STtsso3MQk-8Q",
+            "alias": "roti-modern-mediterranean-chicago-2",
+            "name": "Roti Modern Mediterranean",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4YE-87DZVBQ_vxZJ0q-X6w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/roti-modern-mediterranean-chicago-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.883967,
+                "longitude": -87.641054
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "121 N Clinton St",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60661",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "121 N Clinton St",
+                    "Chicago, IL 60661"
+                ]
+            },
+            "phone": "+13128587537",
+            "display_phone": "(312) 858-7537",
+            "distance": 3141.7641612882107
+        },
+        {
+            "id": "Vq-EtfJGBi5oP_DWZh8gkQ",
+            "alias": "corner-bakery-chicago-22",
+            "name": "Corner Bakery",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0zPDMhL56yYhqP1lquE1UQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/corner-bakery-chicago-22?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 98,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.8847341458017,
+                "longitude": -87.6300812512636
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "56 W Randolph St",
+                "address2": "#44",
+                "address3": "Goodman Theatre",
+                "city": "Chicago",
+                "zip_code": "60601",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "56 W Randolph St",
+                    "#44",
+                    "Goodman Theatre",
+                    "Chicago, IL 60601"
+                ]
+            },
+            "phone": "+13123469492",
+            "display_phone": "(312) 346-9492",
+            "distance": 2729.5350079098102
+        },
+        {
+            "id": "DDEoScKg2pKVlhIyl5B_uQ",
+            "alias": "billy-goat-tavern-merchandise-mart-chicago-3",
+            "name": "Billy Goat Tavern Merchandise Mart",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OGsuxSiCgSHf97sv5KiC4Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/billy-goat-tavern-merchandise-mart-chicago-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.88837,
+                "longitude": -87.63536
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "222 W Merchandise Mart Plz",
+                "address2": "Ste Fc-2",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60654",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "222 W Merchandise Mart Plz",
+                    "Ste Fc-2",
+                    "Chicago, IL 60654"
+                ]
+            },
+            "phone": "+13124641045",
+            "display_phone": "(312) 464-1045",
+            "distance": 3292.173028829616
+        },
+        {
+            "id": "nLYsp7pboDM2dfK-bn8SZg",
+            "alias": "indian-swaad-chicago",
+            "name": "Indian Swaad",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WmGRMSZNH-Q2OMAtNNKniw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/indian-swaad-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 68,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.8822187,
+                "longitude": -87.6405296
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "500 W Madison St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60661",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "500 W Madison St",
+                    "Chicago, IL 60661"
+                ]
+            },
+            "phone": "+13129931019",
+            "display_phone": "(312) 993-1019",
+            "distance": 2966.2483255437437
+        },
+        {
+            "id": "zuWwITlA0Nl6gNnpAljxIQ",
+            "alias": "moes-cantina-river-north-chicago",
+            "name": "Moe's Cantina- River North",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zI5dP4AkjXWpfsAPvy6QzA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/moes-cantina-river-north-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 651,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 41.88882,
+                "longitude": -87.6332
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "155 W Kinzie St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60654",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "155 W Kinzie St",
+                    "Chicago, IL 60654"
+                ]
+            },
+            "phone": "+13122452000",
+            "display_phone": "(312) 245-2000",
+            "distance": 3253.8175929867243
+        },
+        {
+            "id": "FZmJR3gRAEqlctYX7EskfA",
+            "alias": "idof-fresh-mediterranean-chicago-7",
+            "name": "IDOF Fresh Mediterranean",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RVKrlKxGjIDf9AU_IkNQUA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/idof-fresh-mediterranean-chicago-7?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.891301,
+                "longitude": -87.606845
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "600 E Grand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60611",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "600 E Grand Ave",
+                    "Chicago, IL 60611"
+                ]
+            },
+            "phone": "+13127226997",
+            "display_phone": "(312) 722-6997",
+            "distance": 3326.3830291822987
+        },
+        {
+            "id": "dvKDuapfQJl9AxPXy16kPQ",
+            "alias": "tradition-chicago",
+            "name": "Tradition",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9IITRCHr-S1H59YEcNhOXQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tradition-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 66,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.884909,
+                "longitude": -87.635693
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "160 N Franklin St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60606",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "160 N Franklin St",
+                    "Chicago, IL 60606"
+                ]
+            },
+            "phone": "+13122630260",
+            "display_phone": "(312) 263-0260",
+            "distance": 2965.3355094716194
+        },
+        {
+            "id": "v5w3M6qNyb1OfrU6g7WcHA",
+            "alias": "gordo-s-tiny-taco-bar-chicago",
+            "name": "Gordo’s Tiny Taco Bar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DHjSqjZ1sgn70eBg3axTWA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gordo-s-tiny-taco-bar-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8852691,
+                "longitude": -87.618486
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "333 E Benton Pl",
+                "address2": "Ste 100",
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60601",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "333 E Benton Pl",
+                    "Ste 100",
+                    "Chicago, IL 60601"
+                ]
+            },
+            "phone": "+13122405000",
+            "display_phone": "(312) 240-5000",
+            "distance": 2558.3219171080464
+        },
+        {
+            "id": "SQHUWxNBEirZZrv_7t-gdA",
+            "alias": "k-kitchen-chicago",
+            "name": "K-Kitchen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KC16taD6u7CYQJFjqGXj1A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/k-kitchen-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.884123,
+                "longitude": -87.641101
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "131 N Clinton St",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60661",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "131 N Clinton St",
+                    "Chicago, IL 60661"
+                ]
+            },
+            "phone": "+13122349476",
+            "display_phone": "(312) 234-9476",
+            "distance": 3157.572844312535
+        },
+        {
+            "id": "OuLt8kq_EQILFqJv6rR83w",
+            "alias": "white-castle-chicago-4",
+            "name": "White Castle",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RjqVyxABSQh5QGhv_7BJFw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/white-castle-chicago-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 94,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.853132,
+                "longitude": -87.625975
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2140 S Wabash Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60616",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2140 S Wabash Ave",
+                    "Chicago, IL 60616"
+                ]
+            },
+            "phone": "+13129490717",
+            "display_phone": "(312) 949-0717",
+            "distance": 1276.4345038181023
+        },
+        {
+            "id": "_-uJdueVCgR7zynardt-bA",
+            "alias": "jokers-cajun-kitchen-chicago",
+            "name": "JoKeR's Cajun Kitchen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IQ2Ru9yPjWFuRl27HazNbg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jokers-cajun-kitchen-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.8839695,
+                "longitude": -87.6410747
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "131 N Clinton St French Market",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60661",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "131 N Clinton St French Market",
+                    "Chicago, IL 60661"
+                ]
+            },
+            "phone": "+13126249400",
+            "display_phone": "(312) 624-9400",
+            "distance": 3141.0687625028904
+        },
+        {
+            "id": "TACCTQrsrGZzaf6rfQ2mGA",
+            "alias": "halsted-street-deli-and-bagel-chicago-3",
+            "name": "Halsted Street Deli & Bagel",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lnt8F0Wae1J_tNqxnK0qQg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/halsted-street-deli-and-bagel-chicago-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.87743,
+                "longitude": -87.63557
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "311 S Wacker Dr",
+                "address2": "Ste 5",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60606",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "311 S Wacker Dr",
+                    "Ste 5",
+                    "Chicago, IL 60606"
+                ]
+            },
+            "phone": "+13126313963",
+            "display_phone": "(312) 631-3963",
+            "distance": 2301.1419922001933
+        },
+        {
+            "id": "EwjiWbRN33-kZlG2Yzc3xg",
+            "alias": "taco-bell-cantina-chicago-5",
+            "name": "Taco Bell Cantina",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hJAnoyNBIU0UrUMzrmv4HQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-cantina-chicago-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 51,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.885338,
+                "longitude": -87.6265372
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "178 North Wabash Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60601",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "178 North Wabash Ave",
+                    "Chicago, IL 60601"
+                ]
+            },
+            "phone": "+13125788743",
+            "display_phone": "(312) 578-8743",
+            "distance": 2688.0736605450506
+        },
+        {
+            "id": "0fMWiTxAp9Ta12Q2el4a6g",
+            "alias": "hannahs-bretzel-chicago-11",
+            "name": "Hannah's Bretzel",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ukxeE2mq1DIlF5KzKUI16Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hannahs-bretzel-chicago-11?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.8804551,
+                "longitude": -87.6350953
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "107 S Franklin",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60606",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "107 S Franklin",
+                    "Chicago, IL 60606"
+                ]
+            },
+            "phone": "+13126211111",
+            "display_phone": "(312) 621-1111",
+            "distance": 2520.5688117246045
+        },
+        {
+            "id": "5d5KsQZSjd2k7HGxfPhssA",
+            "alias": "jimmy-johns-chicago-24",
+            "name": "Jimmy John's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Hs7aCSdHJyBi8brD9pCHDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jimmy-johns-chicago-24?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.86606,
+                "longitude": -87.62443
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1250 S Michigan Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60605",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1250 S Michigan Ave",
+                    "Chicago, IL 60605"
+                ]
+            },
+            "phone": "+13123790090",
+            "display_phone": "(312) 379-0090",
+            "distance": 752.0974298820038
+        },
+        {
+            "id": "3EZJnLh_kOKvNCQg21I_4g",
+            "alias": "caffecafe-chicago",
+            "name": "Caffecafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q07-UXE4MpcG_iRxnacpJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/caffecafe-chicago?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 44,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.88653,
+                "longitude": -87.62751
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1 E Wacker Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Chicago",
+                "zip_code": "60601",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1 E Wacker Dr",
+                    "Chicago, IL 60601"
+                ]
+            },
+            "phone": "+13126442233",
+            "display_phone": "(312) 644-2233",
+            "distance": 2831.899197243821
+        },
+        {
+            "id": "bTKZrlIXURMxIQG7XKm-0g",
+            "alias": "do-rite-donuts-and-chicken-chicago-13",
+            "name": "Do-Rite Donuts & Chicken",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jJaDpnNnYGF9vb2qqkrldA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/do-rite-donuts-and-chicken-chicago-13?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.878891,
+                "longitude": -87.635839
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "233 S Wacker Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "zip_code": "60606",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "233 S Wacker Dr",
+                    "Chicago, IL 60606"
+                ]
+            },
+            "phone": "+13129009930",
+            "display_phone": "(312) 900-9930",
+            "distance": 2432.0389682851846
+        }
+    ],
+    "total": 1400,
+    "region": {
+        "center": {
+            "longitude": -87.6167,
+            "latitude": 41.8623
+        }
+    }
+}

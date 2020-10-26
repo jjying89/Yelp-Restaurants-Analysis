@@ -1,0 +1,884 @@
+{
+    "businesses": [
+        {
+            "id": "3ZAxdHwg5qond_awFJSYQQ",
+            "alias": "dennys-denver",
+            "name": "Denny's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CNNpOVZDx7gMruAmCzBitw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dennys-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.7107893909901,
+                "longitude": -104.997257888317
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "900 W Alameda Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80223",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "900 W Alameda Ave",
+                    "Denver, CO 80223"
+                ]
+            },
+            "phone": "+13037447344",
+            "display_phone": "(303) 744-7344",
+            "distance": 3868.8836535856776
+        },
+        {
+            "id": "t4H64CIJUR-xmTq7jGyLyg",
+            "alias": "ha-noi-bistro-denver",
+            "name": "Ha Noi Bistro",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AdZXBCiyltgGATlswS6lnQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ha-noi-bistro-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.710777,
+                "longitude": -105.032617
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "3500 Morrision Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80219",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3500 Morrision Rd",
+                    "Denver, CO 80219"
+                ]
+            },
+            "phone": "+13035023636",
+            "display_phone": "(303) 502-3636",
+            "distance": 3537.2118893059865
+        },
+        {
+            "id": "VMMAlqYjAi0rzJmXNFUtdg",
+            "alias": "aramark-concessionaire-denver",
+            "name": "Aramark Concessionaire",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/X1lQFzc6aP6v_1lb1Kk8wg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/aramark-concessionaire-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7556449085889,
+                "longitude": -104.993655080673
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "Coors Field",
+                "address2": "",
+                "address3": "2151 Blake Str",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "Coors Field",
+                    "2151 Blake Str",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13033122500",
+            "display_phone": "(303) 312-2500",
+            "distance": 2758.595842819677
+        },
+        {
+            "id": "FCcJGrek57PVFjnE94tzwA",
+            "alias": "elements-restaurant-and-bar-denver",
+            "name": "Elements Restaurant & Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SR8Lcn41ymWlq8cyQbsgLw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/elements-restaurant-and-bar-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.744221,
+                "longitude": -104.994682
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1420 Stout St",
+                "address2": "Embassy Ste Hotel",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1420 Stout St",
+                    "Embassy Ste Hotel",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13035921000",
+            "display_phone": "(303) 592-1000",
+            "distance": 2153.086444430162
+        },
+        {
+            "id": "bEJY4Keu7t5oPZsk9ssI6Q",
+            "alias": "chicken-rebel-denver-5",
+            "name": "Chicken Rebel",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SHcYz6mQf6dEVnMUSaZr1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicken-rebel-denver-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7622721252542,
+                "longitude": -105.006079326902
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3200 N Pecos St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3200 N Pecos St",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2636.42828091695
+        },
+        {
+            "id": "bL-r5XhFAUwy1JvJOinDxQ",
+            "alias": "the-tailgate-denver",
+            "name": "The Tailgate",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/23mXOl7KDAg0PPu5WbnZ-A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-tailgate-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7473978996277,
+                "longitude": -105.007973983884
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1000 Chopper Cir",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1000 Chopper Cir",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1305.488432986325
+        },
+        {
+            "id": "DQ4XFZb4ECbngocvY1KxuA",
+            "alias": "park-central-cafeteria-denver",
+            "name": "Park Central Cafeteria",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KtbT1sG1kzZqWnCvMSmw8A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/park-central-cafeteria-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                },
+                {
+                    "alias": "cafeteria",
+                    "title": "Cafeteria"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.747619,
+                "longitude": -104.996572
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1515 Arapahoe St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1515 Arapahoe St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13035342616",
+            "display_phone": "(303) 534-2616",
+            "distance": 2109.9338484268937
+        },
+        {
+            "id": "zGu7q3C2tHQWSpvATnGEVQ",
+            "alias": "on-and-off-cafe-denver",
+            "name": "On and Off Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_vdTQGsOtlyQNoqZcvbTxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/on-and-off-cafe-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.762189,
+                "longitude": -105.016074
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2401 W 32nd Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2401 W 32nd Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17207263092",
+            "display_phone": "(720) 726-3092",
+            "distance": 2377.7798930866934
+        },
+        {
+            "id": "vAwT-N-d0NAAdhbvVwk2eA",
+            "alias": "gorgeous-deli-denver-3",
+            "name": "Gorgeous Deli",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rSjB0hV0bSkS3Su4qXDaxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gorgeous-deli-denver-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.7580186390071,
+                "longitude": -105.011666347696
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2556 15th St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2556 15th St",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2013.1637256559054
+        },
+        {
+            "id": "WYz7P3yCSbQldycue2w0fA",
+            "alias": "nest-at-nature-denver",
+            "name": "Nest At Nature",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1ujTgAlzFF2h24Lkm9KQCA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nest-at-nature-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.759502,
+                "longitude": -105.025775
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2949 Federal Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2949 Federal Blvd",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13033901252",
+            "display_phone": "(303) 390-1252",
+            "distance": 2124.0632959134714
+        },
+        {
+            "id": "5lFq507HoSv4Kbw8xYLWiQ",
+            "alias": "maxlunch-denver-2",
+            "name": "Maxlunch",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BdxlPLammPu8v8HUZqmTlQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maxlunch-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.7542784363031,
+                "longitude": -104.997996836901
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$$$",
+            "location": {
+                "address1": "1899 Wynkoop St",
+                "address2": "Ste 125",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1899 Wynkoop St",
+                    "Ste 125",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17204571731",
+            "display_phone": "(720) 457-1731",
+            "distance": 2399.8926454732778
+        },
+        {
+            "id": "FsUmItOuU9_x8zTq2AgC7A",
+            "alias": "kaffe-landskap-denver-4",
+            "name": "Kaffe Landskap",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ubxafxOGuFoc7t3oTAkeDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kaffe-landskap-denver-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.747098,
+                "longitude": -104.998852
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1401 Lawrence St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1401 Lawrence St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1907.6612758832603
+        },
+        {
+            "id": "AGRwC1zE9X2jvrXhgbLpxg",
+            "alias": "woodgrain-bagel-and-deli-denver-4",
+            "name": "Woodgrain Bagel & Deli",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SmMhlyqi_sVUZY05F6JlTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/woodgrain-bagel-and-deli-denver-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.746025,
+                "longitude": -104.999071
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1380 Lawrence Street",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1380 Lawrence Street",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+17205101903",
+            "display_phone": "(720) 510-1903",
+            "distance": 1849.1728028258744
+        },
+        {
+            "id": "sLLpc1vI_nDTqroZgkYKHw",
+            "alias": "mcdonalds-denver-26",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8FzyBamWbF85xndDBprp4A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-denver-26?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 48,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 39.7690845312312,
+                "longitude": -105.030656754971
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3320 W 38th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3320 W 38th Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13034580127",
+            "display_phone": "(303) 458-0127",
+            "distance": 3260.2924498263405
+        },
+        {
+            "id": "bYwWGNhczprJmm853Qcyvw",
+            "alias": "kfc-denver-28",
+            "name": "KFC",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KqTNbprZCaXakszqb4AS9Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kfc-denver-28?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 39.74345,
+                "longitude": -105.025676
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1679 Federal Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1679 Federal Blvd",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+13036299811",
+            "display_phone": "(303) 629-9811",
+            "distance": 579.0420982497977
+        },
+        {
+            "id": "7vnq2Rkdg09HaMu4GMZ22Q",
+            "alias": "subway-denver-145",
+            "name": "Subway",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k4lUZ57IrOSNaJdAg_MoqQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-denver-145?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.7604749144565,
+                "longitude": -105.024855178059
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2990 N Speer Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2990 N Speer Blvd",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17203720707",
+            "display_phone": "(720) 372-0707",
+            "distance": 2209.9010294973214
+        },
+        {
+            "id": "7OKOdHOsvHIqFpICS7Pk3A",
+            "alias": "hamburger-stand-denver-2",
+            "name": "Hamburger Stand",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/brCzxtF-6QiPUMt30r6Lyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hamburger-stand-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 39.73491,
+                "longitude": -105.02553
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1205 Federal Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1205 Federal Blvd",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+17209329011",
+            "display_phone": "(720) 932-9011",
+            "distance": 826.5344359588953
+        },
+        {
+            "id": "RbzFPgNGtDTM9tONeQDG4w",
+            "alias": "giot-dang-cafe-denver",
+            "name": "Giot Dang Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yd8luWjCE9sAOKD4GuN-NQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/giot-dang-cafe-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.70791,
+                "longitude": -105.02479
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "472 S Federal Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80219",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "472 S Federal Blvd",
+                    "Denver, CO 80219"
+                ]
+            },
+            "phone": "+17204853610",
+            "display_phone": "(720) 485-3610",
+            "distance": 3696.898931641987
+        },
+        {
+            "id": "dkqsKhSx1WOKt_AEt6dpug",
+            "alias": "albina-by-the-sea-denver",
+            "name": "Albina by the Sea",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CApwI1GeL_JOP20Iiv2t_Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/albina-by-the-sea-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "seafoodmarkets",
+                    "title": "Seafood Markets"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7532460906922,
+                "longitude": -104.996931235796
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1800 Wazee St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1800 Wazee St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2375.6102924591933
+        },
+        {
+            "id": "WjEVpSzkpbF-x-lPJ9MbtQ",
+            "alias": "saffron-grill-denver-2",
+            "name": "Saffron Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b4dmtdv5Wjl95bpM_ND2Xw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/saffron-grill-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "falafel",
+                    "title": "Falafel"
+                },
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7455898802002,
+                "longitude": -105.005350112915
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1199 10th St",
+                "address2": null,
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1199 10th St",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+13032021600",
+            "display_phone": "(303) 202-1600",
+            "distance": 1328.827798806484
+        }
+    ],
+    "total": 575,
+    "region": {
+        "center": {
+            "longitude": -105.0197,
+            "latitude": 39.741
+        }
+    }
+}

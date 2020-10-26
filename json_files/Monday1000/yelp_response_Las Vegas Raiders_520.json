@@ -1,0 +1,863 @@
+{
+    "businesses": [
+        {
+            "id": "A6pNd2ESBUde8NcBUCu2Nw",
+            "alias": "la-salumeria-las-vegas",
+            "name": "La Salumeria",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/APlTyv-8N9K1-MW9WNn-tQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-salumeria-las-vegas?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "cheese",
+                    "title": "Cheese Shops"
+                },
+                {
+                    "alias": "meats",
+                    "title": "Meat Shops"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 36.1046091049615,
+                "longitude": -115.176028870046
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3770 S Las Vegas Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3770 S Las Vegas Blvd",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17027307617",
+            "display_phone": "(702) 730-7617",
+            "distance": 1676.4791632037166
+        },
+        {
+            "id": "W0oH-WXVdQj98XJ9Obn82Q",
+            "alias": "tgi-fridays-las-vegas-3",
+            "name": "TGI Fridays",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YPsqRYMumM-BIF5uky6eoQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tgi-fridays-las-vegas-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 217,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 36.1168182129108,
+                "longitude": -115.192073852602
+            },
+            "transactions": [
+                "delivery",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4000 W Flamingo Rd",
+                "address2": "",
+                "address3": "Gold Coast Casino",
+                "city": "Las Vegas",
+                "zip_code": "89103",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "4000 W Flamingo Rd",
+                    "Gold Coast Casino",
+                    "Las Vegas, NV 89103"
+                ]
+            },
+            "phone": "+17028805920",
+            "display_phone": "(702) 880-5920",
+            "distance": 2987.776848624234
+        },
+        {
+            "id": "t7YEHbN6NiuS1oBlD-R6ag",
+            "alias": "excalibur-pool-las-vegas-2",
+            "name": "Excalibur Pool",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BNoJNv1Iz-Tf24_aOqc2Rw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/excalibur-pool-las-vegas-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 77,
+            "categories": [
+                {
+                    "alias": "swimmingpools",
+                    "title": "Swimming Pools"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.098991,
+                "longitude": -115.175482
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3850 Las Vegas Blvd S",
+                "address2": "Excalibur Hotel And Casino",
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3850 Las Vegas Blvd S",
+                    "Excalibur Hotel And Casino",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17025977600",
+            "display_phone": "(702) 597-7600",
+            "distance": 1164.6249953447086
+        },
+        {
+            "id": "97TVQZZo_2nMDTeWvqfXXg",
+            "alias": "ciao-ciao-cafe-and-bar-las-vegas",
+            "name": "Ciao Ciao Cafe & Bar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7Jk887dnnVDvrI0gtl1i6Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ciao-ciao-cafe-and-bar-las-vegas?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 118,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.1187701524366,
+                "longitude": -115.176731015344
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3500 Las Vegas Blvd S",
+                "address2": "",
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3500 Las Vegas Blvd S",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17026977986",
+            "display_phone": "(702) 697-7986",
+            "distance": 3167.3595684659635
+        },
+        {
+            "id": "_kb6GT4qawjwq47OsQ52xw",
+            "alias": "paradise-garden-buffet-las-vegas-4",
+            "name": "Paradise Garden Buffet",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dZMyypaqdRQUkmo9YZa9ww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/paradise-garden-buffet-las-vegas-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 661,
+            "categories": [
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 36.1163549,
+                "longitude": -115.1720513
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3555 S Las Vegas Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3555 S Las Vegas Blvd",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17027333111",
+            "display_phone": "(702) 733-3111",
+            "distance": 3021.957371904849
+        },
+        {
+            "id": "Zrx25j1M794Nh8fUGB8E9A",
+            "alias": "tgi-fridays-las-vegas-13",
+            "name": "TGI Fridays",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ShrH-8HU5idOvhkei9z03A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tgi-fridays-las-vegas-13?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 306,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 36.102704,
+                "longitude": -115.202215
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4500 W Tropicana Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Las Vegas",
+                "zip_code": "89103",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "4500 W Tropicana Ave",
+                    "Las Vegas, NV 89103"
+                ]
+            },
+            "phone": "+17028731801",
+            "display_phone": "(702) 873-1801",
+            "distance": 2129.8828392366913
+        },
+        {
+            "id": "JVTIY3KAIaIiL0fxY82SoQ",
+            "alias": "smashburger-las-vegas-25",
+            "name": "Smashburger",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gEbmjfSI-rjIHNRMXY6TSQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/smashburger-las-vegas-25?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 117,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.1166434794385,
+                "longitude": -115.185615276505
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3700 W Flamingo Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Las Vegas",
+                "zip_code": "89103",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3700 W Flamingo Rd",
+                    "Las Vegas, NV 89103"
+                ]
+            },
+            "phone": "+17027639468",
+            "display_phone": "(702) 763-9468",
+            "distance": 2875.6342807347705
+        },
+        {
+            "id": "LdB-ymK-cauStX7TxUAs_w",
+            "alias": "the-venetian-food-court-las-vegas",
+            "name": "The Venetian - Food Court",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4TcKCS8gFnSxvylHQQ3wqw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-venetian-food-court-las-vegas?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "food_court",
+                    "title": "Food Court"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 36.122932,
+                "longitude": -115.1685253
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3355 Las Vegas Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3355 Las Vegas Blvd",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17024141000",
+            "display_phone": "(702) 414-1000",
+            "distance": 3817.8760396669513
+        },
+        {
+            "id": "lVULxfPrpjnlOzF_jilRAA",
+            "alias": "tacos-n-ritas-las-vegas-2",
+            "name": "Tacos N' Ritas",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vSOtEvHsVVwpKW0c_yvr-g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tacos-n-ritas-las-vegas-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 77,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.1214573881711,
+                "longitude": -115.169437951065
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3355 S Las Vegas Blvd",
+                "address2": "",
+                "address3": "Venetian Hotel & Casino Las Vegas",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3355 S Las Vegas Blvd",
+                    "Venetian Hotel & Casino Las Vegas",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17025970131",
+            "display_phone": "(702) 597-0131",
+            "distance": 3635.532089127208
+        },
+        {
+            "id": "KiTHWMK20GvgPvpHSzTHTg",
+            "alias": "chipotle-mexican-grill-las-vegas-10",
+            "name": "Chipotle Mexican Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5t9pSC6yP1eTJBik1suSxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chipotle-mexican-grill-las-vegas-10?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 78,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.109154,
+                "longitude": -115.171145
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3663 Las Vegas Blvd",
+                "address2": "Ste A020",
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3663 Las Vegas Blvd",
+                    "Ste A020",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17024488559",
+            "display_phone": "(702) 448-8559",
+            "distance": 2324.775511315158
+        },
+        {
+            "id": "ABJjxuO6oh5D9R48-eAUdQ",
+            "alias": "the-buffet-at-luxor-las-vegas-3",
+            "name": "The Buffet at Luxor",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wwNpQzNiUQ1Tspi1PZo5rQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-buffet-at-luxor-las-vegas-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 956,
+            "categories": [
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 36.095491933326,
+                "longitude": -115.17583541552
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3900 Las Vegas Blvd S",
+                "address2": "",
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3900 Las Vegas Blvd S",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 869.7645252525052
+        },
+        {
+            "id": "Lu4pQHQCRXI773PeP3PjTA",
+            "alias": "cypress-street-marketplace-las-vegas",
+            "name": "Cypress Street Marketplace",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dCNl7posAAPoXQWifUDdWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cypress-street-marketplace-las-vegas?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 85,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.11703,
+                "longitude": -115.17629
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3570 Las Vegas Blvd S",
+                "address2": "",
+                "address3": "Caesars Palace Hotel",
+                "city": "Las Vegas",
+                "zip_code": "89101",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3570 Las Vegas Blvd S",
+                    "Caesars Palace Hotel",
+                    "Las Vegas, NV 89101"
+                ]
+            },
+            "phone": "+17027317743",
+            "display_phone": "(702) 731-7743",
+            "distance": 2918.7476741974756
+        },
+        {
+            "id": "MZRqxvBkJLjKcoOjNz7yLA",
+            "alias": "carlosn-charlies-las-vegas-2",
+            "name": "Carlos'n Charlie's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZNeHeJJlh7zN9DMRG-0IeA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/carlosn-charlies-las-vegas-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 594,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 36.1164183796829,
+                "longitude": -115.171344843699
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3555 S Las Vegas Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3555 S Las Vegas Blvd",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17025229254",
+            "display_phone": "(702) 522-9254",
+            "distance": 3050.9331806699106
+        },
+        {
+            "id": "qD_io-v58saSEdSO3mmXzA",
+            "alias": "red-palms-las-vegas",
+            "name": "Red Palms",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_2CiGyJZ6hV4iZVAlqmYNw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/red-palms-las-vegas?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 36.1049965763249,
+                "longitude": -115.171828433333
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "3763 Las Vegas Blvd S",
+                "address2": "Ste B",
+                "address3": null,
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3763 Las Vegas Blvd S",
+                    "Ste B",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17029017722",
+            "display_phone": "(702) 901-7722",
+            "distance": 1897.6422197658335
+        },
+        {
+            "id": "eGgvWUEKUS2KKp9uk-YpXg",
+            "alias": "waffle-time-las-vegas-4",
+            "name": "Waffle Time",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bcsM0oR_o-30HL2a2GcTPA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/waffle-time-las-vegas-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 36.1147074,
+                "longitude": -115.1728497
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89044",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "Las Vegas, NV 89044"
+                ]
+            },
+            "phone": "+17029312018",
+            "display_phone": "(702) 931-2018",
+            "distance": 2825.278211968299
+        },
+        {
+            "id": "FfHpj1QcW510pA3CS354xw",
+            "alias": "the-coffee-shop-las-vegas-2",
+            "name": "The Coffee Shop",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hO9OJWYn2_G-RywQEMq54A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-coffee-shop-las-vegas-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 314,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 36.1239135737976,
+                "longitude": -115.171517820511
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3300 Las Vegas Blvd S",
+                "address2": "",
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3300 Las Vegas Blvd S",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17028947111",
+            "display_phone": "(702) 894-7111",
+            "distance": 3835.466666231802
+        },
+        {
+            "id": "H-WYHSzXPWS9Avj0W6SRpg",
+            "alias": "the-buffet-at-excalibur-las-vegas-6",
+            "name": "The Buffet at Excalibur",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3xRKVwfDcXeFcjG3zWot9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-buffet-at-excalibur-las-vegas-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 519,
+            "categories": [
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 36.09888,
+                "longitude": -115.17658
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3850 S Las Vegas Blvd",
+                "address2": null,
+                "address3": "Excalibur Hotel And Casino",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3850 S Las Vegas Blvd",
+                    "Excalibur Hotel And Casino",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1154.725767087013
+        },
+        {
+            "id": "3qPT_s7FQH4I3hfd4U0BLA",
+            "alias": "2nd-floor-steak-and-chophouse-las-vegas",
+            "name": "2nd Floor Steak and Chophouse",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q1pR5sQHCpPEdZxKk_ARGA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/2nd-floor-steak-and-chophouse-las-vegas?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 36.117448,
+                "longitude": -115.1726451
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3545 S Las Vegas Blvd",
+                "address2": "Ste L5",
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3545 S Las Vegas Blvd",
+                    "Ste L5",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17023316800",
+            "display_phone": "(702) 331-6800",
+            "distance": 3155.55489618622
+        },
+        {
+            "id": "Zdg1CnOe2zVDf5Egzf9RXw",
+            "alias": "dennys-las-vegas-22",
+            "name": "Denny's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M8cy7VLF3i2EliS_gNC2SA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dennys-las-vegas-22?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 336,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 36.1209999329703,
+                "longitude": -115.171821055826
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3397 S Las Vegas Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3397 S Las Vegas Blvd",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "+17024744417",
+            "display_phone": "(702) 474-4417",
+            "distance": 3517.655666645972
+        },
+        {
+            "id": "4qTeGqt6YpufGxZXJ_FldQ",
+            "alias": "lavazza-las-vegas-3",
+            "name": "LavAzza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_GXQy8MPldWsWhT9tnQdcA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lavazza-las-vegas-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 36.1133631,
+                "longitude": -115.172618
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3645 Las Vegas Blvd S",
+                "address2": "",
+                "address3": null,
+                "city": "Las Vegas",
+                "zip_code": "89109",
+                "country": "US",
+                "state": "NV",
+                "display_address": [
+                    "3645 Las Vegas Blvd S",
+                    "Las Vegas, NV 89109"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2842.2414194377766
+        }
+    ],
+    "total": 758,
+    "region": {
+        "center": {
+            "longitude": -115.18361100000001,
+            "latitude": 36.090833
+        }
+    }
+}
