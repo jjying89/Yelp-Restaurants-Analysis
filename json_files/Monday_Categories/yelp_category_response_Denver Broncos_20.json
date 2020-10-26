@@ -28,8 +28,8 @@
                 "longitude": -105.008493
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
@@ -203,7 +203,7 @@
             "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AYRZJZW00LPzougy4UEedw/o.jpg",
             "is_closed": false,
             "url": "https://www.yelp.com/biz/the-bindery-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 263,
+            "review_count": 264,
             "categories": [
                 {
                     "alias": "newamerican",
@@ -294,53 +294,6 @@
             "distance": 2730.038490409417
         },
         {
-            "id": "cQvDhCiTC1q6-ofQgoPFwg",
-            "alias": "cart-driver-lohi-denver",
-            "name": "Cart-Driver Lohi",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZHlZTRPUfFvffHy9J1neYw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/cart-driver-lohi-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 22,
-            "categories": [
-                {
-                    "alias": "pizza",
-                    "title": "Pizza"
-                },
-                {
-                    "alias": "newamerican",
-                    "title": "American (New)"
-                },
-                {
-                    "alias": "wine_bars",
-                    "title": "Wine Bars"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 39.759842,
-                "longitude": -105.01427
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "location": {
-                "address1": "2239 W 30th Ave",
-                "address2": "",
-                "address3": null,
-                "city": "Denver",
-                "zip_code": "80211",
-                "country": "US",
-                "state": "CO",
-                "display_address": [
-                    "2239 W 30th Ave",
-                    "Denver, CO 80211"
-                ]
-            },
-            "phone": "+17205012264",
-            "display_phone": "(720) 501-2264",
-            "distance": 2142.4913622035856
-        },
-        {
             "id": "JozyDHVPiVqqCEZzB4lC1A",
             "alias": "northside-eatery-market-denver",
             "name": "Northside Eatery + Market",
@@ -387,6 +340,53 @@
             "phone": "+13039935599",
             "display_phone": "(303) 993-5599",
             "distance": 2245.774904954603
+        },
+        {
+            "id": "cQvDhCiTC1q6-ofQgoPFwg",
+            "alias": "cart-driver-lohi-denver",
+            "name": "Cart-Driver Lohi",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZHlZTRPUfFvffHy9J1neYw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cart-driver-lohi-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.759842,
+                "longitude": -105.01427
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "2239 W 30th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2239 W 30th Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17205012264",
+            "display_phone": "(720) 501-2264",
+            "distance": 2142.4913622035856
         },
         {
             "id": "8IyMLD6uLYFDVRtpa0uHZA",

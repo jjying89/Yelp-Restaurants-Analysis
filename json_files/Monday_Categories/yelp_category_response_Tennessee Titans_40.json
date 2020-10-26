@@ -1,59 +1,13 @@
 {
     "businesses": [
         {
-            "id": "JEGtNfNe43X8vyapxKWquA",
-            "alias": "los-toritos-mtg-nashville",
-            "name": "Los Toritos MTG",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fUBRYP1PZaS1phgtv-KWYA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/los-toritos-mtg-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 15,
-            "categories": [
-                {
-                    "alias": "mexican",
-                    "title": "Mexican"
-                },
-                {
-                    "alias": "cocktailbars",
-                    "title": "Cocktail Bars"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 36.151633,
-                "longitude": -86.787496
-            },
-            "transactions": [
-                "delivery",
-                "pickup"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "1302 Division St",
-                "address2": "Ste A",
-                "address3": "",
-                "city": "Nashville",
-                "zip_code": "37203",
-                "country": "US",
-                "state": "TN",
-                "display_address": [
-                    "1302 Division St",
-                    "Ste A",
-                    "Nashville, TN 37203"
-                ]
-            },
-            "phone": "+16157126667",
-            "display_phone": "(615) 712-6667",
-            "distance": 2172.9646905330687
-        },
-        {
             "id": "pIvX_Kw4f82baMUhRO6WxQ",
             "alias": "kid-rocks-big-honky-tonk-and-rock-n-roll-steakhouse-nashville",
             "name": "Kid Rock's Big Honky Tonk and Rock n' Roll Steakhouse",
             "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IL1sEZOiL3YQZugHVK9Beg/o.jpg",
             "is_closed": false,
             "url": "https://www.yelp.com/biz/kid-rocks-big-honky-tonk-and-rock-n-roll-steakhouse-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 299,
+            "review_count": 300,
             "categories": [
                 {
                     "alias": "steak",
@@ -93,6 +47,52 @@
             "phone": "+16152482706",
             "display_phone": "(615) 248-2706",
             "distance": 679.4394234454052
+        },
+        {
+            "id": "JEGtNfNe43X8vyapxKWquA",
+            "alias": "los-toritos-mtg-nashville",
+            "name": "Los Toritos MTG",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fUBRYP1PZaS1phgtv-KWYA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/los-toritos-mtg-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 36.151633,
+                "longitude": -86.787496
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1302 Division St",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37203",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "1302 Division St",
+                    "Ste A",
+                    "Nashville, TN 37203"
+                ]
+            },
+            "phone": "+16157126667",
+            "display_phone": "(615) 712-6667",
+            "distance": 2172.9646905330687
         },
         {
             "id": "CkYoNqqNAfRxatyylgN15A",
@@ -328,51 +328,6 @@
             "distance": 2848.7089538462437
         },
         {
-            "id": "TVO-R_N5CGCNum4-TjrLDA",
-            "alias": "hawkers-asian-street-food-nashville-nashville-2",
-            "name": "Hawkers Asian Street Food - Nashville",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DtTL4TiqGwv9D7qutrNPTg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/hawkers-asian-street-food-nashville-nashville-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
-            "review_count": 34,
-            "categories": [
-                {
-                    "alias": "tapasmallplates",
-                    "title": "Tapas/Small Plates"
-                },
-                {
-                    "alias": "cocktailbars",
-                    "title": "Cocktail Bars"
-                },
-                {
-                    "alias": "chinese",
-                    "title": "Chinese"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 36.17408,
-                "longitude": -86.76112
-            },
-            "transactions": [],
-            "location": {
-                "address1": "626A Main St",
-                "address2": null,
-                "address3": "",
-                "city": "Nashville",
-                "zip_code": "37206",
-                "country": "US",
-                "state": "TN",
-                "display_address": [
-                    "626A Main St",
-                    "Nashville, TN 37206"
-                ]
-            },
-            "phone": "+16156004762",
-            "display_phone": "(615) 600-4762",
-            "distance": 1257.3312774863305
-        },
-        {
             "id": "22fzAJbot9r6iA394ZEKxA",
             "alias": "geist-nashville",
             "name": "Geist",
@@ -518,6 +473,51 @@
             "distance": 973.557197975957
         },
         {
+            "id": "TVO-R_N5CGCNum4-TjrLDA",
+            "alias": "hawkers-asian-street-food-nashville-nashville-2",
+            "name": "Hawkers Asian Street Food - Nashville",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DtTL4TiqGwv9D7qutrNPTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hawkers-asian-street-food-nashville-nashville-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 34,
+            "categories": [
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 36.17408,
+                "longitude": -86.76112
+            },
+            "transactions": [],
+            "location": {
+                "address1": "626A Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37206",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "626A Main St",
+                    "Nashville, TN 37206"
+                ]
+            },
+            "phone": "+16156004762",
+            "display_phone": "(615) 600-4762",
+            "distance": 1257.3312774863305
+        },
+        {
             "id": "iI090K0JMViyPPh7Viovrg",
             "alias": "germantown-pub-nashville",
             "name": "Germantown Pub",
@@ -545,8 +545,8 @@
                 "longitude": -86.792577
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -590,8 +590,8 @@
                 "longitude": -86.74639
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "1008 Gallatin Ave",
@@ -638,8 +638,8 @@
                 "longitude": -86.7838
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "location": {
                 "address1": "700 12th Ave S",
@@ -686,8 +686,8 @@
                 "longitude": -86.7787147
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -783,8 +783,8 @@
                 "longitude": -86.7796386800501
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
@@ -880,8 +880,8 @@
                 "longitude": -86.790335
             },
             "transactions": [
-                "delivery",
-                "pickup"
+                "pickup",
+                "delivery"
             ],
             "price": "$$",
             "location": {
