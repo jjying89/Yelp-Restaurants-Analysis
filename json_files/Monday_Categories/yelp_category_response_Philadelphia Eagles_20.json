@@ -1,0 +1,142 @@
+{
+    "businesses": [
+        {
+            "id": "kOVYDwD9LbgBKwBkztDcag",
+            "alias": "messina-club-philadelphia",
+            "name": "Messina Club",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/messina-club-philadelphia?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "social_clubs",
+                    "title": "Social Clubs"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.9297638,
+                "longitude": -75.1614432
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1533 S 10th St",
+                "address2": "",
+                "address3": "",
+                "city": "Philadelphia",
+                "zip_code": "19147",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "1533 S 10th St",
+                    "Philadelphia, PA 19147"
+                ]
+            },
+            "phone": "+12153399260",
+            "display_phone": "(215) 339-9260",
+            "distance": 3258.163559952806
+        },
+        {
+            "id": "z1TyupB3dqGlAfijPyGryA",
+            "alias": "the-pizza-pub-philadelphia",
+            "name": "The Pizza Pub",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q5wb4FERDCT83qIxHp4Izw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-pizza-pub-philadelphia?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 57,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.9235420227051,
+                "longitude": -75.179443359375
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1940 W Passyunk Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Philadelphia",
+                "zip_code": "19145",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "1940 W Passyunk Ave",
+                    "Philadelphia, PA 19145"
+                ]
+            },
+            "phone": "+12676875000",
+            "display_phone": "(267) 687-5000",
+            "distance": 2723.367751763178
+        },
+        {
+            "id": "zw4lntSaPlrfrVBE057qUA",
+            "alias": "townsend-wine-bar-philadelphia",
+            "name": "Townsend Wine Bar",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/townsend-wine-bar-philadelphia?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "french",
+                    "title": "French"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.929359008334,
+                "longitude": -75.1638067513704
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1623 E Passyunk Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Philadelphia",
+                "zip_code": "19148",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "1623 E Passyunk Ave",
+                    "Philadelphia, PA 19148"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3187.5448050316486
+        }
+    ],
+    "total": 23,
+    "region": {
+        "center": {
+            "longitude": -75.1675,
+            "latitude": 39.900833
+        }
+    }
+}

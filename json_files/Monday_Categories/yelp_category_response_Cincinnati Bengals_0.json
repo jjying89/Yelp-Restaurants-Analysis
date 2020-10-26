@@ -1,0 +1,953 @@
+{
+    "businesses": [
+        {
+            "id": "aeNlmuqx9tws1OKbe5rX-A",
+            "alias": "tafts-ale-house-cincinnati",
+            "name": "Taft's Ale House",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0Duo3-_lyhk_dZ_4RgwnoQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tafts-ale-house-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 986,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.11135,
+                "longitude": -84.51752
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1429 Race St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1429 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133341393",
+            "display_phone": "(513) 334-1393",
+            "distance": 1817.009013570353
+        },
+        {
+            "id": "rK0dUz5A43yub7jJDdwOzw",
+            "alias": "1215-wine-bar-and-coffee-lab-cincinnati",
+            "name": "1215 Wine Bar & Coffee Lab",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8tyCgTvZu1DAK8PKCFuQ3w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/1215-wine-bar-and-coffee-lab-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 277,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.10873,
+                "longitude": -84.51509
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1215 Vine St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1215 Vine St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15134295745",
+            "display_phone": "(513) 429-5745",
+            "distance": 1529.9708071066136
+        },
+        {
+            "id": "t5yJouqRTnXKFsZfnjHxOw",
+            "alias": "louvino-otr-cincinnati",
+            "name": "LouVino OTR",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NaohpPbDHuMCSApVXGc8eg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/louvino-otr-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 316,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.10902,
+                "longitude": -84.51133
+            },
+            "transactions": [
+                "delivery",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1142 Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1142 Main St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15138133350",
+            "display_phone": "(513) 813-3350",
+            "distance": 1601.0581758634805
+        },
+        {
+            "id": "L_Gi_sxv0AelMfA8EBVgzA",
+            "alias": "abigail-street-cincinnati",
+            "name": "Abigail Street",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KfRQTRSNl67So8q05X-iZw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/abigail-street-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 356,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.1089058,
+                "longitude": -84.5143175
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "1214 Vine St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1214 Vine St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15134214040",
+            "display_phone": "(513) 421-4040",
+            "distance": 1553.0535890923534
+        },
+        {
+            "id": "yStreilOUrOzsx30PuXDew",
+            "alias": "revolution-rotisserie-and-bar-cincinnati-8",
+            "name": "Revolution Rotisserie & Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JgWB3rUxkT5kpia_AhpJkw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/revolution-rotisserie-and-bar-cincinnati-8?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 348,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.10743,
+                "longitude": -84.51591
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1106 Race St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1106 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133810009",
+            "display_phone": "(513) 381-0009",
+            "distance": 1377.9943889593578
+        },
+        {
+            "id": "vG2t23RU3yQBMlanbn8ZYw",
+            "alias": "losanti-cincinnati",
+            "name": "Losanti",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sj0oA7x3xyjjNR-q8BiIWA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/losanti-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 65,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.1104,
+                "longitude": -84.517211
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1401 Race St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1401 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15132464213",
+            "display_phone": "(513) 246-4213",
+            "distance": 1719.2123427507306
+        },
+        {
+            "id": "zAMSiiO-cXwIZD_o5ULXAg",
+            "alias": "fireside-pizza-cincinnati-3",
+            "name": "Fireside Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UDfk0c3-ckAwDnNT4gMKmg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fireside-pizza-cincinnati-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 248,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.12581,
+                "longitude": -84.4918377313175
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "773 E McMillan St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45206",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "773 E McMillan St",
+                    "Cincinnati, OH 45206"
+                ]
+            },
+            "phone": "+15137513473",
+            "display_phone": "(513) 751-3473",
+            "distance": 4010.3479226304676
+        },
+        {
+            "id": "NMNrxBy5j0qx9NBXPz-aNA",
+            "alias": "pleasantry-cincinnati",
+            "name": "Pleasantry",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GBsiC0fTa-cV5K4uczkwdQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pleasantry-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 133,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.11152,
+                "longitude": -84.51818
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "118 W 15th St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "118 W 15th St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133811969",
+            "display_phone": "(513) 381-1969",
+            "distance": 1845.8742386728566
+        },
+        {
+            "id": "g6_iwKODsOjg4zibDXDb0g",
+            "alias": "zula-cincinnati",
+            "name": "Zula Restaurant & Wine Bar",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ugfWzwy50FXQgl4igs_jVw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/zula-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 395,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.11046,
+                "longitude": -84.516837
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1400 Race St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1400 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15137449852",
+            "display_phone": "(513) 744-9852",
+            "distance": 1720.5881723272037
+        },
+        {
+            "id": "Goe6BO9fX7j3qKck8Bcy2g",
+            "alias": "maize-cincinnati",
+            "name": "Maize",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q29YKbmHTJ7W3SPbln--NQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maize-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 155,
+            "categories": [
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.11128,
+                "longitude": -84.51692
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1438 Race St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1438 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133811608",
+            "display_phone": "(513) 381-1608",
+            "distance": 1830.489515892828
+        },
+        {
+            "id": "209QXqdqYJeAQ0hF_6CoLQ",
+            "alias": "homemakers-bar-cincinnati",
+            "name": "Homemakers Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vrRB_BDD4d-25MQkOmFqSQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/homemakers-bar-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.109567,
+                "longitude": -84.5136764
+            },
+            "transactions": [],
+            "location": {
+                "address1": "39 E 13th St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "39 E 13th St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133947559",
+            "display_phone": "(513) 394-7559",
+            "distance": 1632.137026558224
+        },
+        {
+            "id": "C7nHOWRzrPzn7ur6naDiRA",
+            "alias": "aster-cincinnati-3",
+            "name": "Aster",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/00h7NZpwK3SEK2RbqmoEMQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/aster-cincinnati-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 110,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.10012,
+                "longitude": -84.51228
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "8 E 4th St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "8 E 4th St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133814483",
+            "display_phone": "(513) 381-4483",
+            "distance": 665.2957382486497
+        },
+        {
+            "id": "_zT1ZWUZt22ba5LWXsADAQ",
+            "alias": "city-goat-covington-2",
+            "name": "City Goat",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ALmhNeDGDWxHiKDG5LykgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/city-goat-covington-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 71,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.0828288,
+                "longitude": -84.5102368
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "715 Madison Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "715 Madison Ave",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18592793533",
+            "display_phone": "(859) 279-3533",
+            "distance": 1441.8830034682594
+        },
+        {
+            "id": "WNRvgt4ke-dvteBnKuP92A",
+            "alias": "kittys-sports-grill-cincinnati",
+            "name": "Kitty's Sports Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N7IOUEESEaUWR83sKVc2vA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kittys-sports-grill-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 98,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.098316192627,
+                "longitude": -84.516357421875
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "218 W 3rd St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "218 W 3rd St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15134218900",
+            "display_phone": "(513) 421-8900",
+            "distance": 373.6278763813889
+        },
+        {
+            "id": "AeeF2JgNpBQ6uv6Kp8kYWg",
+            "alias": "parlor-on-seventh-covington",
+            "name": "Parlor on Seventh",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TuAufVpWj6SEAJS8KjZ01Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/parlor-on-seventh-covington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 77,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.08304,
+                "longitude": -84.51137
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "43 W 7th St",
+                "address2": "",
+                "address3": null,
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "43 W 7th St",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18599934700",
+            "display_phone": "(859) 993-4700",
+            "distance": 1370.389605879067
+        },
+        {
+            "id": "S7nBhSheyXrotbiYp2bZVw",
+            "alias": "social-otr-cincinnati-2",
+            "name": "Social OTR",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZczK_0C2oXwDFEIjOd0D3A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/social-otr-cincinnati-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 63,
+            "categories": [
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.11576,
+                "longitude": -84.52033
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1819 Elm St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1819 Elm St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15132636893",
+            "display_phone": "(513) 263-6893",
+            "distance": 2339.1871061896545
+        },
+        {
+            "id": "XZj-WNnBu_QEN0qAtXjOCw",
+            "alias": "zola-pub-and-grill-covington",
+            "name": "Zola Pub and Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MxnjjzqARXtuBnkmatMQKQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/zola-pub-and-grill-covington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 124,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.0833,
+                "longitude": -84.51725
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "626 Main St",
+                "address2": "",
+                "address3": "",
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "626 Main St",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18592617510",
+            "display_phone": "(859) 261-7510",
+            "distance": 1304.9024716956653
+        },
+        {
+            "id": "y3mSvgSd7gvo12TVlqgzjw",
+            "alias": "commonwealth-bistro-covington-2",
+            "name": "Commonwealth Bistro",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iP1dehvQGiC_wUbUkDn-tQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/commonwealth-bistro-covington-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 128,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.08342,
+                "longitude": -84.51777
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "621 Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "621 Main St",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18599166719",
+            "display_phone": "(859) 916-6719",
+            "distance": 1295.461266521613
+        },
+        {
+            "id": "wstBLc1vZKVv5H2rU0JU0g",
+            "alias": "arnolds-bar-and-grill-cincinnati",
+            "name": "Arnolds Bar & Grill",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CDuSbycQgz0il9pyvoljTw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/arnolds-bar-and-grill-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 300,
+            "categories": [
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "musicvenues",
+                    "title": "Music Venues"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.1051635742188,
+                "longitude": -84.5101699829102
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "210 E 8th St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "210 E 8th St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15134216234",
+            "display_phone": "(513) 421-6234",
+            "distance": 1235.8086663471927
+        },
+        {
+            "id": "S3BZL3CSQ-sqpXpEee62Yg",
+            "alias": "moerlein-lager-house-cincinnati",
+            "name": "Moerlein Lager House",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m6NyTtHhriEuFE0ZUZ-V8A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/moerlein-lager-house-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 913,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.0963095186957,
+                "longitude": -84.5086569190491
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "115 Joe Nuxhall Way",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "115 Joe Nuxhall Way",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15134212337",
+            "display_phone": "(513) 421-2337",
+            "distance": 650.2049939560673
+        }
+    ],
+    "total": 57,
+    "region": {
+        "center": {
+            "longitude": -84.516,
+            "latitude": 39.095
+        }
+    }
+}

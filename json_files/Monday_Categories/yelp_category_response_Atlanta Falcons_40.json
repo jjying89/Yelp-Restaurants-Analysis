@@ -1,0 +1,795 @@
+{
+    "businesses": [
+        {
+            "id": "25UsDTioRSCpISDOuAlUbA",
+            "alias": "twenty-two-storys-atlanta",
+            "name": "Twenty-Two Storys",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RpHLZ8-BjbhF8jMj9esKzg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/twenty-two-storys-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 53,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.761507,
+                "longitude": -84.386606
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "265 Peachtree St NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "265 Peachtree St NE",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+14045771234",
+            "display_phone": "(404) 577-1234",
+            "distance": 1403.9456708340576
+        },
+        {
+            "id": "rVV5dlPA6N8ds7L7kr4KQA",
+            "alias": "dos-amigos-atlanta-2",
+            "name": "Dos Amigos",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gVNskgv9fvLrUf5fvgvz2w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dos-amigos-atlanta-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.782404,
+                "longitude": -84.407802
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1000 Northside Dr NW",
+                "address2": "Ste 600",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30318",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1000 Northside Dr NW",
+                    "Ste 600",
+                    "Atlanta, GA 30318"
+                ]
+            },
+            "phone": "+16787055659",
+            "display_phone": "(678) 705-5659",
+            "distance": 3056.323038280375
+        },
+        {
+            "id": "ZlpPi3WN1NXG4ihfvTGjrQ",
+            "alias": "ac-lounge-atlanta",
+            "name": "AC Lounge",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ANHfqTKBbtW-dmpLVNmPxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ac-lounge-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.76004067,
+                "longitude": -84.3909705
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "101 Andrew Young International Blvd NW",
+                "address2": null,
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "101 Andrew Young International Blvd NW",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14046042030",
+            "display_phone": "(404) 604-2030",
+            "distance": 985.0868449109582
+        },
+        {
+            "id": "Fi_zqia2O6RqGy0A7xDXgg",
+            "alias": "w-xyz-bar-atlanta",
+            "name": "W XYZ Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8Kmrebv16XScFdxLBbbu1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/w-xyz-bar-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 33.762624,
+                "longitude": -84.389546
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "300 Ted Turner Dr NW",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "300 Ted Turner Dr NW",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+16785150300",
+            "display_phone": "(678) 515-0300",
+            "distance": 1241.8262424979014
+        },
+        {
+            "id": "d62yKAk_dKdJnhNWomnA4Q",
+            "alias": "656-sports-bar-and-grille-atlanta",
+            "name": "656 Sports Bar & Grille",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EEVVZyMHPrSP-0p5orT2gw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/656-sports-bar-and-grille-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 163,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 33.736988067627,
+                "longitude": -84.3943862915039
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "656 Pryor St",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30312",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "656 Pryor St",
+                    "Atlanta, GA 30312"
+                ]
+            },
+            "phone": "+16787323659",
+            "display_phone": "(678) 732-3659",
+            "distance": 2127.676967314266
+        },
+        {
+            "id": "qPY-j6A5GjdL6eQxsyXErw",
+            "alias": "kevin-gillespies-gamechanger-atlanta",
+            "name": "Kevin Gillespie's Gamechanger",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/areH5wd8Gsw6sRgvEm-LgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kevin-gillespies-gamechanger-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "food_court",
+                    "title": "Food Court"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 33.75501,
+                "longitude": -84.40186
+            },
+            "transactions": [],
+            "location": {
+                "address1": "441 M.L.K. Jr Dr NW",
+                "address2": null,
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30313",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "441 M.L.K. Jr Dr NW",
+                    "Atlanta, GA 30313"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 157.01940200188875
+        },
+        {
+            "id": "d3VZt5E6b_T6QVn4HgPFfw",
+            "alias": "molly-bs-atlanta-2",
+            "name": "Molly B's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LvxVEYqs6Nd4oU_gFH4b3w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/molly-bs-atlanta-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.79388,
+                "longitude": -84.48362
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1 Amb Dr NW",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30313",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1 Amb Dr NW",
+                    "Atlanta, GA 30313"
+                ]
+            },
+            "phone": "+14703415050",
+            "display_phone": "(470) 341-5050",
+            "distance": 84.22165476265296
+        },
+        {
+            "id": "3R0TFde14zZt4LgXVYmhiQ",
+            "alias": "hooters-atlanta-2",
+            "name": "Hooters",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o_mcEgmPFkYEygwnfNDlJA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hooters-atlanta-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 394,
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 33.7595139,
+                "longitude": -84.387442
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "209 Peachtree St NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "209 Peachtree St NE",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14045229464",
+            "display_phone": "(404) 522-9464",
+            "distance": 1241.567158827292
+        },
+        {
+            "id": "XHVYBUwiiFnpOaEQMULgCA",
+            "alias": "5th-street-tapas-atlanta",
+            "name": "5Th Street Tapas",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UUWJA25_slK5TdEkZVjpqQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/5th-street-tapas-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 33.7755162,
+                "longitude": -84.3751919
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "366 5th St NE",
+                "address2": null,
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "366 5th St NE",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+14049753754",
+            "display_phone": "(404) 975-3754",
+            "distance": 3191.3799353163417
+        },
+        {
+            "id": "K0ie8LjbFjoDt2IJMVuq6A",
+            "alias": "bar-amalfi-atlanta",
+            "name": "Bar Amalfi",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CQDqaQpF-qeeVWmqLt21ew/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bar-amalfi-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "gelato",
+                    "title": "Gelato"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.7843208,
+                "longitude": -84.4055176
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1077 Hemphill Ave NW",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30318",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1077 Hemphill Ave NW",
+                    "Atlanta, GA 30318"
+                ]
+            },
+            "phone": "+14048442707",
+            "display_phone": "(404) 844-2707",
+            "distance": 3228.741665348272
+        },
+        {
+            "id": "opdd6sSWjwiy-doXnlpMeA",
+            "alias": "tin-lizzys-cantina-atlanta-15",
+            "name": "Tin Lizzy's Cantina",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rXNsbqO2huEIuRylpzP8lw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tin-lizzys-cantina-atlanta-15?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 33.76014,
+                "longitude": -84.38643
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "229 Peachtree St",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "229 Peachtree St",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1343.9837229813184
+        },
+        {
+            "id": "9PNAzPN-O2w8FVR27nfqDw",
+            "alias": "e-villa-atlanta-2",
+            "name": "E-Villa",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6mXZaKt1qum6ibq8dbpwyQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/e-villa-atlanta-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "ethiopian",
+                    "title": "Ethiopian"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "hookah_bars",
+                    "title": "Hookah Bars"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.7680244445801,
+                "longitude": -84.3849411010742
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "495 Peachtree St NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "495 Peachtree St NE",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+14042545011",
+            "display_phone": "(404) 254-5011",
+            "distance": 1950.4275905107331
+        },
+        {
+            "id": "txTJA0hoXnUU5rpGtBJ_9Q",
+            "alias": "jr-crickets-westside-atlanta",
+            "name": "JR Crickets Westside",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B9gix9SosH1_DNC8-7zYwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jr-crickets-westside-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 33.7547004,
+                "longitude": -84.4153374
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "886 Martin Luther King Junior Dr SW",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30314",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "886 Martin Luther King Junior Dr SW",
+                    "Atlanta, GA 30314"
+                ]
+            },
+            "phone": "+14042239222",
+            "display_phone": "(404) 223-9222",
+            "distance": 1421.124168902336
+        },
+        {
+            "id": "K_H4yo68TB0x9TdoBa9BlQ",
+            "alias": "traffik-kitchen-and-cocktails-atlanta",
+            "name": "Traffik Kitchen and Cocktails",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-YzkbaP7R7ZcNMxiUca-pw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/traffik-kitchen-and-cocktails-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.78468,
+                "longitude": -84.38454
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1100 Cresent Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30309",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1100 Cresent Ave",
+                    "Atlanta, GA 30309"
+                ]
+            },
+            "phone": "+14046004360",
+            "display_phone": "(404) 600-4360",
+            "distance": 3538.19541834036
+        },
+        {
+            "id": "adCyrPW529B63CrgcRVNug",
+            "alias": "tropicale-atlanta",
+            "name": "Tropicale",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WGQahhur2ImFKAiaOSaxEQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tropicale-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 33.7843199797273,
+                "longitude": -84.4055198505521
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1077 Hemphill Ave NW",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30318",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1077 Hemphill Ave NW",
+                    "Atlanta, GA 30318"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3238.8453270367604
+        },
+        {
+            "id": "2NgNeMuVYbOOngMBRUBHnQ",
+            "alias": "switz-sports-bar-and-grill-atlanta",
+            "name": "Switz Sports Bar and Grill",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QcR8jAg7KtB6AjTXNMdymA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/switz-sports-bar-and-grill-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 33.75496,
+                "longitude": -84.41703
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "899 Mlk Jr Dr Nw",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30314",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "899 Mlk Jr Dr Nw",
+                    "Atlanta, GA 30314"
+                ]
+            },
+            "phone": "+14044348087",
+            "display_phone": "(404) 434-8087",
+            "distance": 1576.02479050347
+        },
+        {
+            "id": "BlktVOpAE7WFMrP2MJBvjQ",
+            "alias": "twisted-taco-atlanta-4",
+            "name": "Twisted Taco",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Zo16x6tcEYLR6rohg7GXtQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/twisted-taco-atlanta-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.7779083,
+                "longitude": -84.3962402
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "350 Ferst Dr",
+                "address2": "",
+                "address3": "Student Center",
+                "city": "Atlanta",
+                "zip_code": "30332",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "350 Ferst Dr",
+                    "Student Center",
+                    "Atlanta, GA 30332"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2028.653738511957
+        }
+    ],
+    "total": 57,
+    "region": {
+        "center": {
+            "longitude": -84.4,
+            "latitude": 33.755556
+        }
+    }
+}
