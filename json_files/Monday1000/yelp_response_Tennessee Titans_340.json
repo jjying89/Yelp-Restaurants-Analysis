@@ -1,0 +1,932 @@
+{
+    "businesses": [
+        {
+            "id": "TJ3rnd66ErA9mbrXf396ig",
+            "alias": "tequila-cowboy-nashville",
+            "name": "Tequila Cowboy",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YukOmgTk-EM9pgfUX5sVrQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tequila-cowboy-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 256,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.16124,
+                "longitude": -86.77609
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "305 Broadway Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "305 Broadway Ave",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+16157429078",
+            "display_phone": "(615) 742-9078",
+            "distance": 719.9765911487062
+        },
+        {
+            "id": "5qXt2UdNCC_mW9R1840LzA",
+            "alias": "tacos-aurora-nashville-4",
+            "name": "Tacos Aurora",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mSvwWfFw2ImLUfoGQ0ATjA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tacos-aurora-nashville-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 36.178307,
+                "longitude": -86.7522834
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "975 Main St",
+                "address2": "Ste 103",
+                "address3": null,
+                "city": "Nashville",
+                "zip_code": "37206",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "975 Main St",
+                    "Ste 103",
+                    "Nashville, TN 37206"
+                ]
+            },
+            "phone": "+16156103388",
+            "display_phone": "(615) 610-3388",
+            "distance": 2167.313991078259
+        },
+        {
+            "id": "6nILr9A6ZQJgQIt__j-vSA",
+            "alias": "decker-and-dyer-nashville",
+            "name": "Decker & Dyer",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Umb0FcX4DLimDOeW3BGHdw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/decker-and-dyer-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 36.1555591,
+                "longitude": -86.7802861
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "807 Clark Pl",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37203",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "807 Clark Pl",
+                    "Nashville, TN 37203"
+                ]
+            },
+            "phone": "+16152482800",
+            "display_phone": "(615) 248-2800",
+            "distance": 1467.91015658835
+        },
+        {
+            "id": "9TvJuG22ZyCXJVYzDaDNxw",
+            "alias": "pita-pit-nashville",
+            "name": "Pita Pit",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/e2wNU2UVPUL34xc_UXsBPQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pita-pit-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 80,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.16246,
+                "longitude": -86.77585
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "121 2nd Ave N",
+                "address2": "",
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "121 2nd Ave N",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+16152557482",
+            "display_phone": "(615) 255-7482",
+            "distance": 579.983543547578
+        },
+        {
+            "id": "HKjB6JWmaKSho9CUjjYIYA",
+            "alias": "the-urban-juicer-nashville-3",
+            "name": "The Urban Juicer",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1iEXPdrEZTMfmLj9khHlhA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-urban-juicer-nashville-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "acaibowls",
+                    "title": "Acai Bowls"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 36.1643200367689,
+                "longitude": -86.7803708463907
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "21 Arcade Aly",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37219",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "21 Arcade Aly",
+                    "Nashville, TN 37219"
+                ]
+            },
+            "phone": "+18559058423",
+            "display_phone": "(855) 905-8423",
+            "distance": 796.6710979849081
+        },
+        {
+            "id": "Dp_yOU1VrnWDtntp2Kq1Kw",
+            "alias": "jane-s-hideaway-nashville",
+            "name": "Jane’s Hideaway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IJ3sqLmLnBRSU59MRU1J9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jane-s-hideaway-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "musicvenues",
+                    "title": "Music Venues"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 36.164521,
+                "longitude": -86.778329
+            },
+            "transactions": [],
+            "location": {
+                "address1": "209 3rd Ave N",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "209 3rd Ave N",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+16159427809",
+            "display_phone": "(615) 942-7809",
+            "distance": 647.634467550862
+        },
+        {
+            "id": "EfJ-1C8PH9TpGTskFqUvhQ",
+            "alias": "william-colliers-nashville",
+            "name": "William Collier's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iw6d8WVPNUNN7Dzhz_fr0A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/william-colliers-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "whiskeybars",
+                    "title": "Whiskey Bars"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 36.1639854,
+                "longitude": -86.7971491
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1402 Clinton St",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "zip_code": "37203",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "1402 Clinton St",
+                    "Nashville, TN 37203"
+                ]
+            },
+            "phone": "+16158917596",
+            "display_phone": "(615) 891-7596",
+            "distance": 2327.8696014192924
+        },
+        {
+            "id": "_Qq76wygutgcUER6QN1Ffw",
+            "alias": "hugh-babys-nashville-6",
+            "name": "Hugh-Baby's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yLSNJnv4EPFalbWBYClKaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hugh-babys-nashville-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 36.178233,
+                "longitude": -86.75215783
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "975 Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37206",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "975 Main St",
+                    "Nashville, TN 37206"
+                ]
+            },
+            "phone": "+16156103577",
+            "display_phone": "(615) 610-3577",
+            "distance": 2171.2434484432447
+        },
+        {
+            "id": "KsT3oaQJiM4v7hnqUU9EEA",
+            "alias": "jimmy-johns-nashville",
+            "name": "Jimmy John's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Bu9l5wXveRIW0w5qPbTORw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jimmy-johns-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 33,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 36.163796,
+                "longitude": -86.780076
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "424 Church St",
+                "address2": "Ste 102",
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37219",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "424 Church St",
+                    "Ste 102",
+                    "Nashville, TN 37219"
+                ]
+            },
+            "phone": "+16154016015",
+            "display_phone": "(615) 401-6015",
+            "distance": 832.5817141092662
+        },
+        {
+            "id": "sij__XMC6VWjHSqkzvawrA",
+            "alias": "chicago-style-gyro-nashville",
+            "name": "Chicago Style Gyro",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FWRalW7KnqNZfwB-n8N2SQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicago-style-gyro-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 36.1700122,
+                "longitude": -86.7891174
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "900 8th Ave N",
+                "address2": "",
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37208",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "900 8th Ave N",
+                    "Nashville, TN 37208"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2226.1557229057257
+        },
+        {
+            "id": "NXaw6ox4vQkLfQ13sq_oGg",
+            "alias": "bode-hub-nashville",
+            "name": "Bode Hub",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JlJrXP1GukTKElL9DUO-4g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bode-hub-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 36.1575,
+                "longitude": -86.77262
+            },
+            "transactions": [],
+            "location": {
+                "address1": "401 2nd Ave S",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "401 2nd Ave S",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+18442302633",
+            "display_phone": "(844) 230-2633",
+            "distance": 993.6449047799575
+        },
+        {
+            "id": "94Kq5YyU6C8cwgdh4_ozjw",
+            "alias": "johnny-cash-s-kitchen-and-saloon-nashville",
+            "name": "Johnny Cash’s Kitchen & Saloon",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5PNZIz_n0pN-YBykqIuePw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/johnny-cash-s-kitchen-and-saloon-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 36.16072,
+                "longitude": -86.77573
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "121 3rd Ave S",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "121 3rd Ave S",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+16152099504",
+            "display_phone": "(615) 209-9504",
+            "distance": 744.3012981878575
+        },
+        {
+            "id": "ttkw8_b7CVOf6hM5bzTLNw",
+            "alias": "crazy-town-nashville-nashville",
+            "name": "Crazy Town Nashville",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p-oOc5giY9qqgvbR_5XtsA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/crazy-town-nashville-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 133,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "eventplanning",
+                    "title": "Party & Event Planning"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.1615982055664,
+                "longitude": -86.7766189575195
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "308 Broadway",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "308 Broadway",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+16152545460",
+            "display_phone": "(615) 254-5460",
+            "distance": 706.2849850886732
+        },
+        {
+            "id": "BhwwkrSLzEIkCVH4Tkmh0A",
+            "alias": "jack-browns-nashville",
+            "name": "Jack Brown's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PbCzS0zM-FI8_u2IjBOb1g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-browns-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 36.14298,
+                "longitude": -86.7923
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1201 Villa Pl",
+                "address2": "Ste 102",
+                "address3": null,
+                "city": "Nashville",
+                "zip_code": "37212",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "1201 Villa Pl",
+                    "Ste 102",
+                    "Nashville, TN 37212"
+                ]
+            },
+            "phone": "+16157396429",
+            "display_phone": "(615) 739-6429",
+            "distance": 3208.732026445699
+        },
+        {
+            "id": "nygJ4mY0glpdWGv_Hmp6Dg",
+            "alias": "joes-crab-shack-nashville",
+            "name": "Joe's Crab Shack",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/l4j_9s90ukUNUYhKOyTvmQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/joes-crab-shack-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 162,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.1609473484993,
+                "longitude": -86.7748649418354
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "123 2nd Ave S",
+                "address2": "",
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "123 2nd Ave S",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+16152422722",
+            "display_phone": "(615) 242-2722",
+            "distance": 680.8046616313259
+        },
+        {
+            "id": "Gki1ureeRKqlIkQ-AELDVg",
+            "alias": "brugada-nashville",
+            "name": "Brugada",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HoUHAPw0W7D3HUIwGYpfog/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brugada-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 39,
+            "categories": [
+                {
+                    "alias": "hookah_bars",
+                    "title": "Hookah Bars"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 36.163323,
+                "longitude": -86.7765917
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "204 Commerce St",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "204 Commerce St",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+16156788952",
+            "display_phone": "(615) 678-8952",
+            "distance": 578.2398093650236
+        },
+        {
+            "id": "a52ldK1JA8qtZOm17PVNMQ",
+            "alias": "caesars-italian-and-pizza-restaurant-nashville",
+            "name": "Caesar's Italian & Pizza Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XJvH0DbChLzZSPhMowlQkA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/caesars-italian-and-pizza-restaurant-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 88,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.1633621,
+                "longitude": -86.7820664
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "221 6th Ave N",
+                "address2": "",
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37219",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "221 6th Ave N",
+                    "Nashville, TN 37219"
+                ]
+            },
+            "phone": "+16152484444",
+            "display_phone": "(615) 248-4444",
+            "distance": 1011.9159711023506
+        },
+        {
+            "id": "ZDY-jvetOMOE5BMM8e_BcQ",
+            "alias": "dicks-last-resort-nashville",
+            "name": "Dick's Last Resort",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MNz9_a0XBN9X3zoiBsMx7A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dicks-last-resort-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 146,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.16368,
+                "longitude": -86.77579
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "154 2nd Ave N",
+                "address2": "",
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "154 2nd Ave N",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+16158008894",
+            "display_phone": "(615) 800-8894",
+            "distance": 495.769559190627
+        },
+        {
+            "id": "bg4byZlEDCUVbC16VHxjlA",
+            "alias": "peckers-bar-and-grill-nashville",
+            "name": "Pecker's Bar & Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NQ23vN1e6W8SWItTjO8wZA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/peckers-bar-and-grill-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "gaybars",
+                    "title": "Gay Bars"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 36.15353,
+                "longitude": -86.75535
+            },
+            "transactions": [],
+            "location": {
+                "address1": "237 Hermitage Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37210",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "237 Hermitage Ave",
+                    "Nashville, TN 37210"
+                ]
+            },
+            "phone": "+16156781042",
+            "display_phone": "(615) 678-1042",
+            "distance": 2021.8069700824437
+        },
+        {
+            "id": "otHYLRH2uGN2mc7MaWON-w",
+            "alias": "luigis-city-pizza-nashville",
+            "name": "Luigi's City Pizza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7uHM8ZxuGj9k4-4AXt5DNA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/luigis-city-pizza-nashville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 374,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 36.161202447489,
+                "longitude": -86.7757539572128
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "105 3rd Ave S",
+                "address2": "",
+                "address3": "",
+                "city": "Nashville",
+                "zip_code": "37201",
+                "country": "US",
+                "state": "TN",
+                "display_address": [
+                    "105 3rd Ave S",
+                    "Nashville, TN 37201"
+                ]
+            },
+            "phone": "+16157429099",
+            "display_phone": "(615) 742-9099",
+            "distance": 697.2431134458458
+        }
+    ],
+    "total": 528,
+    "region": {
+        "center": {
+            "longitude": -86.771389,
+            "latitude": 36.166389
+        }
+    }
+}

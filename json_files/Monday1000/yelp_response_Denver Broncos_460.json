@@ -1,0 +1,853 @@
+{
+    "businesses": [
+        {
+            "id": "58v7ys0uDzdbGy3jvR2-iw",
+            "alias": "cocotaso-denver",
+            "name": "Cocotaso",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jpbrXwCHC5zS32jWVpTN7g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cocotaso-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7414873266975,
+                "longitude": -104.998572161795
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1234 Stout St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80205",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1234 Stout St",
+                    "Denver, CO 80205"
+                ]
+            },
+            "phone": "+17202952050",
+            "display_phone": "(720) 295-2050",
+            "distance": 1849.1077177149546
+        },
+        {
+            "id": "sNRImqlh26yqKe7i2K3FSA",
+            "alias": "saray-hot-dogs-denver",
+            "name": "Saray Hot Dogs",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WsWwynXZKqMklAMlhG3PDw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/saray-hot-dogs-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.7487989,
+                "longitude": -104.9944358
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "Arapahoe St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "Arapahoe St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13032978092",
+            "display_phone": "(303) 297-8092",
+            "distance": 2327.60561123336
+        },
+        {
+            "id": "DQtf43ekw5V-mayjg5hw3w",
+            "alias": "choice-market-osage-denver",
+            "name": "Choice Market - Osage",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u3MLPTXk4GLLpechleIDBQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/choice-market-osage-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "convenience",
+                    "title": "Convenience Stores"
+                },
+                {
+                    "alias": "markets",
+                    "title": "Fruits & Veggies"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.7324769733671,
+                "longitude": -105.005494421495
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "1015 Osage St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1015 Osage St",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+17203796343",
+            "display_phone": "(720) 379-6343",
+            "distance": 1540.6583132656776
+        },
+        {
+            "id": "15n-KgERJsjHsgNZo-dp6w",
+            "alias": "ya-ye-organics-denver",
+            "name": "Ya-Ye Organics",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EnAC4W7QGy674R8R0vFkxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ya-ye-organics-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.7481242,
+                "longitude": -104.9992139
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "1445 Larimer St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1445 Larimer St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1922.3322847355219
+        },
+        {
+            "id": "2ZKxiGe5JxLz3RuDT6KuBg",
+            "alias": "konro-pop-up-denver",
+            "name": "Konro Pop Up",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/467ttVgWr9psDSoV1dygyw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/konro-pop-up-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "popuprestaurants",
+                    "title": "Pop-Up Restaurants"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.75646,
+                "longitude": -104.999234
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1975 19th Street",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1975 19th Street",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+12134590094",
+            "display_phone": "(213) 459-0094",
+            "distance": 2452.651161714856
+        },
+        {
+            "id": "AKwaSohpf9iaRXaUjV1IHQ",
+            "alias": "bonanno-brothers-denver",
+            "name": "Bonanno Brothers",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cDzacJ7b9v-erMKYSew68g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bonanno-brothers-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7531,
+                "longitude": -104.99726
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1800 Wazee St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1800 Wazee St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2342.5552190872313
+        },
+        {
+            "id": "qGsJ4Ul5WNJCXISZUeIjZQ",
+            "alias": "taco-bell-denver-46",
+            "name": "Taco Bell",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5Ok2mW3mmqL8p2GWcDjFPA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-denver-46?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.76963167,
+                "longitude": -105.03797783
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3833 w. 38th ave",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3833 w. 38th ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3551.511385892637
+        },
+        {
+            "id": "WdzjChqHSj7oWseIJ8yH5g",
+            "alias": "qdoba-mexican-eats-denver-10",
+            "name": "QDOBA Mexican Eats",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Gk46jiHBeZNvNIkDMrOdUQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/qdoba-mexican-eats-denver-10?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.7495841829426,
+                "longitude": -104.999116133004
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1533 Market St",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1533 Market St",
+                    "Ste 100",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13036291300",
+            "display_phone": "(303) 629-1300",
+            "distance": 2002.0512673773815
+        },
+        {
+            "id": "JB68uzQNr5DlTe5NGUOngQ",
+            "alias": "dominos-pizza-denver-27",
+            "name": "Domino's Pizza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rLOs5YaaRLAqTt2M8WB92A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dominos-pizza-denver-27?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 48,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.7650744,
+                "longitude": -104.994288
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3460 Park Ave W",
+                "address2": "Unit E",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80216",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3460 Park Ave W",
+                    "Unit E",
+                    "Denver, CO 80216"
+                ]
+            },
+            "phone": "+13037161616",
+            "display_phone": "(303) 716-1616",
+            "distance": 3447.521352386679
+        },
+        {
+            "id": "WhmU5X0elmKg4XJqy1oKZQ",
+            "alias": "rositas-denver",
+            "name": "Rosita's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AdlNvwuPqKXQiVJMaTuW9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rositas-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7308726820117,
+                "longitude": -105.025547595208
+            },
+            "transactions": [],
+            "location": {
+                "address1": "823 Federal Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "823 Federal Blvd",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+17203571128",
+            "display_phone": "(720) 357-1128",
+            "distance": 1232.125331912319
+        },
+        {
+            "id": "xFR7T6okbjMc674XLB_F4w",
+            "alias": "basted-egg-denver",
+            "name": "Basted Egg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PBSJ6J6Zmjae5OfjavYfDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/basted-egg-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.73351,
+                "longitude": -104.9978
+            },
+            "transactions": [],
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+17206849709",
+            "display_phone": "(720) 684-9709",
+            "distance": 669.7344855449695
+        },
+        {
+            "id": "vh8yXlueaYoSLdkMx6rtvg",
+            "alias": "whirlybird-ice-cream-and-waffles-denver",
+            "name": "Whirlybird Ice Cream & Waffles",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0CEokeLLL8q5H2A-Ok69pA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/whirlybird-ice-cream-and-waffles-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.75387,
+                "longitude": -105.02334
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2851 W 25th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2851 W 25th Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17204328759",
+            "display_phone": "(720) 432-8759",
+            "distance": 1456.2517390157311
+        },
+        {
+            "id": "wsqp2iFWW4-j4r2lmzV98g",
+            "alias": "la-changada-denver-2",
+            "name": "La Changada",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_2Pg-xBhf0AWKwuiAgoUcQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-changada-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.70665,
+                "longitude": -105.02472
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "550 South Federal Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80219",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "550 South Federal Blvd",
+                    "Denver, CO 80219"
+                ]
+            },
+            "phone": "+17204004411",
+            "display_phone": "(720) 400-4411",
+            "distance": 3842.1122950064173
+        },
+        {
+            "id": "Vw-wPi99WWPm6tJ6YzCJpA",
+            "alias": "fruitas-frescas-y-raspados-denver",
+            "name": "Fruitas Frescas Y Raspados",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BKCxtsVN26P-MXGrIVBySA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fruitas-frescas-y-raspados-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.71108,
+                "longitude": -105.0264
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "W. Alameda Ave & S. Grove St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80219",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "W. Alameda Ave & S. Grove St",
+                    "Denver, CO 80219"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3374.6055222828472
+        },
+        {
+            "id": "qWzJuYVxRxfBMm4VGfp7mg",
+            "alias": "which-wich-denver-8",
+            "name": "Which Wich",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XkEnFhqnGK9U7NjoghcTtA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/which-wich-denver-8?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 44,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.7442288,
+                "longitude": -104.9962604
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "890 14th St",
+                "address2": "Unit A",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "890 14th St",
+                    "Unit A",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2035.9997946495366
+        },
+        {
+            "id": "9JLQfR2M81nITajh1slSCg",
+            "alias": "the-mac-shack-denver",
+            "name": "The Mac Shack",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/la5nNmY36hUQd3YvFSpfnQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-mac-shack-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7524070739746,
+                "longitude": -104.997459411621
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17209651335",
+            "display_phone": "(720) 965-1335",
+            "distance": 2212.538432255322
+        },
+        {
+            "id": "QGuWJp0DDWii9ZST17Mqdg",
+            "alias": "jabroni-and-sons-denver",
+            "name": "Jabroni & Sons",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cejmA__X3eK5GCa_YrCMag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jabroni-and-sons-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.762206,
+                "longitude": -105.013489
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2227 W 32nd Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2227 W 32nd Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17206688506",
+            "display_phone": "(720) 668-8506",
+            "distance": 2418.223140090411
+        },
+        {
+            "id": "iGBq2Zr0khnTGZUdhcDknQ",
+            "alias": "hai-bar-denver",
+            "name": "Hai Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZVekV0-zp_MrNhf8cNg7RQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hai-bar-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.76194,
+                "longitude": -105.03493
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3600 W 32nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3600 W 32nd Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17208550888",
+            "display_phone": "(720) 855-0888",
+            "distance": 2669.0671224122757
+        },
+        {
+            "id": "jXRuLbv7TfkNCpvZ-UQeyQ",
+            "alias": "dominos-pizza-denver-13",
+            "name": "Domino's Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TTdbDRs33Qlp2sO7f8oyFg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dominos-pizza-denver-13?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.7695999,
+                "longitude": -105.02359
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2917 W 38th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2917 W 38th Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13034580567",
+            "display_phone": "(303) 458-0567",
+            "distance": 3200.762694361154
+        },
+        {
+            "id": "Ap9x-gP7Ag3Cf6EnL0IQ-w",
+            "alias": "jimmy-johns-denver-11",
+            "name": "Jimmy John's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rAkMhph3lhh2jOnlHDd6Zw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jimmy-johns-denver-11?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 54,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 39.762443,
+                "longitude": -105.033885
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3467 W 32nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3467 W 32nd Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13034552055",
+            "display_phone": "(303) 455-2055",
+            "distance": 2675.988832268016
+        }
+    ],
+    "total": 575,
+    "region": {
+        "center": {
+            "longitude": -105.0197,
+            "latitude": 39.741
+        }
+    }
+}

@@ -1,0 +1,590 @@
+{
+    "businesses": [
+        {
+            "id": "F32Z-kI7ZJyGbjT8Vu3WOA",
+            "alias": "subway-glendale-76",
+            "name": "Subway",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y7DLBfH6lEpYP9Pj_7Enag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-glendale-76?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 33.5370829,
+                "longitude": -112.239593822698
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8345 W Glendale Rd",
+                "address2": "Ste 101",
+                "address3": "",
+                "city": "Glendale",
+                "zip_code": "85305",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "8345 W Glendale Rd",
+                    "Ste 101",
+                    "Glendale, AZ 85305"
+                ]
+            },
+            "phone": "+16238727821",
+            "display_phone": "(623) 872-7821",
+            "distance": 2393.0609860269587
+        },
+        {
+            "id": "etGW0g4oIABVeC4Sk5YBDQ",
+            "alias": "taco-bell-phoenix-51",
+            "name": "Taco Bell",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I75QPSnqIou3_JIRGXrc2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-phoenix-51?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 33.50626,
+                "longitude": -112.27311
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "4850 N. 99th Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Phoenix",
+                "zip_code": "85037",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "4850 N. 99th Ave",
+                    "Phoenix, AZ 85037"
+                ]
+            },
+            "phone": "+16029103314",
+            "display_phone": "(602) 910-3314",
+            "distance": 2588.4909504262528
+        },
+        {
+            "id": "w0f2Hpn1Yf2TwoykTMoOXA",
+            "alias": "subway-glendale-67",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q2P4NcWcTt4vD7TX-Xddfw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-glendale-67?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 33.5089479,
+                "longitude": -112.2646187
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "9524 W Camelback Rd",
+                "address2": "Ste C140",
+                "address3": "",
+                "city": "Glendale",
+                "zip_code": "85305",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "9524 W Camelback Rd",
+                    "Ste C140",
+                    "Glendale, AZ 85305"
+                ]
+            },
+            "phone": "+16238727824",
+            "display_phone": "(623) 872-7824",
+            "distance": 2123.8024813743955
+        },
+        {
+            "id": "0BaMoKDVNv-MP84BQ9EK9A",
+            "alias": "jack-in-the-box-phoenix-2",
+            "name": "Jack in the Box",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tx9NvA2lZeW1psBZoJ9nkg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-in-the-box-phoenix-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 33.5083698765849,
+                "longitude": -112.236761301756
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "8225 W Camelback Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Phoenix",
+                "zip_code": "85033",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "8225 W Camelback Rd",
+                    "Phoenix, AZ 85033"
+                ]
+            },
+            "phone": "+16238490630",
+            "display_phone": "(623) 849-0630",
+            "distance": 3268.216347291838
+        },
+        {
+            "id": "H_TQ6olCysyewI5yhIa9Fg",
+            "alias": "fortune-cafe-glendale",
+            "name": "Fortune Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MDY4SZMVke54zqr_in8Yfg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fortune-cafe-glendale?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 33.546492,
+                "longitude": -112.260835
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "9431 W Northern Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Glendale",
+                "zip_code": "85305",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "9431 W Northern Ave",
+                    "Glendale, AZ 85305"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2065.982069857955
+        },
+        {
+            "id": "sNYEReap1oYFrpf71o62mQ",
+            "alias": "dairy-queen-orange-julius-glendale",
+            "name": "Dairy Queen Orange Julius",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KavB8cHHQkJ6Qq-e2b3mbA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dairy-queen-orange-julius-glendale?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 33.535317,
+                "longitude": -112.266251
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "6800 N 95th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Glendale",
+                "zip_code": "85305",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "6800 N 95th Ave",
+                    "Glendale, AZ 85305"
+                ]
+            },
+            "phone": "+16238773147",
+            "display_phone": "(623) 877-3147",
+            "distance": 867.621859118092
+        },
+        {
+            "id": "FtkPH-ftY-xRH6TjTmbmVg",
+            "alias": "subway-phoenix-186",
+            "name": "Subway",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BoVI4w3c7qM1Ny2TeFaV9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-phoenix-186?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 33.507271,
+                "longitude": -112.238289
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "4840 N 83rd Ave",
+                "address2": "Ste 1",
+                "address3": "",
+                "city": "Phoenix",
+                "zip_code": "85033",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "4840 N 83rd Ave",
+                    "Ste 1",
+                    "Phoenix, AZ 85033"
+                ]
+            },
+            "phone": "+16232152403",
+            "display_phone": "(623) 215-2403",
+            "distance": 3249.737126834998
+        },
+        {
+            "id": "GSwHx63uBITiWhLRP0r_ZA",
+            "alias": "little-caesars-glendale-3",
+            "name": "Little Caesars",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d7UyLGuHg9z0t4XYKl-gQg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-caesars-glendale-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 33.5371475219727,
+                "longitude": -112.239555358887
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8345 W Glendale Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Glendale",
+                "zip_code": "85303",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "8345 W Glendale Ave",
+                    "Glendale, AZ 85303"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2399.330211734619
+        },
+        {
+            "id": "VFZp_d0JcV_IpgO-lDrCxw",
+            "alias": "majestic-sports-and-grill-glendale",
+            "name": "Majestic Sports & Grill",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OHcr3DMQpmuMUzUiM3myjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/majestic-sports-and-grill-glendale?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 33.5171508789062,
+                "longitude": -112.263702392578
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9622 N 95th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Glendale",
+                "zip_code": "85305",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "9622 N 95th Ave",
+                    "Glendale, AZ 85305"
+                ]
+            },
+            "phone": "+16232291106",
+            "display_phone": "(623) 229-1106",
+            "distance": 1325.0216183911457
+        },
+        {
+            "id": "bnqkfeeE-j6q8RNLKTPuRQ",
+            "alias": "jimmys-red-hotz-glendale",
+            "name": "Jimmy's Red Hotz",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jimmys-red-hotz-glendale?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 33.5282672,
+                "longitude": -112.245467
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8710 W Maryland Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Glendale",
+                "zip_code": "85305",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "8710 W Maryland Ave",
+                    "Glendale, AZ 85305"
+                ]
+            },
+            "phone": "+16238779012",
+            "display_phone": "(623) 877-9012",
+            "distance": 1625.4688597792367
+        },
+        {
+            "id": "CHm0hyY81CWDutaYCztFSg",
+            "alias": "ocarnivores-peoria",
+            "name": "Ocarnivores",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ocarnivores-peoria?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 33.5514914,
+                "longitude": -112.2701358
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9832 W Northern Ave",
+                "address2": "Ste 1650",
+                "address3": "",
+                "city": "Peoria",
+                "zip_code": "85345",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "9832 W Northern Ave",
+                    "Ste 1650",
+                    "Peoria, AZ 85345"
+                ]
+            },
+            "phone": "+16238772524",
+            "display_phone": "(623) 877-2524",
+            "distance": 2694.5442640328647
+        },
+        {
+            "id": "JSt2qe0u6KKXNcJKrfnZMA",
+            "alias": "papa-johns-pizza-glendale-15",
+            "name": "Papa John's Pizza",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/papa-johns-pizza-glendale-15?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 33.5277,
+                "longitude": -112.26255
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1 Cardinals Drive",
+                "address2": null,
+                "address3": null,
+                "city": "Glendale",
+                "zip_code": "85305",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "1 Cardinals Drive",
+                    "Glendale, AZ 85305"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 35.67931272399546
+        },
+        {
+            "id": "xyYoDm39HLCso3537Ezz2Q",
+            "alias": "food-court-at-desert-diamond-casino-glendale",
+            "name": "Food Court at Desert Diamond Casino",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/food-court-at-desert-diamond-casino-glendale?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 33.547771,
+                "longitude": -112.26204
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9431 W Northern Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Glendale",
+                "zip_code": "85305",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "9431 W Northern Ave",
+                    "Glendale, AZ 85305"
+                ]
+            },
+            "phone": "+16238777777",
+            "display_phone": "(623) 877-7777",
+            "distance": 2076.7529863984923
+        },
+        {
+            "id": "eTvDOX3cS69O-fUB9TD3Uw",
+            "alias": "bice-bistro-glendale-2",
+            "name": "Bice Bistro",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bice-bistro-glendale-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 33.533587,
+                "longitude": -112.261921
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "6751 N Sunset Rd",
+                "address2": "Ste E-110",
+                "address3": "",
+                "city": "Glendale",
+                "zip_code": "85305",
+                "country": "US",
+                "state": "AZ",
+                "display_address": [
+                    "6751 N Sunset Rd",
+                    "Ste E-110",
+                    "Glendale, AZ 85305"
+                ]
+            },
+            "phone": "+16238774768",
+            "display_phone": "(623) 877-4768",
+            "distance": 629.2443672498553
+        }
+    ],
+    "total": 94,
+    "region": {
+        "center": {
+            "longitude": -112.26299999999999,
+            "latitude": 33.528
+        }
+    }
+}

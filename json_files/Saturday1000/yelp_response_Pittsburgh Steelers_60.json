@@ -1,0 +1,894 @@
+{
+    "businesses": [
+        {
+            "id": "aZdHskuurZJXQ6C7oiqP_g",
+            "alias": "johnnys-diner-pittsburgh",
+            "name": "Johnny's Diner",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z3ikkgJfvcmO1_68UB0-dQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/johnnys-diner-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.43388,
+                "longitude": -80.031425
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1900 Woodville Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15220",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "1900 Woodville Ave",
+                    "Pittsburgh, PA 15220"
+                ]
+            },
+            "phone": "+14129222900",
+            "display_phone": "(412) 922-2900",
+            "distance": 1939.6378363166698
+        },
+        {
+            "id": "5oA6zlmJ4jQREDH6dNCq6w",
+            "alias": "the-alcove-pittsburgh",
+            "name": "The Alcove",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NxMS5-HTQVIGILKqejG9Yg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-alcove-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.4266685096849,
+                "longitude": -80.0406498659631
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "875 Greentree Rd",
+                "address2": "Ste 106 Bldg 4",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15220",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "875 Greentree Rd",
+                    "Ste 106 Bldg 4",
+                    "Pittsburgh, PA 15220"
+                ]
+            },
+            "phone": "+14124580075",
+            "display_phone": "(412) 458-0075",
+            "distance": 3058.794701010944
+        },
+        {
+            "id": "mJ_ucQ2_3hfTsmCcKb-hgw",
+            "alias": "sienna-on-the-square-pittsburgh-2",
+            "name": "Sienna on the Square",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CrvWnBBztfRgxjwEBm_ehg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sienna-on-the-square-pittsburgh-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 292,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.441166189758,
+                "longitude": -80.0022912025452
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "22 Market Sq",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15222",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "22 Market Sq",
+                    "Pittsburgh, PA 15222"
+                ]
+            },
+            "phone": "+14122816363",
+            "display_phone": "(412) 281-6363",
+            "distance": 1299.0033646823379
+        },
+        {
+            "id": "_-W_hRQRDEqVdO1WKGa-DQ",
+            "alias": "maxs-allegheny-tavern-pittsburgh",
+            "name": "Max's Allegheny Tavern",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zbhJRFHLPghTn1HTVavpuQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maxs-allegheny-tavern-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 270,
+            "categories": [
+                {
+                    "alias": "german",
+                    "title": "German"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.45517,
+                "longitude": -79.99981
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "537 Suismon St",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15212",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "537 Suismon St",
+                    "Pittsburgh, PA 15212"
+                ]
+            },
+            "phone": "+14122311899",
+            "display_phone": "(412) 231-1899",
+            "distance": 1658.1328910900033
+        },
+        {
+            "id": "i1QGBziAXxEWlofIe4gv1Q",
+            "alias": "bea-taco-town-pittsburgh",
+            "name": "Bea Taco Town",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0IPm-XvYXW1Y3J629uLTEw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bea-taco-town-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 105,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.442413,
+                "longitude": -79.997314
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "633 Smithfield St",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15222",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "633 Smithfield St",
+                    "Pittsburgh, PA 15222"
+                ]
+            },
+            "phone": "+14124718361",
+            "display_phone": "(412) 471-8361",
+            "distance": 1641.3103016199718
+        },
+        {
+            "id": "hF1-dtY_oXfngC8h2mY4qg",
+            "alias": "vue-412-pittsburgh",
+            "name": "Vue 412",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6mqaKc552J_0HZA-S8B_lg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/vue-412-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 473,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.43798,
+                "longitude": -80.01817
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1200 Grandview Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15211",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "1200 Grandview Ave",
+                    "Pittsburgh, PA 15211"
+                ]
+            },
+            "phone": "+14123811919",
+            "display_phone": "(412) 381-1919",
+            "distance": 992.9968379782667
+        },
+        {
+            "id": "cAX-srNrvlifjfov_jpQ1w",
+            "alias": "texas-de-brazil-pittsburgh",
+            "name": "Texas de Brazil",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZjGVf0hvfVCoMfr4xa2FqQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/texas-de-brazil-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 311,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.43413,
+                "longitude": -80.00526
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "240 W Station Square Dr",
+                "address2": "Ste D1",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15219",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "240 W Station Square Dr",
+                    "Ste D1",
+                    "Pittsburgh, PA 15219"
+                ]
+            },
+            "phone": "+14122304004",
+            "display_phone": "(412) 230-4004",
+            "distance": 1642.6466671650417
+        },
+        {
+            "id": "goar7zF4G0LdsQ1Y4KS3Iw",
+            "alias": "pittsburgh-barbecue-company-pittsburgh",
+            "name": "Pittsburgh Barbecue Company",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1JJ_o0kF26txV6Ylm0gfrg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pittsburgh-barbecue-company-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 94,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.4198992597363,
+                "longitude": -80.0300516362457
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1000 Banksville Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15216",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "1000 Banksville Rd",
+                    "Pittsburgh, PA 15216"
+                ]
+            },
+            "phone": "+14125631005",
+            "display_phone": "(412) 563-1005",
+            "distance": 3210.503038024471
+        },
+        {
+            "id": "x5G0GUkGnlWtM49Qe4nHog",
+            "alias": "palmyra-mediterrean-cuisine-pittsburgh",
+            "name": "Palmyra Mediterrean Cuisine",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gqR3PtqFL8CTZAtYmv29fg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/palmyra-mediterrean-cuisine-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 63,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.43691,
+                "longitude": -80.00046
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "10 Smithfield St",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15222",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "10 Smithfield St",
+                    "Pittsburgh, PA 15222"
+                ]
+            },
+            "phone": "+14126902340",
+            "display_phone": "(412) 690-2340",
+            "distance": 1687.7054170343663
+        },
+        {
+            "id": "X8AGCsJHw-GuTqkzy2J3cg",
+            "alias": "bluebird-kitchen-pittsburgh",
+            "name": "Bluebird Kitchen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pafSam_0mEPFc3oyshZxAQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bluebird-kitchen-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 273,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.4404639452696,
+                "longitude": -80.0017393380404
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "221 Forbes Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15222",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "221 Forbes Ave",
+                    "Pittsburgh, PA 15222"
+                ]
+            },
+            "phone": "+14126424414",
+            "display_phone": "(412) 642-4414",
+            "distance": 1373.7300484740194
+        },
+        {
+            "id": "uEzodpjckhsVQFfsXpFR0w",
+            "alias": "micro-diner-pittsburgh",
+            "name": "Micro Diner",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zmowpQXS4cRa2vOqGMw9tg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/micro-diner-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 194,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.43001,
+                "longitude": -80.0072
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "221 Shiloh St",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15211",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "221 Shiloh St",
+                    "Pittsburgh, PA 15211"
+                ]
+            },
+            "phone": "+14123811391",
+            "display_phone": "(412) 381-1391",
+            "distance": 1988.2644899800216
+        },
+        {
+            "id": "rXKzE4Iraz7vGWovWW-aBA",
+            "alias": "yuzu-kitchen-pittsburgh-2",
+            "name": "Yuzu Kitchen",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/d0BJpZSiwYnV2AgjINpI0g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yuzu-kitchen-pittsburgh-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 180,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.439707,
+                "longitude": -80.001261
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "409 Wood St",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "zip_code": "15222",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "409 Wood St",
+                    "Pittsburgh, PA 15222"
+                ]
+            },
+            "phone": "+14122889900",
+            "display_phone": "(412) 288-9900",
+            "distance": 1455.9093621071036
+        },
+        {
+            "id": "1RECFIhw6tdiP4l3smu6Kw",
+            "alias": "the-yard-pittsburgh",
+            "name": "The Yard",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N_gkZcXs-56zGp38gvJFhg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-yard-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 344,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.4414,
+                "longitude": -80.00287
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "100 5th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15222",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "100 5th Ave",
+                    "Pittsburgh, PA 15222"
+                ]
+            },
+            "phone": "+14122918182",
+            "display_phone": "(412) 291-8182",
+            "distance": 1253.9807802628102
+        },
+        {
+            "id": "FAhFnSJn9owENi61iI8jwQ",
+            "alias": "leo-a-public-house-pittsburgh-2",
+            "name": "Leo. a public house",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nbq2p2bEiEROKzZyvmnekw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/leo-a-public-house-pittsburgh-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.4540188664351,
+                "longitude": -80.0198856998262
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1207 Allegheny Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "zip_code": "15233",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "1207 Allegheny Ave",
+                    "Pittsburgh, PA 15233"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 886.491436706374
+        },
+        {
+            "id": "GnDEZpOusRtoqx9KPNYK9w",
+            "alias": "bridges-and-bourbon-pittsburgh",
+            "name": "Bridges & Bourbon",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/etYLGUIxLA-mqFg3psRT-A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bridges-and-bourbon-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 88,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.44388,
+                "longitude": -79.99687
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "930 Penn Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "zip_code": "15222",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "930 Penn Ave",
+                    "Pittsburgh, PA 15222"
+                ]
+            },
+            "phone": "+14125864287",
+            "display_phone": "(412) 586-4287",
+            "distance": 1636.8299512352326
+        },
+        {
+            "id": "szGbmw_vq3kVU4SfK1x6Sw",
+            "alias": "ruths-chris-steak-house-pittsburgh",
+            "name": "Ruths Chris Steak House",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cTK9v8fSgyyBNNlggiFrLQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ruths-chris-steak-house-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 159,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.439454,
+                "longitude": -80.003658
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "6 PPG Pl",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15222",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "6 PPG Pl",
+                    "Pittsburgh, PA 15222"
+                ]
+            },
+            "phone": "+14123914800",
+            "display_phone": "(412) 391-4800",
+            "distance": 1305.7062439797983
+        },
+        {
+            "id": "qWMGMCPQoyRq7NpQ78ntmg",
+            "alias": "café-cravings-pittsburgh-2",
+            "name": "Café Cravings",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/z-pFd7Q4ZCamOMUSlpVlIQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/caf%C3%A9-cravings-pittsburgh-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 45,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.43181,
+                "longitude": -80.01558
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "402 Bigham St",
+                "address2": null,
+                "address3": null,
+                "city": "Pittsburgh",
+                "zip_code": "15211",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "402 Bigham St",
+                    "Pittsburgh, PA 15211"
+                ]
+            },
+            "phone": "+14124812700",
+            "display_phone": "(412) 481-2700",
+            "distance": 1647.290274342405
+        },
+        {
+            "id": "3_tWe-D5if9y8RrmMrN7AQ",
+            "alias": "kiku-japanese-restaurant-pittsburgh",
+            "name": "Kiku Japanese Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VzF3bfx1RAlSfvzV6nvLzQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kiku-japanese-restaurant-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 144,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.434127,
+                "longitude": -80.00605
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "225 W Station Square Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15219",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "225 W Station Square Dr",
+                    "Pittsburgh, PA 15219"
+                ]
+            },
+            "phone": "+14127653200",
+            "display_phone": "(412) 765-3200",
+            "distance": 1621.6640605179778
+        },
+        {
+            "id": "AKQbrvRBZvU5kB9Ut4gVkg",
+            "alias": "pizzaiolo-primo-pittsburgh",
+            "name": "Pizzaiolo Primo",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JK_CRKdUxbqaIQgdowQMDQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizzaiolo-primo-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 269,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.44029,
+                "longitude": -80.00214
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "8 Market Square",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15222",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "8 Market Square",
+                    "Pittsburgh, PA 15222"
+                ]
+            },
+            "phone": "+14125755858",
+            "display_phone": "(412) 575-5858",
+            "distance": 1359.6076173964086
+        },
+        {
+            "id": "ZYcBEhCSfbLOUM9JbHB9FA",
+            "alias": "corner-mercantile-pittsburgh",
+            "name": "Corner Mercantile",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CBQqtYt9TSIKD35nrqOe2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/corner-mercantile-pittsburgh?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 50,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.440203,
+                "longitude": -80.000422
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "472 Wood St",
+                "address2": "",
+                "address3": "",
+                "city": "Pittsburgh",
+                "zip_code": "15222",
+                "country": "US",
+                "state": "PA",
+                "display_address": [
+                    "472 Wood St",
+                    "Pittsburgh, PA 15222"
+                ]
+            },
+            "phone": "+14125865738",
+            "display_phone": "(412) 586-5738",
+            "distance": 1489.1228913135428
+        }
+    ],
+    "total": 380,
+    "region": {
+        "center": {
+            "longitude": -80.0158333,
+            "latitude": 40.446667
+        }
+    }
+}

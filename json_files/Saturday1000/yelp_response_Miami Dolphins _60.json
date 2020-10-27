@@ -1,0 +1,858 @@
+{
+    "businesses": [
+        {
+            "id": "t05Ib0OBb4NKDY9T4F6XDw",
+            "alias": "little-caesars-pizza-miami-26",
+            "name": "Little Caesars Pizza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vsX25_e_5b5Uo1tSlX3Y0Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-caesars-pizza-miami-26?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 25.9307669,
+                "longitude": -80.244568
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "17223 N.W. 27Th Ave.",
+                "address2": "",
+                "address3": "",
+                "city": "Miami",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "17223 N.W. 27Th Ave.",
+                    "Miami, FL 33056"
+                ]
+            },
+            "phone": "+13056260184",
+            "display_phone": "(305) 626-0184",
+            "distance": 2996.499867347088
+        },
+        {
+            "id": "mp4aKXonHiKSHEj1U_i-dg",
+            "alias": "the-buffet-miami-gardens-2",
+            "name": "The Buffet",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VeYOo3NEIPz_hhiNY8T8aA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-buffet-miami-gardens-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 25.967264,
+                "longitude": -80.241966
+            },
+            "transactions": [],
+            "location": {
+                "address1": "21001 NW 27th Ave",
+                "address2": "",
+                "address3": "Calder  Casino",
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "21001 NW 27th Ave",
+                    "Calder  Casino",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "+13056251311",
+            "display_phone": "(305) 625-1311",
+            "distance": 1069.0939877695519
+        },
+        {
+            "id": "XjoP5v0lUpaBiDYuDAWecw",
+            "alias": "wendys-miami-gardens",
+            "name": "Wendy's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Cy3l0Y9vjdGW9qdTDodvjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wendys-miami-gardens?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 25.93986,
+                "longitude": -80.24471
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "18181 Nw 27Th Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "18181 Nw 27Th Ave",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "+13056210670",
+            "display_phone": "(305) 621-0670",
+            "distance": 2105.6562193349923
+        },
+        {
+            "id": "sH_p0fy6bS35PxjNX7XEUQ",
+            "alias": "dominos-pizza-carol-city",
+            "name": "Domino's Pizza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WEZgPs7jf3wE0Pu8aV55gA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dominos-pizza-carol-city?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 25.936647,
+                "longitude": -80.244849
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "17854 NW 27th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Carol City",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "17854 NW 27th Ave",
+                    "Carol City, FL 33056"
+                ]
+            },
+            "phone": "+13056238999",
+            "display_phone": "(305) 623-8999",
+            "distance": 2454.0227633765207
+        },
+        {
+            "id": "LvvpKNj92ddKp2brx0Apyg",
+            "alias": "mcdonalds-miramar-6",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Thy1MNZCE9TId4GdOJorEA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-miramar-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 25.9793263877995,
+                "longitude": -80.2476494712823
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3306 S University Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Miramar",
+                "zip_code": "33025",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "3306 S University Dr",
+                    "Miramar, FL 33025"
+                ]
+            },
+            "phone": "+19544361872",
+            "display_phone": "(954) 436-1872",
+            "distance": 2522.0885826952563
+        },
+        {
+            "id": "WidcFePk1uzKjTvIFaUDUQ",
+            "alias": "subway-miami-228",
+            "name": "Subway",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XJjlgoW1qfKG8DvuQVymZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-miami-228?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 25.9287598171156,
+                "longitude": -80.2192940011798
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1000 Park Centre Blvd",
+                "address2": "Ste 110",
+                "address3": "",
+                "city": "Miami",
+                "zip_code": "33169",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "1000 Park Centre Blvd",
+                    "Ste 110",
+                    "Miami, FL 33169"
+                ]
+            },
+            "phone": "+13056201006",
+            "display_phone": "(305) 620-1006",
+            "distance": 3801.403528425669
+        },
+        {
+            "id": "QO5mvdnUwDEhvhWanfyNgg",
+            "alias": "kfc-miami-gardens",
+            "name": "KFC",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wDTXXC5llUhuDQ7lqL_Erg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kfc-miami-gardens?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 25.9359074879145,
+                "longitude": -80.2447572300768
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "17701 NW 27th Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "17701 NW 27th Ave",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "+13056201341",
+            "display_phone": "(305) 620-1341",
+            "distance": 2531.728248398346
+        },
+        {
+            "id": "AyT1dJAtLyepa3A2_yStKA",
+            "alias": "family-tree-concept-miami",
+            "name": "Family Tree Concept",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wxBUdAutADFwku78HSwbVA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/family-tree-concept-miami?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 25.9416122436523,
+                "longitude": -80.2184219360352
+            },
+            "transactions": [],
+            "location": {
+                "address1": "950 NW 183rd St",
+                "address2": null,
+                "address3": null,
+                "city": "Miami",
+                "zip_code": "33169",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "950 NW 183rd St",
+                    "Miami, FL 33169"
+                ]
+            },
+            "phone": "+13052494620",
+            "display_phone": "(305) 249-4620",
+            "distance": 2744.3404641143097
+        },
+        {
+            "id": "0n-SFMKrL6-PyJguzR484g",
+            "alias": "donnas-miami-gardens",
+            "name": "Donnas",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EHQsOF_igDJROzLK0tyhQQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/donnas-miami-gardens?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 25.9401192902612,
+                "longitude": -80.245570242405
+            },
+            "transactions": [],
+            "location": {
+                "address1": "18198 NW 27th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "18198 NW 27th Ave",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "+13059524189",
+            "display_phone": "(305) 952-4189",
+            "distance": 2103.368222135641
+        },
+        {
+            "id": "jOOwJss3BEb765pMxx4U2w",
+            "alias": "esthers-restaurant-miami-gardens",
+            "name": "Esther's Restaurant",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/esthers-restaurant-miami-gardens?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "soulfood",
+                    "title": "Soul Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 25.9362106,
+                "longitude": -80.2446976
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "17751 NW 27th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "17751 NW 27th Ave",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "+13056278211",
+            "display_phone": "(305) 627-8211",
+            "distance": 2504.1277430151854
+        },
+        {
+            "id": "MDt54kbLAHt-KRhbW4vNIg",
+            "alias": "burger-king-carol-city",
+            "name": "Burger King",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/B7ghEM9HQ6nHMceaRy1npg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-carol-city?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 25.9381,
+                "longitude": -80.24478
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "17951 N W 27th Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Carol City",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "17951 N W 27th Ave",
+                    "Carol City, FL 33056"
+                ]
+            },
+            "phone": "+13056248822",
+            "display_phone": "(305) 624-8822",
+            "distance": 2281.9466664389174
+        },
+        {
+            "id": "tJR6Dm-V5Wyz6ygT8rSL7A",
+            "alias": "nadine-vibes-kitchen-miramar",
+            "name": "Nadine Vibes Kitchen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/siOasTRb8WRNhygehiyB0A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nadine-vibes-kitchen-miramar?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 25.9847158,
+                "longitude": -80.2131674
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "6305 Miramar Pkwy",
+                "address2": "",
+                "address3": null,
+                "city": "Miramar",
+                "zip_code": "33023",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "6305 Miramar Pkwy",
+                    "Miramar, FL 33023"
+                ]
+            },
+            "phone": "+17864432333",
+            "display_phone": "(786) 443-2333",
+            "distance": 3913.0485857200306
+        },
+        {
+            "id": "Zl4wywEI1XB28wYne_8cjQ",
+            "alias": "and-pizza-miami-gardens",
+            "name": "&Pizza",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a6LEjULBTn7Bz5KRDAkFfA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/and-pizza-miami-gardens?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 25.957879,
+                "longitude": -80.238778
+            },
+            "transactions": [],
+            "location": {
+                "address1": "347 Don Shula Dr",
+                "address2": "Section 142",
+                "address3": null,
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "347 Don Shula Dr",
+                    "Section 142",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 22.59455449283269
+        },
+        {
+            "id": "qWWm3HQzYQPYzEW_NMJYIg",
+            "alias": "bamboche-take-out-miramar",
+            "name": "Bamboche Take Out",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bamboche-take-out-miramar?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 25.98412,
+                "longitude": -80.21361
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6320 Miramar Pkwy",
+                "address2": "",
+                "address3": "",
+                "city": "Miramar",
+                "zip_code": "33023",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "6320 Miramar Pkwy",
+                    "Miramar, FL 33023"
+                ]
+            },
+            "phone": "+19549630502",
+            "display_phone": "(954) 963-0502",
+            "distance": 3839.6013719825096
+        },
+        {
+            "id": "WdqYcqoN7Z2uEc911nqq9Q",
+            "alias": "china-garden-miami-gardens-2",
+            "name": "China Garden",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/china-garden-miami-gardens-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 25.938441,
+                "longitude": -80.243826
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "17207 NW 27th Ave",
+                "address2": "Ste B",
+                "address3": null,
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "17207 NW 27th Ave",
+                    "Ste B",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "+13054744333",
+            "display_phone": "(305) 474-4333",
+            "distance": 2236.2477603278835
+        },
+        {
+            "id": "dEAxPJWUxnclWtJvaWse9g",
+            "alias": "pizza-hut-miramar-5",
+            "name": "Pizza Hut",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JhagWVmcwajLypDSNoDrqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-hut-miramar-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 25.982918,
+                "longitude": -80.225643
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "6845 Miramar Pkwy",
+                "address2": "",
+                "address3": "",
+                "city": "Miramar",
+                "zip_code": "33023",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "6845 Miramar Pkwy",
+                    "Miramar, FL 33023"
+                ]
+            },
+            "phone": "+19549833882",
+            "display_phone": "(954) 983-3882",
+            "distance": 3059.554100336388
+        },
+        {
+            "id": "mOJ9hZWS1GTg16p3j78SnQ",
+            "alias": "subway-miami-gardens-6",
+            "name": "Subway",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dN3oVLqu8-D3pDWZhE4yrA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-miami-gardens-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 25.9542510595425,
+                "longitude": -80.2464150283779
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "19872 NW 27th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "19872 NW 27th Ave",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "+13056231240",
+            "display_phone": "(305) 623-1240",
+            "distance": 863.2336418027579
+        },
+        {
+            "id": "odGVEBiWiSbzyEzONg47Zg",
+            "alias": "mcdonalds-miami-gardens-5",
+            "name": "McDonald's",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-miami-gardens-5?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 25.9529030003102,
+                "longitude": -80.2437007427216
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "19501 NW 27th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "19501 NW 27th Ave",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "+13056276638",
+            "display_phone": "(305) 627-6638",
+            "distance": 748.1615093870696
+        },
+        {
+            "id": "-ZS7bEI1_rYdX6BoeebhQg",
+            "alias": "taco-bell-miami-gardens-4",
+            "name": "Taco Bell",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mg-42y9dkjQg_doJw-eGig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taco-bell-miami-gardens-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 25.937546,
+                "longitude": -80.245302
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "17950 NW 27th Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "17950 NW 27th Ave",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "+13056289886",
+            "display_phone": "(305) 628-9886",
+            "distance": 2369.0310809578477
+        },
+        {
+            "id": "WW56NNNtxyIyK1sqJn6DkA",
+            "alias": "pizza-hut-miami-gardens-2",
+            "name": "Pizza Hut",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jHmTIgLZvr-cIGofjU3PwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-hut-miami-gardens-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 25.9405506,
+                "longitude": -80.2588097
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3477 NW 183rd St",
+                "address2": null,
+                "address3": "",
+                "city": "Miami Gardens",
+                "zip_code": "33056",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "3477 NW 183rd St",
+                    "Miami Gardens, FL 33056"
+                ]
+            },
+            "phone": "+13054050316",
+            "display_phone": "(305) 405-0316",
+            "distance": 2784.959174084874
+        }
+    ],
+    "total": 84,
+    "region": {
+        "center": {
+            "longitude": -80.238889,
+            "latitude": 25.958056
+        }
+    }
+}

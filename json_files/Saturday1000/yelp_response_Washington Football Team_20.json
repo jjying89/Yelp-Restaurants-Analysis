@@ -1,0 +1,880 @@
+{
+    "businesses": [
+        {
+            "id": "jsY4LNfIp4bVXUyaVuOAjw",
+            "alias": "firehouse-subs-lanham",
+            "name": "Firehouse Subs",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wCS6xfOLm0U59LJIwNTgjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/firehouse-subs-lanham?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.9215112942077,
+                "longitude": -76.8465912430212
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "9301 Woodmore Center Dr",
+                "address2": "Ste 513",
+                "address3": "",
+                "city": "Lanham",
+                "zip_code": "20706",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "9301 Woodmore Center Dr",
+                    "Ste 513",
+                    "Lanham, MD 20706"
+                ]
+            },
+            "phone": "+13013417000",
+            "display_phone": "(301) 341-7000",
+            "distance": 2144.923582634115
+        },
+        {
+            "id": "y_FHKO9BT8knHBLAo_dPXA",
+            "alias": "taste-of-the-caribbean-capitol-heights-2",
+            "name": "Taste of the Caribbean",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MeNEDvSxjGgEY-oZFG28fw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taste-of-the-caribbean-capitol-heights-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 98,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.88267,
+                "longitude": -76.85192
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "505 Hampton Park Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "505 Hampton Park Blvd",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13014992900",
+            "display_phone": "(301) 499-2900",
+            "distance": 2515.480844704688
+        },
+        {
+            "id": "wNrVrCnC_eWvGAtiHjp2Vw",
+            "alias": "chick-fil-a-largo-2",
+            "name": "Chick-fil-A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bMkViL2bWdXGNe0tNWLCQQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chick-fil-a-largo-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 118,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.9045004,
+                "longitude": -76.8481774343586
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1040 Shoppers Way",
+                "address2": null,
+                "address3": null,
+                "city": "Largo",
+                "zip_code": "20774",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1040 Shoppers Way",
+                    "Largo, MD 20774"
+                ]
+            },
+            "phone": "+13013331981",
+            "display_phone": "(301) 333-1981",
+            "distance": 907.5267166716624
+        },
+        {
+            "id": "bOLTUHdOewikmHNEuBSG2w",
+            "alias": "golden-bowl-upper-marlboro",
+            "name": "Golden Bowl",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hix4wJ2X8IWeGnOIDeOR6g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/golden-bowl-upper-marlboro?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.9000809745707,
+                "longitude": -76.8369022824684
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "832 Largo Center Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Upper Marlboro",
+                "zip_code": "20774",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "832 Largo Center Dr",
+                    "Upper Marlboro, MD 20774"
+                ]
+            },
+            "phone": "+13014992888",
+            "display_phone": "(301) 499-2888",
+            "distance": 1967.7738941492444
+        },
+        {
+            "id": "zB5I3T07_Tp3totKLLBztg",
+            "alias": "americas-best-wings-upper-marlboro",
+            "name": "America's Best Wings",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rPamedSFNhy5r9_P2-D1eA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/americas-best-wings-upper-marlboro?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 62,
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.9017006,
+                "longitude": -76.83759
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "966 Largo Center Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Upper Marlboro",
+                "zip_code": "20774",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "966 Largo Center Dr",
+                    "Upper Marlboro, MD 20774"
+                ]
+            },
+            "phone": "+13013249464",
+            "display_phone": "(301) 324-9464",
+            "distance": 2165.4930441833435
+        },
+        {
+            "id": "WNx5-4pEmkaty_bluFszCA",
+            "alias": "keith-and-sons-soul-food-landover",
+            "name": "Keith & Sons Soul Food",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0IK-JIqkoluL7f5FP014KA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/keith-and-sons-soul-food-landover?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 57,
+            "categories": [
+                {
+                    "alias": "soulfood",
+                    "title": "Soul Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.8892043,
+                "longitude": -76.8714437
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "7814 Central Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Landover",
+                "zip_code": "20785",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "7814 Central Ave",
+                    "Landover, MD 20785"
+                ]
+            },
+            "phone": "+13014567415",
+            "display_phone": "(301) 456-7415",
+            "distance": 2019.4909527750426
+        },
+        {
+            "id": "0r9yjB1se_Fu2WuS0ftPkA",
+            "alias": "wawa-capitol-heights",
+            "name": "Wawa",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sVp2b-8sY4swl1O1WraZsA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wawa-capitol-heights?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 48,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.87005,
+                "longitude": -76.85071
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1401 Hampton Park Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1401 Hampton Park Blvd",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13013361704",
+            "display_phone": "(301) 336-1704",
+            "distance": 3903.8901822791636
+        },
+        {
+            "id": "9LZEZSPs5iaVTaNeJM4Nwg",
+            "alias": "quickway-japanese-hibachi-lanham",
+            "name": "Quickway Japanese Hibachi",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6erXarHxjX36es5eF38PHA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/quickway-japanese-hibachi-lanham?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 73,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.92166,
+                "longitude": -76.84645
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "9300 Woodmore Centre Rd",
+                "address2": "Ste 506",
+                "address3": "",
+                "city": "Lanham",
+                "zip_code": "20703",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "9300 Woodmore Centre Rd",
+                    "Ste 506",
+                    "Lanham, MD 20703"
+                ]
+            },
+            "phone": "+13017725816",
+            "display_phone": "(301) 772-5816",
+            "distance": 2221.837321399275
+        },
+        {
+            "id": "6RGpC7mTr-oscIxDRnvvFg",
+            "alias": "jersey-mikes-subs-capitol-heights-2",
+            "name": "Jersey Mike's Subs",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FrttsQuwyDVXsHfTicXsIw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jersey-mikes-subs-capitol-heights-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 36,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.870458,
+                "longitude": -76.849539
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "9100 Alaking Ct",
+                "address2": "Ste 110",
+                "address3": null,
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "9100 Alaking Ct",
+                    "Ste 110",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13014997872",
+            "display_phone": "(301) 499-7872",
+            "distance": 3884.5446662128993
+        },
+        {
+            "id": "1gQ8px-xZWUwm6BdIOvTJg",
+            "alias": "milk-and-honey-express-glenarden-2",
+            "name": "Milk & Honey Express",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U5qKX3wHZsNM-zumsHTbcQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/milk-and-honey-express-glenarden-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 61,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.922062,
+                "longitude": -76.847424
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "9201 Woodmore Center Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Glenarden",
+                "zip_code": "20706",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "9201 Woodmore Center Dr",
+                    "Glenarden, MD 20706"
+                ]
+            },
+            "phone": "+13013226455",
+            "display_phone": "(301) 322-6455",
+            "distance": 2158.5219544941187
+        },
+        {
+            "id": "sr0rg_qqzT4LaTI3KFconw",
+            "alias": "wings-21-woodmore-lanham",
+            "name": "Wings 21 Woodmore",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ozvyrj6hhPEtA42XJ08JEQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wings-21-woodmore-lanham?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "cheesesteaks",
+                    "title": "Cheesesteaks"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.92166,
+                "longitude": -76.84645
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "9300 Woodmore Center Dr",
+                "address2": "Ste 505",
+                "address3": "",
+                "city": "Lanham",
+                "zip_code": "20706",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "9300 Woodmore Center Dr",
+                    "Ste 505",
+                    "Lanham, MD 20706"
+                ]
+            },
+            "phone": "+13019551177",
+            "display_phone": "(301) 955-1177",
+            "distance": 2221.837321399275
+        },
+        {
+            "id": "5cB6ZwxjD5XllwQreYIXmw",
+            "alias": "noodles-and-company-glenarden-2",
+            "name": "Noodles & Company",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w23vlGzOOXQ2eAOiJteOGw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/noodles-and-company-glenarden-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.9222827824708,
+                "longitude": -76.8484369861763
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "310 Petrie Ln",
+                "address2": "",
+                "address3": "",
+                "city": "Glenarden",
+                "zip_code": "20706",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "310 Petrie Ln",
+                    "Glenarden, MD 20706"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2149.740158759246
+        },
+        {
+            "id": "lUAPBzv3iKA3MpAWfed3Kg",
+            "alias": "camerons-seafood-capitol-heights",
+            "name": "Cameron's Seafood",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DjbocWR8ZSaBcWsdGUcLow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/camerons-seafood-capitol-heights?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 57,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "cantonese",
+                    "title": "Cantonese"
+                },
+                {
+                    "alias": "seafoodmarkets",
+                    "title": "Seafood Markets"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.890226,
+                "longitude": -76.8527719
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "8807 Central Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "8807 Central Ave",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13013333000",
+            "display_phone": "(301) 333-3000",
+            "distance": 1684.3392856605951
+        },
+        {
+            "id": "ZPfxQREy134c6AbzppuQGA",
+            "alias": "bull-wings-capitol-heights",
+            "name": "Bull Wings",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OMMiAz9SIPRpDo11S91xkg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bull-wings-capitol-heights?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 38.888096,
+                "longitude": -76.8617783
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "72 Ritchie Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "72 Ritchie Rd",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13013502000",
+            "display_phone": "(301) 350-2000",
+            "distance": 1841.9502153871338
+        },
+        {
+            "id": "Za7ez1LjGCQzUSbUPtcyeQ",
+            "alias": "sarku-japan-capitol-heights",
+            "name": "Sarku Japan",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jdFKmF3wk7Ps4pBsF467zg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sarku-japan-capitol-heights?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 42,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.8699722290039,
+                "longitude": -76.8478927612305
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "9141 Alaking Ct",
+                "address2": "",
+                "address3": "",
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "9141 Alaking Ct",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13013505407",
+            "display_phone": "(301) 350-5407",
+            "distance": 3954.857479969606
+        },
+        {
+            "id": "Tqc1cmTIBku_Kj6TTx-hsg",
+            "alias": "hot-pot-grill-capitol-heights-2",
+            "name": "Hot Pot Grill",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/koP5ZRzSgNBtIn45niFO6w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hot-pot-grill-capitol-heights-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.888752266587,
+                "longitude": -76.8686962500215
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "7931 Central Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Capitol Heights",
+                "zip_code": "20743",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "7931 Central Ave",
+                    "Capitol Heights, MD 20743"
+                ]
+            },
+            "phone": "+13019670431",
+            "display_phone": "(301) 967-0431",
+            "distance": 1970.7708485979338
+        },
+        {
+            "id": "fMM1xklTHd_KvUfI8EA1DQ",
+            "alias": "popeyes-louisiana-kitchen-landover",
+            "name": "Popeyes Louisiana Kitchen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-B11WrhST4IwBeNOpxCFbA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/popeyes-louisiana-kitchen-landover?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 25,
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 38.927697,
+                "longitude": -76.8817796
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "7706 Landover Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Landover",
+                "zip_code": "20785",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "7706 Landover Rd",
+                    "Landover, MD 20785"
+                ]
+            },
+            "phone": "+13013415630",
+            "display_phone": "(301) 341-5630",
+            "distance": 3249.592873492973
+        },
+        {
+            "id": "stNpI2gyuOFPLV8QmN9-2w",
+            "alias": "longhorn-steakhouse-largo-4",
+            "name": "LongHorn Steakhouse",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jfIFJjJ6dQss1SVQg7F7Rg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/longhorn-steakhouse-largo-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 144,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.9050826589941,
+                "longitude": -76.8465122042245
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1100 Capital Centre Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Largo",
+                "zip_code": "20774",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1100 Capital Centre Blvd",
+                    "Largo, MD 20774"
+                ]
+            },
+            "phone": "+13013240854",
+            "display_phone": "(301) 324-0854",
+            "distance": 1052.47096008611
+        },
+        {
+            "id": "BpWP0U1QOz75op8Y3t5SnA",
+            "alias": "lucky-star-hyattsville",
+            "name": "Lucky Star",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZeIeGEgGizmVlBeHKgwJXw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lucky-star-hyattsville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 38.92329,
+                "longitude": -76.86969
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "8207 Landover Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Hyattsville",
+                "zip_code": "20785",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "8207 Landover Rd",
+                    "Hyattsville, MD 20785"
+                ]
+            },
+            "phone": "+13013228733",
+            "display_phone": "(301) 322-8733",
+            "distance": 2291.521111446221
+        },
+        {
+            "id": "7e5NzodNfqWdLSztatl32g",
+            "alias": "golden-corral-buffet-and-grill-largo-2",
+            "name": "Golden Corral Buffet & Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qe8S-Js28OMSywCf4Mq4eA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/golden-corral-buffet-and-grill-largo-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 88,
+            "categories": [
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.9033156464272,
+                "longitude": -76.8475924898726
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1001 Shoppers Way",
+                "address2": "",
+                "address3": "",
+                "city": "Largo",
+                "zip_code": "20774",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1001 Shoppers Way",
+                    "Largo, MD 20774"
+                ]
+            },
+            "phone": "+13013246807",
+            "display_phone": "(301) 324-6807",
+            "distance": 986.7814278847535
+        }
+    ],
+    "total": 94,
+    "region": {
+        "center": {
+            "longitude": -76.85866323,
+            "latitude": 38.90466305
+        }
+    }
+}

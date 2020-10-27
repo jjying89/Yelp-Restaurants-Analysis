@@ -1,0 +1,819 @@
+{
+    "businesses": [
+        {
+            "id": "-X5zA6elDLNwdO63BSidPA",
+            "alias": "skyway-express-minneapolis",
+            "name": "Skyway Express",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ya1x1H2q1IfYJlx3xwWppA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/skyway-express-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 44.97523,
+                "longitude": -93.270529
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Baker Building Skyway",
+                "address2": "Level 2 -299",
+                "address3": null,
+                "city": "Minneapolis",
+                "zip_code": "55402",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "Baker Building Skyway",
+                    "Level 2 -299",
+                    "Minneapolis, MN 55402"
+                ]
+            },
+            "phone": "+16127461990",
+            "display_phone": "(612) 746-1990",
+            "distance": 994.9938703863786
+        },
+        {
+            "id": "JLc7KGqtNptzI7q1zJBa0g",
+            "alias": "subway-minneapolis-123",
+            "name": "Subway",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/viN5qSdX9l1C-XgfCnfwXQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-minneapolis-123?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 44.9777262,
+                "longitude": -93.2672885
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "200 S 5th St",
+                "address2": "",
+                "address3": "",
+                "city": "Minneapolis",
+                "zip_code": "55402",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "200 S 5th St",
+                    "Minneapolis, MN 55402"
+                ]
+            },
+            "phone": "+16123327525",
+            "display_phone": "(612) 332-7525",
+            "distance": 839.9369273907035
+        },
+        {
+            "id": "3rX6-isQV64WzkH4hV588A",
+            "alias": "big-marina-grill-and-deli-minneapolis",
+            "name": "Big Marina Grill and Deli",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/big-marina-grill-and-deli-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 44.9484749,
+                "longitude": -93.2810898
+            },
+            "transactions": [],
+            "location": {
+                "address1": "128 W Lake St",
+                "address2": "",
+                "address3": "",
+                "city": "Minneapolis",
+                "zip_code": "55408",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "128 W Lake St",
+                    "Minneapolis, MN 55408"
+                ]
+            },
+            "phone": "+16128231127",
+            "display_phone": "(612) 823-1127",
+            "distance": 3339.789632966549
+        },
+        {
+            "id": "gmw4yzhHUoKuwrHN4SNaww",
+            "alias": "fortune-cookie-minneapolis",
+            "name": "Fortune Cookie",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fortune-cookie-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.9491768330336,
+                "longitude": -93.2627047598362
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2924 Chicago Ave S",
+                "address2": "",
+                "address3": "",
+                "city": "Minneapolis",
+                "zip_code": "55407",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "2924 Chicago Ave S",
+                    "Minneapolis, MN 55407"
+                ]
+            },
+            "phone": "+16128233319",
+            "display_phone": "(612) 823-3319",
+            "distance": 2776.7214491295917
+        },
+        {
+            "id": "9rHzFdsju2p4119BBT3pyw",
+            "alias": "nicols-deli-and-market-cafe-minneapolis",
+            "name": "Nicol's Deli & Market Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qgqx93J1-DmuRlph9frmBA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nicols-deli-and-market-cafe-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.9781382,
+                "longitude": -93.2709224
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "555 Nicollet Mall",
+                "address2": "Ste 475",
+                "address3": "",
+                "city": "Minneapolis",
+                "zip_code": "55402",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "555 Nicollet Mall",
+                    "Ste 475",
+                    "Minneapolis, MN 55402"
+                ]
+            },
+            "phone": "+16123330680",
+            "display_phone": "(612) 333-0680",
+            "distance": 1113.7218825112461
+        },
+        {
+            "id": "7EvWgTgFPtlmzhRRvYHSSA",
+            "alias": "philly-xpress-minneapolis",
+            "name": "philly xpress",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/philly-xpress-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "cheesesteaks",
+                    "title": "Cheesesteaks"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 44.9768333896299,
+                "longitude": -93.2703244232505
+            },
+            "transactions": [],
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": null,
+                "city": "Minneapolis",
+                "zip_code": "55402",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "Minneapolis, MN 55402"
+                ]
+            },
+            "phone": "+16515034920",
+            "display_phone": "(651) 503-4920",
+            "distance": 1019.3535853111075
+        },
+        {
+            "id": "y_KLjWTeTIcXRFSMj0HTSA",
+            "alias": "twin-cities-coffee-and-deli-minneapolis-2",
+            "name": "Twin cities Coffee And Deli",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-fbIi-PD1CGbl9YRZ9ub1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/twin-cities-coffee-and-deli-minneapolis-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 44.964331761728,
+                "longitude": -93.2640556450534
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1603 Chicago Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Minneapolis",
+                "zip_code": "55404",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "1603 Chicago Ave",
+                    "Minneapolis, MN 55404"
+                ]
+            },
+            "phone": "+16123383446",
+            "display_phone": "(612) 338-3446",
+            "distance": 1175.8816764791382
+        },
+        {
+            "id": "aRYfc70i-FbXyYvn7wDt7A",
+            "alias": "the-fresh-food-company-minneapolis",
+            "name": "The Fresh Food Company",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gJLCZv9dwE6CZaKc2lmXKA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-fresh-food-company-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 44.9780980972314,
+                "longitude": -93.2321594846784
+            },
+            "transactions": [],
+            "location": {
+                "address1": "326 SE 17th Ave",
+                "address2": "",
+                "address3": "At The Univetsity of Minnesota",
+                "city": "Minneapolis",
+                "zip_code": "55414",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "326 SE 17th Ave",
+                    "At The Univetsity of Minnesota",
+                    "Minneapolis, MN 55414"
+                ]
+            },
+            "phone": "+16126244170",
+            "display_phone": "(612) 624-4170",
+            "distance": 2148.6429754720466
+        },
+        {
+            "id": "kiDJj5w3liAb63oS8Dwusw",
+            "alias": "el-nuevo-miramar-minneapolis",
+            "name": "El Nuevo Miramar",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-nuevo-miramar-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 44.94813,
+                "longitude": -93.26882
+            },
+            "transactions": [],
+            "location": {
+                "address1": "501 E Lake St",
+                "address2": "",
+                "address3": null,
+                "city": "Minneapolis",
+                "zip_code": "55408",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "501 E Lake St",
+                    "Minneapolis, MN 55408"
+                ]
+            },
+            "phone": "+16123536905",
+            "display_phone": "(612) 353-6905",
+            "distance": 3000.567644963191
+        },
+        {
+            "id": "pziD6x14le85xbmgpH4BEg",
+            "alias": "goldys-gameroom-minneapolis",
+            "name": "Goldy's Gameroom",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dKtWXGAjQn-bSLP31ZmG5g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/goldys-gameroom-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "bowling",
+                    "title": "Bowling"
+                },
+                {
+                    "alias": "poolhalls",
+                    "title": "Pool Halls"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 44.9734551,
+                "longitude": -93.2351138
+            },
+            "transactions": [],
+            "location": {
+                "address1": "300 Washington Ave SE",
+                "address2": "",
+                "address3": "",
+                "city": "Minneapolis",
+                "zip_code": "55455",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "300 Washington Ave SE",
+                    "Minneapolis, MN 55455"
+                ]
+            },
+            "phone": "+16126248722",
+            "display_phone": "(612) 624-8722",
+            "distance": 1802.1132167498808
+        },
+        {
+            "id": "GXAuHpocHItuT5i-yKUvVA",
+            "alias": "nabo-a-neighborhood-cafe-minneapolis",
+            "name": "Nabo: A Neighborhood Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oByEDx-QgMQ23YSXnFoJKw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nabo-a-neighborhood-cafe-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.967483832056,
+                "longitude": -93.2417425077762
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2111 Riverside Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Minneapolis",
+                "zip_code": "55454",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "2111 Riverside Ave",
+                    "Minneapolis, MN 55454"
+                ]
+            },
+            "phone": "+16123596475",
+            "display_phone": "(612) 359-6475",
+            "distance": 1469.9113470777277
+        },
+        {
+            "id": "MwUFnPZ8FiD1KdmVq-uUNg",
+            "alias": "the-dinner-detective-interactive-murder-mystery-dinner-show-minneapolis",
+            "name": "The Dinner Detective Interactive Murder Mystery Dinner Show",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-dinner-detective-interactive-murder-mystery-dinner-show-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "theater",
+                    "title": "Performing Arts"
+                },
+                {
+                    "alias": "dinnertheater",
+                    "title": "Dinner Theater"
+                },
+                {
+                    "alias": "comedyclubs",
+                    "title": "Comedy Clubs"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.9732802,
+                "longitude": -93.2476701
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1500 S Washington Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Minneapolis",
+                "zip_code": "55454",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "1500 S Washington Ave",
+                    "Minneapolis, MN 55454"
+                ]
+            },
+            "phone": "+18664960535",
+            "display_phone": "(866) 496-0535",
+            "distance": 836.3801898999883
+        },
+        {
+            "id": "cAjrKAGR9yLnY4Ha1pbqcA",
+            "alias": "leeann-chin-minneapolis-11",
+            "name": "Leeann Chin",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tllKBtOUWvC_U1-PFt13vg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/leeann-chin-minneapolis-11?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 44.978418,
+                "longitude": -93.275027
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "40 South 7th St",
+                "address2": null,
+                "address3": null,
+                "city": "Minneapolis",
+                "zip_code": "55402",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "40 South 7th St",
+                    "Minneapolis, MN 55402"
+                ]
+            },
+            "phone": "+16123552222",
+            "display_phone": "(612) 355-2222",
+            "distance": 1426.584132888861
+        },
+        {
+            "id": "PvhxayatPVXtXsyPL3_G8w",
+            "alias": "subway-minneapolis-114",
+            "name": "Subway",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mw8OoNcT2YIXcevFtNJ-jA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-minneapolis-114?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 44.9763763,
+                "longitude": -93.270154
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "625 Marquette Ave S",
+                "address2": "",
+                "address3": null,
+                "city": "Minneapolis",
+                "zip_code": "55402",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "625 Marquette Ave S",
+                    "Minneapolis, MN 55402"
+                ]
+            },
+            "phone": "+16123329146",
+            "display_phone": "(612) 332-9146",
+            "distance": 991.8840060173259
+        },
+        {
+            "id": "J-ASNHkauwtZ0nTAgVM8Bg",
+            "alias": "oishii-poke-minneapolis",
+            "name": "Oishii Poke",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OsaWzL4vp-0wHGSwDFn2Rw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oishii-poke-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 44.98065,
+                "longitude": -93.23514
+            },
+            "transactions": [],
+            "location": {
+                "address1": "406 14th Ave SE",
+                "address2": null,
+                "address3": "",
+                "city": "Minneapolis",
+                "zip_code": "55414",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "406 14th Ave SE",
+                    "Minneapolis, MN 55414"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1933.7945130116368
+        },
+        {
+            "id": "n4YPvYd_R9q1n8XOBQkc0w",
+            "alias": "augsburg-college-commons-cafeteria-minneapolis",
+            "name": "Augsburg College Commons Cafeteria",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qDkAyZlSvqV_lco6hfhSpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/augsburg-college-commons-cafeteria-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 44.9657858665804,
+                "longitude": -93.241429575883
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "720 22nd Ave S",
+                "address2": "",
+                "address3": "",
+                "city": "Minneapolis",
+                "zip_code": "55454",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "720 22nd Ave S",
+                    "Minneapolis, MN 55454"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1591.7012596932525
+        },
+        {
+            "id": "7CW66uMc454OK8LmfdyfIw",
+            "alias": "subway-minneapolis-131",
+            "name": "Subway",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_xmD8cuSV2uEnyH2IyIrOw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-minneapolis-131?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 44.9741716,
+                "longitude": -93.2673674
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "701 4th Ave S",
+                "address2": "Ste 230",
+                "address3": null,
+                "city": "Minneapolis",
+                "zip_code": "55415",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "701 4th Ave S",
+                    "Ste 230",
+                    "Minneapolis, MN 55415"
+                ]
+            },
+            "phone": "+16123333109",
+            "display_phone": "(612) 333-3109",
+            "distance": 737.1068650976224
+        },
+        {
+            "id": "jCqR5LQJ8b0c2eWSEsZ0DA",
+            "alias": "ncu-cafeteria-minneapolis",
+            "name": "NCU Cafeteria",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JV37E3WomLRSqeCIAT0V2w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ncu-cafeteria-minneapolis?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "cafeteria",
+                    "title": "Cafeteria"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 44.969398,
+                "longitude": -93.261467
+            },
+            "transactions": [],
+            "location": {
+                "address1": "910 Elliot Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Minneapolis",
+                "zip_code": "55404",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "910 Elliot Ave",
+                    "Minneapolis, MN 55404"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 579.8612906883441
+        },
+        {
+            "id": "7LBFWSTE_Z0VfMa3Wx1Phw",
+            "alias": "subway-minneapolis-108",
+            "name": "Subway",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-minneapolis-108?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 44.9721536,
+                "longitude": -93.2455503
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "269 19th Ave S",
+                "address2": "",
+                "address3": "University Of Minnesota",
+                "city": "Minneapolis",
+                "zip_code": "55455",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "269 19th Ave S",
+                    "University Of Minnesota",
+                    "Minneapolis, MN 55455"
+                ]
+            },
+            "phone": "+16126251127",
+            "display_phone": "(612) 625-1127",
+            "distance": 1179.4253088722824
+        },
+        {
+            "id": "CtQMpYz2UECQfIDHsC2X1Q",
+            "alias": "subway-minneapolis-121",
+            "name": "Subway",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FArRL507KmwmWksH3hxBgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-minneapolis-121?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 44.963005,
+                "longitude": -93.263296
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1924 Chicago Ave S",
+                "address2": "",
+                "address3": "",
+                "city": "Minneapolis",
+                "zip_code": "55404",
+                "country": "US",
+                "state": "MN",
+                "display_address": [
+                    "1924 Chicago Ave S",
+                    "Minneapolis, MN 55404"
+                ]
+            },
+            "phone": "+16128741562",
+            "display_phone": "(612) 874-1562",
+            "distance": 1291.1974405923418
+        }
+    ],
+    "total": 682,
+    "region": {
+        "center": {
+            "longitude": -93.258,
+            "latitude": 44.974
+        }
+    }
+}

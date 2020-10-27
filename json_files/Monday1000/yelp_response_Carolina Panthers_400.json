@@ -1,0 +1,857 @@
+{
+    "businesses": [
+        {
+            "id": "jP7zIbDXor7fQ8phrU6LQQ",
+            "alias": "pizza-hut-charlotte-4",
+            "name": "Pizza Hut",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nAzeD9Y9VdeJZXKW9Fjg9Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-hut-charlotte-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 45,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 35.2070019877246,
+                "longitude": -80.8351525161282
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "901 S Kings Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Charlotte",
+                "zip_code": "28204",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "901 S Kings Dr",
+                    "Charlotte, NC 28204"
+                ]
+            },
+            "phone": "+17043777006",
+            "display_phone": "(704) 377-7006",
+            "distance": 2635.943809071633
+        },
+        {
+            "id": "utlpwpi27nKQ6TyWHdCFMQ",
+            "alias": "burger-king-charlotte-15",
+            "name": "Burger King",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P4pzzisNkDq64MDnfRIPkw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-charlotte-15?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 35.21356583,
+                "longitude": -80.8280265
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1525 East 4th Street",
+                "address2": null,
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28204",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "1525 East 4th Street",
+                    "Charlotte, NC 28204"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2630.3237845109716
+        },
+        {
+            "id": "Bke4xcV-ma1NnxcZv_bdOA",
+            "alias": "chipotle-mexican-grill-charlotte-20",
+            "name": "Chipotle Mexican Grill",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GHseVq1WalRhdD8zkXHvPA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chipotle-mexican-grill-charlotte-20?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 35.2253658127168,
+                "longitude": -80.8460539635962
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "316 S Tryon St",
+                "address2": "",
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28202",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "316 S Tryon St",
+                    "Charlotte, NC 28202"
+                ]
+            },
+            "phone": "+19802091145",
+            "display_phone": "(980) 209-1145",
+            "distance": 612.9738292296936
+        },
+        {
+            "id": "TxF5VebzYK0a1Nl_YUXwyQ",
+            "alias": "ko-food-truck-charlotte",
+            "name": "KO Food Truck",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7UaZld5YWug_RHFwm9wyFg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ko-food-truck-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": null,
+                "longitude": null
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "Charlotte",
+                "zip_code": "",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "Charlotte, NC"
+                ]
+            },
+            "phone": "+17048191153",
+            "display_phone": "(704) 819-1153",
+            "distance": 887.6715551785398
+        },
+        {
+            "id": "S0mVCkES_gzWHst5EhRsRA",
+            "alias": "mcdonalds-charlotte-55",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JnNXRkmgc10EOZOvrgnAlw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-charlotte-55?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 63,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 35.2015371094526,
+                "longitude": -80.8655253052711
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2625 South Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28209",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "2625 South Blvd",
+                    "Charlotte, NC 28209"
+                ]
+            },
+            "phone": "+17045237391",
+            "display_phone": "(704) 523-7391",
+            "distance": 2939.320625339981
+        },
+        {
+            "id": "ZsZXF5_WtZYo3UtDnQaJ8A",
+            "alias": "wrapido-mexican-grill-charlotte-2",
+            "name": "Wrapido Mexican Grill",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wrapido-mexican-grill-charlotte-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 35.2255257967936,
+                "longitude": -80.8456243709014
+            },
+            "transactions": [],
+            "location": {
+                "address1": "320 S Tryon St",
+                "address2": "Ste 110",
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28202",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "320 S Tryon St",
+                    "Ste 110",
+                    "Charlotte, NC 28202"
+                ]
+            },
+            "phone": "+17045120495",
+            "display_phone": "(704) 512-0495",
+            "distance": 604.6823306913293
+        },
+        {
+            "id": "B5g7JWwZw6Brd4nSKvhy1Q",
+            "alias": "north-club-lounge-charlotte",
+            "name": "North Club Lounge",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/auCCTZ1jqQjQ27DYiY1-wg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/north-club-lounge-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 35.22516,
+                "longitude": -80.83926
+            },
+            "transactions": [],
+            "location": {
+                "address1": "333 E Trade St",
+                "address2": "",
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28202",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "333 E Trade St",
+                    "Charlotte, NC 28202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1223.125952612362
+        },
+        {
+            "id": "Zo9nErKOVrY9d7Bfa1Gn2g",
+            "alias": "comfort-foods-on-wheels-charlotte",
+            "name": "Comfort Foods on Wheels",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XxJaHAu9mRFW-twcieb5Qg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/comfort-foods-on-wheels-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 35.2270869,
+                "longitude": -80.8431267
+            },
+            "transactions": [],
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "Charlotte",
+                "zip_code": "28027",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "Charlotte, NC 28027"
+                ]
+            },
+            "phone": "+17044397531",
+            "display_phone": "(704) 439-7531",
+            "distance": 887.6715551785398
+        },
+        {
+            "id": "dWapY1yn-vG_ECu67AIEKg",
+            "alias": "bebos-mac-shack-charlotte",
+            "name": "Bebo's Mac Shack",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IqIeQPJadZa-oSvrZlr1Aw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bebos-mac-shack-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 35.22287,
+                "longitude": -80.83796
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Charlotte",
+                "zip_code": "",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "Charlotte, NC"
+                ]
+            },
+            "phone": "+15175053385",
+            "display_phone": "(517) 505-3385",
+            "distance": 887.6715551785398
+        },
+        {
+            "id": "LhIpo0MrEqgDj5Ba_G9BcQ",
+            "alias": "uptown-bar-and-kitchen-charlotte",
+            "name": "Uptown Bar And Kitchen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5L_S2Wqlnn5KQxstVwKKfA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/uptown-bar-and-kitchen-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 35.217247,
+                "longitude": -80.8392029
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "537-599 S Mcdowell St",
+                "address2": "",
+                "address3": "",
+                "city": "Charlotte",
+                "zip_code": "28204",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "537-599 S Mcdowell St",
+                    "Charlotte, NC 28204"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1544.605335732267
+        },
+        {
+            "id": "Bggzxp9FqBryg4QI0uwqXw",
+            "alias": "livys-neapolitan-pizzeria-charlotte",
+            "name": "Livy's Neapolitan Pizzeria",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/05H4qe7jyqbj2RlY_uChaw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/livys-neapolitan-pizzeria-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 35.249708421278,
+                "longitude": -80.8325914666057
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1030 Woodward Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28206",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "1030 Woodward Ave",
+                    "Charlotte, NC 28206"
+                ]
+            },
+            "phone": "+17045953111",
+            "display_phone": "(704) 595-3111",
+            "distance": 3226.332650811788
+        },
+        {
+            "id": "dCmC9JAy6mW-SCI1N9SmdQ",
+            "alias": "fūd-on-the-mūv-charlotte",
+            "name": "FūD on the MūV",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LwCE73S7C8cQfUKaoWVptw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/f%C5%ABd-on-the-m%C5%ABv-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 35.19448,
+                "longitude": -80.874864
+            },
+            "transactions": [],
+            "location": {
+                "address1": "245 Clanton Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Charlotte",
+                "zip_code": "28217",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "245 Clanton Rd",
+                    "Charlotte, NC 28217"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 4023.3434488772436
+        },
+        {
+            "id": "tlPHOFbpyWS7i06w2sJvtw",
+            "alias": "clean-eatz-charlotte-charlotte-3",
+            "name": "Clean Eatz - Charlotte",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dIJ8MwxFesjYo2-TmWfYPw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/clean-eatz-charlotte-charlotte-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "healthmarkets",
+                    "title": "Health Markets"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 35.2124,
+                "longitude": -80.85937
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1800 Camden Rd",
+                "address2": "Ste 108",
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28203",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "1800 Camden Rd",
+                    "Ste 108",
+                    "Charlotte, NC 28203"
+                ]
+            },
+            "phone": "+19802373383",
+            "display_phone": "(980) 237-3383",
+            "distance": 1610.7616082535721
+        },
+        {
+            "id": "SPWYMQHjSTffpQhI837SdQ",
+            "alias": "curio-city-kitchen-charlotte",
+            "name": "Curio City Kitchen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jT-E7GZWHLq1MlfMc6t0eg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/curio-city-kitchen-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "customcakes",
+                    "title": "Custom Cakes"
+                },
+                {
+                    "alias": "cupcakes",
+                    "title": "Cupcakes"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 35.22959,
+                "longitude": -80.84097
+            },
+            "transactions": [],
+            "location": {
+                "address1": "301 N Tryon St",
+                "address2": null,
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28202",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "301 N Tryon St",
+                    "Charlotte, NC 28202"
+                ]
+            },
+            "phone": "+17043340031",
+            "display_phone": "(704) 334-0031",
+            "distance": 1153.6592121298054
+        },
+        {
+            "id": "b-RTSpuHvZUtOPjiLshS7A",
+            "alias": "brevard-court-sundries-charlotte",
+            "name": "Brevard Court Sundries",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ueOWP5yWPbj0vWiWDcLh1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brevard-court-sundries-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 35.2258911,
+                "longitude": -80.8469009
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "145 Brevard Ct",
+                "address2": "",
+                "address3": "",
+                "city": "Charlotte",
+                "zip_code": "28202",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "145 Brevard Ct",
+                    "Charlotte, NC 28202"
+                ]
+            },
+            "phone": "+17043424700",
+            "display_phone": "(704) 342-4700",
+            "distance": 534.9038028116754
+        },
+        {
+            "id": "S6LiVc0_LmpT1N0y9ZSAnA",
+            "alias": "churchs-chicken-charlotte-2",
+            "name": "Church's Chicken",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OJgBRqPNurAccNmQ-LKu4A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/churchs-chicken-charlotte-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 35.2414245605469,
+                "longitude": -80.8589859008789
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1735 W Trade St",
+                "address2": "",
+                "address3": "",
+                "city": "Charlotte",
+                "zip_code": "28216",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "1735 W Trade St",
+                    "Charlotte, NC 28216"
+                ]
+            },
+            "phone": "+17043322438",
+            "display_phone": "(704) 332-2438",
+            "distance": 1834.5873797627767
+        },
+        {
+            "id": "iLHzm7N_GMPl6sr2RqeqhQ",
+            "alias": "chick-fil-a-charlotte-19",
+            "name": "Chick-fil-A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sqb0ZhiKKo23XmW06t_cqA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chick-fil-a-charlotte-19?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 35.2338461,
+                "longitude": -80.849736
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "800 W Trade St",
+                "address2": "",
+                "address3": "",
+                "city": "Charlotte",
+                "zip_code": "28202",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "800 W Trade St",
+                    "Charlotte, NC 28202"
+                ]
+            },
+            "phone": "+19806830478",
+            "display_phone": "(980) 683-0478",
+            "distance": 932.8720975394922
+        },
+        {
+            "id": "mI2GqBeadATqOkLPhDNOfQ",
+            "alias": "china-shuttle-charlotte",
+            "name": "China Shuttle",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kbhfx3WGhhGemKO_ifGZiw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/china-shuttle-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 35.22453,
+                "longitude": -80.8409999
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "310 E Trade St",
+                "address2": "",
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28202",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "310 E Trade St",
+                    "Charlotte, NC 28202"
+                ]
+            },
+            "phone": "+19806138210",
+            "display_phone": "(980) 613-8210",
+            "distance": 1110.4718877004511
+        },
+        {
+            "id": "dSqYhPGziZoJMGPSA1y0og",
+            "alias": "burger-king-charlotte-2",
+            "name": "Burger King",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ioHCh_WRz5jp3HHImdknTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-charlotte-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 35.224453,
+                "longitude": -80.840597
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "310 East Trade Street",
+                "address2": "",
+                "address3": "",
+                "city": "Charlotte",
+                "zip_code": "28202",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "310 East Trade Street",
+                    "Charlotte, NC 28202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1110.4718877004511
+        },
+        {
+            "id": "vNfk0mP8B7nib_MscFCVBA",
+            "alias": "k-lounge-charlotte",
+            "name": "K Lounge",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/geLK_U8wbkvDysnjK0QF9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/k-lounge-charlotte?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 35.2261908298665,
+                "longitude": -80.8418149283779
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "201 E Trade St",
+                "address2": "",
+                "address3": null,
+                "city": "Charlotte",
+                "zip_code": "28202",
+                "country": "US",
+                "state": "NC",
+                "display_address": [
+                    "201 E Trade St",
+                    "Charlotte, NC 28202"
+                ]
+            },
+            "phone": "+17049724405",
+            "display_phone": "(704) 972-4405",
+            "distance": 1026.012997986587
+        }
+    ],
+    "total": 441,
+    "region": {
+        "center": {
+            "longitude": -80.852778,
+            "latitude": 35.225833
+        }
+    }
+}

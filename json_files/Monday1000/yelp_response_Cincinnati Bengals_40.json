@@ -1,0 +1,914 @@
+{
+    "businesses": [
+        {
+            "id": "6htwEm7oZN7h6O9zxvFDGg",
+            "alias": "b-and-a-street-kitchen-cincinnati",
+            "name": "B&A Street Kitchen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ETRJr4Wr9Q0jbfWrzfjCWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/b-and-a-street-kitchen-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 259,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.11164,
+                "longitude": -84.51707
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1500 Race St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1500 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133456670",
+            "display_phone": "(513) 345-6670",
+            "distance": 1850.7494576381237
+        },
+        {
+            "id": "6GimWMNcsVqs5UJecZEU6w",
+            "alias": "alabama-fish-bar-cincinnati",
+            "name": "Alabama Fish Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hiDgS7664Hydkn-76sDP0Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/alabama-fish-bar-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 106,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.11319,
+                "longitude": -84.51797
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1601 Race St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1601 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15132412255",
+            "display_phone": "(513) 241-2255",
+            "distance": 2026.6561341929514
+        },
+        {
+            "id": "Jg5M_KMW9_yVutZpGXFRIA",
+            "alias": "nada-cincinnati",
+            "name": "Nada",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/noUqag8iE4ttOu20fYizqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nada-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1229,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.10296,
+                "longitude": -84.51141
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "600 Walnut St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "600 Walnut St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15137216232",
+            "display_phone": "(513) 721-6232",
+            "distance": 965.1869717169089
+        },
+        {
+            "id": "WQWaBvWEzOCYCvYpzp2nOg",
+            "alias": "senate-cincinnati-3",
+            "name": "Senate",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0Vzsm2E7OMAa96LcO__VNQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/senate-cincinnati-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 867,
+            "categories": [
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.108768,
+                "longitude": -84.51464
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1212 Vine St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1212 Vine St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15134212020",
+            "display_phone": "(513) 421-2020",
+            "distance": 1535.4214034841405
+        },
+        {
+            "id": "1PwoVa77dfT-mEtJnrOduA",
+            "alias": "nation-pendleton-cincinnati-3",
+            "name": "Nation Pendleton",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rxYYFiX3ysWILcQddu2mcA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nation-pendleton-cincinnati-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 459,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.1096744,
+                "longitude": -84.5083572
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1200 Broadway St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1200 Broadway St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133813794",
+            "display_phone": "(513) 381-3794",
+            "distance": 1759.9521670585834
+        },
+        {
+            "id": "rcyN6Wxz_zWT3O63a18sfA",
+            "alias": "please-cincinnati",
+            "name": "Please",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/c4qgeBqqf3iEeykpi2bv6Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/please-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 141,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.11143,
+                "longitude": -84.51317
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "1405 Clay St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1405 Clay St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15134058859",
+            "display_phone": "(513) 405-8859",
+            "distance": 1843.2545089505375
+        },
+        {
+            "id": "qB2yPZJG46TsJuw593TOUA",
+            "alias": "essen-cincinnati-2",
+            "name": "ESSEN",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o2jQSCpvqo_1bg7T_cAjtw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/essen-cincinnati-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                },
+                {
+                    "alias": "popuprestaurants",
+                    "title": "Pop-Up Restaurants"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.1160799,
+                "longitude": -84.53561
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1 Findlay St",
+                "address2": null,
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1 Findlay St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15138025013",
+            "display_phone": "(513) 802-5013",
+            "distance": 2418.8586900146183
+        },
+        {
+            "id": "8nfNnMn6exDNXS2z2jfKWQ",
+            "alias": "pho-lang-thang-cincinnati",
+            "name": "Pho Lang Thang",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Byy2TmTYfGr9G5jtFnxn3Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pho-lang-thang-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 600,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.116361,
+                "longitude": -84.5183507
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1828 Race St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1828 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133769177",
+            "display_phone": "(513) 376-9177",
+            "distance": 2383.876758369865
+        },
+        {
+            "id": "rzBKtsGbBTMjIKZEIyA1Bg",
+            "alias": "haru-cincinnati",
+            "name": "HARU",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2IZHEgTxkylYHLuRlOQuOg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/haru-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 133,
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.10336,
+                "longitude": -84.51336
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "628 Vine St",
+                "address2": null,
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "628 Vine St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133810947",
+            "display_phone": "(513) 381-0947",
+            "distance": 958.8590480095617
+        },
+        {
+            "id": "xuFKTGWX0ChP9Wz8EfDWPA",
+            "alias": "zablong-not-just-pizza-cincinnati-6",
+            "name": "Zablong...Not Just Pizza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/McZKUB7jeYvWfYDEbQ2_9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/zablong-not-just-pizza-cincinnati-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 93,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.1023579,
+                "longitude": -84.5127243
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "23 E 6th St",
+                "address2": null,
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "23 E 6th St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15136393733",
+            "display_phone": "(513) 639-3733",
+            "distance": 857.362811474261
+        },
+        {
+            "id": "DUfw88HYfqqLGxrASIrHtA",
+            "alias": "taste-of-belgium-findlay-market-cincinnati-2",
+            "name": "Taste of Belgium - Findlay Market",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JKfmkzQMjnoFIyrSBZycaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taste-of-belgium-findlay-market-cincinnati-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 158,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.1154,
+                "longitude": -84.51844
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1801 Race St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1801 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133813280",
+            "display_phone": "(513) 381-3280",
+            "distance": 2272.8603074354473
+        },
+        {
+            "id": "5jVByOWSiiVLTlHma0nZug",
+            "alias": "nicolas-ristorante-cincinnati",
+            "name": "Nicola's Ristorante",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zgkvSJ0cw_VPcB2DUzXjbw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nicolas-ristorante-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 316,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.11212,
+                "longitude": -84.51045
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "1420 Sycamore St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1420 Sycamore St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15137216200",
+            "display_phone": "(513) 721-6200",
+            "distance": 1972.417746658958
+        },
+        {
+            "id": "M2GZQexXc6wBiqidoliguA",
+            "alias": "gutierrez-deli-covington",
+            "name": "Gutierrez Deli",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9XV5MSzqB6_Y3hKEZqU0oQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gutierrez-deli-covington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "importedfood",
+                    "title": "Imported Food"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.076788,
+                "longitude": -84.5155769
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1131 Lee St",
+                "address2": "",
+                "address3": "",
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "1131 Lee St",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18594313354",
+            "display_phone": "(859) 431-3354",
+            "distance": 2025.4089859972917
+        },
+        {
+            "id": "OPfvCF6kYRO8uS4dpEn16Q",
+            "alias": "kung-food-chus-amerasia-covington",
+            "name": "Kung Food Chu's AmerAsia",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-R1R4TMILmvgmwb_AN2aSA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kung-food-chus-amerasia-covington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 521,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.08511,
+                "longitude": -84.51099
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "521 Madison Ave",
+                "address2": "Ste B",
+                "address3": "",
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "521 Madison Ave",
+                    "Ste B",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18592616121",
+            "display_phone": "(859) 261-6121",
+            "distance": 1182.5686311992838
+        },
+        {
+            "id": "JdDOhq38Cs1504QrE9LHKA",
+            "alias": "ché-cincinnati-2",
+            "name": "Ché",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uxU9n4U5wLtmmkJaxC1N_Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ch%C3%A9-cincinnati-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 372,
+            "categories": [
+                {
+                    "alias": "argentine",
+                    "title": "Argentine"
+                },
+                {
+                    "alias": "empanadas",
+                    "title": "Empanadas"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.11099,
+                "longitude": -84.51349
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1342 Walnut St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1342 Walnut St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133458838",
+            "display_phone": "(513) 345-8838",
+            "distance": 1788.6078119561835
+        },
+        {
+            "id": "DtAmIAhwf7IdSgqYlXVN8A",
+            "alias": "york-street-café-newport-2",
+            "name": "York Street Café",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LjGEd4GipJgB1Y_xJbQRtg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/york-street-caf%C3%A9-newport-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 181,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "galleries",
+                    "title": "Art Galleries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.0886,
+                "longitude": -84.4932
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "738 York St",
+                "address2": "",
+                "address3": "",
+                "city": "Newport",
+                "zip_code": "41071",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "738 York St",
+                    "Newport, KY 41071"
+                ]
+            },
+            "phone": "+18592619675",
+            "display_phone": "(859) 261-9675",
+            "distance": 2093.218023171004
+        },
+        {
+            "id": "i-Fc-xT-o32YxbCFGVBZyw",
+            "alias": "sleepy-bee-cafe-downtown-cincinnati-2",
+            "name": "Sleepy Bee Cafe - Downtown",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CnBCqEkeQh0RnmFPZSvTEw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sleepy-bee-cafe-downtown-cincinnati-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 258,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.10012,
+                "longitude": -84.51228
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "8 E 4th St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "8 E 4th St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133812339",
+            "display_phone": "(513) 381-2339",
+            "distance": 665.2957382486497
+        },
+        {
+            "id": "XpgioiFfG6uVucc3I7hvfg",
+            "alias": "goodfellas-pizzeria-covington-2",
+            "name": "Goodfellas Pizzeria",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fgA9-uIvJURgGCUbNKxWFw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/goodfellas-pizzeria-covington-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 224,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.08394,
+                "longitude": -84.51777
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "603 Main St",
+                "address2": "",
+                "address3": "",
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "603 Main St",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18599165209",
+            "display_phone": "(859) 916-5209",
+            "distance": 1236.7753809527492
+        },
+        {
+            "id": "VgVNLIUmrcSd8Ss7FgQIFw",
+            "alias": "boombox-buns-cincinnati",
+            "name": "Boombox Buns",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jDmTz9D-lyMooHb7VmfO8g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/boombox-buns-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.1105613,
+                "longitude": -84.5160541
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1400 Republic St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1400 Republic St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1730.3419900180834
+        },
+        {
+            "id": "Vi9Sf0IJbFeTSPijwCNGZQ",
+            "alias": "the-bagelry-cincinnati",
+            "name": "The Bagelry",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pTEcZd3ZfTlz340iiuHFHA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-bagelry-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 78,
+            "categories": [
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.11124,
+                "longitude": -84.514
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1401 Walnut St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1401 Walnut St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15139750631",
+            "display_phone": "(513) 975-0631",
+            "distance": 1814.0312812587715
+        }
+    ],
+    "total": 459,
+    "region": {
+        "center": {
+            "longitude": -84.516,
+            "latitude": 39.095
+        }
+    }
+}

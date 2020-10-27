@@ -1,0 +1,929 @@
+{
+    "businesses": [
+        {
+            "id": "g8w22xJ4XCQedthuhE1ebg",
+            "alias": "atwoods-pizza-cafe-atlanta",
+            "name": "Atwoods Pizza Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KiB6_cydVlWlu2vk1qDTjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/atwoods-pizza-cafe-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 231,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.7774125926404,
+                "longitude": -84.3870339168539
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "817 W Peachtree St NW",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "817 W Peachtree St NW",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+14047489577",
+            "display_phone": "(404) 748-9577",
+            "distance": 2709.8103756032874
+        },
+        {
+            "id": "ApwmEiStq9aP9-Tf2xfVtA",
+            "alias": "guss-world-famous-fried-chicken-atlanta",
+            "name": "Gus's World Famous Fried Chicken",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vYbbVePCs2G0Pkl-nt9wnA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/guss-world-famous-fried-chicken-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1305,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.760069,
+                "longitude": -84.386257
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "231 W Peachtree St NE",
+                "address2": "Ste A-05",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "231 W Peachtree St NE",
+                    "Ste A-05",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14049962837",
+            "display_phone": "(404) 996-2837",
+            "distance": 1366.009573223288
+        },
+        {
+            "id": "83maS2mCXYZjuwEhozVtLA",
+            "alias": "sweet-hut-bakery-and-cafe-atlanta",
+            "name": "Sweet Hut Bakery & Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iaNIzs-7lbxec-AotPu6cw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sweet-hut-bakery-and-cafe-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 707,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.780215,
+                "longitude": -84.3839385
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "935 Peachtree St NE",
+                "address2": "Ste 935",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30309",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "935 Peachtree St NE",
+                    "Ste 935",
+                    "Atlanta, GA 30309"
+                ]
+            },
+            "phone": "+14046004800",
+            "display_phone": "(404) 600-4800",
+            "distance": 3118.0944518898023
+        },
+        {
+            "id": "24--2r1ZEgnmJs5iVVAOgQ",
+            "alias": "wagaya-westside-atlanta",
+            "name": "Wagaya - Westside",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0nATXrPNKu4W1dwAZc7XNQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wagaya-westside-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 556,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.786349,
+                "longitude": -84.398266
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "339 14th St NW",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30318",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "339 14th St NW",
+                    "Atlanta, GA 30318"
+                ]
+            },
+            "phone": "+14705755799",
+            "display_phone": "(470) 575-5799",
+            "distance": 3427.770819864495
+        },
+        {
+            "id": "1i63faxXI1TQ7pNlLp3IPQ",
+            "alias": "cypress-street-pint-and-plate-atlanta",
+            "name": "Cypress Street Pint & Plate",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yVVxF12zVDE1YDAmq9cydA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cypress-street-pint-and-plate-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1265,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.777327,
+                "longitude": -84.386122
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "817 W Peachtree St NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "817 W Peachtree St NE",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+14048159243",
+            "display_phone": "(404) 815-9243",
+            "distance": 2739.7212948449906
+        },
+        {
+            "id": "HN727MkqBRxgTMWVkbHpsw",
+            "alias": "reubens-deli-atlanta",
+            "name": "Reuben's Deli",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DQLKgsiaSDqJRBh8gmsC4Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/reubens-deli-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 287,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.755639475382,
+                "longitude": -84.3892372748193
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "57 Broad St NW",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "57 Broad St NW",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14045899800",
+            "display_phone": "(404) 589-9800",
+            "distance": 995.0471626519582
+        },
+        {
+            "id": "vE6ZtSOEpFWbpl8KmEqv7g",
+            "alias": "truva-turkish-kitchen-atlanta",
+            "name": "Truva Turkish Kitchen",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xYcqcqnNXFrooYMBevSuKQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/truva-turkish-kitchen-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 446,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7598042,
+                "longitude": -84.3858369
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "60 Andrew Young International Blvd NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "60 Andrew Young International Blvd NE",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14045778788",
+            "display_phone": "(404) 577-8788",
+            "distance": 1400.364750258915
+        },
+        {
+            "id": "WXIer1X3GtLZiAVXX8TV5Q",
+            "alias": "rreal-tacos-atlanta",
+            "name": "Rreal Tacos",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ag7SE-gkz-Am7lSOMzazFg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rreal-tacos-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 367,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7774837176681,
+                "longitude": -84.3834526399158
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "100 6th St NE",
+                "address2": "Ste 110",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "100 6th St NE",
+                    "Ste 110",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+14044585887",
+            "display_phone": "(404) 458-5887",
+            "distance": 2878.317096906128
+        },
+        {
+            "id": "QHhSs3JJ2k9tJufA4QUtYw",
+            "alias": "barcelona-westside-ironworks-atlanta",
+            "name": "Barcelona Westside Ironworks",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aVYRvWgIAvuN1Qz_aNQSww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/barcelona-westside-ironworks-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 434,
+            "categories": [
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.78451,
+                "longitude": -84.41113
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1085 Howell Mill Rd NW",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30318",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1085 Howell Mill Rd NW",
+                    "Atlanta, GA 30318"
+                ]
+            },
+            "phone": "+14048728000",
+            "display_phone": "(404) 872-8000",
+            "distance": 3388.1684077896643
+        },
+        {
+            "id": "lj1PkEP1jchQzUoy_2s0Rw",
+            "alias": "kwans-deli-and-korean-kitchen-atlanta-2",
+            "name": "Kwan's Deli and Korean Kitchen",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ozg5dmAjC4T521_wpsXPDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kwans-deli-and-korean-kitchen-atlanta-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 338,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7610504378672,
+                "longitude": -84.3940759761963
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "267 Marietta St NW",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30313",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "267 Marietta St NW",
+                    "Ste 100",
+                    "Atlanta, GA 30313"
+                ]
+            },
+            "phone": "+14045229796",
+            "display_phone": "(404) 522-9796",
+            "distance": 820.4800356517017
+        },
+        {
+            "id": "YB7mBTPgHRSq_MGr2UQ1qA",
+            "alias": "pijiu-belly-atlanta",
+            "name": "Pijiu Belly",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hGlIWM844ZFzmlKelgU1pQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pijiu-belly-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 391,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.781325,
+                "longitude": -84.409632
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "678 10th St NW",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30318",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "678 10th St NW",
+                    "Atlanta, GA 30318"
+                ]
+            },
+            "phone": "+14043436828",
+            "display_phone": "(404) 343-6828",
+            "distance": 3000.5156670221086
+        },
+        {
+            "id": "8Sur3oBKyht2J_PKyDtWyw",
+            "alias": "talat-market-atlanta",
+            "name": "Talat Market",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IO9iqS_24xduvPP-nZCS_g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/talat-market-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 36,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "popuprestaurants",
+                    "title": "Pop-Up Restaurants"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.731809,
+                "longitude": -84.383981
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "112 Ormond St SE",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30315",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "112 Ormond St SE",
+                    "Atlanta, GA 30315"
+                ]
+            },
+            "phone": "+14042576255",
+            "display_phone": "(404) 257-6255",
+            "distance": 3027.583971819103
+        },
+        {
+            "id": "7hdnCKFbCl5P0G3l1-E2mw",
+            "alias": "polaris-atlanta",
+            "name": "Polaris",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xaiKmVRDGNB2nnNaVKRI-w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/polaris-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 307,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7613764442732,
+                "longitude": -84.3866796520455
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "265 Peachtree St NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "265 Peachtree St NE",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14044606425",
+            "display_phone": "(404) 460-6425",
+            "distance": 1391.132149270718
+        },
+        {
+            "id": "xfcO_djoiAESWonowc-Now",
+            "alias": "delias-chicken-sausage-stand-atlanta-3",
+            "name": "Delia's Chicken Sausage Stand",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lwUnh7J-i0Hxa-IhlzF9uQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/delias-chicken-sausage-stand-atlanta-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 352,
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7764523,
+                "longitude": -84.4073889
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "881 Marietta St",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30318",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "881 Marietta St",
+                    "Atlanta, GA 30318"
+                ]
+            },
+            "phone": "+14042540408",
+            "display_phone": "(404) 254-0408",
+            "distance": 2421.866839040612
+        },
+        {
+            "id": "3ehyrexo3WcoTy74c2jDKA",
+            "alias": "flying-biscuit-café-midtown-atlanta",
+            "name": "Flying Biscuit Café - Midtown",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9PiLUl2SWUyIQhOECrBcsA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/flying-biscuit-caf%C3%A9-midtown-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1554,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.782,
+                "longitude": -84.38015
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1001 Piedmont Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30309",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1001 Piedmont Ave",
+                    "Atlanta, GA 30309"
+                ]
+            },
+            "phone": "+14048748887",
+            "display_phone": "(404) 874-8887",
+            "distance": 3464.27983939484
+        },
+        {
+            "id": "QabI5fOzoyFPd5LtWPlVBg",
+            "alias": "babs-atlanta",
+            "name": "Babs",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/f-SAp535OHxKD0JToPTtBQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/babs-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 686,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.77676,
+                "longitude": -84.38317
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "814 Juniper St",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "814 Juniper St",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+14045410888",
+            "display_phone": "(404) 541-0888",
+            "distance": 2824.5304894770948
+        },
+        {
+            "id": "Z2qMwUhnGt_2pA9uQbS7Uw",
+            "alias": "the-vortex-bar-and-grill-midtown-atlanta",
+            "name": "The Vortex Bar And Grill - Midtown",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PBseQS1Qlt-zUuoRkGptfg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-vortex-bar-and-grill-midtown-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1733,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.779051,
+                "longitude": -84.384438
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "878 Peachtree St NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30309",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "878 Peachtree St NE",
+                    "Atlanta, GA 30309"
+                ]
+            },
+            "phone": "+14048751667",
+            "display_phone": "(404) 875-1667",
+            "distance": 2982.37170400828
+        },
+        {
+            "id": "6YCGihzbtV97nM5Nl62qRA",
+            "alias": "rosas-pizza-atlanta",
+            "name": "Rosa's Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mEmKHt0gnozjfkTUbxKDaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rosas-pizza-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 263,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7558079,
+                "longitude": -84.3895025
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "62 Broad St NW",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "62 Broad St NW",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14045212596",
+            "display_phone": "(404) 521-2596",
+            "distance": 969.805495268528
+        },
+        {
+            "id": "vFulipMlcFyN60_SyAhjyA",
+            "alias": "twin-smokers-bbq-atlanta",
+            "name": "Twin Smokers BBQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iKRF1Ik3L2D6YhySAP9FhA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/twin-smokers-bbq-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 917,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.761764246876,
+                "longitude": -84.3964970011887
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "300 Marietta St NW",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30313",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "300 Marietta St NW",
+                    "Atlanta, GA 30313"
+                ]
+            },
+            "phone": "+14046984707",
+            "display_phone": "(404) 698-4707",
+            "distance": 762.5083428570447
+        },
+        {
+            "id": "aO2fVDgBPNTUvPjfRmjTXQ",
+            "alias": "nonis-bar-and-deli-atlanta",
+            "name": "Noni's Bar & Deli",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Y9GEWctaGSPhv0MNLeOD9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nonis-bar-and-deli-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 468,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7541351318359,
+                "longitude": -84.3759841918945
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "357 Edgewood Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30312",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "357 Edgewood Ave",
+                    "Atlanta, GA 30312"
+                ]
+            },
+            "phone": "+14043431808",
+            "display_phone": "(404) 343-1808",
+            "distance": 2228.5292815338735
+        }
+    ],
+    "total": 705,
+    "region": {
+        "center": {
+            "longitude": -84.4,
+            "latitude": 33.755556
+        }
+    }
+}

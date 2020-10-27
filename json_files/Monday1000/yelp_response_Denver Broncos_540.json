@@ -1,0 +1,830 @@
+{
+    "businesses": [
+        {
+            "id": "VeRZnBxp4M79av7M_7d-gw",
+            "alias": "panda-express-denver-17",
+            "name": "Panda Express",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dO-gyO1_qLhMvtipSUowCw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/panda-express-denver-17?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.7496375441551,
+                "longitude": -105.009798556566
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "2000 Elitch Cir",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2000 Elitch Cir",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+13036299080",
+            "display_phone": "(303) 629-9080",
+            "distance": 1310.2063913320353
+        },
+        {
+            "id": "uu_FurZ-iSLhW0wrElhJgw",
+            "alias": "little-caesars-pizza-denver-3",
+            "name": "Little Caesars Pizza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dcaQaDxQJNVqPEqBvBGK1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-caesars-pizza-denver-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 39.7115173339844,
+                "longitude": -105.011459350586
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2001 W Alameda Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80223",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2001 W Alameda Ave",
+                    "Denver, CO 80223"
+                ]
+            },
+            "phone": "+13039960376",
+            "display_phone": "(303) 996-0376",
+            "distance": 3367.463672691296
+        },
+        {
+            "id": "D4F3Ntl4e_1A95FMBuqstw",
+            "alias": "steve-os-bar-and-grill-denver-2",
+            "name": "Steve O's Bar & Grill",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steve-os-bar-and-grill-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 39.711477,
+                "longitude": -105.004522
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1319 W Alameda Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80223",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1319 W Alameda Ave",
+                    "Denver, CO 80223"
+                ]
+            },
+            "phone": "+17205700810",
+            "display_phone": "(720) 570-0810",
+            "distance": 3530.1123431055735
+        },
+        {
+            "id": "SzQTdXFyrap9lbhPzs3g4Q",
+            "alias": "tacos-tijuana-denver-2",
+            "name": "Tacos Tijuana",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tacos-tijuana-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.7095336914062,
+                "longitude": -105.03466796875
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3570 Morrison Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80219",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3570 Morrison Rd",
+                    "Denver, CO 80219"
+                ]
+            },
+            "phone": "+13039379020",
+            "display_phone": "(303) 937-9020",
+            "distance": 3706.9672725204114
+        },
+        {
+            "id": "5gL3G-I0aOiRBvcofRiSjg",
+            "alias": "tacos-menny-denver",
+            "name": "Tacos Menny",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tacos-menny-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.707279,
+                "longitude": -105.024727
+            },
+            "transactions": [],
+            "location": {
+                "address1": "500 S Federal Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80219",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "500 S Federal Blvd",
+                    "Denver, CO 80219"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3774.1841393285954
+        },
+        {
+            "id": "8hDc4b-q5VL9FBMlF6KSOg",
+            "alias": "petes-arena-denver",
+            "name": "Pete's Arena",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/petes-arena-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7450985485974,
+                "longitude": -105.005560299103
+            },
+            "transactions": [],
+            "location": {
+                "address1": "900 Auraria Pkwy",
+                "address2": "",
+                "address3": "University of Colorado Denver Campus",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "900 Auraria Pkwy",
+                    "University of Colorado Denver Campus",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1291.9898172189612
+        },
+        {
+            "id": "iCrINYq8-ORACXeyHuFnnw",
+            "alias": "whole-sol-blend-bar-denver-3",
+            "name": "Whole Sol Blend Bar",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uwNe5QyPj0OlTHC1RNgu5A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/whole-sol-blend-bar-denver-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "acaibowls",
+                    "title": "Acai Bowls"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.742778,
+                "longitude": -105.041673
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "1611 Raleigh St",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1611 Raleigh St",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1889.093566899443
+        },
+        {
+            "id": "EjYO9RsnCYKJf_wbG5sAeg",
+            "alias": "el-sazonazo-mexicano-denver",
+            "name": "El Sazonazo Mexicano",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DhT9Cn-HRRQJBC7o4nU6bQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-sazonazo-mexicano-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7491199771521,
+                "longitude": -105.025629289448
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2105 Federal Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2105 Federal Blvd",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17202313612",
+            "display_phone": "(720) 231-3612",
+            "distance": 1035.4775387734146
+        },
+        {
+            "id": "RpRXuYdRyWqcVBP5Ig87aw",
+            "alias": "the-yard-at-santa-fe-denver",
+            "name": "The Yard at Santa Fe",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-yard-at-santa-fe-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7181091,
+                "longitude": -104.9996567
+            },
+            "transactions": [],
+            "location": {
+                "address1": "900 West 1st Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80223",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "900 West 1st Ave",
+                    "Denver, CO 80223"
+                ]
+            },
+            "phone": "+13035728778",
+            "display_phone": "(303) 572-8778",
+            "distance": 3115.91684452505
+        },
+        {
+            "id": "u1PGkzZ7zr9zQWyoshfGDw",
+            "alias": "mopoke-denver",
+            "name": "Mopoke",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mopoke-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.75447,
+                "longitude": -104.99517
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1520 20th St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1520 20th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2586.731127107552
+        },
+        {
+            "id": "Kro4y8KNFsrLJeCcL92_YQ",
+            "alias": "the-lime-truck-denver",
+            "name": "The Lime Truck",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qFqp9Z7CFdGdnQGMZkuK2w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-lime-truck-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "streetvendors",
+                    "title": "Street Vendors"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.74584,
+                "longitude": -104.99326
+            },
+            "transactions": [],
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+19492320690",
+            "display_phone": "(949) 232-0690",
+            "distance": 2212.538432255322
+        },
+        {
+            "id": "yJPxzYQOji6H5NPUwaM9IQ",
+            "alias": "the-sandwich-board-denver-14",
+            "name": "The Sandwich Board",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-sandwich-board-denver-14?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7144203,
+                "longitude": -105.0047684
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1340 W Bayaud Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80223",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1340 W Bayaud Ave",
+                    "Denver, CO 80223"
+                ]
+            },
+            "phone": "+13037222149",
+            "display_phone": "(303) 722-2149",
+            "distance": 3187.7880854839
+        },
+        {
+            "id": "IlFGGCWA2zOrUl5s8BZg_w",
+            "alias": "the-tamale-stand-in-coors-field-by-1st-base-denver",
+            "name": "The Tamale Stand in Coors Field by 1st Base",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/s8pdUPCbbwYR_IPI_p9GrQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-tamale-stand-in-coors-field-by-1st-base-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.754704098813,
+                "longitude": -104.993895472214
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2001 Blake St",
+                "address2": "",
+                "address3": "Section 134, Fl 1 Concourse",
+                "city": "Denver",
+                "zip_code": "80238",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2001 Blake St",
+                    "Section 134, Fl 1 Concourse",
+                    "Denver, CO 80238"
+                ]
+            },
+            "phone": "+13032920200",
+            "display_phone": "(303) 292-0200",
+            "distance": 2681.2399147351503
+        },
+        {
+            "id": "WNmKYUfXqRr_cR6yINRGiQ",
+            "alias": "the-study-at-hotel-teatro-denver",
+            "name": "The Study at Hotel Teatro",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/K6_IwfWgcWqobKGrqAUnwQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-study-at-hotel-teatro-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7464049722698,
+                "longitude": -104.998128762233
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1111 14th St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1111 14th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1939.7738928973329
+        },
+        {
+            "id": "3m_gj5JDhF36sCXwvTF8Cg",
+            "alias": "empanadas-argentina-denver",
+            "name": "Empanadas Argentina",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/empanadas-argentina-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                },
+                {
+                    "alias": "empanadas",
+                    "title": "Empanadas"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7472,
+                "longitude": -104.99482
+            },
+            "transactions": [],
+            "location": {
+                "address1": "16TH St At Curtis",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "16TH St At Curtis",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2236.094619563978
+        },
+        {
+            "id": "weZz41htBb6UENKuBpbDUw",
+            "alias": "main-street-deli-denver-2",
+            "name": "Main Street Deli",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/main-street-deli-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.75364957503,
+                "longitude": -105.016626237274
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2460 W 26th Ave",
+                "address2": "Ste 160",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2460 W 26th Ave",
+                    "Ste 160",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1430.9050586595547
+        },
+        {
+            "id": "azN6TqHkQdFiiYv5KmZLFQ",
+            "alias": "library-cafe-denver-2",
+            "name": "Library Cafe",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/library-cafe-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7435130861162,
+                "longitude": -105.003368966281
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1100 Lawrence St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1100 Lawrence St",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1424.004441198915
+        },
+        {
+            "id": "RWq5d7lrWYoaEuKD9i_MNQ",
+            "alias": "the-ultimate-chicago-dog-denver",
+            "name": "The Ultimate Chicago Dog",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/csowwERw_RhMiRfnPF8PqA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-ultimate-chicago-dog-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7534280385967,
+                "longitude": -104.995535271164
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "19TH And Blake",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "19TH And Blake",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2485.540613210908
+        },
+        {
+            "id": "93gdwDAe5JyLDygx7yG6cg",
+            "alias": "right-field-greens-denver",
+            "name": "Right Field Greens",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W9UN-lsjJxFQ71ah0CoQvA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/right-field-greens-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7561926641956,
+                "longitude": -104.99421860997
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2001 Blake St",
+                "address2": "",
+                "address3": "Section 120, Coors Field",
+                "city": "Denver",
+                "zip_code": "80205",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2001 Blake St",
+                    "Section 120, Coors Field",
+                    "Denver, CO 80205"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2756.7480840491667
+        },
+        {
+            "id": "UT9YSun-vmdTh0fLEz7rUA",
+            "alias": "viets-deli-and-smoothies-denver",
+            "name": "Viet's Deli & Smoothies",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/u972h5MmrfXb0VOlXk39Mg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/viets-deli-and-smoothies-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 39.7104072585376,
+                "longitude": -105.025951898032
+            },
+            "transactions": [],
+            "location": {
+                "address1": "333 S Federal Blvd",
+                "address2": "Ste 125",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80219",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "333 S Federal Blvd",
+                    "Ste 125",
+                    "Denver, CO 80219"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3443.515972978832
+        }
+    ],
+    "total": 575,
+    "region": {
+        "center": {
+            "longitude": -105.0197,
+            "latitude": 39.741
+        }
+    }
+}

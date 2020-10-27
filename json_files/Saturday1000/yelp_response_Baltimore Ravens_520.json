@@ -1,0 +1,813 @@
+{
+    "businesses": [
+        {
+            "id": "3qZFO4_ZUrLnSu8fNkmdTA",
+            "alias": "burger-king-baltimore-17",
+            "name": "Burger King",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lZ3x2JWA0-nTWhDTNTsN2w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-baltimore-17?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.2947547372412,
+                "longitude": -76.6000919676016
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1241 Orleans Street",
+                "address2": "",
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21202",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1241 Orleans Street",
+                    "Baltimore, MD 21202"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2694.400197769216
+        },
+        {
+            "id": "d3CjT5nEmNFMFt--m_XcTQ",
+            "alias": "chicken-or-the-egg-baltimore",
+            "name": "Chicken or the Egg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tMhypw9x2S1EhTQ5IuTdjA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicken-or-the-egg-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.30506,
+                "longitude": -76.61587
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "1309 N Charles St",
+                "address2": null,
+                "address3": null,
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1309 N Charles St",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3056.615215502229
+        },
+        {
+            "id": "YFIrb0njxHiDPb2S5sw0uw",
+            "alias": "tugs-bar-and-grille-baltimore",
+            "name": "Tug's Bar & Grille",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2VksnZQsS_x0NkyebqJOXg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tugs-bar-and-grille-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.292133,
+                "longitude": -76.614258
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "222 Saint Paul St",
+                "address2": "",
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21202",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "222 Saint Paul St",
+                    "Baltimore, MD 21202"
+                ]
+            },
+            "phone": "+14102447300",
+            "display_phone": "(410) 244-7300",
+            "distance": 1728.5326126683367
+        },
+        {
+            "id": "2TflLhaGZEAfFhFU3R4i-w",
+            "alias": "oriole-pizza-baltimore-3",
+            "name": "Oriole Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0SyKzV9DOjOiHbanMW-pHA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oriole-pizza-baltimore-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.289811,
+                "longitude": -76.61914
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "5 N Howard St",
+                "address2": null,
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "5 N Howard St",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "+14438859401",
+            "display_phone": "(443) 885-9401",
+            "distance": 1331.5035063618127
+        },
+        {
+            "id": "w6dvhkgDqn-wD3NQ-y_rZw",
+            "alias": "esskay-gourmet-baltimore",
+            "name": "Esskay Gourmet",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2-q-j6NLkQtOAX3XpemKZA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/esskay-gourmet-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.2851105,
+                "longitude": -76.6200943
+            },
+            "transactions": [],
+            "location": {
+                "address1": "333 W Camden St",
+                "address2": "",
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "333 W Camden St",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "+18888482473",
+            "display_phone": "(888) 848-2473",
+            "distance": 709.0271109541336
+        },
+        {
+            "id": "nbei0fc3iK_T7ezt-JSaEA",
+            "alias": "honeys-cafe-baltimore",
+            "name": "Honey's Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RpGyUjLa-kI16XRLGE4EKg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/honeys-cafe-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.28316,
+                "longitude": -76.62858
+            },
+            "transactions": [],
+            "location": {
+                "address1": "784 Washington Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Baltimore",
+                "zip_code": "21230",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "784 Washington Blvd",
+                    "Baltimore, MD 21230"
+                ]
+            },
+            "phone": "+14437082644",
+            "display_phone": "(443) 708-2644",
+            "distance": 752.5604882603798
+        },
+        {
+            "id": "q-7eMe4WO-4r28cb4NFxMQ",
+            "alias": "subway-baltimore-149",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vEdOpREgPFxxfEahvshkyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-baltimore-149?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.29266,
+                "longitude": -76.6156
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "300 N Charles St",
+                "address2": null,
+                "address3": null,
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "300 N Charles St",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "+14105450688",
+            "display_phone": "(410) 545-0688",
+            "distance": 1734.779014470607
+        },
+        {
+            "id": "emYyPzJLRyafRmv9iJcNbg",
+            "alias": "subway-baltimore-119",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dJowoMZ6UaTeii87h4jnCQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-baltimore-119?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.286692,
+                "longitude": -76.619699
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "300 W Pratt St",
+                "address2": "Ste 150",
+                "address3": null,
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "300 W Pratt St",
+                    "Ste 150",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "+14106852025",
+            "display_phone": "(410) 685-2025",
+            "distance": 996.6118817222363
+        },
+        {
+            "id": "rwrwc47pXL6d-2phHDihWw",
+            "alias": "ronnys-combo-baltimore",
+            "name": "Ronny's Combo",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eH56j5RWy5ZKabXJBIthCA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ronnys-combo-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.291469976306,
+                "longitude": -76.6225589811802
+            },
+            "transactions": [],
+            "location": {
+                "address1": "400 W Lexington St",
+                "address2": "",
+                "address3": "Lexington Market",
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "400 W Lexington St",
+                    "Lexington Market",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "+14102440402",
+            "display_phone": "(410) 244-0402",
+            "distance": 1491.6835631815916
+        },
+        {
+            "id": "H2CkERKKqTF3mBZHg9kHFQ",
+            "alias": "ejji-baltimore-2",
+            "name": "EJJI",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zsSVClcyBdfBflpn7d7iUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ejji-baltimore-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.282525,
+                "longitude": -76.5987055
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "711 S Central Ave",
+                "address2": "Fl 2",
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21202",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "711 S Central Ave",
+                    "Fl 2",
+                    "Baltimore, MD 21202"
+                ]
+            },
+            "phone": "+14434383610",
+            "display_phone": "(443) 438-3610",
+            "distance": 2130.707549914471
+        },
+        {
+            "id": "8108zOmm_vJzjxP7boI6gg",
+            "alias": "pico-planet-baltimore",
+            "name": "Pico Planet",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ss96dgJVJmXj7HWf_XY3yw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pico-planet-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.292423,
+                "longitude": -76.617081
+            },
+            "transactions": [],
+            "location": {
+                "address1": "102 West Clay St",
+                "address2": "",
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "102 West Clay St",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "+14438392030",
+            "display_phone": "(443) 839-2030",
+            "distance": 1671.2824111474722
+        },
+        {
+            "id": "NmgCcOTknC88mrP4PdOBYg",
+            "alias": "calvert-house-restaurant-baltimore",
+            "name": "Calvert House Restaurant",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/calvert-house-restaurant-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.2941093444824,
+                "longitude": -76.6123733520508
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "347 N Calvert St",
+                "address2": "",
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21202",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "347 N Calvert St",
+                    "Baltimore, MD 21202"
+                ]
+            },
+            "phone": "+14105393627",
+            "display_phone": "(410) 539-3627",
+            "distance": 1994.8605798688643
+        },
+        {
+            "id": "slYNes3l6W9U2I081qMKzQ",
+            "alias": "chicken-nook-baltimore",
+            "name": "Chicken Nook",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cGShtJ1Mi4GZ4QPgp8q0Xg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicken-nook-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.30496,
+                "longitude": -76.60845
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1302 Greenmount Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Baltimore",
+                "zip_code": "21202",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1302 Greenmount Ave",
+                    "Baltimore, MD 21202"
+                ]
+            },
+            "phone": "+14107834808",
+            "display_phone": "(410) 783-4808",
+            "distance": 3232.5512963278793
+        },
+        {
+            "id": "_5hkDbvgThewEGBSr1iMbg",
+            "alias": "la-francaise-french-bakery-baltimore",
+            "name": "La Francaise French Bakery",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-francaise-french-bakery-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "french",
+                    "title": "French"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.30212,
+                "longitude": -76.61552
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1 E Chase St",
+                "address2": null,
+                "address3": null,
+                "city": "Baltimore",
+                "zip_code": "21202",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1 E Chase St",
+                    "Baltimore, MD 21202"
+                ]
+            },
+            "phone": "+14106590932",
+            "display_phone": "(410) 659-0932",
+            "distance": 2720.4244184186855
+        },
+        {
+            "id": "vfrCHTgpVsomkK-SZmxfvA",
+            "alias": "lexington-fried-chicken-baltimore-3",
+            "name": "Lexington Fried Chicken",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5aAd5JbqrFIfA5szCihOVw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lexington-fried-chicken-baltimore-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.2920417335047,
+                "longitude": -76.6216822341084
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "400 W Lexington St",
+                "address2": "",
+                "address3": "Lexington Market",
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "400 W Lexington St",
+                    "Lexington Market",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "+14105393470",
+            "display_phone": "(410) 539-3470",
+            "distance": 1557.9977802463166
+        },
+        {
+            "id": "ui0LhmwTVNLmdtyVLWf1PA",
+            "alias": "mitchells-deli-baltimore",
+            "name": "Mitchell's Deli",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mitchells-deli-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.2915535,
+                "longitude": -76.6225586
+            },
+            "transactions": [],
+            "location": {
+                "address1": "400 W Lexington St",
+                "address2": "",
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "400 W Lexington St",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "+14106855522",
+            "display_phone": "(410) 685-5522",
+            "distance": 1518.6952865662306
+        },
+        {
+            "id": "Lwtoibioq-6HDhkxdhXNBw",
+            "alias": "china-room-baltimore",
+            "name": "China Room",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZaVUAtu00VwGUiKSTVfMRQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/china-room-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.288032,
+                "longitude": -76.611076
+            },
+            "transactions": [],
+            "location": {
+                "address1": "44 South St",
+                "address2": "",
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21202",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "44 South St",
+                    "Baltimore, MD 21202"
+                ]
+            },
+            "phone": "+14107276666",
+            "display_phone": "(410) 727-6666",
+            "distance": 1498.9064633601704
+        },
+        {
+            "id": "qZx7sf7JnviW51vUVEGlTA",
+            "alias": "cafe-1908-baltimore",
+            "name": "Cafe 1908",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AwdLpANo83Ejjs5XBDqatw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-1908-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.304297,
+                "longitude": -76.6168679
+            },
+            "transactions": [],
+            "location": {
+                "address1": "7 W Preston St",
+                "address2": "",
+                "address3": null,
+                "city": "Baltimore",
+                "zip_code": "21201",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "7 W Preston St",
+                    "Baltimore, MD 21201"
+                ]
+            },
+            "phone": "+14103968258",
+            "display_phone": "(410) 396-8258",
+            "distance": 2961.8589049374673
+        },
+        {
+            "id": "0_rq1U9XJ9z3DhDAHeTgCA",
+            "alias": "baltimores-best-bar-b-que-baltimore",
+            "name": "Baltimore's Best Bar-B Que",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jzWWqKe30jYuGRdpQSpGbg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/baltimores-best-bar-b-que-baltimore?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.2768097,
+                "longitude": -76.613327
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1065 S Charles St",
+                "address2": "",
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21230",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "1065 S Charles St",
+                    "Baltimore, MD 21230"
+                ]
+            },
+            "phone": "+14107527511",
+            "display_phone": "(410) 752-7511",
+            "distance": 831.9355859081293
+        },
+        {
+            "id": "X9bzfr45JA_InuRNay7bgQ",
+            "alias": "hoodfellas-kitchen-baltimore-4",
+            "name": "HoodFellas Kitchen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LzRNgnU8Wi0BGYE7PzEKTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hoodfellas-kitchen-baltimore-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "african",
+                    "title": "African"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.307907,
+                "longitude": -76.640608
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "607 Baker St",
+                "address2": "Ste 606",
+                "address3": "",
+                "city": "Baltimore",
+                "zip_code": "21217",
+                "country": "US",
+                "state": "MD",
+                "display_address": [
+                    "607 Baker St",
+                    "Ste 606",
+                    "Baltimore, MD 21217"
+                ]
+            },
+            "phone": "+14433622208",
+            "display_phone": "(443) 362-2208",
+            "distance": 3658.643468490166
+        }
+    ],
+    "total": 668,
+    "region": {
+        "center": {
+            "longitude": -76.622778,
+            "latitude": 39.278056
+        }
+    }
+}

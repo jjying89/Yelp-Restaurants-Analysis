@@ -1,0 +1,854 @@
+{
+    "businesses": [
+        {
+            "id": "PisCNYw2sSTd1eED7hLkhw",
+            "alias": "cafe-bon-appetit-stadium-tech-center-santa-clara-2",
+            "name": "Cafe Bon Appetit @ Stadium Tech Center",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cMX8xSatrssXTPS2WpsLQQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-bon-appetit-stadium-tech-center-santa-clara-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.4133071629196,
+                "longitude": -121.978399939835
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "5470 Great America Pkwy",
+                "address2": "",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5470 Great America Pkwy",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14088392354",
+            "display_phone": "(408) 839-2354",
+            "distance": 1365.2861530014675
+        },
+        {
+            "id": "eh0GAS7ghrpFO7bH50gM3g",
+            "alias": "yo-kai-express-aloft-santa-clara-san-jose",
+            "name": "Yo-Kai Express @ Aloft Santa Clara",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V14zSFKSlOsR782mHmvqfA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yo-kai-express-aloft-santa-clara-san-jose?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.417912,
+                "longitude": -121.976317
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "510 America Center Ct",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95002",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "510 America Center Ct",
+                    "San Jose, CA 95002"
+                ]
+            },
+            "phone": "+18559652439",
+            "display_phone": "(855) 965-2439",
+            "distance": 1749.487680631521
+        },
+        {
+            "id": "eWbh2RgJWRqnpAjGiXsCIg",
+            "alias": "carls-jr-santa-clara-4",
+            "name": "Carl's Jr",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ddtAF27RayUZhMT3POUnDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/carls-jr-santa-clara-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 61,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 37.3744316101074,
+                "longitude": -121.978355407715
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2900 Bowers Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95051",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2900 Bowers Ave",
+                    "Santa Clara, CA 95051"
+                ]
+            },
+            "phone": "+14087276660",
+            "display_phone": "(408) 727-6660",
+            "distance": 3250.8492666893903
+        },
+        {
+            "id": "-g7kv8RIi75GXqMxFppDCw",
+            "alias": "maggie-smokehouse-and-fried-chicken-santa-clara",
+            "name": "Maggie Smokehouse & Fried Chicken",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KRJjozZfIdvUkiHYCjEdWQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maggie-smokehouse-and-fried-chicken-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 37.398406,
+                "longitude": -121.975157
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4701 Great America Pkwy",
+                "address2": "",
+                "address3": "California's Great America",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4701 Great America Pkwy",
+                    "California's Great America",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14089881776",
+            "display_phone": "(408) 988-1776",
+            "distance": 684.4422691237019
+        },
+        {
+            "id": "AkfI1yXe7LFYBTh4RdbPUg",
+            "alias": "halal-gyro-express-2-san-jose",
+            "name": "Halal Gyro Express 2",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/halal-gyro-express-2-san-jose?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "afghani",
+                    "title": "Afghan"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.41063,
+                "longitude": -121.94559
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "3730 North 1",
+                "address2": "Ste 150",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95134",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3730 North 1",
+                    "Ste 150",
+                    "San Jose, CA 95134"
+                ]
+            },
+            "phone": "+14085260444",
+            "display_phone": "(408) 526-0444",
+            "distance": 2298.4758659421645
+        },
+        {
+            "id": "r5G3bDO9LW0HticvSrjqvQ",
+            "alias": "little-caesars-pizza-santa-clara-2",
+            "name": "Little Caesars Pizza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WDg2VsnnqyCgBwiHhafb6A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-caesars-pizza-santa-clara-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 51,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 37.4009232582832,
+                "longitude": -121.962238872669
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4767 Lafayette St",
+                "address2": "",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4767 Lafayette St",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14084961893",
+            "display_phone": "(408) 496-1893",
+            "distance": 723.4066771344174
+        },
+        {
+            "id": "0_JiFY2jF6Jv44zAp3EugQ",
+            "alias": "montagues-cafe-santa-clara",
+            "name": "Montague's Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BO5Z3eBIA2ysIeIb4NJMAw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/montagues-cafe-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 37.38376,
+                "longitude": -121.96161
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2151 Laurelwood Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2151 Laurelwood Rd",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14089888411",
+            "display_phone": "(408) 988-8411",
+            "distance": 2284.9192790059715
+        },
+        {
+            "id": "-hySQZrJCBzud27iWDxqWQ",
+            "alias": "hops-bar-and-grill-santa-clara",
+            "name": "Hops Bar and Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iQHxzOlyuqHYdDTansUKjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hops-bar-and-grill-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 37.3837,
+                "longitude": -121.96165
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2151 Laurelwood Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2151 Laurelwood Rd",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14089888411",
+            "display_phone": "(408) 988-8411",
+            "distance": 2284.9192790059715
+        },
+        {
+            "id": "c4NVrj7eN4HRTKmyoKII6w",
+            "alias": "subway-sunnyvale-22",
+            "name": "Subway",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d_u0Ze9CULWV7Md9pma7kA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-sunnyvale-22?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 37.4038339833317,
+                "longitude": -121.994543536176
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1139 Tasman Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Sunnyvale",
+                "zip_code": "94089",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1139 Tasman Dr",
+                    "Sunnyvale, CA 94089"
+                ]
+            },
+            "phone": "+14084009202",
+            "display_phone": "(408) 400-9202",
+            "distance": 2169.9314091909214
+        },
+        {
+            "id": "5SDIBsFPNwPrU59Y1lAhbA",
+            "alias": "genji-santa-clara",
+            "name": "Genji",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B5G5_CLIsCv8WbGgnnbktA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/genji-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 37.3807339,
+                "longitude": -121.9750147
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2732 Augustine Dr",
+                "address2": "Ste 1600",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2732 Augustine Dr",
+                    "Ste 1600",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14085629162",
+            "display_phone": "(408) 562-9162",
+            "distance": 2515.1982473026987
+        },
+        {
+            "id": "fUJLUwdVHWuPui5K0ox4YA",
+            "alias": "carls-jr-santa-clara-2",
+            "name": "Carl's Jr",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fsKxUPvjASlBn9pxeVP-Xg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/carls-jr-santa-clara-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 65,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 37.4078790510062,
+                "longitude": -121.963825148117
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2221 Tasman Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2221 Tasman Dr",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14089690344",
+            "display_phone": "(408) 969-0344",
+            "distance": 769.2922449044047
+        },
+        {
+            "id": "apSwHnyu2yhi66xIpauO5w",
+            "alias": "tender-greens-santa-clara-2",
+            "name": "Tender Greens",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gIIHsqebYPv7d3qADpOf-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tender-greens-santa-clara-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.382188,
+                "longitude": -121.974559
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "2532 Augustine Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95059",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2532 Augustine Dr",
+                    "Santa Clara, CA 95059"
+                ]
+            },
+            "phone": "+16692010400",
+            "display_phone": "(669) 201-0400",
+            "distance": 2348.972546260879
+        },
+        {
+            "id": "3ZaCOGaZXPlR94U2VTqMiw",
+            "alias": "carlos-lunch-truck-san-jose",
+            "name": "Carlos' Lunch Truck",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Zkw2zH149yyz_fv4kR53Kg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/carlos-lunch-truck-san-jose?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.4117183356371,
+                "longitude": -121.956648232242
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "99 Vista Montana",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95134",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "99 Vista Montana",
+                    "San Jose, CA 95134"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1526.6213241696644
+        },
+        {
+            "id": "g3-FFTQhVbbOm6r7Vo05lg",
+            "alias": "cisco-building-j-cafeteria-san-jose",
+            "name": "Cisco Building J Cafeteria",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YLPlkedwHNAp516a57mFvw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cisco-building-j-cafeteria-san-jose?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.41221,
+                "longitude": -121.95398
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "255 W Tasman Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95134",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "255 W Tasman Ave",
+                    "San Jose, CA 95134"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1741.1959623754026
+        },
+        {
+            "id": "6MZRopXsZE7vrKONrCOzBg",
+            "alias": "hops-bar-santa-clara",
+            "name": "Hops Bar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/f_bJ4QMkaqPcJK_I4K8czA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hops-bar-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.383688,
+                "longitude": -121.9618875
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2151 Laurelwood Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2151 Laurelwood Rd",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14089888411",
+            "display_phone": "(408) 988-8411",
+            "distance": 2263.8309785342058
+        },
+        {
+            "id": "8SWadtnzfJyTazto_Dtvfw",
+            "alias": "harvest-property-cafe-santa-clara",
+            "name": "Harvest Property Cafe",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/harvest-property-cafe-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "cafeteria",
+                    "title": "Cafeteria"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.397144317627,
+                "longitude": -121.976829528809
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4555 Great America Pkwy",
+                "address2": "Ste 110",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4555 Great America Pkwy",
+                    "Ste 110",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14085881713",
+            "display_phone": "(408) 588-1713",
+            "distance": 882.2967326331644
+        },
+        {
+            "id": "xRVeyNWO8PJCjmbN-pJ3QQ",
+            "alias": "the-halal-guys-santa-clara",
+            "name": "The Halal Guys",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/h9nD5VvdGJ__kGvZ0G1WQg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-halal-guys-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.38224,
+                "longitude": -121.97388
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "2526 Augustine Dr",
+                "address2": null,
+                "address3": null,
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2526 Augustine Dr",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+16693425181",
+            "display_phone": "(669) 342-5181",
+            "distance": 2337.6798685578406
+        },
+        {
+            "id": "9sea9zZS1ZvWHklP7psNmw",
+            "alias": "towers-great-america-cafe-santa-clara",
+            "name": "Towers @ Great America Cafe",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/towers-great-america-cafe-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3925013,
+                "longitude": -121.9765398
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4557 Great America Pkwy",
+                "address2": "",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4557 Great America Pkwy",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14085881713",
+            "display_phone": "(408) 588-1713",
+            "distance": 1302.5254851741377
+        },
+        {
+            "id": "AQqu7wSDa-g-_d37GWt6Vw",
+            "alias": "panda-express-santa-clara-6",
+            "name": "Panda Express",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3Q1-98Njsph5-DitulnTMg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/panda-express-santa-clara-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 37.3886100175088,
+                "longitude": -121.984056651311
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2401 Agnew Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2401 Agnew Rd",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14089709232",
+            "display_phone": "(408) 970-9232",
+            "distance": 2025.4040628617206
+        },
+        {
+            "id": "y0kbm7D1zZNQc8Zb0wx6ug",
+            "alias": "w-xyz-bar-san-jose-2",
+            "name": "W XYZ Bar",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yrXYDpTsO9FQ4FJD32BeJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/w-xyz-bar-san-jose-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.41796,
+                "longitude": -121.97644
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "510 America Center Ct",
+                "address2": "Aloft Santa Clara",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95002",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "510 America Center Ct",
+                    "Aloft Santa Clara",
+                    "San Jose, CA 95002"
+                ]
+            },
+            "phone": "+14082633900",
+            "display_phone": "(408) 263-3900",
+            "distance": 1747.472991153664
+        }
+    ],
+    "total": 179,
+    "region": {
+        "center": {
+            "longitude": -121.97,
+            "latitude": 37.403
+        }
+    }
+}

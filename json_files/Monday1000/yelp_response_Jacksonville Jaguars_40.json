@@ -1,0 +1,916 @@
+{
+    "businesses": [
+        {
+            "id": "e8EbwksI2xloHNS-dHfWlA",
+            "alias": "gilis-kitchen-catering-and-bakery-jacksonville-2",
+            "name": "Gili's Kitchen Catering and Bakery",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qP_DPQsyW_zuyPbWJbZxcw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gilis-kitchen-catering-and-bakery-jacksonville-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 36,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.3280775672475,
+                "longitude": -81.6596586629748
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "126 W Adams St",
+                "address2": "",
+                "address3": null,
+                "city": "Jacksonville",
+                "zip_code": "32202",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "126 W Adams St",
+                    "Jacksonville, FL 32202"
+                ]
+            },
+            "phone": "+19044751400",
+            "display_phone": "(904) 475-1400",
+            "distance": 2177.180772893826
+        },
+        {
+            "id": "aDW1VRaLQvhAv1n5LARSlA",
+            "alias": "indochine-jacksonville",
+            "name": "Indochine",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MMumooodW_vREcaVFwJ3Ww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/indochine-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 315,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.3277113,
+                "longitude": -81.656776
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "21 E Adams St",
+                "address2": "Ste 200",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32202",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "21 E Adams St",
+                    "Ste 200",
+                    "Jacksonville, FL 32202"
+                ]
+            },
+            "phone": "+19045985303",
+            "display_phone": "(904) 598-5303",
+            "distance": 1898.2987973746915
+        },
+        {
+            "id": "pB0AR-Yd7mxxvaSrbh6EhQ",
+            "alias": "the-southern-grill-jacksonville",
+            "name": "The Southern Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3NOs7-SM4lVk5kuBb4NqzA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-southern-grill-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 176,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.31764,
+                "longitude": -81.65747
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "800 Flagler Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32207",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "800 Flagler Ave",
+                    "Jacksonville, FL 32207"
+                ]
+            },
+            "phone": "+19048589800",
+            "display_phone": "(904) 858-9800",
+            "distance": 2038.9642016630942
+        },
+        {
+            "id": "Sk7Z9MTKGx9hg9FeXFxsHg",
+            "alias": "san-marco-theatre-jacksonville",
+            "name": "San Marco Theatre",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/W46N92Q6IbWpQDcm52b-3w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/san-marco-theatre-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 58,
+            "categories": [
+                {
+                    "alias": "movietheaters",
+                    "title": "Cinema"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.3037796020508,
+                "longitude": -81.654426574707
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1996 San Marco Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32207",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "1996 San Marco Blvd",
+                    "Jacksonville, FL 32207"
+                ]
+            },
+            "phone": "+19043964845",
+            "display_phone": "(904) 396-4845",
+            "distance": 2769.067714422093
+        },
+        {
+            "id": "xItz7gp5RLZNbMvZYv20Sw",
+            "alias": "burrito-gallery-downtown-jacksonville-3",
+            "name": "Burrito Gallery Downtown",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MEwSf04-i5GTJzsJNxwvxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burrito-gallery-downtown-jacksonville-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 473,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.3277898061003,
+                "longitude": -81.65675
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "21 E Adams St",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32202",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "21 E Adams St",
+                    "Jacksonville, FL 32202"
+                ]
+            },
+            "phone": "+19045982922",
+            "display_phone": "(904) 598-2922",
+            "distance": 1897.8420962260645
+        },
+        {
+            "id": "sz0RUzDXfc39Kv0E74F9RQ",
+            "alias": "the-brick-coffee-house-jacksonville",
+            "name": "The Brick Coffee House",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1gHV5EP8_aBr08wncDhrUg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-brick-coffee-house-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.3286170959473,
+                "longitude": -81.6603012084961
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "214 N Hogan St",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32202",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "214 N Hogan St",
+                    "Jacksonville, FL 32202"
+                ]
+            },
+            "phone": "+19043549945",
+            "display_phone": "(904) 354-9945",
+            "distance": 2267.9183701869233
+        },
+        {
+            "id": "JKAzThCPSDeoaQ7MZYGnKw",
+            "alias": "the-cowford-chophouse-jacksonville",
+            "name": "Cowford Chophouse",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GyWr8vowyjxYombNOWi4yQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-cowford-chophouse-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 350,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.32612,
+                "longitude": -81.6565
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "101 E Bay St",
+                "address2": "",
+                "address3": null,
+                "city": "Jacksonville",
+                "zip_code": "32202",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "101 E Bay St",
+                    "Jacksonville, FL 32202"
+                ]
+            },
+            "phone": "+19048626464",
+            "display_phone": "(904) 862-6464",
+            "distance": 1836.6455017493479
+        },
+        {
+            "id": "wEhBrystyAHP-zEZgRz_HQ",
+            "alias": "beach-diner-san-marco-jacksonville",
+            "name": "Beach Diner San Marco",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-fASvvhFCaMnjmmUyCpB0A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/beach-diner-san-marco-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 80,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.304643,
+                "longitude": -81.654994
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1965 San Marco Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32207",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "1965 San Marco Blvd",
+                    "Jacksonville, FL 32207"
+                ]
+            },
+            "phone": "+19043991306",
+            "display_phone": "(904) 399-1306",
+            "distance": 2720.7308678929944
+        },
+        {
+            "id": "WSUo6KiYRq1eJiuGTH23Rw",
+            "alias": "urban-grind-coffee-company-jacksonville-4",
+            "name": "Urban Grind Coffee Company",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/biIOzA5i83SFwFX4ASm4Xg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/urban-grind-coffee-company-jacksonville-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.326926,
+                "longitude": -81.659399
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "50 N Laura St",
+                "address2": null,
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32202",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "50 N Laura St",
+                    "Jacksonville, FL 32202"
+                ]
+            },
+            "phone": "+19045167799",
+            "display_phone": "(904) 516-7799",
+            "distance": 2128.8261004450023
+        },
+        {
+            "id": "t723vjbpJ4uKbInsZ2CtXA",
+            "alias": "russ-does-sandwich-shop-jacksonville",
+            "name": "Russ-Doe's Sandwich Shop",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/H7dJyguJ_GTwZQ__SFxuEw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/russ-does-sandwich-shop-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.32547,
+                "longitude": -81.63253
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1745 E Church St",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32202",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "1745 E Church St",
+                    "Jacksonville, FL 32202"
+                ]
+            },
+            "phone": "+19043539065",
+            "display_phone": "(904) 353-9065",
+            "distance": 500.8305748510659
+        },
+        {
+            "id": "BF2gIHTEhO3nFYin1Y0Q5g",
+            "alias": "uptown-kitchen-and-bar-jacksonville",
+            "name": "Uptown Kitchen & Bar",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oSNT30i5QVXSNPOfMHIaKQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/uptown-kitchen-and-bar-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 320,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 30.339307,
+                "longitude": -81.654254
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1303 N Main St",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32206",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "1303 N Main St",
+                    "Jacksonville, FL 32206"
+                ]
+            },
+            "phone": "+19043550734",
+            "display_phone": "(904) 355-0734",
+            "distance": 2336.1000049897393
+        },
+        {
+            "id": "10zu8EQg2hDIwGZ060_S_A",
+            "alias": "sake-house-2-jacksonville",
+            "name": "Sake House 2",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PEUDCk2mI_Nm5r-6LHKs_Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sake-house-2-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 133,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.318221,
+                "longitude": -81.655828
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1478 Riverplace Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32207",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "1478 Riverplace Blvd",
+                    "Jacksonville, FL 32207"
+                ]
+            },
+            "phone": "+19043062188",
+            "display_phone": "(904) 306-2188",
+            "distance": 1868.6932946146576
+        },
+        {
+            "id": "p4_B3cY3h3npUxhXC1wwUw",
+            "alias": "moca-cafe-jacksonville",
+            "name": "Moca Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mp6S3rHYPpyCbMSy8TLBkA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/moca-cafe-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 49,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.3292758,
+                "longitude": -81.6585721
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "333 N Laura St",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32202",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "333 N Laura St",
+                    "Jacksonville, FL 32202"
+                ]
+            },
+            "phone": "+19042240113",
+            "display_phone": "(904) 224-0113",
+            "distance": 2109.314767589598
+        },
+        {
+            "id": "W-RNBelbsUnKUVxWYjDibQ",
+            "alias": "joyshtick-food-truck-jacksonville",
+            "name": "JoyShtick Food Truck",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Jj3zDamzgWTdi3J-_fLl7Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/joyshtick-food-truck-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 52,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.331470489502,
+                "longitude": -81.6562194824219
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": null,
+                "city": "Jacksonville",
+                "zip_code": "",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "Jacksonville, FL"
+                ]
+            },
+            "phone": "+12188200442",
+            "display_phone": "(218) 820-0442",
+            "distance": 1971.1890688022133
+        },
+        {
+            "id": "7o-K4f1ERvWl7P_m38AwBQ",
+            "alias": "island-tropics-jacksonville",
+            "name": "Island Tropics",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oveWNKlS-PcPpmPZ2UIisw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/island-tropics-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 90,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.35332,
+                "longitude": -81.65349
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2527 N Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Jacksonville",
+                "zip_code": "32206",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "2527 N Main St",
+                    "Jacksonville, FL 32206"
+                ]
+            },
+            "phone": "+19043559050",
+            "display_phone": "(904) 355-9050",
+            "distance": 3616.837300546258
+        },
+        {
+            "id": "PhF-XKJH3dt7XcTYLesYzQ",
+            "alias": "sandwich-house-jacksonville",
+            "name": "Sandwich House",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mc9sndE56bb1DKf-Bikt7g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sandwich-house-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.2959144,
+                "longitude": -81.6129185
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "5141 Beach Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32207",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "5141 Beach Blvd",
+                    "Jacksonville, FL 32207"
+                ]
+            },
+            "phone": "+19043981426",
+            "display_phone": "(904) 398-1426",
+            "distance": 3870.878262379305
+        },
+        {
+            "id": "mm6WG9v03XQ83XiWNOZHjg",
+            "alias": "flavors-of-thai-and-bar-jacksonville-2",
+            "name": "Flavors of Thai and Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aNUtkEekEXxxmJAD-GMvbQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/flavors-of-thai-and-bar-jacksonville-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 77,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.31605,
+                "longitude": -81.65493
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1004 Hendricks Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Jacksonville",
+                "zip_code": "32207",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "1004 Hendricks Ave",
+                    "Jacksonville, FL 32207"
+                ]
+            },
+            "phone": "+19046740190",
+            "display_phone": "(904) 674-0190",
+            "distance": 1888.1848302250864
+        },
+        {
+            "id": "C8nUU6gYWAiqXeisW-yk6A",
+            "alias": "fred-cottens-landmark-bbq-jacksonville",
+            "name": "Fred Cotten's Landmark BBQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1C_wl-5b3gkyH7QmvU7xIQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fred-cottens-landmark-bbq-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 59,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.34085,
+                "longitude": -81.65412
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1417 N Main St",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32206",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "1417 N Main St",
+                    "Jacksonville, FL 32206"
+                ]
+            },
+            "phone": "+19046347571",
+            "display_phone": "(904) 634-7571",
+            "distance": 2475.945676122086
+        },
+        {
+            "id": "CwIV77kI8sqmMXJWOPS8FA",
+            "alias": "wine-cellar-jacksonville-2",
+            "name": "Wine Cellar",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eyQx-j8qv7FRdptyx3SlgA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wine-cellar-jacksonville-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 84,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 30.3160228729248,
+                "longitude": -81.6570892333984
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "1314 Prudential Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32207",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "1314 Prudential Dr",
+                    "Jacksonville, FL 32207"
+                ]
+            },
+            "phone": "+19043988989",
+            "display_phone": "(904) 398-8989",
+            "distance": 2072.355808820968
+        },
+        {
+            "id": "NzAG35Gydo_s47BP-LEHbg",
+            "alias": "twisted-okie-jacksonville",
+            "name": "Twisted Okie",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kj1u-CwLAFy4cuCci3akqw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/twisted-okie-jacksonville?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 30.3277754924475,
+                "longitude": -81.6588428244028
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "11657 Philips Industrial Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Jacksonville",
+                "zip_code": "32258",
+                "country": "US",
+                "state": "FL",
+                "display_address": [
+                    "11657 Philips Industrial Rd",
+                    "Jacksonville, FL 32258"
+                ]
+            },
+            "phone": "+19044459624",
+            "display_phone": "(904) 445-9624",
+            "distance": 2093.5687897696625
+        }
+    ],
+    "total": 175,
+    "region": {
+        "center": {
+            "longitude": -81.6375,
+            "latitude": 30.323889
+        }
+    }
+}

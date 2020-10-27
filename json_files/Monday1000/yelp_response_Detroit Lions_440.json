@@ -1,0 +1,837 @@
+{
+    "businesses": [
+        {
+            "id": "FA3BSehLLxz33PNlDQvmbA",
+            "alias": "shawarma-kingdom-restaurant-windsor",
+            "name": "Shawarma Kingdom Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CDuao-ZgU3CxSsWH233IKQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shawarma-kingdom-restaurant-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 42.3157053,
+                "longitude": -83.0376445
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "462 Ouellette Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Windsor",
+                "zip_code": "N9A 1B2",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "462 Ouellette Ave",
+                    "Windsor, ON N9A 1B2",
+                    "Canada"
+                ]
+            },
+            "phone": "+15192594888",
+            "display_phone": "+1 519-259-4888",
+            "distance": 2796.7300462921576
+        },
+        {
+            "id": "MZI1nCBOkGck3SgTg4Hf3Q",
+            "alias": "burger-king-detroit-4",
+            "name": "Burger King",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9TjoRSLYABYmc9VOLLkwlg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-detroit-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 42.329861,
+                "longitude": -83.040452
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "400 Renaissance Ctr",
+                "address2": "",
+                "address3": "",
+                "city": "Detroit",
+                "zip_code": "48243",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "400 Renaissance Ctr",
+                    "Detroit, MI 48243"
+                ]
+            },
+            "phone": "+13133929362",
+            "display_phone": "(313) 392-9362",
+            "distance": 1202.9341195223933
+        },
+        {
+            "id": "3PSguWVYh7MRf7wQ5VKNyA",
+            "alias": "little-caesars-pizza-detroit-3",
+            "name": "Little Caesars Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cugWewjenS87Ju184KP2gQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-caesars-pizza-detroit-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 42.3590277,
+                "longitude": -83.0587073
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "530 East Warren",
+                "address2": "",
+                "address3": "",
+                "city": "Detroit",
+                "zip_code": "48201",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "530 East Warren",
+                    "Detroit, MI 48201"
+                ]
+            },
+            "phone": "+13138322200",
+            "display_phone": "(313) 832-2200",
+            "distance": 2299.2203502458137
+        },
+        {
+            "id": "aCTaSh-LdJp0c0DNfi4LdA",
+            "alias": "mjs-pizza-and-wings-windsor",
+            "name": "MJ's Pizza and Wings",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mjs-pizza-and-wings-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 42.3105698986394,
+                "longitude": -83.0471546575427
+            },
+            "transactions": [],
+            "location": {
+                "address1": "904 Wyandotte Street W",
+                "address2": "",
+                "address3": "",
+                "city": "Windsor",
+                "zip_code": "N9A 5Y2",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "904 Wyandotte Street W",
+                    "Windsor, ON N9A 5Y2",
+                    "Canada"
+                ]
+            },
+            "phone": "+15192521999",
+            "display_phone": "+1 519-252-1999",
+            "distance": 3275.1123637795604
+        },
+        {
+            "id": "ujOTFNtrW-6oO02KfAHZ1Q",
+            "alias": "minnies-rhythm-cafe-detroit-2",
+            "name": "Minnie's Rhythm Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UmiA814DRZa_Rul1RTRwfQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/minnies-rhythm-cafe-detroit-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "soulfood",
+                    "title": "Soul Food"
+                },
+                {
+                    "alias": "clubcrawl",
+                    "title": "Club Crawl"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 42.3317817,
+                "longitude": -83.039389
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "546 E Larned",
+                "address2": null,
+                "address3": "",
+                "city": "Detroit",
+                "zip_code": "48226",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "546 E Larned",
+                    "Detroit, MI 48226"
+                ]
+            },
+            "phone": "+13132859651",
+            "display_phone": "(313) 285-9651",
+            "distance": 1048.7982366332255
+        },
+        {
+            "id": "apVHBft7hVy9M86cQPZBcQ",
+            "alias": "coney-town-detroit",
+            "name": "Coney Town",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wByIv0k0exf516LMV2cYGw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/coney-town-detroit?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 42.329493,
+                "longitude": -83.039815
+            },
+            "transactions": [],
+            "location": {
+                "address1": "400 Renaissance Ctr Lbby",
+                "address2": "",
+                "address3": "",
+                "city": "Detroit",
+                "zip_code": "48243",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "400 Renaissance Ctr Lbby",
+                    "Detroit, MI 48243"
+                ]
+            },
+            "phone": "+13132598000",
+            "display_phone": "(313) 259-8000",
+            "distance": 1260.0267710903117
+        },
+        {
+            "id": "H4hlGYs8A8DXblQrCOUtDA",
+            "alias": "burger-king-detroit-20",
+            "name": "Burger King",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/m0Xpbq4F8Jvud_eBCxNOPQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-detroit-20?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 42.3258086169939,
+                "longitude": -83.0619621276855
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1425 West Lafayette",
+                "address2": "",
+                "address3": "",
+                "city": "Detroit",
+                "zip_code": "48216",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "1425 West Lafayette",
+                    "Detroit, MI 48216"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2075.7633953304294
+        },
+        {
+            "id": "uXPfq9JTn-elZ4FKqAu3Hg",
+            "alias": "relish-at-breeze-detroit",
+            "name": "Relish at Breeze",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dxOlDCXusJYx7jR0W2MaEw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/relish-at-breeze-detroit?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 42.333953,
+                "longitude": -83.060696
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1777 Third St",
+                "address2": "",
+                "address3": "MGM Grand Casino",
+                "city": "Detroit",
+                "zip_code": "48226",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "1777 Third St",
+                    "MGM Grand Casino",
+                    "Detroit, MI 48226"
+                ]
+            },
+            "phone": "+18778882121",
+            "display_phone": "(877) 888-2121",
+            "distance": 1414.4680980624905
+        },
+        {
+            "id": "cu4fcy3QkbQzTyLC0IrS6w",
+            "alias": "mcdonalds-detroit-18",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nojreOrDUK93qariIgLAdQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-detroit-18?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 42.3513303460426,
+                "longitude": -83.0465048
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1000 Mack Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Detroit",
+                "zip_code": "48207",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "1000 Mack Ave",
+                    "Detroit, MI 48207"
+                ]
+            },
+            "phone": "+13138324100",
+            "display_phone": "(313) 832-4100",
+            "distance": 1262.286311374171
+        },
+        {
+            "id": "KkvdJ47j1YW5FDBYdd0VRg",
+            "alias": "burger-king-detroit-26",
+            "name": "Burger King",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PZgGh8EuiBNY0akoOEujgA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-detroit-26?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.329728,
+                "longitude": -83.039966
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "Renaissance Center",
+                "address2": "",
+                "address3": "",
+                "city": "Detroit",
+                "zip_code": "48243",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "Renaissance Center",
+                    "Detroit, MI 48243"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1231.1502277821246
+        },
+        {
+            "id": "RfwBhv1uwzhh5RLRtqYK-Q",
+            "alias": "mira-middle-eastern-flavors-windsor",
+            "name": "Mira Middle Eastern Flavors",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Xzz4Hw08I3toVA7Cv1EmAQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mira-middle-eastern-flavors-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.3180694256883,
+                "longitude": -83.0405830724637
+            },
+            "transactions": [],
+            "location": {
+                "address1": "104 Chatham Street  W",
+                "address2": "",
+                "address3": null,
+                "city": "Windsor",
+                "zip_code": "N9A 5M6",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "104 Chatham Street  W",
+                    "Windsor, ON N9A 5M6",
+                    "Canada"
+                ]
+            },
+            "phone": "+15192543777",
+            "display_phone": "+1 519-254-3777",
+            "distance": 2472.5940793942964
+        },
+        {
+            "id": "7BfrvIkK-_p6YC2Dy9ekWg",
+            "alias": "dagwoods-deli-and-diner-detroit",
+            "name": "Dagwood's Deli & Diner",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/neilFNHfMifKOgE4-0rbrw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dagwoods-deli-and-diner-detroit?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.3335979796214,
+                "longitude": -83.0540972203016
+            },
+            "transactions": [],
+            "location": {
+                "address1": "400 Bagley St",
+                "address2": "",
+                "address3": null,
+                "city": "Detroit",
+                "zip_code": "48226",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "400 Bagley St",
+                    "Detroit, MI 48226"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 999.8147568858211
+        },
+        {
+            "id": "NAkFRlTJs1zReLpT9XVgew",
+            "alias": "pasta-shop-the-restaurant-windsor",
+            "name": "Pasta Shop the Restaurant",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pasta-shop-the-restaurant-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.31295,
+                "longitude": -83.03656
+            },
+            "transactions": [],
+            "location": {
+                "address1": "683 Ouellette Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Windsor",
+                "zip_code": "N9A 4J4",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "683 Ouellette Avenue",
+                    "Windsor, ON N9A 4J4",
+                    "Canada"
+                ]
+            },
+            "phone": "+15192541300",
+            "display_phone": "+1 519-254-1300",
+            "distance": 3096.810772111051
+        },
+        {
+            "id": "laIwSdUvh3c9ilGverku3Q",
+            "alias": "halal-street-detroit-3",
+            "name": "Halal Street",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z5ia0-CUDTmdMEXOfO7-sA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/halal-street-detroit-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.34422,
+                "longitude": -83.06156
+            },
+            "transactions": [],
+            "location": {
+                "address1": "474 Peterboro St",
+                "address2": null,
+                "address3": "",
+                "city": "Detroit",
+                "zip_code": "48201",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "474 Peterboro St",
+                    "Detroit, MI 48201"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1388.3595155519033
+        },
+        {
+            "id": "ur3vIVpzyYynvvQ_qruSbQ",
+            "alias": "lahori-grill-windsor",
+            "name": "Lahori Grill",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nshWG_NGnHiRplS3SgsF9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lahori-grill-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "pakistani",
+                    "title": "Pakistani"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.31355,
+                "longitude": -83.05216
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1139 University Ave W",
+                "address2": "",
+                "address3": null,
+                "city": "Windsor",
+                "zip_code": "N9A 5T1",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "1139 University Ave W",
+                    "Windsor, ON N9A 5T1",
+                    "Canada"
+                ]
+            },
+            "phone": "+12263477000",
+            "display_phone": "+1 226-347-7000",
+            "distance": 2972.8832429276054
+        },
+        {
+            "id": "ZRBNZKWbc01MbDXn7cN33g",
+            "alias": "campbell-pizza-windsor",
+            "name": "Campbell Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_kNLXIM5ah14CForuwNsXw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/campbell-pizza-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.3033628,
+                "longitude": -83.0541036
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1735 College Avenue W",
+                "address2": "",
+                "address3": "",
+                "city": "Windsor",
+                "zip_code": "N9B 1M3",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "1735 College Avenue W",
+                    "Windsor, ON N9B 1M3",
+                    "Canada"
+                ]
+            },
+            "phone": "+12262219696",
+            "display_phone": "+1 226-221-9696",
+            "distance": 4140.205518877746
+        },
+        {
+            "id": "fsmqE1ofTP5Co2GXSQym2A",
+            "alias": "bacardi-champions-club-detroit",
+            "name": "Bacardi Champions Club",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/75_P8jMfm5FNnZtzMgORvg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bacardi-champions-club-detroit?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.3395626615238,
+                "longitude": -83.0478711426258
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2100 Woodward Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Detroit",
+                "zip_code": "48201",
+                "country": "US",
+                "state": "MI",
+                "display_address": [
+                    "2100 Woodward Ave",
+                    "Detroit, MI 48201"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 196.39997061568118
+        },
+        {
+            "id": "tKNXAS-pOIpCe1alh_0ybA",
+            "alias": "hot-star-large-fried-chicken-windsor",
+            "name": "Hot Star Large Fried Chicken",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6zAKcdq1dG6i6QbZPpPkDQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hot-star-large-fried-chicken-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.3115622,
+                "longitude": -83.0599389
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1794 University Avenue W",
+                "address2": null,
+                "address3": "",
+                "city": "Windsor",
+                "zip_code": "N9B 1C4",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "1794 University Avenue W",
+                    "Windsor, ON N9B 1C4",
+                    "Canada"
+                ]
+            },
+            "phone": "+15199159091",
+            "display_phone": "+1 519-915-9091",
+            "distance": 3374.625183418033
+        },
+        {
+            "id": "Qmw_B6PHsf_Y17bb9Co3mA",
+            "alias": "moejoe-pizza-windsor",
+            "name": "MoeJoe Pizza",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_PLYTxxHzw_Tc-cz_pn8eA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/moejoe-pizza-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.31944,
+                "longitude": -83.02251
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1000 wyandotte Street E",
+                "address2": null,
+                "address3": "",
+                "city": "Windsor",
+                "zip_code": "N9A 3K2",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "1000 wyandotte Street E",
+                    "Windsor, ON N9A 3K2",
+                    "Canada"
+                ]
+            },
+            "phone": "+15192548558",
+            "display_phone": "+1 519-254-8558",
+            "distance": 2972.5067786705895
+        },
+        {
+            "id": "k8JQqKUDehvBXpal9B9g2g",
+            "alias": "the-do-good-deli-windsor",
+            "name": "The Do Good Deli",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cXX_wS0aXkpvtM0SO5n4cw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-do-good-deli-windsor?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 42.3108955194013,
+                "longitude": -83.0351471241498
+            },
+            "transactions": [],
+            "location": {
+                "address1": "875 Ouellette Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Windsor",
+                "zip_code": "N9A 4M9",
+                "country": "CA",
+                "state": "ON",
+                "display_address": [
+                    "875 Ouellette Avenue",
+                    "Windsor, ON N9A 4M9",
+                    "Canada"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3347.486807543977
+        }
+    ],
+    "total": 531,
+    "region": {
+        "center": {
+            "longitude": -83.045556,
+            "latitude": 42.34
+        }
+    }
+}

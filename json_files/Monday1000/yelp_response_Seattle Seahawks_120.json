@@ -1,0 +1,940 @@
+{
+    "businesses": [
+        {
+            "id": "rKbQcDoi2e4SC1dznxz9gg",
+            "alias": "premier-meat-pies-seattle-2",
+            "name": "Premier Meat Pies",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HqKCUE4F_UOzVpaOWBXcmg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/premier-meat-pies-seattle-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 74,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "british",
+                    "title": "British"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.6043203560938,
+                "longitude": -122.339461940475
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1001 Alaskan Way",
+                "address2": "Ste 105",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98104",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "1001 Alaskan Way",
+                    "Ste 105",
+                    "Seattle, WA 98104"
+                ]
+            },
+            "phone": "+12064857431",
+            "display_phone": "(206) 485-7431",
+            "distance": 1173.0140120859874
+        },
+        {
+            "id": "JK7ugJlL1N9eFxxiU-gAEQ",
+            "alias": "the-shop-agora-seattle-2",
+            "name": "The Shop Agora",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5jyQLRODV9W1LuZ762zXVA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-shop-agora-seattle-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 65,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.62188,
+                "longitude": -122.31231
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "346 15th Ave E",
+                "address2": "",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98112",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "346 15th Ave E",
+                    "Seattle, WA 98112"
+                ]
+            },
+            "phone": "+12063221103",
+            "display_phone": "(206) 322-1103",
+            "distance": 3298.9789948547923
+        },
+        {
+            "id": "YblPofyIiJGOkAwEsLEnLw",
+            "alias": "sprout-seattle",
+            "name": "Sprout",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EAUQ8QXLhlDZ7HTFTF4Eaw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sprout-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 162,
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                },
+                {
+                    "alias": "wraps",
+                    "title": "Wraps"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.6020821770476,
+                "longitude": -122.332066488718
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "512 2nd Ave",
+                "address2": "",
+                "address3": "Pioneer Sq",
+                "city": "Seattle",
+                "zip_code": "98104",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "512 2nd Ave",
+                    "Pioneer Sq",
+                    "Seattle, WA 98104"
+                ]
+            },
+            "phone": "+12069733766",
+            "display_phone": "(206) 973-3766",
+            "distance": 766.0612670464944
+        },
+        {
+            "id": "BvOLqjt68GEJREOYQ_vdHw",
+            "alias": "taylor-shellfish-farms-seattle-seattle",
+            "name": "Taylor Shellfish Farms - Seattle",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KVIxhRZLWywqBTO3TjA9Zw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taylor-shellfish-farms-seattle-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1034,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "raw_food",
+                    "title": "Live/Raw Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 47.614652,
+                "longitude": -122.328081
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1521 Melrose Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98122",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "1521 Melrose Ave",
+                    "Seattle, WA 98122"
+                ]
+            },
+            "phone": "+12065014321",
+            "display_phone": "(206) 501-4321",
+            "distance": 2178.9919209164823
+        },
+        {
+            "id": "ZMgwLrl8-PbDiZFgsP6hkQ",
+            "alias": "piroshki-on-madison-seattle",
+            "name": "Piroshki On Madison",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oyCKAiSW9MaaOQIjnd5p6g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/piroshki-on-madison-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 206,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "russian",
+                    "title": "Russian"
+                },
+                {
+                    "alias": "ukrainian",
+                    "title": "Ukrainian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.609936,
+                "longitude": -122.323172
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1219 Madison St",
+                "address2": "",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98104",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "1219 Madison St",
+                    "Seattle, WA 98104"
+                ]
+            },
+            "phone": "+12066241295",
+            "display_phone": "(206) 624-1295",
+            "distance": 1756.1854166570308
+        },
+        {
+            "id": "Xie1NA489sVrvFIZlNaK-w",
+            "alias": "cafe-pettirosso-seattle",
+            "name": "Cafe Pettirosso",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cTynYetzpFB3norGnDkUXQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-pettirosso-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 616,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "modern_european",
+                    "title": "Modern European"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 47.6138316046163,
+                "longitude": -122.31792964418
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1101 E Pike St",
+                "address2": "",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98122",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "1101 E Pike St",
+                    "Seattle, WA 98122"
+                ]
+            },
+            "phone": "+12063242233",
+            "display_phone": "(206) 324-2233",
+            "distance": 2311.388503805
+        },
+        {
+            "id": "nUkPOJ5p4E9U7e2DbOzzMw",
+            "alias": "meet-korean-bbq-seattle",
+            "name": "Meet Korean BBQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6HROJ0f_k3_zx2B8r7o9Iw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/meet-korean-bbq-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 83,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.614352,
+                "longitude": -122.325214
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "500 E Pike St",
+                "address2": null,
+                "address3": null,
+                "city": "Seattle",
+                "zip_code": "98122",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "500 E Pike St",
+                    "Seattle, WA 98122"
+                ]
+            },
+            "phone": "+12066952621",
+            "display_phone": "(206) 695-2621",
+            "distance": 2180.593897508798
+        },
+        {
+            "id": "fQtmD4DP12fMlrAnfC-zGA",
+            "alias": "piroshki-on-3rd-seattle-2",
+            "name": "Piroshki on 3rd",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hRMfh_5Difs7sJDn_Dzrfw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/piroshki-on-3rd-seattle-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 343,
+            "categories": [
+                {
+                    "alias": "russian",
+                    "title": "Russian"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.60395,
+                "longitude": -122.33218
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "710 3rd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98104",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "710 3rd Ave",
+                    "Seattle, WA 98104"
+                ]
+            },
+            "phone": "+12063222820",
+            "display_phone": "(206) 322-2820",
+            "distance": 961.6438307248563
+        },
+        {
+            "id": "IG3coLN6LzPGp4EKOLCxDA",
+            "alias": "hood-famous-café-bar-seattle-2",
+            "name": "Hood Famous Café + Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ih-Vd6noXUOooVmQVIUSPQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hood-famous-caf%C3%A9-bar-seattle-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 187,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "filipino",
+                    "title": "Filipino"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.5982,
+                "longitude": -122.3274659
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "504 5th Ave S",
+                "address2": "Ste 107A",
+                "address3": null,
+                "city": "Seattle",
+                "zip_code": "98104",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "504 5th Ave S",
+                    "Ste 107A",
+                    "Seattle, WA 98104"
+                ]
+            },
+            "phone": "+12064857049",
+            "display_phone": "(206) 485-7049",
+            "distance": 455.38149132673954
+        },
+        {
+            "id": "jNZybBdaeAIQGP0c6mTa6Q",
+            "alias": "seoul-bowl-seattle",
+            "name": "Seoul Bowl",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tM-ee943ryfzof5WkGYEiQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/seoul-bowl-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 84,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.61125,
+                "longitude": -122.33493
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98101",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "Seattle, WA 98101"
+                ]
+            },
+            "phone": "+12063246303",
+            "display_phone": "(206) 324-6303",
+            "distance": 1521.3207562883101
+        },
+        {
+            "id": "N2E6bOyKqwHWClwVTYPaEA",
+            "alias": "carnitas-michoacan-seattle-2",
+            "name": "Carnitas Michoacan",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GTdDtHcYEHHSoOFvNIvvrg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/carnitas-michoacan-seattle-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 134,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.58083,
+                "longitude": -122.31394
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2503 Beacon Ave S",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "zip_code": "98144",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "2503 Beacon Ave S",
+                    "Seattle, WA 98144"
+                ]
+            },
+            "phone": "+12063233688",
+            "display_phone": "(206) 323-3688",
+            "distance": 2080.9567809690398
+        },
+        {
+            "id": "EWrDx-M8HJpR0wVJHrflNg",
+            "alias": "umi-sake-house-seattle",
+            "name": "Umi Sake House",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7W0Uipcxv8q0iXjW1VpTMw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/umi-sake-house-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3483,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 47.61339,
+                "longitude": -122.34597
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2230 1st Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98121",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "2230 1st Ave",
+                    "Seattle, WA 98121"
+                ]
+            },
+            "phone": "+12063748717",
+            "display_phone": "(206) 374-8717",
+            "distance": 2290.2144774414674
+        },
+        {
+            "id": "EDPoZljIlOst0YQ-a0Jcng",
+            "alias": "la-marzocco-cafe-seattle-2",
+            "name": "La Marzocco Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TOdc-DVbr3s82ucF5dFZdg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-marzocco-cafe-seattle-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 272,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.622833,
+                "longitude": -122.35514
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "472 1st Ave N",
+                "address2": "",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98109",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "472 1st Ave N",
+                    "Seattle, WA 98109"
+                ]
+            },
+            "phone": "+12063883500",
+            "display_phone": "(206) 388-3500",
+            "distance": 3543.348394353775
+        },
+        {
+            "id": "AEdVTLYjw6rnmEkTCvqAPQ",
+            "alias": "katys-corner-cafe-seattle",
+            "name": "Katy's Corner Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tWIT2FtUK9uHK-EQklG9dw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/katys-corner-cafe-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 174,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.6130549,
+                "longitude": -122.3061934
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2000 E Union St",
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98122",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "2000 E Union St",
+                    "Seattle, WA 98122"
+                ]
+            },
+            "phone": "+12063290121",
+            "display_phone": "(206) 329-0121",
+            "distance": 2766.697345136564
+        },
+        {
+            "id": "-FOAQv22SXtSBs7nptI3UA",
+            "alias": "serious-pie-seattle",
+            "name": "Serious Pie",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KhSlHlJdg1oW3FNHt9PqIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/serious-pie-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4131,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 47.61296,
+                "longitude": -122.34047
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "316 Virginia St",
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98121",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "316 Virginia St",
+                    "Seattle, WA 98121"
+                ]
+            },
+            "phone": "+12068387388",
+            "display_phone": "(206) 838-7388",
+            "distance": 2079.771525733902
+        },
+        {
+            "id": "_wPEVw2gQpySK5GCA3dbsA",
+            "alias": "tamari-bar-seattle",
+            "name": "Tamari Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uEorA8ukTZDtgBQ5u4Ew4Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tamari-bar-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 310,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "izakaya",
+                    "title": "Izakaya"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.61537,
+                "longitude": -122.32534
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "500 E Pine St",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "zip_code": "98122",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "500 E Pine St",
+                    "Seattle, WA 98122"
+                ]
+            },
+            "phone": "+12069798800",
+            "display_phone": "(206) 979-8800",
+            "distance": 2306.4083340223606
+        },
+        {
+            "id": "X0DkXqaRwCvq1pAqVwDXbQ",
+            "alias": "nana-s-green-tea-seattle",
+            "name": "Nana’s Green Tea",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/niNyqrnm7yydn_gFsLLmRA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nana-s-green-tea-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 784,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 47.61638,
+                "longitude": -122.33312
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1007 Stewart St",
+                "address2": "Ste 103",
+                "address3": null,
+                "city": "Seattle",
+                "zip_code": "98101",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "1007 Stewart St",
+                    "Ste 103",
+                    "Seattle, WA 98101"
+                ]
+            },
+            "phone": "+12067856477",
+            "display_phone": "(206) 785-6477",
+            "distance": 2353.2471438440743
+        },
+        {
+            "id": "BXjaJd5j3BJl8K4EVdSvEA",
+            "alias": "atulea-seattle",
+            "name": "Atulea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xd1sq9uyss4UBczza5zbug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/atulea-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 144,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 47.61691,
+                "longitude": -122.31718
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1715 12th Ave",
+                "address2": "Suite.100",
+                "address3": null,
+                "city": "Seattle",
+                "zip_code": "98122",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "1715 12th Ave",
+                    "Suite.100",
+                    "Seattle, WA 98122"
+                ]
+            },
+            "phone": "+12064135903",
+            "display_phone": "(206) 413-5903",
+            "distance": 2644.480664759989
+        },
+        {
+            "id": "bB9mbLCKSvXltK8za8nK0A",
+            "alias": "matts-in-the-market-seattle",
+            "name": "Matt's In The Market",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4nt6UcuPydbYkBtCWRum0A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/matts-in-the-market-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1011,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 47.60888,
+                "longitude": -122.34036
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "94 Pike St",
+                "address2": "Ste 32",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98101",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "94 Pike St",
+                    "Ste 32",
+                    "Seattle, WA 98101"
+                ]
+            },
+            "phone": "+12064677909",
+            "display_phone": "(206) 467-7909",
+            "distance": 1658.4233229470128
+        },
+        {
+            "id": "L8RRAd-JZ0Bd4MER0yyX-g",
+            "alias": "japonessa-sushi-cocina-seattle",
+            "name": "Japonessa Sushi Cocina",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vucCrknnlu1RRvRaKWwovQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/japonessa-sushi-cocina-seattle?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4691,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 47.6079793649921,
+                "longitude": -122.339042355669
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1400 1st Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Seattle",
+                "zip_code": "98101",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "1400 1st Ave",
+                    "Seattle, WA 98101"
+                ]
+            },
+            "phone": "+12069717979",
+            "display_phone": "(206) 971-7979",
+            "distance": 1526.6319991700555
+        }
+    ],
+    "total": 1400,
+    "region": {
+        "center": {
+            "longitude": -122.3316,
+            "latitude": 47.5952
+        }
+    }
+}

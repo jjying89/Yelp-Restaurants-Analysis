@@ -1,0 +1,925 @@
+{
+    "businesses": [
+        {
+            "id": "eumDvcwCOtYRXAhIiVuN4Q",
+            "alias": "sajj-mediterranean-san-jose",
+            "name": "Sajj Mediterranean",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7Z9bdr2dCi79CVSjJxnu0A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sajj-mediterranean-san-jose?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 471,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.4168826754667,
+                "longitude": -121.953737253863
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4140 N 1st St",
+                "address2": "Ste 10",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95134",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4140 N 1st St",
+                    "Ste 10",
+                    "San Jose, CA 95134"
+                ]
+            },
+            "phone": "+14089449022",
+            "display_phone": "(408) 944-9022",
+            "distance": 2108.584031647286
+        },
+        {
+            "id": "XLIlPXH0gcUbR-dwqaM5_A",
+            "alias": "minas-korean-bbq-san-jose",
+            "name": "Mina's Korean BBQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/exJ3Y8KzxLGZTH_M4vmNZA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/minas-korean-bbq-san-jose?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 180,
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.4106483459473,
+                "longitude": -121.945594787598
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3730 N 1st St",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95134",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3730 N 1st St",
+                    "San Jose, CA 95134"
+                ]
+            },
+            "phone": "+14084332270",
+            "display_phone": "(408) 433-2270",
+            "distance": 2298.4758659421645
+        },
+        {
+            "id": "FfSpbeI8_x7ozZUVryo5JA",
+            "alias": "parcel-104-santa-clara",
+            "name": "Parcel 104",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pmAs3CyDluigLkG-FsVbAg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/parcel-104-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 719,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3906113257148,
+                "longitude": -121.974090651001
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "2700 Mission College Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2700 Mission College Blvd",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14089706104",
+            "display_phone": "(408) 970-6104",
+            "distance": 1424.1642061609853
+        },
+        {
+            "id": "lLF85IwyJRNlVzdt2nKADg",
+            "alias": "pav-bhaji-hut-sunnyvale",
+            "name": "Pav Bhaji Hut",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QU02i8LoL8aEKkFmme_kRw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pav-bhaji-hut-sunnyvale?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 557,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.4052981232484,
+                "longitude": -121.995956201258
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1201 Lawrence Station Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Sunnyvale",
+                "zip_code": "94089",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1201 Lawrence Station Rd",
+                    "Sunnyvale, CA 94089"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2306.905229743264
+        },
+        {
+            "id": "eza6PI-XcOvpxcneHdKf1g",
+            "alias": "halal-gyro-express-san-jose",
+            "name": "Halal Gyro Express",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/O78TzrQhWeK_hBPGqruDGQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/halal-gyro-express-san-jose?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 184,
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "falafel",
+                    "title": "Falafel"
+                },
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.410648,
+                "longitude": -121.945594
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3730 N First St",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3730 N First St",
+                    "San Jose, CA 95112"
+                ]
+            },
+            "phone": "+14085260444",
+            "display_phone": "(408) 526-0444",
+            "distance": 2298.4758659421645
+        },
+        {
+            "id": "l-dNFenvg0Akie3yOX4PxQ",
+            "alias": "el-taco-de-oro-alviso",
+            "name": "El Taco de Oro",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Up1hoaqqxf07B1jCZ5OShg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-taco-de-oro-alviso?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 168,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.42594,
+                "longitude": -121.97389
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "5210 N 1st St",
+                "address2": null,
+                "address3": "",
+                "city": "Alviso",
+                "zip_code": "95002",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5210 N 1st St",
+                    "Alviso, CA 95002"
+                ]
+            },
+            "phone": "+14089349695",
+            "display_phone": "(408) 934-9695",
+            "distance": 2583.8036201000446
+        },
+        {
+            "id": "qDVyDfKzYTG3-iCeRNzCuA",
+            "alias": "la-catalana-san-jose",
+            "name": "La Catalana",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z2XCVMMLaojCFId6QipYdA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-catalana-san-jose?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 787,
+            "categories": [
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                },
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.4101613798521,
+                "longitude": -121.945188067459
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3720 N 1st St",
+                "address2": "Ste 10",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95134",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3720 N 1st St",
+                    "Ste 10",
+                    "San Jose, CA 95134"
+                ]
+            },
+            "phone": "+14083241321",
+            "display_phone": "(408) 324-1321",
+            "distance": 2331.750367187047
+        },
+        {
+            "id": "BYFGYvLARt3N0cyw-F3Nyg",
+            "alias": "great-indian-cuisine-santa-clara",
+            "name": "Great Indian Cuisine",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bhB0ZRP33NYYzs8VLUileA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/great-indian-cuisine-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 543,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.394237327375,
+                "longitude": -121.959766834358
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2026 Agnew Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2026 Agnew Rd",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14086549894",
+            "display_phone": "(408) 654-9894",
+            "distance": 1329.1087819176378
+        },
+        {
+            "id": "9u_pjfFUGp3dWY_gsgQY0A",
+            "alias": "johal-chaat-and-curry-sunnyvale-2",
+            "name": "Johal Chaat and Curry",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/M52eN6bOb3eS6FY3VMKhCw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/johal-chaat-and-curry-sunnyvale-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 113,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.4053903,
+                "longitude": -121.9958089
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "1205 Lawrence Station Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Sunnyvale",
+                "zip_code": "94089",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1205 Lawrence Station Rd",
+                    "Sunnyvale, CA 94089"
+                ]
+            },
+            "phone": "+14087691095",
+            "display_phone": "(408) 769-1095",
+            "distance": 2295.137620952087
+        },
+        {
+            "id": "srOm5W74OAVvwU2h_IXyQQ",
+            "alias": "bagel-place-cafe-sunnyvale",
+            "name": "Bagel Place Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lamKk00CiVuqkFeuvC5E7g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bagel-place-cafe-sunnyvale?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 156,
+            "categories": [
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.384504,
+                "longitude": -121.995135
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "546 Lawrence Expy",
+                "address2": null,
+                "address3": "",
+                "city": "Sunnyvale",
+                "zip_code": "94085",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "546 Lawrence Expy",
+                    "Sunnyvale, CA 94085"
+                ]
+            },
+            "phone": "+16696003993",
+            "display_phone": "(669) 600-3993",
+            "distance": 3008.1391231723246
+        },
+        {
+            "id": "fV2jmhZ0my_HJuA1MFIW6Q",
+            "alias": "chaats-and-currys-sunnyvale-6",
+            "name": "Chaats And Currys",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_8UB4ApkAXaO3CvsyVFEIg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chaats-and-currys-sunnyvale-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 992,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.38287,
+                "longitude": -121.99508
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "520 Lawrence Expy",
+                "address2": "",
+                "address3": "",
+                "city": "Sunnyvale",
+                "zip_code": "94085",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "520 Lawrence Expy",
+                    "Sunnyvale, CA 94085"
+                ]
+            },
+            "phone": "+14087469192",
+            "display_phone": "(408) 746-9192",
+            "distance": 3156.1097936761107
+        },
+        {
+            "id": "Q49MF_1XBrD4SmgC5G586Q",
+            "alias": "hula-truck-santa-clara",
+            "name": "Hula Truck",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BWb5OWZW7CC-S3lJ5l8YCA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hula-truck-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 171,
+            "categories": [
+                {
+                    "alias": "filipino",
+                    "title": "Filipino"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.39911,
+                "longitude": -121.95728
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14084669350",
+            "display_phone": "(408) 466-9350",
+            "distance": 697.0508133295237
+        },
+        {
+            "id": "UBl0DShsZ-oCkouD_easbQ",
+            "alias": "fishs-wild-san-jose-11",
+            "name": "Fish's Wild",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/94Llv3zSsByKJBlt71YVvQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fishs-wild-san-jose-11?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 144,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "fishnchips",
+                    "title": "Fish & Chips"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.41616,
+                "longitude": -121.95491
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4180 N First St",
+                "address2": "Ste 30",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95134",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4180 N First St",
+                    "Ste 30",
+                    "San Jose, CA 95134"
+                ]
+            },
+            "phone": "+16692265569",
+            "display_phone": "(669) 226-5569",
+            "distance": 1982.1515194487874
+        },
+        {
+            "id": "oWK-J2BuzbeREtUfDPP4IA",
+            "alias": "burgerim-burger-bar-santa-clara",
+            "name": "BurgerIM Burger Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/52QtaaTscXZ1-qmitsZtJg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerim-burger-bar-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 345,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.38919,
+                "longitude": -121.98339
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3151 Mission College Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3151 Mission College Blvd",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14088558344",
+            "display_phone": "(408) 855-8344",
+            "distance": 2064.339530385876
+        },
+        {
+            "id": "Xq2bEaZPFkhWm1U93jO55w",
+            "alias": "myzen-japanese-ramen-sunnyvale",
+            "name": "Myzen Ramen",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Kh8vsuQ1RtvXxwBShHEVag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/myzen-japanese-ramen-sunnyvale?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 721,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3828735351562,
+                "longitude": -121.995086669922
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "520 Lawrence Expwy",
+                "address2": "Ste 304",
+                "address3": "",
+                "city": "Sunnyvale",
+                "zip_code": "94085",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "520 Lawrence Expwy",
+                    "Ste 304",
+                    "Sunnyvale, CA 94085"
+                ]
+            },
+            "phone": "+14082457779",
+            "display_phone": "(408) 245-7779",
+            "distance": 3155.777057641033
+        },
+        {
+            "id": "8uTrPUA_t44t7i_-r96wng",
+            "alias": "pho-van-santa-clara",
+            "name": "Pho Van",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CQrix4kF2gzv7QfAzYgq1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pho-van-santa-clara?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 240,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.38059,
+                "longitude": -121.95655
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1555 Laurelwood Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1555 Laurelwood Dr",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+14085679225",
+            "display_phone": "(408) 567-9225",
+            "distance": 2770.770617945531
+        },
+        {
+            "id": "jsJ6kK7-PLkqh1gqyWi-Ag",
+            "alias": "tasty-indian-pizza-sunnyvale",
+            "name": "Tasty Indian Pizza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HZlow29TkMbORJ4BWjV29w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tasty-indian-pizza-sunnyvale?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 486,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.383427,
+                "longitude": -121.995457
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "528 Lawrence Expy",
+                "address2": "",
+                "address3": "",
+                "city": "Sunnyvale",
+                "zip_code": "94085",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "528 Lawrence Expy",
+                    "Sunnyvale, CA 94085"
+                ]
+            },
+            "phone": "+14087388761",
+            "display_phone": "(408) 738-8761",
+            "distance": 3129.6207956705234
+        },
+        {
+            "id": "kFI4BXq3U2vpeWJBH_ee1Q",
+            "alias": "falafel-bite-sunnyvale-2",
+            "name": "Falafel Bite",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PBvEwUpUJa_8AlVAngaoLw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/falafel-bite-sunnyvale-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 729,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.38176,
+                "longitude": -121.99531
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "500 Lawrence Expy",
+                "address2": "Ste C",
+                "address3": "",
+                "city": "Sunnyvale",
+                "zip_code": "94085",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "500 Lawrence Expy",
+                    "Ste C",
+                    "Sunnyvale, CA 94085"
+                ]
+            },
+            "phone": "+14087362411",
+            "display_phone": "(408) 736-2411",
+            "distance": 3256.4503142872068
+        },
+        {
+            "id": "QChz0-DQhe7HqothqSW3jQ",
+            "alias": "tasty-subs-and-pizza-sunnyvale-3",
+            "name": "Tasty Subs & Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/o3MJGYfQYVBm_IgJS8eYjA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tasty-subs-and-pizza-sunnyvale-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 846,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.3834643109542,
+                "longitude": -121.995489146776
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "528 Lawrence Expy",
+                "address2": "",
+                "address3": "",
+                "city": "Sunnyvale",
+                "zip_code": "94085",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "528 Lawrence Expy",
+                    "Sunnyvale, CA 94085"
+                ]
+            },
+            "phone": "+14087388761",
+            "display_phone": "(408) 738-8761",
+            "distance": 3128.779925028999
+        },
+        {
+            "id": "gtpT9ysoyhZI_RwPBKVdDA",
+            "alias": "in-n-out-burger-santa-clara-2",
+            "name": "In-N-Out Burger",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zpynElY4e0_uwOWL3zvyJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/in-n-out-burger-santa-clara-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 501,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.388058,
+                "longitude": -121.982057
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3001 Mission College Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Santa Clara",
+                "zip_code": "95054",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3001 Mission College Blvd",
+                    "Santa Clara, CA 95054"
+                ]
+            },
+            "phone": "+18007861000",
+            "display_phone": "(800) 786-1000",
+            "distance": 1973.566232289953
+        }
+    ],
+    "total": 179,
+    "region": {
+        "center": {
+            "longitude": -121.97,
+            "latitude": 37.403
+        }
+    }
+}

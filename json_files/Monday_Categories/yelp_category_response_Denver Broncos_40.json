@@ -1,0 +1,847 @@
+{
+    "businesses": [
+        {
+            "id": "0JdCzW1sNtbC0juPQPVnJg",
+            "alias": "the-matador-denver-2",
+            "name": "The Matador",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XrYJ0ttaEi9_w0N8oXWpVA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-matador-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 316,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.7619999197956,
+                "longitude": -105.034452751279
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3496 W 32nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3496 W 32nd Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13035612855",
+            "display_phone": "(303) 561-2855",
+            "distance": 2653.910538450336
+        },
+        {
+            "id": "02cVa1IosbIGUcuV45xw7g",
+            "alias": "jacksons-denver-3",
+            "name": "Jackson's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4XioPA4n1ZpASipgSESNCA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jacksons-denver-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 215,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.754478,
+                "longitude": -104.995178
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1520 20th St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1520 20th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13032987625",
+            "display_phone": "(303) 298-7625",
+            "distance": 2577.07182634316
+        },
+        {
+            "id": "4Nj4UfxmSI5bPNYS54hTcw",
+            "alias": "w-xyz-bar-denver",
+            "name": "W XYZ Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CufMS2CbIcszWDHF1XMSCQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/w-xyz-bar-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.74493,
+                "longitude": -104.99473
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "800 15th St",
+                "address2": "Aloft Denver Downtown",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "800 15th St",
+                    "Aloft Denver Downtown",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13036233063",
+            "display_phone": "(303) 623-3063",
+            "distance": 2191.7333095818017
+        },
+        {
+            "id": "-JXlOrLh3_5ncP8ras-iHw",
+            "alias": "sports-column-denver",
+            "name": "Sports Column",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x4RR3dDWONKcDWuH3Beddw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sports-column-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 175,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.753603,
+                "longitude": -104.994726
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1930 Blake St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1930 Blake St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13032961930",
+            "display_phone": "(303) 296-1930",
+            "distance": 2553.960994441181
+        },
+        {
+            "id": "w72MHABPV17StwOG0pyz-Q",
+            "alias": "thai-house-denver-2",
+            "name": "Thai House",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lL6Y9cGnyws_nQbYDNYLaw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/thai-house-denver-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 58,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.7692894101406,
+                "longitude": -105.032097101212
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3392 W 38th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3392 W 38th Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+13034774090",
+            "display_phone": "(303) 477-4090",
+            "distance": 3319.3556516513218
+        },
+        {
+            "id": "MO6EBqn_1GENnKKo5_g7jw",
+            "alias": "tres-chiles-denver",
+            "name": "Tres Chiles",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZnSZHd-Few-lh6DTSjdt6Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tres-chiles-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 102,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.77109,
+                "longitude": -105.04369
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3900 Tennyson St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80212",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3900 Tennyson St",
+                    "Denver, CO 80212"
+                ]
+            },
+            "phone": "+13034772555",
+            "display_phone": "(303) 477-2555",
+            "distance": 3925.7870859655786
+        },
+        {
+            "id": "xsdgsMNAPcnrIUXX-9y_tQ",
+            "alias": "coors-field-rooftop-bar-denver",
+            "name": "Coors Field Rooftop Bar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gk6uxtFmeI9uX2Ix6hXsSg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/coors-field-rooftop-bar-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.757411925831,
+                "longitude": -104.993692561984
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "Coors Field",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80205",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "Coors Field",
+                    "Denver, CO 80205"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2876.4545769645847
+        },
+        {
+            "id": "V4-VVlxoqT0jYpm2xyjLVw",
+            "alias": "swankys-vittles-and-libations-denver",
+            "name": "Swanky's Vittles And Libations",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EvZt_IZZt9OwBVy8rbjJUQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/swankys-vittles-and-libations-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 126,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.75369,
+                "longitude": -104.9946
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1938 Blake St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1938 Blake St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17204839699",
+            "display_phone": "(720) 483-9699",
+            "distance": 2565.241477200474
+        },
+        {
+            "id": "0Uj0XqRgLPaXxJfsivQ8UA",
+            "alias": "denver-pho-denver-3",
+            "name": "Denver Pho",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vPsuY2bahzGjUiS-TGaWDw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/denver-pho-denver-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 61,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.70981,
+                "longitude": -105.013638284691
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2200 W Alameda Ave",
+                "address2": "Ste 38",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80223",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "2200 W Alameda Ave",
+                    "Ste 38",
+                    "Denver, CO 80223"
+                ]
+            },
+            "phone": "+13039227888",
+            "display_phone": "(303) 922-7888",
+            "distance": 3506.6967427672766
+        },
+        {
+            "id": "qGXfors70j-fBM3VRdn90A",
+            "alias": "former-saint-craft-kitchen-and-taps-denver",
+            "name": "Former Saint Craft Kitchen and Taps",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g20OJxPLU1f4bFng5DWzUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/former-saint-craft-kitchen-and-taps-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 58,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.74365,
+                "longitude": -104.99342
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "650 15th St",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "650 15th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13034864434",
+            "display_phone": "(303) 486-4434",
+            "distance": 2250.957710379125
+        },
+        {
+            "id": "2KJiplzo4YH-wEWLcVmiog",
+            "alias": "the-giggling-grizzly-denver",
+            "name": "Giggling Grizzly",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WRH9ZNvdwPVHISTrEstqkw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-giggling-grizzly-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 129,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.753246307373,
+                "longitude": -104.993309020996
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1320 20th St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1320 20th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13032978300",
+            "display_phone": "(303) 297-8300",
+            "distance": 2636.2883341636275
+        },
+        {
+            "id": "7eZ0DB__EtctXZRqGmcRjA",
+            "alias": "lodos-bar-and-grill-denver-4",
+            "name": "Lodo's Bar & Grill",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gRG9ZAnZFg8b3A3XynO9XA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lodos-bar-and-grill-denver-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 332,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7532898947539,
+                "longitude": -104.993715515823
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1946 Market St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1946 Market St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13032938555",
+            "display_phone": "(303) 293-8555",
+            "distance": 2608.2077612803664
+        },
+        {
+            "id": "QllMTki7YCip2IWvFeDM3g",
+            "alias": "breckenridge-brewery-mountain-house-restaurant-denver",
+            "name": "Breckenridge Brewery Mountain House Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vgsbPngspmzYcHbMwWvH8g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/breckenridge-brewery-mountain-house-restaurant-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 129,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.7473921,
+                "longitude": -105.0081147
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1000 Chopper Cir",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80204",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1000 Chopper Cir",
+                    "Denver, CO 80204"
+                ]
+            },
+            "phone": "+13034056090",
+            "display_phone": "(303) 405-6090",
+            "distance": 1324.9597471920893
+        },
+        {
+            "id": "OlhaoBqom_jV4DFEq0tM0A",
+            "alias": "three-dogs-tavern-denver",
+            "name": "Three Dogs Tavern",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yz5MT7YjLxBmb-dQAvsQTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/three-dogs-tavern-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 148,
+            "categories": [
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.76187,
+                "longitude": -105.03205
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3390 W 32nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80211",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3390 W 32nd Ave",
+                    "Denver, CO 80211"
+                ]
+            },
+            "phone": "+17208541277",
+            "display_phone": "(720) 854-1277",
+            "distance": 2545.9340943369657
+        },
+        {
+            "id": "0v_hvVw5GRwu785zfv2_rw",
+            "alias": "brothers-bar-and-grill-denver-4",
+            "name": "Brothers Bar & Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UMRNl13QAABJel1FtkVnsw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brothers-bar-and-grill-denver-4?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 249,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 39.75284,
+                "longitude": -104.99393
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1920 Market St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1920 Market St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13032972767",
+            "display_phone": "(303) 297-2767",
+            "distance": 2561.2531722509484
+        },
+        {
+            "id": "iSZTm7oCnXc3QTNTz4OFpg",
+            "alias": "lamark15-denver",
+            "name": "LaMark15",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KLvx5Y3T9KmcRY7K3JMyDg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lamark15-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.7487045,
+                "longitude": -104.9992062
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1322 15th St",
+                "address2": "",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1322 15th St",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+17203369047",
+            "display_phone": "(720) 336-9047",
+            "distance": 1950.3943179125633
+        },
+        {
+            "id": "FCcJGrek57PVFjnE94tzwA",
+            "alias": "elements-restaurant-and-bar-denver",
+            "name": "Elements Restaurant & Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SR8Lcn41ymWlq8cyQbsgLw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/elements-restaurant-and-bar-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.744221,
+                "longitude": -104.994682
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1420 Stout St",
+                "address2": "Embassy Ste Hotel",
+                "address3": "",
+                "city": "Denver",
+                "zip_code": "80202",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "1420 Stout St",
+                    "Embassy Ste Hotel",
+                    "Denver, CO 80202"
+                ]
+            },
+            "phone": "+13035921000",
+            "display_phone": "(303) 592-1000",
+            "distance": 2153.086444430162
+        },
+        {
+            "id": "fYYoDLgw29NFytKVxDYvTA",
+            "alias": "los-3-potrillos-denver",
+            "name": "Los 3 Potrillos",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CKBoW_MnKjOCA7O-Nx5-Hg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/los-3-potrillos-denver?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "karaoke",
+                    "title": "Karaoke"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 39.70834,
+                "longitude": -105.03644
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "3700 Morrison Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "zip_code": "80219",
+                "country": "US",
+                "state": "CO",
+                "display_address": [
+                    "3700 Morrison Rd",
+                    "Denver, CO 80219"
+                ]
+            },
+            "phone": "+13039555665",
+            "display_phone": "(303) 955-5665",
+            "distance": 3892.724439457724
+        }
+    ],
+    "total": 58,
+    "region": {
+        "center": {
+            "longitude": -105.0197,
+            "latitude": 39.741
+        }
+    }
+}

@@ -1,0 +1,863 @@
+{
+    "businesses": [
+        {
+            "id": "hdOkgm5wyn1hOWLlqq5hyA",
+            "alias": "oasis-urban-cafe-cleveland",
+            "name": "Oasis Urban Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JPWvBHAxf2R34JWYymu_9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oasis-urban-cafe-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.50376,
+                "longitude": -81.68917
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1375 E 9th St",
+                "address2": "",
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44114",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1375 E 9th St",
+                    "Cleveland, OH 44114"
+                ]
+            },
+            "phone": "+12167718027",
+            "display_phone": "(216) 771-8027",
+            "distance": 945.8317692457541
+        },
+        {
+            "id": "akjewrvAc_LwLqbZ-kqQ5Q",
+            "alias": "cafe-1845-cleveland",
+            "name": "Cafe 1845",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/v43WPqaoVlARjeySIFRP7Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-1845-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.5010375976562,
+                "longitude": -81.6879653930664
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1900 E 9th St",
+                "address2": "",
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44114",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1900 E 9th St",
+                    "Cleveland, OH 44114"
+                ]
+            },
+            "phone": "+12166211231",
+            "display_phone": "(216) 621-1231",
+            "distance": 1113.4172104775187
+        },
+        {
+            "id": "GLubcBRZ7TS-Tk4RWOS55Q",
+            "alias": "marble-room-sushi-cleveland",
+            "name": "Marble Room Sushi",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-yE4FMgVEs0P7E8uUL09Fg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/marble-room-sushi-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.50082,
+                "longitude": -81.69383
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "127 Public Square",
+                "address2": "",
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44114",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "127 Public Square",
+                    "Cleveland, OH 44114"
+                ]
+            },
+            "phone": "+12162413200",
+            "display_phone": "(216) 241-3200",
+            "distance": 760.4508434102712
+        },
+        {
+            "id": "lw3E5vaRVO87KEbDNhyfjQ",
+            "alias": "davids-grill-and-bar-cleveland",
+            "name": "David's Grill & Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JDLAj5MC8UfF1sWEQrbwKw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/davids-grill-and-bar-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.5066337585449,
+                "longitude": -81.6908264160156
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1001 Lakeside Ave",
+                "address2": "",
+                "address3": "North Point",
+                "city": "Cleveland",
+                "zip_code": "44114",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1001 Lakeside Ave",
+                    "North Point",
+                    "Cleveland, OH 44114"
+                ]
+            },
+            "phone": "+12166968840",
+            "display_phone": "(216) 696-8840",
+            "distance": 719.9520637407354
+        },
+        {
+            "id": "bCWB4Lirn--Z8DkMCagoaw",
+            "alias": "speakeasy-cleveland",
+            "name": "Speakeasy",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/E7_IBGU1lBHL8t81Px7TNA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/speakeasy-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "speakeasies",
+                    "title": "Speakeasies"
+                },
+                {
+                    "alias": "danceclubs",
+                    "title": "Dance Clubs"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.484723,
+                "longitude": -81.70423
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1948 W 25th St",
+                "address2": "",
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44113",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1948 W 25th St",
+                    "Cleveland, OH 44113"
+                ]
+            },
+            "phone": "+12162741010",
+            "display_phone": "(216) 274-1010",
+            "distance": 2411.407476723714
+        },
+        {
+            "id": "9c00zbi5mn_WJsHQBCHL6g",
+            "alias": "lunch-by-caterology-cleveland",
+            "name": "Lunch By Caterology",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HDTQKQt4KhEq_4geKXECbg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lunch-by-caterology-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 41.50301,
+                "longitude": -81.68889
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1413 East Ninth St",
+                "address2": null,
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44114",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1413 East Ninth St",
+                    "Cleveland, OH 44114"
+                ]
+            },
+            "phone": "+12162555250",
+            "display_phone": "(216) 255-5250",
+            "distance": 949.1339965998388
+        },
+        {
+            "id": "t9RRJzHDPNW7RZlmllqFeg",
+            "alias": "cafe-social-latinoamericano-cleveland",
+            "name": "Cafe Social Latinoamericano",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U0pJpuCV39mstwVHHsVWQA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-social-latinoamericano-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 41.4801175084735,
+                "longitude": -81.6848190646861
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2275 Professor Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44113",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "2275 Professor Ave",
+                    "Cleveland, OH 44113"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3136.5306814473065
+        },
+        {
+            "id": "L_7GQc0MWxgBR5iDNIJlzg",
+            "alias": "fahey-bakehouse-cleveland",
+            "name": "Fahey Bakehouse",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FPHVAn0hq8iIObLoc2HSPA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fahey-bakehouse-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 41.5009356295922,
+                "longitude": -81.6767294711639
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1938 Euclid Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44115",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1938 Euclid Ave",
+                    "Cleveland, OH 44115"
+                ]
+            },
+            "phone": "+12167270006",
+            "display_phone": "(216) 727-0006",
+            "distance": 1977.1646386886773
+        },
+        {
+            "id": "0Rj_TO1zpIfp_oi6wohtrw",
+            "alias": "the-break-room-cafe-cleveland",
+            "name": "The Break Room Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/agvpaA5_YgI_VpRF38o5ZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-break-room-cafe-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 41.5073464418672,
+                "longitude": -81.6891048248256
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1201 Lakeside Ave E",
+                "address2": "",
+                "address3": null,
+                "city": "Cleveland",
+                "zip_code": "44114",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1201 Lakeside Ave E",
+                    "Cleveland, OH 44114"
+                ]
+            },
+            "phone": "+12165326334",
+            "display_phone": "(216) 532-6334",
+            "distance": 871.847779904069
+        },
+        {
+            "id": "0vvPP6Ir2723kjRZFJg7tg",
+            "alias": "sebastians-deli-cleveland-8",
+            "name": "Sebastians Deli",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xwHDtJ1zX2qR0vngPsh1Hg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sebastians-deli-cleveland-8?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 41.4846083959614,
+                "longitude": -81.7030677658849
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1979 W 25th St",
+                "address2": "",
+                "address3": "Stand G-7",
+                "city": "Cleveland",
+                "zip_code": "44113",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1979 W 25th St",
+                    "Stand G-7",
+                    "Cleveland, OH 44113"
+                ]
+            },
+            "phone": "+12162801081",
+            "display_phone": "(216) 280-1081",
+            "distance": 2409.9509351147
+        },
+        {
+            "id": "X2WmQQFWLloDLXkoyqHKnA",
+            "alias": "kellys-cajun-grill-cleveland",
+            "name": "Kelly's Cajun Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bm13NTGV8Ej0VumSPDAUVA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kellys-cajun-grill-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.497004,
+                "longitude": -81.694277
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "230 W Huron Rd Ste 7244",
+                "address2": "#7244",
+                "address3": null,
+                "city": "Cleveland",
+                "zip_code": "44113",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "230 W Huron Rd Ste 7244",
+                    "#7244",
+                    "Cleveland, OH 44113"
+                ]
+            },
+            "phone": "+12166878055",
+            "display_phone": "(216) 687-8055",
+            "distance": 1100.2808673170591
+        },
+        {
+            "id": "1LbvFwxbLepIpDasI-Pshg",
+            "alias": "subway-cleveland-128",
+            "name": "Subway",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KabVKFlNbjliVRb6ofN1UA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-cleveland-128?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 41.5010693620954,
+                "longitude": -81.6785660803827
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1800 Euclid Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Cleveland",
+                "zip_code": "44115",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1800 Euclid Ave",
+                    "Cleveland, OH 44115"
+                ]
+            },
+            "phone": "+12166871017",
+            "display_phone": "(216) 687-1017",
+            "distance": 1826.7632050211753
+        },
+        {
+            "id": "kwAFz9QFtNv7ZpMVM6uJ1Q",
+            "alias": "campbells-popcorn-shop-cleveland-2",
+            "name": "Campbell's Popcorn Shop",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9paR9_89kv_P-fleebsrTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/campbells-popcorn-shop-cleveland-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                },
+                {
+                    "alias": "popcorn",
+                    "title": "Popcorn Shops"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.484572,
+                "longitude": -81.702964
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1979 W 25th St",
+                "address2": "",
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44113",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1979 W 25th St",
+                    "Cleveland, OH 44113"
+                ]
+            },
+            "phone": "+12165742899",
+            "display_phone": "(216) 574-2899",
+            "distance": 2412.9009078448694
+        },
+        {
+            "id": "lGZTrn_6sN5OP_P_88VKXA",
+            "alias": "proof-bar-bq-and-cocktails-cleveland",
+            "name": "Proof Bar-BQ and Cocktails",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vgeEY_wrI2EXnkcUDYYpuw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/proof-bar-bq-and-cocktails-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.4812,
+                "longitude": -81.68664
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2258 Professor Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Cleveland",
+                "zip_code": "44113",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "2258 Professor Ave",
+                    "Cleveland, OH 44113"
+                ]
+            },
+            "phone": "+12165830551",
+            "display_phone": "(216) 583-0551",
+            "distance": 2967.8285145733307
+        },
+        {
+            "id": "tNZiQVvqyS03D1aM49Rcgg",
+            "alias": "mixed-greens-cleveland-2",
+            "name": "Mixed Greens",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vevZMBaQ-d2tAW36rZiv6A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mixed-greens-cleveland-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.5049928656766,
+                "longitude": -81.6891330790993
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1301 E 9th St",
+                "address2": "",
+                "address3": "Galleria at Erieview",
+                "city": "Cleveland",
+                "zip_code": "44114",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1301 E 9th St",
+                    "Galleria at Erieview",
+                    "Cleveland, OH 44114"
+                ]
+            },
+            "phone": "+12163441377",
+            "display_phone": "(216) 344-1377",
+            "distance": 867.5747421355959
+        },
+        {
+            "id": "nwW7c5KW3NWA8tClbcYenw",
+            "alias": "twisted-taino-frappe-bar-and-grill-cleveland",
+            "name": "Twisted Taino Frappe Bar & Grill",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/A28IrXGWmpZjiR-q_qp3Ug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/twisted-taino-frappe-bar-and-grill-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.49119,
+                "longitude": -81.707536
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1400 W 25th St",
+                "address2": "",
+                "address3": null,
+                "city": "Cleveland",
+                "zip_code": "44113",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1400 W 25th St",
+                    "Cleveland, OH 44113"
+                ]
+            },
+            "phone": "+12163105880",
+            "display_phone": "(216) 310-5880",
+            "distance": 1790.7819806559023
+        },
+        {
+            "id": "770342KIMaJ0lgnA_prw9w",
+            "alias": "dantes-inferno-cleveland",
+            "name": "Dante's Inferno",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a9axFYf_JdzxQTIqiOgCKQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dantes-inferno-cleveland?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "stadiumsarenas",
+                    "title": "Stadiums & Arenas"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.4990439952745,
+                "longitude": -81.6854803630885
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Progressive Field",
+                "address2": "",
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "Progressive Field",
+                    "Cleveland, OH"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1403.4645882186821
+        },
+        {
+            "id": "jhf5nALqdV208SjURLk6ig",
+            "alias": "the-dinner-detective-cleveland-8",
+            "name": "The Dinner Detective",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-zlj1R3pnU7Fd_-qVnG6mA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-dinner-detective-cleveland-8?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "dinnertheater",
+                    "title": "Dinner Theater"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.4961013793945,
+                "longitude": -81.6812896728516
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1100 Carnegie Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44115",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1100 Carnegie Ave",
+                    "Cleveland, OH 44115"
+                ]
+            },
+            "phone": "+18664960535",
+            "display_phone": "(866) 496-0535",
+            "distance": 1883.7042124961465
+        },
+        {
+            "id": "QgrxN-PyUWaIab41-RrTwg",
+            "alias": "au-bon-pain-cleveland-2",
+            "name": "Au Bon Pain",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/au-bon-pain-cleveland-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.4997693649141,
+                "longitude": -81.6923345996002
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "200 Public Sq",
+                "address2": "",
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44114",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "200 Public Sq",
+                    "Cleveland, OH 44114"
+                ]
+            },
+            "phone": "+12167710869",
+            "display_phone": "(216) 771-0869",
+            "distance": 920.7400010592165
+        },
+        {
+            "id": "j1TgLJmmvh4ghvt2kR2iSw",
+            "alias": "the-sauce-boiling-seafood-express-cleveland-2",
+            "name": "The Sauce Boiling Seafood Express",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XHuN0hxiS9KnrWwqPvTktQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-sauce-boiling-seafood-express-cleveland-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.50028,
+                "longitude": -81.69938
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1266 West 6th St",
+                "address2": null,
+                "address3": "",
+                "city": "Cleveland",
+                "zip_code": "44113",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1266 West 6th St",
+                    "Cleveland, OH 44113"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 641.9383085098555
+        }
+    ],
+    "total": 354,
+    "region": {
+        "center": {
+            "longitude": -81.699444,
+            "latitude": 41.506111
+        }
+    }
+}

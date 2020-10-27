@@ -1,0 +1,938 @@
+{
+    "businesses": [
+        {
+            "id": "B_TOptGhIflBLlKc7CwQrg",
+            "alias": "bibibop-asian-grill-cincinnati",
+            "name": "BIBIBOP Asian Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rt1qzQGjrvs6c-0DeFrAaw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bibibop-asian-grill-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 70,
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.1284769,
+                "longitude": -84.515949
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "228 Calhoun St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45219",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "228 Calhoun St",
+                    "Cincinnati, OH 45219"
+                ]
+            },
+            "phone": "+15134987450",
+            "display_phone": "(513) 498-7450",
+            "distance": 3722.459911843502
+        },
+        {
+            "id": "zh9vmotrZXVX8IUff4bRPQ",
+            "alias": "condado-tacos-cincinnati-banks-cincinnati-2",
+            "name": "Condado Tacos",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IasJHB3CKARzM4tFNq9QHA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/condado-tacos-cincinnati-banks-cincinnati-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 442,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.0972607,
+                "longitude": -84.5088967
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "195 E Freedom Way",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "195 E Freedom Way",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15132631172",
+            "display_phone": "(513) 263-1172",
+            "distance": 664.8645228824537
+        },
+        {
+            "id": "ehF3W3TucZz64_KphhwYEw",
+            "alias": "richs-proper-food-and-drink-covington",
+            "name": "Rich's Proper Food and Drink",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wM40BEn3yAluy2xLxBfFKw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/richs-proper-food-and-drink-covington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 78,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.083175,
+                "longitude": -84.510243
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "701 Madison Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "701 Madison Ave",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18594150069",
+            "display_phone": "(859) 415-0069",
+            "distance": 1405.6234414119745
+        },
+        {
+            "id": "HmtMYyCeLJ11Ipzut_Ff7A",
+            "alias": "spoon-and-cellar-cincinnati",
+            "name": "Spoon & Cellar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SlA5Byq5w3g1Ql6K52mBhQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/spoon-and-cellar-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 150,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.10448639055,
+                "longitude": -84.5072395966726
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "701 Broadway St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "701 Broadway St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15139044149",
+            "display_phone": "(513) 904-4149",
+            "distance": 1297.7499044059161
+        },
+        {
+            "id": "0KaETd9Nfin4DIrg73V0Dg",
+            "alias": "goose-and-elder-findlay-market-cincinnati",
+            "name": "Chef Jose Salazar * Goose & Elder | Findlay Market Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-0WzfZMI8-5RnsctINiPZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/goose-and-elder-findlay-market-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 74,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.1156243192091,
+                "longitude": -84.5181203309455
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1800 Race St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "1800 Race St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15135798400",
+            "display_phone": "(513) 579-8400",
+            "distance": 2300.603345623264
+        },
+        {
+            "id": "uOVZgzrJtElGifqX2RiViw",
+            "alias": "city-view-tavern-cincinnati",
+            "name": "City View Tavern",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/soCTy9mVV7Q2oMyXqZo7Sg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/city-view-tavern-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 118,
+            "categories": [
+                {
+                    "alias": "divebars",
+                    "title": "Dive Bars"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.10601,
+                "longitude": -84.50108
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "403 Oregon St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "403 Oregon St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15132418439",
+            "display_phone": "(513) 241-8439",
+            "distance": 1783.2798668066237
+        },
+        {
+            "id": "6kAy-W3pWp9lie03tAEc8Q",
+            "alias": "molly-malones-irish-pub-and-restaurant-covington",
+            "name": "Molly Malone's Irish Pub & Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/57UXX-BqTO6yW_VlgMWxnw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/molly-malones-irish-pub-and-restaurant-covington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 191,
+            "categories": [
+                {
+                    "alias": "irish",
+                    "title": "Irish"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.0874455,
+                "longitude": -84.5087237
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "112 E 4th St",
+                "address2": "",
+                "address3": "",
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "112 E 4th St",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18594916659",
+            "display_phone": "(859) 491-6659",
+            "distance": 1048.798408431414
+        },
+        {
+            "id": "X6rUhhPt4uyLCrQenboYQQ",
+            "alias": "ruths-chris-steak-house-cincinnati-2",
+            "name": "Ruth's Chris Steak House",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lai_R8wAluwp3XCs1QqOww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ruths-chris-steak-house-cincinnati-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 225,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.0974179861526,
+                "longitude": -84.5101270079612
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "100 E Freedom Way",
+                "address2": "Suite 160",
+                "address3": "The Banks Development",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "100 E Freedom Way",
+                    "Suite 160",
+                    "The Banks Development",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133810491",
+            "display_phone": "(513) 381-0491",
+            "distance": 573.7226367235882
+        },
+        {
+            "id": "JF9dlkkMudwTrdlJo18mrA",
+            "alias": "newport-pizza-company-newport-2",
+            "name": "Newport Pizza Company",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JmAeFFWlE5LePrNzB-iQZg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/newport-pizza-company-newport-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 192,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.091552734375,
+                "longitude": -84.4931564331055
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "601 Monmouth St",
+                "address2": "",
+                "address3": "",
+                "city": "Newport",
+                "zip_code": "41071",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "601 Monmouth St",
+                    "Newport, KY 41071"
+                ]
+            },
+            "phone": "+18592614900",
+            "display_phone": "(859) 261-4900",
+            "distance": 2003.4825409188802
+        },
+        {
+            "id": "S3GuvfRMHcCPZvlx6v_8BA",
+            "alias": "total-juice-plus-cincinnati",
+            "name": "Total Juice Plus",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Xl9xQ-tkdpMnnpzYYpfilA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/total-juice-plus-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 54,
+            "categories": [
+                {
+                    "alias": "healthmarkets",
+                    "title": "Health Markets"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "wraps",
+                    "title": "Wraps"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.10311,
+                "longitude": -84.5136
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "631 Vine St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "631 Vine St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15137841666",
+            "display_phone": "(513) 784-1666",
+            "distance": 946.2645874488022
+        },
+        {
+            "id": "0UITC8TEQwFsj2KD8jTTag",
+            "alias": "otr-bagel-bar-cincinnati-2",
+            "name": "OTR Bagel Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Uvpi71Ogd_LV29QXHcMjPw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/otr-bagel-bar-cincinnati-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.11508,
+                "longitude": -84.51854
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "107 W Elder St",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "107 W Elder St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133134843",
+            "display_phone": "(513) 313-4843",
+            "distance": 2250.110912630566
+        },
+        {
+            "id": "GFQIZqkFQ-Unzjjt5-PWWw",
+            "alias": "chicago-gyros-and-dogs-cincinnati",
+            "name": "Chicago Gyros and Dogs",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bOq5ItVE1FYbRaah1cgnGg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicago-gyros-and-dogs-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 165,
+            "categories": [
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.1277468021251,
+                "longitude": -84.5193630105945
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "201 W McMillan St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45219",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "201 W McMillan St",
+                    "Cincinnati, OH 45219"
+                ]
+            },
+            "phone": "+15136213828",
+            "display_phone": "(513) 621-3828",
+            "distance": 3652.816445559526
+        },
+        {
+            "id": "WQaNoL0NbktUVjuxvZgYqw",
+            "alias": "keystone-bar-and-grill-covington",
+            "name": "Keystone Bar & Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Cp2vlqQ9mOaEh2jrrUvRIQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/keystone-bar-and-grill-covington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 394,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.0882967111273,
+                "longitude": -84.5082887381855
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "313 Greenup St",
+                "address2": "",
+                "address3": "",
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "313 Greenup St",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18592616777",
+            "display_phone": "(859) 261-6777",
+            "distance": 999.2347422817362
+        },
+        {
+            "id": "wvmjKgtUm1209B3D2q7fMw",
+            "alias": "elephant-walk-cincinnati",
+            "name": "Elephant Walk",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/F9VMjljLrIHyBx97OaDLvg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/elephant-walk-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 186,
+            "categories": [
+                {
+                    "alias": "ethiopian",
+                    "title": "Ethiopian"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.1278173052827,
+                "longitude": -84.5179482598433
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "170 W McMillan St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45219",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "170 W McMillan St",
+                    "Cincinnati, OH 45219"
+                ]
+            },
+            "phone": "+15135261555",
+            "display_phone": "(513) 526-1555",
+            "distance": 3674.2982439736047
+        },
+        {
+            "id": "V8UnPNePMKNFEK2O5_ET6g",
+            "alias": "burgerfi-cincinnati",
+            "name": "BurgerFi",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SaWJKoyCcWMrGvfEGSl9OQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerfi-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 155,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.09708,
+                "longitude": -84.5093799
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "161 East Freedom Way",
+                "address2": "",
+                "address3": null,
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "161 East Freedom Way",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15138322817",
+            "display_phone": "(513) 832-2817",
+            "distance": 602.3961903254311
+        },
+        {
+            "id": "4gtuI-4fphkViZnDJk6tBA",
+            "alias": "adriaticos-cincinnati",
+            "name": "Adriatico's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/I95DAToeZVEf0Y-dejioTw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/adriaticos-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 246,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.12752652866,
+                "longitude": -84.516332452621
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "113 W Mcmillan St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45219",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "113 W Mcmillan St",
+                    "Cincinnati, OH 45219"
+                ]
+            },
+            "phone": "+15132814344",
+            "display_phone": "(513) 281-4344",
+            "distance": 3616.8946950894274
+        },
+        {
+            "id": "hf-wkaaFsOPGWcHA351DGg",
+            "alias": "tuba-baking-covington",
+            "name": "Tuba Baking",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dlEuv8eanen7de-rK2WGTw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tuba-baking-covington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "german",
+                    "title": "German"
+                },
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 39.082204,
+                "longitude": -84.513665
+            },
+            "transactions": [],
+            "location": {
+                "address1": "212 W Pike St",
+                "address2": null,
+                "address3": "",
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "212 W Pike St",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18598352171",
+            "display_phone": "(859) 835-2171",
+            "distance": 1437.0493451241455
+        },
+        {
+            "id": "k92goMzMijBx33LyJRUwrA",
+            "alias": "agave-and-rye-covington-covington",
+            "name": "Agave & Rye - Covington",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZZwhyAe1XAQjjUfaiTOqA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/agave-and-rye-covington-covington?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 325,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 39.0835,
+                "longitude": -84.51038
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "635 Madison Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Covington",
+                "zip_code": "41011",
+                "country": "US",
+                "state": "KY",
+                "display_address": [
+                    "635 Madison Ave",
+                    "Covington, KY 41011"
+                ]
+            },
+            "phone": "+18593601060",
+            "display_phone": "(859) 360-1060",
+            "distance": 1365.7471025756452
+        },
+        {
+            "id": "aO2YhzqDipBvyP7XMlcIKQ",
+            "alias": "caffe-barista-and-deli-cincinnati",
+            "name": "Caffe Barista & Deli",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yofAPrAc3YrbjUY7o3EyeQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/caffe-barista-and-deli-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 58,
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 39.099202,
+                "longitude": -84.517009
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "231 W 4th St",
+                "address2": "",
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "231 W 4th St",
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15133330123",
+            "display_phone": "(513) 333-0123",
+            "distance": 475.2845160473779
+        },
+        {
+            "id": "5E8Z2yAc64vaq-ruMbxjdQ",
+            "alias": "the-chili-hut-cincinnati",
+            "name": "The Chili Hut",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Gxt1i8XJzrTjs5lQA7Ln_w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-chili-hut-cincinnati?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 39.10643,
+                "longitude": -84.51222
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Cincinnati",
+                "zip_code": "45202",
+                "country": "US",
+                "state": "OH",
+                "display_address": [
+                    "Cincinnati, OH 45202"
+                ]
+            },
+            "phone": "+15132537356",
+            "display_phone": "(513) 253-7356",
+            "distance": 1226.5899680727348
+        }
+    ],
+    "total": 459,
+    "region": {
+        "center": {
+            "longitude": -84.516,
+            "latitude": 39.095
+        }
+    }
+}

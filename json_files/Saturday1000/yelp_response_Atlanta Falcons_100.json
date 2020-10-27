@@ -1,0 +1,909 @@
+{
+    "businesses": [
+        {
+            "id": "aSUsF4-44EUmBiISNucJ-A",
+            "alias": "fellaship-atlanta",
+            "name": "Fellaship",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rUJ9x7exw8ib5YKMaXHXSg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fellaship-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 77,
+            "categories": [
+                {
+                    "alias": "cigarbars",
+                    "title": "Cigar Bars"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.7517828,
+                "longitude": -84.3992599
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "110 Centennial Olympic Park Dr",
+                "address2": "Ste 102-104",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30313",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "110 Centennial Olympic Park Dr",
+                    "Ste 102-104",
+                    "Atlanta, GA 30313"
+                ]
+            },
+            "phone": "+14042544970",
+            "display_phone": "(404) 254-4970",
+            "distance": 425.1029376397437
+        },
+        {
+            "id": "_iqFvc3zToL08WZrNeFP3Q",
+            "alias": "stk-steakhouse-atlanta-atlanta",
+            "name": "STK Steakhouse",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m_Qc2-nKdvING9slxRr8Sw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/stk-steakhouse-atlanta-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 1150,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.784176,
+                "longitude": -84.38283
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "1075 Peachtree St NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30309",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1075 Peachtree St NE",
+                    "Atlanta, GA 30309"
+                ]
+            },
+            "phone": "+14047930144",
+            "display_phone": "(404) 793-0144",
+            "distance": 3556.189270784065
+        },
+        {
+            "id": "59qvYQ6joOWJpwR3kfy7jQ",
+            "alias": "agathas-a-taste-of-mystery-atlanta-2",
+            "name": "Agatha's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kDJdH5htlJGmoA3ZKuIw9w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/agathas-a-taste-of-mystery-atlanta-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 160,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "dinnertheater",
+                    "title": "Dinner Theater"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7592678026775,
+                "longitude": -84.3859186522537
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "161 Peachtree Center Ave NE",
+                "address2": null,
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "161 Peachtree Center Ave NE",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+14045842233",
+            "display_phone": "(404) 584-2233",
+            "distance": 1365.6425222121297
+        },
+        {
+            "id": "132yO7WESdmCDc93CJ9iOQ",
+            "alias": "tiffs-treats-atlanta",
+            "name": "Tiff's Treats",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Paf2J06APXLHKGvhwdj1rw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tiffs-treats-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 69,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.777971,
+                "longitude": -84.388941
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "848 Spring St NW",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "848 Spring St NW",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+14046496291",
+            "display_phone": "(404) 649-6291",
+            "distance": 2693.925096957945
+        },
+        {
+            "id": "ZoFht0viJtWiAt4MeP6zvQ",
+            "alias": "kats-cafe-atlanta",
+            "name": "Kat's Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6p2X5KO4DByuPoR_wRfiOA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kats-cafe-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 231,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "musicvenues",
+                    "title": "Music Venues"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.78112,
+                "longitude": -84.38103
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "970 Piedmont Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30309",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "970 Piedmont Ave",
+                    "Atlanta, GA 30309"
+                ]
+            },
+            "phone": "+14043472263",
+            "display_phone": "(404) 347-2263",
+            "distance": 3342.0684242574175
+        },
+        {
+            "id": "kD1mjIbvczeXBxDSluJaOw",
+            "alias": "dua-vietnamese-noodle-soup-atlanta",
+            "name": "DUA Vietnamese Noodle Soup",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gThLsOhAp77Qu_ab6_j15w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dua-vietnamese-noodle-soup-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 78,
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7842227251631,
+                "longitude": -84.3845490645241
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "77 12th Street",
+                "address2": null,
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30309",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "77 12th Street",
+                    "Atlanta, GA 30309"
+                ]
+            },
+            "phone": "+14042544440",
+            "display_phone": "(404) 254-4440",
+            "distance": 3492.9144988706166
+        },
+        {
+            "id": "R5iWLAuA0cpAe-zUPBeVUw",
+            "alias": "empire-state-south-atlanta",
+            "name": "Empire State South",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H2AHZUQlTdb4Yyzhs_IErQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/empire-state-south-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 789,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7811208,
+                "longitude": -84.3836503
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "999 Peachtree St NE",
+                "address2": "Ste 140",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30309",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "999 Peachtree St NE",
+                    "Ste 140",
+                    "Atlanta, GA 30309"
+                ]
+            },
+            "phone": "+14045411105",
+            "display_phone": "(404) 541-1105",
+            "distance": 3219.4387733981184
+        },
+        {
+            "id": "ERVKNes7rXoQg4J0gWhMdg",
+            "alias": "forza-storico-atlanta",
+            "name": "Forza Storico",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YKCcv1tQS38Fn5dT3f5bSA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/forza-storico-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 105,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "pastashops",
+                    "title": "Pasta Shops"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.78678,
+                "longitude": -84.41226
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "1198 Howell Mill Rd",
+                "address2": "Ste 020",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30318",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1198 Howell Mill Rd",
+                    "Ste 020",
+                    "Atlanta, GA 30318"
+                ]
+            },
+            "phone": "+14044648096",
+            "display_phone": "(404) 464-8096",
+            "distance": 3649.5348890664022
+        },
+        {
+            "id": "rl7ZMb2LH9u2fuzF5R3CrA",
+            "alias": "your-pie-atlanta-8",
+            "name": "Your Pie",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tbJ_rEu8ySY0EDaIzi36Tg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/your-pie-atlanta-8?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 113,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.746515,
+                "longitude": -84.378512
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "275 Memorial Dr SE",
+                "address2": "Ste B1",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30312",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "275 Memorial Dr SE",
+                    "Ste B1",
+                    "Atlanta, GA 30312"
+                ]
+            },
+            "phone": "+16783993838",
+            "display_phone": "(678) 399-3838",
+            "distance": 2226.529946121411
+        },
+        {
+            "id": "bsjyXlPMSPHFLKf89mTvbw",
+            "alias": "triple-jays-pizza-bar-atlanta",
+            "name": "Triple Jays Pizza Bar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JA0obtWakQ3P_ZJH3JsxTQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/triple-jays-pizza-bar-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 75,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.782529,
+                "longitude": -84.380603
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "1020 Piedmont Ave NE",
+                "address2": "Ste B",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30309",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "1020 Piedmont Ave NE",
+                    "Ste B",
+                    "Atlanta, GA 30309"
+                ]
+            },
+            "phone": "+16787128400",
+            "display_phone": "(678) 712-8400",
+            "distance": 3494.0545756367924
+        },
+        {
+            "id": "YC6NRb2vWPRR9yPt8d_CPg",
+            "alias": "woods-chapel-bbq-atlanta",
+            "name": "Wood's Chapel BBQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uakPfrj3gpMRrLinE8wtTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/woods-chapel-bbq-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 143,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.73656297124,
+                "longitude": -84.3849848583341
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "85 Georgia Ave SE",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30312",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "85 Georgia Ave SE",
+                    "Atlanta, GA 30312"
+                ]
+            },
+            "phone": "+14045223000",
+            "display_phone": "(404) 522-3000",
+            "distance": 2527.366518460211
+        },
+        {
+            "id": "6AtGmd-i19wpTZLqv6x1_A",
+            "alias": "fado-irish-pub-atlanta-8",
+            "name": "Fado Irish Pub",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ghNGcP-4xzNQAK73DLdTgg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fado-irish-pub-atlanta-8?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 205,
+            "categories": [
+                {
+                    "alias": "irish",
+                    "title": "Irish"
+                },
+                {
+                    "alias": "irish_pubs",
+                    "title": "Irish Pub"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.780216,
+                "longitude": -84.383938
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "933 Peachtree St NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30309",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "933 Peachtree St NE",
+                    "Atlanta, GA 30309"
+                ]
+            },
+            "phone": "+14042607910",
+            "display_phone": "(404) 260-7910",
+            "distance": 3159.17313382254
+        },
+        {
+            "id": "MU0Nb_p2QDteK30iGzOX7A",
+            "alias": "the-pokéspot-atlanta-2",
+            "name": "The PokéSpot",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9A4Xf2-y7W0ONcNWqEwlcA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-pok%C3%A9spot-atlanta-2?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 106,
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.759148,
+                "longitude": -84.388361
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "200 Peachtree St NE",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "200 Peachtree St NE",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+16788101166",
+            "display_phone": "(678) 810-1166",
+            "distance": 1147.7324986233602
+        },
+        {
+            "id": "A9IAWSzO-RWaSSOeiYXUCg",
+            "alias": "there-on-fifth-atlanta",
+            "name": "There on Fifth",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0neuw1YvJQ3Lred6gvtmTw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/there-on-fifth-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 33.77657,
+                "longitude": -84.3879702
+            },
+            "transactions": [],
+            "location": {
+                "address1": "22 5th St NW",
+                "address2": null,
+                "address3": null,
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "22 5th St NW",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+16787055021",
+            "display_phone": "(678) 705-5021",
+            "distance": 2587.7564970719804
+        },
+        {
+            "id": "v3Bj4U3WMuol_VLJLQpvRQ",
+            "alias": "dat-fire-jerk-chicken-atlanta",
+            "name": "Dat Fire Jerk Chicken",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-8m0SyvI29i0w9zzaFcwoA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dat-fire-jerk-chicken-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 299,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7482648359054,
+                "longitude": -84.4047161904907
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "226 Northside Dr NW",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30313",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "226 Northside Dr NW",
+                    "Atlanta, GA 30313"
+                ]
+            },
+            "phone": "+14042544494",
+            "display_phone": "(404) 254-4494",
+            "distance": 920.5527859727662
+        },
+        {
+            "id": "k5kyaGPABmc8GQg1oJJcrQ",
+            "alias": "beni-s-cubano-downtown-atlanta-3",
+            "name": "Beni’s Cubano - Downtown",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XdyUnzOstL80QGi3hRGpZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/beni-s-cubano-downtown-atlanta-3?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "cuban",
+                    "title": "Cuban"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.76075,
+                "longitude": -84.38706
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "231 Peachtree St NE",
+                "address2": "Ste C-15",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30303",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "231 Peachtree St NE",
+                    "Ste C-15",
+                    "Atlanta, GA 30303"
+                ]
+            },
+            "phone": "+17702129076",
+            "display_phone": "(770) 212-9076",
+            "distance": 1307.1506235173356
+        },
+        {
+            "id": "XA6jXZCnZiJW5ahXtFxjDA",
+            "alias": "sway-atlanta",
+            "name": "Sway",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZVMOli52xVMt-O4jSJMohg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sway-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 446,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7617276134979,
+                "longitude": -84.386857675988
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "265 Peachtree St NE",
+                "address2": "",
+                "address3": "Hyatt Regency Atlanta",
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "265 Peachtree St NE",
+                    "Hyatt Regency Atlanta",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+14044606480",
+            "display_phone": "(404) 460-6480",
+            "distance": 1395.3674324269473
+        },
+        {
+            "id": "GZXfT_c8Hx6rjTOWY4Veuw",
+            "alias": "maxs-coal-oven-pizzeria-atlanta",
+            "name": "Max's Coal Oven Pizzeria",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/saDCgV08sMhjTR4Qp6OyaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maxs-coal-oven-pizzeria-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 582,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.76158,
+                "longitude": -84.39648
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "300 Marietta St NW",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30313",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "300 Marietta St NW",
+                    "Atlanta, GA 30313"
+                ]
+            },
+            "phone": "+14049742941",
+            "display_phone": "(404) 974-2941",
+            "distance": 753.7435030657623
+        },
+        {
+            "id": "6EkeHDRJRoojZYRYhEHIQw",
+            "alias": "daddy-d-z-bbq-joynt-atlanta",
+            "name": "Daddy D'z BBQ Joynt",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5eh2K5m0tu4iI01rzC09yg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/daddy-d-z-bbq-joynt-atlanta?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 753,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7469849,
+                "longitude": -84.3789833
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "264 Memorial Dr SE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30312",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "264 Memorial Dr SE",
+                    "Atlanta, GA 30312"
+                ]
+            },
+            "phone": "+14042220206",
+            "display_phone": "(404) 222-0206",
+            "distance": 2161.695975214946
+        },
+        {
+            "id": "LGZimmjxbfGwBHgPZCx5cQ",
+            "alias": "senor-patron-atlanta-6",
+            "name": "Senor Patron",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zrcwSCIOfBRxp4FHcLpteA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/senor-patron-atlanta-6?adjust_creative=a2JdNtFqB-C38ga_06BHvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=a2JdNtFqB-C38ga_06BHvw",
+            "review_count": 390,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 33.7783852869888,
+                "longitude": -84.3851046343156
+            },
+            "transactions": [
+                "pickup",
+                "delivery",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "860 Peachtree St NE",
+                "address2": "Ste H",
+                "address3": "",
+                "city": "Atlanta",
+                "zip_code": "30308",
+                "country": "US",
+                "state": "GA",
+                "display_address": [
+                    "860 Peachtree St NE",
+                    "Ste H",
+                    "Atlanta, GA 30308"
+                ]
+            },
+            "phone": "+14046457987",
+            "display_phone": "(404) 645-7987",
+            "distance": 2887.8661174291847
+        }
+    ],
+    "total": 705,
+    "region": {
+        "center": {
+            "longitude": -84.4,
+            "latitude": 33.755556
+        }
+    }
+}
