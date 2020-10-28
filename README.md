@@ -5,6 +5,7 @@
 >>Two different timepoints: Saturday & Monday.
 >>
 >>Two different search terms :
+>>
 	>>1) General search term: “restaurants”
 	>>
 	>>2) By category:  "sportsbars", "pubs", "wine_bars", "cocktailbars“ (considered as one for our analysis purposes).
