@@ -1,6 +1,26 @@
 ﻿
 # NFL Stadiums: Restaurant density analysis.
-
+Using the Yelp API we'll analyze the number of restaurants around the NFL team stadiums in:
+>Two different timepoints: Saturday & Monday.
+>Two different search terms :
+	>1) General search term: “restaurants”
+	>2) By category:  "sportsbars", "pubs", "wine_bars", "cocktailbars“ (considered as one for our analysis purposes).
+>
+>
+> The data request using the Yelp API is done by the following notebooks:
+> > By term:  [Request_Yelp_json_files.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Request_Yelp_json_files.ipynb)
+> > By category:  [Request_Yelp_categories.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Request_Yelp_categories.ipynb)
+>
+>The data munging and data statistics is done by the notebooks:
+>> By term:  [Analysis_Yelp_json_files.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Analysis_Yelp_json_files.ipynb)
+>> By category: [Analysis_Categories.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Analysis_Categories.ipynb)
+>  
+>The plotting and analysis can be found in the following notebooks:
+> [gmaps_Analysis.ipynb](https://github.com/CSwilliams88/project_1/blob/main/gmaps_Analysis.ipynb)
+> [Analysis_Avg_Plots.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Analysis_Avg_Plots.ipynb)
+> [Categories Analysis Graphs.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Categories%20Analysis%20Graphs.ipynb)
+> [Comparing Popular Teams.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Comparing%20Popular%20Teams.ipynb)
+> 
 ### Hypothesis. 
 >Hypothesis: We believe the density of restaurants/bars around stadiums amount to a significant percentage of the total restaurants of the country.
 ### Questioning the data.
