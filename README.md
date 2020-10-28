@@ -5,9 +5,13 @@
 >Hypothesis: We believe the density of restaurants/bars around stadiums amount to a significant percentage of the total restaurants of the country.
 ### Questioning the data.
 >**1**. How many restaurants in a 3000 meters radius (approx. 2 miles) are around the stadiums?
+>
 >**2**. How the restaurants (number, type, price, etc.) differ between cities?
+>
 >**3**. How the restaurants reviews compare before game day to the after game day?
+>
 >**4**. How do restaurants/bars score in cities with more popular franchises compare to less popular ones?
+>
 >>**a)** Compare restaurants’ ratings between most popular cities (NY, Chicago, Las Vegas, Seattle, San Francisco).
 >
 >> **b)** Compare restaurants’ ratings of cities with the most popular teams (Dallas Cowboys, New England Patriots, 	Pittsburgh Steelers, Green Bay Packers, Seattle Seahawks.
