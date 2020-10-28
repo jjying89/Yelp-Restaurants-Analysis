@@ -15,6 +15,7 @@ Using the Yelp API we'll analyze the number of restaurants around the NFL team s
 >
 >The data munging and data statistics is done by the notebooks:
 >> By term:  [Analysis_Yelp_json_files.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Analysis_Yelp_json_files.ipynb)
+>
 >> By category: [Analysis_Categories.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Analysis_Categories.ipynb)
 >  
 >The plotting and analysis can be found in the following notebooks:
