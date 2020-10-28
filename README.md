@@ -1,14 +1,14 @@
 ﻿
 # NFL Stadiums: Restaurant density analysis.
->Using the Yelp API we'll analyze the number of restaurants around the NFL team stadiums in:
+>Using the Yelp API we'll analyze the number of restaurants around the NFL team stadiums:
 >
->>Two different timepoints: Saturday & Monday.
->>
->>Two different search terms :
->>
-	>>1) General search term: “restaurants”
-	>>
-	>>2) By category:  "sportsbars", "pubs", "wine_bars", "cocktailbars“ (considered as one for our analysis purposes).
+>On two different timepoints: Saturday & Monday.
+>
+> And two different search types :
+>
+>1) General search term: “restaurants”
+>
+>2) By category:  "sportsbars", "pubs", "wine_bars", "cocktailbars“ (considered as one for our analysis purposes).
 >
 >
 > The data request using the Yelp API is done by the following notebooks:
