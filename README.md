@@ -16,9 +16,13 @@ Using the Yelp API we'll analyze the number of restaurants around the NFL team s
 >> By category: [Analysis_Categories.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Analysis_Categories.ipynb)
 >  
 >The plotting and analysis can be found in the following notebooks:
+>
 > [gmaps_Analysis.ipynb](https://github.com/CSwilliams88/project_1/blob/main/gmaps_Analysis.ipynb)
+> 
 > [Analysis_Avg_Plots.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Analysis_Avg_Plots.ipynb)
+> 
 > [Categories Analysis Graphs.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Categories%20Analysis%20Graphs.ipynb)
+> 
 > [Comparing Popular Teams.ipynb](https://github.com/CSwilliams88/project_1/blob/main/Comparing%20Popular%20Teams.ipynb)
 > 
 ### Hypothesis. 
