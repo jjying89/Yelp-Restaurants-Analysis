@@ -4,6 +4,7 @@
 ### Hypothesis. 
 >Hypothesis: We believe the density of restaurants/bars around stadiums amount to a significant percentage of the total restaurants of the country.
 ### Questioning the data.
+>
 >**1**. How many restaurants in a 3000 meters radius (approx. 2 miles) are around the stadiums?
 >
 >**2**. How the restaurants (number, type, price, etc.) differ between cities?
@@ -18,6 +19,8 @@
 >
  >>**c)** Compare restaurants’ ratings of cities with the least popular teams (Jacksonville Jaguars, Tampa Bay Buccaneers, Tennessee Titans, Cincinnati Bengals, Buffalo Bills)
 
+> The analysis of the  data and the answers to the questions above can be found in the project presentation file [Restaurant_density_analysis.](https://github.com/CSwilliams88/project_1/tree/main/Presentation)
+> 
 ### Conclusions.
 >According to statistica.com, there are 660,755 restaurants in the US as of spring 2018.
 
