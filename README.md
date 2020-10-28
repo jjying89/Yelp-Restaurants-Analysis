@@ -9,7 +9,9 @@
 >**3**. How the restaurants reviews compare before game day to the after game day?
 >**4**. How do restaurants/bars score in cities with more popular franchises compare to less popular ones?
 >>**a)** Compare restaurants’ ratings between most popular cities (NY, Chicago, Las Vegas, Seattle, San Francisco).
+>
 >> **b)** Compare restaurants’ ratings of cities with the most popular teams (Dallas Cowboys, New England Patriots, 	Pittsburgh Steelers, Green Bay Packers, Seattle Seahawks.
+>
  >>**c)** Compare restaurants’ ratings of cities with the least popular teams (Jacksonville Jaguars, Tampa Bay Buccaneers, Tennessee Titans, Cincinnati Bengals, Buffalo Bills)
 
 ### Conclusions.
