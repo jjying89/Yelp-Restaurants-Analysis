@@ -56,5 +56,12 @@
 ### Conclusions.
 >According to statistica.com, there are 660,755 restaurants in the US as of spring 2018.
 
->From our analysis, we see that there are more than 12000 restaurants around the NFL Stadiums in a 3000 meters radius. That amounts to a **2%** of all restaurants in the USA.
+>From our analysis, we see that there are more than 12,000 restaurants around the NFL Stadiums in a 3000 meters radius. That amounts to a **2%** of all restaurants in the USA.
 
+### Screenshots.
+
+<img src="https://github.com/jjying89/Yelp-Restaurants-Analysis/blob/main/Images/stadium_capacity.png" height="500" width ="600">
+
+<img src="https://github.com/jjying89/Yelp-Restaurants-Analysis/blob/main/Images/Reviews_Popular_Cities.png" height="500" width ="500">
+
+<img src="https://github.com/jjying89/Yelp-Restaurants-Analysis/blob/main/Images/restaurant%20per%20stadium.png">
